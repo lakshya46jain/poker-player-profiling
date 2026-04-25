@@ -1,0 +1,36 @@
+busheater 951523652  6  5 f   -     -     -         1000    0    0 
+busheater 951523686  6  4 c   k     b     k         1000   30    0 2c 5d
+busheater 951523716  6  3 f   -     -     -          970    0    0 
+busheater 951523744  6  2 Br  b     br    b          970  130  360 7s 6s
+busheater 951523782  7  1 Bc  kc    kf    -         1200   20    0 
+busheater 951523887  9  9 r   b     b     k         1180   50    0 5s As
+busheater 951523983 10  9 f   -     -     -         1130    0    0 
+busheater 951524069 10  8 r   c     c     f         1130   50    0 
+busheater 951524142 10  7 r   r     k     f         1080   50    0 
+busheater 951524196  9  5 c   f     -     -         1030   10    0 
+busheater 951524278  9  4 r   k     kf    -         1020   20    0 
+busheater 951524351  9  3 c   k     cc    kf        1000   50    0 
+busheater 951524440 10  2 Br  kf    -     -          950   30    0 
+busheater 951524530 10  1 Br  kc    kc    kf         920   80    0 
+busheater 951524642 10 10 cc  f     -     -          840   40    0 
+busheater 951524727  9  8 r   b     b     b          800   70    0 4s 6s
+busheater 951524769 10  8 r   b     b     b          730   70  210 Kc As
+busheater 951524874 10  7 r   b     b     b          870   70  180 
+busheater 951524943 10  6 r   b     b     bf         980   70    0 
+busheater 951524991  9  5 cc  kf    -     -          910   20    0 
+busheater 951525050 10  4 rc  br    br    k          890  130    0 Tc 8h
+busheater 951525183 10  3 c   f     -     -          760   10    0 
+busheater 951525256 10  2 Br  brc   bc    f          750  130    0 
+busheater 951525361 10  1 Br  b     bf    -          620   50    0 
+busheater 951525444 10 10 rc  k     k     f          570   40    0 
+busheater 951525527 10  9 f   -     -     -          530    0    0 
+busheater 951525584 10  8 f   -     -     -          530    0    0 
+busheater 951525648 10  7 f   -     -     -          530    0    0 
+busheater 951525696  9  5 f   -     -     -          530    0    0 
+busheater 951525759 10  5 f   -     -     -          530    0    0 
+busheater 951525806 10  4 f   -     -     -          530    0    0 
+busheater 951525877 10  3 f   -     -     -          530    0    0 
+busheater 951525945 10  2 Bf  -     -     -          530   10    0 
+busheater 951526016 10  1 Brc b     b     b          520   90  290 
+busheater 951526091  9  9 rc  rr    r     b          720  140  325 Ks Td
+busheater 951526147 10  9 r   r     f     Q          905   50    0 

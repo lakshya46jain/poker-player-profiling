@@ -1,0 +1,31 @@
+rtr4      948210835  2  2 Brc rr    rr    rr        1000  240  460 
+rtr4      948210852  2  1 Brr brc   brc   br        1220  220  420 
+rtr4      948210871  2  2 Brc rr    rr    rr        1420  240  460 
+rtr4      948210892  2  1 Brr brc   brc   br        1640  220  420 
+rtr4      948210914  2  2 Brc rr    rc    -         1840  140  300 
+rtr4      948210948  2  2 Brc rr    rr    rr        2000  240  460 
+rtr4      948210964  2  1 Brr brc   brc   br        2220  220  420 
+rtr4      948210986  2  2 Brc rr    rr    rr        2420  240  460 
+rtr4      948211007  2  1 Brr brc   brc   br        2640  220  420 
+rtr4      948211028  2  2 Brc rr    rc    -         2840  140  300 
+rtr4      948298036  2  2 Brf -     -     -         1000   30    0 
+rtr4      948298041  2  1 Brr brc   brc   brc        970  240  480 Qc Td
+rtr4      948298062  2  2 Brc rr    rr    rr        1210  240  460 
+rtr4      948298081  2  1 Brr brc   brc   br        1430  220  420 
+rtr4      948298098  2  2 Brc rr    rr    rr        1630  240  460 
+rtr4      948298121  2  1 Brr brc   br    k         1850  140  290 
+rtr4      948298161  2  2 Brc rr    r     r         2000  160  300 
+rtr4      948298177  2  1 Brr brc   brc   br        2140  220  420 
+rtr4      948298193  2  2 Brc rr    rr    rr        2340  240  480 5h 5d
+rtr4      948298217  2  1 Brr brc   brc   brc       2580  240  480 3s 9s
+rtr4      948298250  2  2 Brc rr    rr    -         2820  160  340 
+rtr4      948475491  2  2 Brc rr    rr    rr        1000  240  460 
+rtr4      948475508  2  1 Brr brc   brc   br        1220  220  420 
+rtr4      948475527  2  2 Br  rr    rr    rr        1420  230  440 
+rtr4      948475552  2  1 Brc brc   b     brc       1630  170  340 Jd Jh
+rtr4      948475576  2  2 Brc rr    rr    b         1800  180  380 
+rtr4      948475613  2  2 Brc rr    rr    rr        2000  240  480 Ts Td
+rtr4      948475632  2  1 Brr brc   brc   brc       2240  240  480 Tc Ac
+rtr4      948475654  2  2 Brc rr    rr    rr        2480  240  460 
+rtr4      948475675  2  1 Brr brc   brc   br        2700  220  460 
+rtr4      948475721  2  2 Brc c     -     -         2940   50  110 

@@ -1,0 +1,182 @@
+das_heat  893518220  3  2 B   -     -     -         1000   10   15 
+das_heat  893518225  3  1 Bf  -     -     -         1005    5    0 
+das_heat  893518246  3  3 f   -     -     -         1000    0    0 
+das_heat  893518258  3  2 Bf  -     -     -         1000   10    0 
+das_heat  893518277  3  1 Bf  -     -     -          990    5    0 
+das_heat  893518296  3  3 f   -     -     -          985    0    0 
+das_heat  893518323  3  2 Br  c     bc    k          985   70  140 Qs Qd
+das_heat  893518365  3  1 Bf  -     -     -         1055    5    0 
+das_heat  893518391  3  3 f   -     -     -         1050    0    0 
+das_heat  893518403  3  2 Bc  f     -     -         1050   20    0 
+das_heat  893518421  3  1 Br  bf    -     -         1030   30    0 
+das_heat  893518443  3  3 f   -     -     -         1000    0    0 
+das_heat  893518458  3  2 Bk  f     -     -         1000   10    0 
+das_heat  893518470  3  1 Bf  -     -     -          990    5    0 
+das_heat  893518485  3  3 f   -     -     -          985    0    0 
+das_heat  893518497  3  2 Br  br    bc    kc         985  110  240 Ks Qs
+das_heat  893518533  3  1 Bf  -     -     -         1115    5    0 
+das_heat  893518553  3  3 f   -     -     -         1110    0    0 
+das_heat  893518560  5  2 Bk  k     k     f         1110   10    0 
+das_heat  893518585  5  1 Br  b     krc   kc        1100  110    0 Td Th
+das_heat  893518624  5  5 f   -     -     -          990    0    0 
+das_heat  893518651  5  4 r   r     b     c          990   80    0 Td As
+das_heat  893518694  5  3 r   k     c     f          910   40    0 
+das_heat  893518729  5  2 Bk  kf    -     -          870   10    0 
+das_heat  893518748  5  1 Brr b     b     b          860   90    0 Kc Td
+das_heat  893518774  5  5 c   c     f     -          770   20    0 
+das_heat  893518820  5  4 f   -     -     -          750    0    0 
+das_heat  893518858  6  3 r   k     r     b          750   80  160 
+das_heat  893518893  6  2 Bk  kf    -     -          830   10    0 
+das_heat  893518913  6  1 Bc  k     kf    -          820   10    0 
+das_heat  893518971  6  6 f   -     -     -          810    0    0 
+das_heat  893518997  6  5 f   -     -     -          810    0    0 
+das_heat  893519018  6  4 cc  f     -     -          810   20    0 
+das_heat  893519048  6  3 f   -     -     -          790    0    0 
+das_heat  893519091  6  2 Bk  kf    -     -          790   10    0 
+das_heat  893519150  6  1 Bc  kf    -     -          780   10    0 
+das_heat  893519188  6  6 f   -     -     -          770    0    0 
+das_heat  893519212  6  5 rr  b     b     b          770   90  295 Qs Qc
+das_heat  893519264  6  4 f   -     -     -          975    0    0 
+das_heat  893519293  7  3 f   -     -     -          975    0    0 
+das_heat  893519333  7  2 Bk  kf    -     -          975   10    0 
+das_heat  893519375  7  1 Bf  -     -     -          965    5    0 
+das_heat  893519419  7  7 r   b     -     -          960   30   65 
+das_heat  893519468  6  5 f   -     -     -          995    0    0 
+das_heat  893519589  5  3 f   -     -     -          995    0    0 
+das_heat  893519620  5  2 Bk  f     -     -          995   10    0 
+das_heat  893519677  5  1 Bc  b     kf    Q          985   20    0 
+das_heat  893599938  2  2 Bk  c     f     -         1030   20    0 
+das_heat  893599945  2  1 Br  b     -     -         1010   30   50 
+das_heat  893599949  2  2 Bc  rc    c     c         1030   90  180 Kd Jd
+das_heat  893599961  3  1 Br  -     -     -         1120   20   30 
+das_heat  893599968  3  3 f   -     -     -         1130    0    0 
+das_heat  893599996  3  2 B   -     -     -         1130   10   15 
+das_heat  893600003  3  1 Bf  -     -     -         1135    5    0 
+das_heat  893600008  3  3 f   -     -     -         1130    0    0 
+das_heat  893600018  3  2 Bk  f     -     -         1130   10    0 
+das_heat  893600032  3  1 Br  b     k     k         1120   30    0 Kc 9d
+das_heat  893600046  3  3 f   -     -     -         1090    0    0 
+das_heat  893600059  3  2 Br  b     b     k         1090   60  160 Kc Qc
+das_heat  893600083  3  1 Br  -     -     -         1190   20   30 
+das_heat  893600090  3  3 r   c     r     b         1200   90  100 Ks 8s
+das_heat  893600120  3  2 Bk  b     kf    -         1210   20    0 
+das_heat  893600144  3  1 Bf  -     -     -         1190    5    0 
+das_heat  893600164  3  3 f   -     -     -         1185    0    0 
+das_heat  893600184  3  2 Bf  -     -     -         1185   10    0 
+das_heat  893600191  3  1 Bf  -     -     -         1175    5    0 
+das_heat  893600195  3  3 f   -     -     -         1170    0    0 
+das_heat  893600202  4  2 Bk  k     k     f         1170   10    0 
+das_heat  893600239  4  1 Bc  k     k     k         1160   10   30 9c Jc
+das_heat  893600272  4  4 f   -     -     -         1180    0    0 
+das_heat  893600287  4  3 f   -     -     -         1180    0    0 
+das_heat  893600292  4  2 Bf  -     -     -         1180   10    0 
+das_heat  893600309  4  1 Bf  -     -     -         1170    5    0 
+das_heat  893600354  4  4 f   -     -     -         1165    0    0 
+das_heat  893600369  4  3 f   -     -     -         1165    0    0 
+das_heat  893600399  4  2 Bc  kr    b     -         1165   60  140 
+das_heat  893600444  4  1 Bf  -     -     -         1245    5    0 
+das_heat  893600455  4  4 f   -     -     -         1240    0    0 
+das_heat  893600481  4  3 r   b     -     -         1240   30   70 
+das_heat  893600511  4  2 BQ  -     -     -         1280   10    0 
+das_heat  893600791  6  5 f   -     -     -         1270    0    0 
+das_heat  893600813  6  4 rc  kc    krc   k         1270  100    0 4s As
+das_heat  893600884  6  3 f   -     -     -         1170    0    0 
+das_heat  893600898  6  2 B   -     -     -         1170   10   15 
+das_heat  893600924  5  1 Bf  -     -     -         1175    5    0 
+das_heat  893600963  5  5 f   -     -     -         1170    0    0 
+das_heat  893601000  5  4 f   -     -     -         1170    0    0 
+das_heat  893601072  4  2 f   -     -     -         1170    0    0 
+das_heat  893601101  4  2 Bf  -     -     -         1170   10    0 
+das_heat  893601136  4  1 Bf  -     -     -         1160    5    0 
+das_heat  893601152  3  3 f   -     -     -         1155    0    0 
+das_heat  893601167  2  2 Bf  -     -     -         1155   10    0 
+das_heat  893601174  2  1 Bf  -     -     -         1145    5    0 
+das_heat  893601177  2  2 Bf  -     -     -         1140   10    0 
+das_heat  893601188  2  1 Bf  -     -     -         1130    5    0 
+das_heat  893601189  2  2 Bc  rf    -     -         1125   40    0 
+das_heat  893601196  2  1 Bf  -     -     -         1085    5    0 
+das_heat  893601197  2  2 Bc  f     -     -         1080   20    0 
+das_heat  893601201  2  1 Bf  -     -     -         1060    5    0 
+das_heat  893601202  2  2 Bc  rr    b     -         1055   80  140 
+das_heat  893601214  2  1 Bf  -     -     -         1115    5    0 
+das_heat  893601215  2  2 Bc  f     -     -         1110   20    0 
+das_heat  893601218  2  1 Bf  -     -     -         1090    5    0 
+das_heat  893601219  2  2 Bf  -     -     -         1085   10    0 
+das_heat  893601222  2  1 Bf  -     -     -         1075    5    0 
+das_heat  893601223  2  2 Brc rc    rr    rc        1070  210  420 8c Ad
+das_heat  893601235  2  1 Bf  -     -     -         1280    5    0 
+das_heat  893601239  2  2 Bf  -     -     -         1275   10    0 
+das_heat  893601242  2  1 Bf  -     -     -         1265    5    0 
+das_heat  893601243  2  2 Bf  -     -     -         1260   10    0 
+das_heat  893601246  2  1 Bf  -     -     -         1250    5    0 
+das_heat  893601247  2  2 B   -     -     -         1245   10   15 
+das_heat  893601279  2  1 Br  b     b     b         1250   70  120 
+das_heat  893601296  2  2 Bk  f     -     -         1300   10    0 
+das_heat  893601307  2  1 Bf  -     -     -         1290    5    0 
+das_heat  893601308  2  2 B   -     -     -         1285   10   15 
+das_heat  893601316  2  1 Bf  -     -     -         1290    5    0 
+das_heat  893601317  2  2 B   -     -     -         1285   10   15 
+das_heat  893601323  2  1 Br  -     -     -         1290   20   30 
+das_heat  893601325  2  2 BQ  -     -     -         1300   10   15 
+das_heat  893628466  3  2 Bk  k     k     k         1060   10   30 7c 4h
+das_heat  893628501  3  1 Bf  -     -     -         1080    5    0 
+das_heat  893628506  2  2 r   -     -     -         1075   20   30 
+das_heat  893628511  2  2 B   -     -     -         1085   10   15 
+das_heat  893628515  2  1 Bf  -     -     -         1090    5    0 
+das_heat  893628516  2  2 B   -     -     -         1085   10   15 
+das_heat  893628520  2  1 Br  bc    bf    -         1090   60    0 
+das_heat  893628538  2  2 Bk  b     -     -         1030   20   30 
+das_heat  893628554  2  1 Bf  -     -     -         1040    5    0 
+das_heat  893628555  2  2 Bk  b     -     -         1035   20   30 
+das_heat  893628566  2  1 Br  -     -     -         1045   20   30 
+das_heat  893628571  3  2 Bk  f     -     -         1055   10    0 
+das_heat  893628595  3  1 Br  b     b     b         1045   70  120 
+das_heat  893628613  3  3 r   -     -     -         1095   20   35 
+das_heat  893628617  3  2 Bk  bf    -     -         1110   20    0 
+das_heat  893628631  3  1 Bf  -     -     -         1090    5    0 
+das_heat  893628635  3  3 f   -     -     -         1085    0    0 
+das_heat  893628645  3  2 Bk  kf    -     -         1085   10    0 
+das_heat  893628703  3  1 Bf  -     -     -         1075    5    0 
+das_heat  893628719  3  3 r   b     k     f         1070   30    0 
+das_heat  893628751  3  2 Bc  rc    c     b         1040   90  180 As 7d
+das_heat  893628784  3  1 Bf  -     -     -         1130    5    0 
+das_heat  893628804  3  3 f   -     -     -         1125    0    0 
+das_heat  893628824  3  2 Bk  kf    -     -         1125   10    0 
+das_heat  893628836  3  1 Bf  -     -     -         1115    5    0 
+das_heat  893628883  3  3 f   -     -     -         1110    0    0 
+das_heat  893628895  3  2 Bk  kf    -     -         1110   10    0 
+das_heat  893628911  3  1 Br  br    b     kc        1100   90  180 Kc Ks
+das_heat  893628948  3  3 f   -     -     -         1190    0    0 
+das_heat  893628957  2  2 B   -     -     -         1190   10   15 
+das_heat  893628990  2  1 Brc br    b     -         1195   80  140 
+das_heat  893629012  2  2 Bk  b     k     b         1255   40   80 6d 8d
+das_heat  893629072  2  1 Bf  -     -     -         1295    5    0 
+das_heat  893629075  2  2 Bk  f     -     -         1290   10    0 
+das_heat  893629087  2  1 Bf  -     -     -         1280    5    0 
+das_heat  893629089  2  2 Br  rc    c     b         1275   90    0 Ac Qh
+das_heat  893629127  2  1 Br  -     -     -         1185   20   30 
+das_heat  893629135  2  2 Br  b     c     f         1195   50    0 
+das_heat  893629166  2  1 Bf  -     -     -         1145    5    0 
+das_heat  893629168  2  2 Br  k     k     k         1140   20   40 Kh 7d
+das_heat  893629200  2  1 Bf  -     -     -         1160    5    0 
+das_heat  893629203  2  2 Brc c     f     -         1155   40    0 
+das_heat  893629221  2  1 Bf  -     -     -         1115    5    0 
+das_heat  893629223  2  2 Bk  k     k     k         1110   10    0 2h 7h
+das_heat  893629245  2  1 Br  bc    kr    b         1100  100    0 As Jh
+das_heat  893629272  2  2 B   -     -     -         1000   10   15 
+das_heat  893629279  2  1 Bf  -     -     -         1005    5    0 
+das_heat  893629280  2  2 B   -     -     -         1000   10   15 
+das_heat  893629284  2  1 Br  b     b     brc       1005  130  260 2h 2c
+das_heat  893629304  2  2 B   -     -     -         1135   10   15 
+das_heat  893629313  2  1 Bf  -     -     -         1140    5    0 
+das_heat  893629314  2  2 B   -     -     -         1135   10   15 
+das_heat  893629319  2  1 Bf  -     -     -         1140    5    0 
+das_heat  893629321  2  2 Bc  r     c     k         1135   60  120 Jh 8h
+das_heat  893629343  2  1 Bf  -     -     -         1195    5    0 
+das_heat  893629344  2  2 Br  r     b     b         1190   80  160 Ah 6d
+das_heat  893629375  2  1 Bf  -     -     -         1270    5    0 
+das_heat  893629380  2  2 B   -     -     -         1265   10   15 
+das_heat  893629385  2  1 Brc kr    bc    k         1270   90  180 Ac 5d
+das_heat  893629435  2  2 B   -     -     -         1360   10   15 
+das_heat  893629476  2  1 Brc kc    kc    kc        1365   80    0 6d 6h
+das_heat  893629515  2  2 Bk  Q     -     -         1285   10    0 

@@ -1,0 +1,124 @@
+dumpchips 903333492  2  2 Brc f     -     -         1000   40    0 
+dumpchips 903333512  2  1 Brr brc   brf   -          960  140    0 
+dumpchips 903333530  2  2 Brc rr    rr    rf         820  200    0 
+dumpchips 903333556  2  1 Brr bc    brc   brf        620  200    0 
+dumpchips 903333574  2  2 Brc rr    rr    c          420  180    0 8d 8h
+dumpchips 903333598  2  1 Brr brc   brc   brf        240  220    0 
+dumpchips 903333620  2  2 BcA -     -     -           20   20   40 7h Jc
+dumpchips 903333624  2  1 Brf -     -     -           40   20    0 
+dumpchips 903333632  2  2 BcA -     -     -           20   20    0 Ac Qh
+dumpchips 903333639  2  2 Brc rr    rr    f         1000  160    0 
+dumpchips 903333665  2  1 Brr brc   b     bc         820  140  280 Ad 7h
+dumpchips 903333684  2  2 Brc rr    rr    rf         960  200    0 
+dumpchips 903333730  2  1 Br  b     brf   -          760   90    0 
+dumpchips 903333750  2  2 Brc rr    rr    f          520  160    0 
+dumpchips 903333771  2  1 Brr brc   brf   -          270  140    0 
+dumpchips 903333788  2  2 Brf -     -     -          130   30    0 
+dumpchips 903333793  2  1 Brr brf   -     -          100   70    0 
+dumpchips 903335043  2  2 B   -     -     -          605   10   15 
+dumpchips 903335044  2  1 BQ  -     -     -          610    5    0 
+dumpchips 903641409  8  5 r   r     b     b         1735   80    0 4d Ad
+dumpchips 903641516  8  4 r   b     brf   -         1655   90    0 
+dumpchips 903641574  8  3 r   b     brc   b         1565  130    0 7h Ac
+dumpchips 903641636  8  2 Br  brc   bf    -         1435   80    0 
+dumpchips 903641749  8  1 Br  b     br    brc       1355  170  340 5c 4d
+dumpchips 903641815  9  9 r   r     r     r         1525  140  560 Qc Jh
+dumpchips 903641905  9  8 rr  r     rr    f         1945  160    0 
+dumpchips 903642031  8  7 rr  rr    b     f         1785  100    0 
+dumpchips 903642187  9  6 rr  bc    rc    rr        1685  240  920 2h As
+dumpchips 903642285 10  6 rr  bc    r     b         2365  120  310 Th 8c
+dumpchips 903642482  7  3 r   b     kc    kf        2555   50    0 
+dumpchips 903642611  7  2 r   br    br    b         2505  130  310 7s 7h
+dumpchips 903642677  7  2 Bk  kf    -     -         2685   10    0 
+dumpchips 903642698  7  1 Brr brc   brc   brc       2675  240  520 As Qc
+dumpchips 903642753  6  6 rr  rr    c     c         2955  120    0 2s Ts
+dumpchips 903642813  7  6 rr  rr    rc    f         2835  140    0 
+dumpchips 903642907  7  5 r   Q     -     -         2695   20    0 
+dumpchips 903649127  8  3 rc  brc   r     b         2123  140  439 9s 7h
+dumpchips 903649175  6  2 Br  b     b     -         2422   50  120 
+dumpchips 903649210  6  1 Brc brc   bc    b         2492  140  430 Js Ad
+dumpchips 903649244  6  6 r   c     c     f         2782   60    0 
+dumpchips 903649285  6  5 rc  r     r     k         2722  100  345 Jh Js
+dumpchips 903649330  6  4 rc  c     c     f         2967   80    0 
+dumpchips 903649369  7  3 f   -     -     -         2887    0    0 
+dumpchips 903649419  7  2 Brc b     b     b         2887   90  205 
+dumpchips 903649458  8  1 Bf  -     -     -         3002    5    0 
+dumpchips 903649493  7  7 rc  c     c     c         2997   90    0 8c 8d
+dumpchips 903649532  8  6 rKQ -     -     -         2907   30    0 
+dumpchips 903649775  5  5 r   r     b     k         2877   60    0 Th 2h
+dumpchips 903649803  5  5 r   b     -     -         2817   30   55 
+dumpchips 903649824  4  3 rr  rr    b     k         2842  100    0 5h 9s
+dumpchips 903649850  4  2 Brc krr   brc   b         2742  180    0 5s 3c
+dumpchips 903649897  3  1 Br  b     -     -         2562   30   60 
+dumpchips 903649920  4  2 rr  rr    bc    k         2592  120    0 9d Qd
+dumpchips 903649951  5  2 Br  krf   -     -         2472   40    0 
+dumpchips 903649975  5  1 Brc b     b     b         2432   90    0 4h 8s
+dumpchips 903650026  6  6 rc  b     rr    r         2342  170  620 
+dumpchips 903650078  6  5 rr  cc    f     -         2792   60    0 
+dumpchips 903650138  6  4 rr  rc    rr    r         2732  200  610 7s 8c
+dumpchips 903650195  7  3 Q   -     -     -         3142    0    0 
+dumpchips 903657818  6  6 r   b     -     -         1000   30   55 
+dumpchips 903657862  5  4 r   br    c     c         1025   90    0 8d Ac
+dumpchips 903657891  5  3 rc  br    rc    rr         935  240    0 6s Qc
+dumpchips 903658011  5  2 Br  brf   -     -          695   70    0 
+dumpchips 903658079  6  1 Br  b     -     -          625   30   60 
+dumpchips 903658108  6  6 rc  r     b     b          655  100    0 2s Ad
+dumpchips 903658140  6  5 r   b     b     b          555   70  145 Qc 8d
+dumpchips 903658172  6  4 r   rr    b     rr         630  160  325 Qc 9s
+dumpchips 903658210  6  3 rc  kc    kc    k          795   60  190 7d Ac
+dumpchips 903658239  6  2 Brc krr   kc    kf         925  100    0 
+dumpchips 903658361  6  1 Brc brc   br    br         825  200    0 6c Th
+dumpchips 903658453  7  7 rc  r     b     b          625  110  315 2s Ts
+dumpchips 903658507  6  5 rr  b     rr    b          830  150  355 Jh 9c
+dumpchips 903658552  5  4 r   b     -     -         1035   30   75 
+dumpchips 903658567  4  3 r   b     -     -         1080   30   65 
+dumpchips 903658575  4  2 B   -     -     -         1115   10   15 
+dumpchips 903658581  4  1 Brc br    br    brc       1120  210  275 9h Ts
+dumpchips 903658622  4  4 r   rr    rr    r         1185  180  365 8c 7c
+dumpchips 903658643  4  3 r   -     -     -         1370   20   35 
+dumpchips 903658650  4  2 Brc brc   brc   brc       1385  240    0 9s 8h
+dumpchips 903658673  4  1 Br  b     b     -         1145   60  110 
+dumpchips 903658688  4  4 r   rr    rr    r         1195  180    0 5h 2d
+dumpchips 903658707  4  3 rr  rr    rr    rr        1015  240    0 Qs 4d
+dumpchips 903658735  3  2 Br  rr    rr    rr         775  240  520 4c 2d
+dumpchips 903658772  3  1 Brc brc   brc   br        1055  220  450 Ah 8h
+dumpchips 903658803  3  3 r   -     -     -         1285   20   35 
+dumpchips 903658810  3  2 B   -     -     -         1300   10   15 
+dumpchips 903658815  3  1 Brr brc   brc   kr        1305  200    0 4s Qh
+dumpchips 903658838  4  3 rc  rc    rr    r         1105  200  600 Ts Kh
+dumpchips 903658886  4  2 Brc rc    rr    rr        1505  240    0 2h 3s
+dumpchips 903658944  4  1 Brc br    brc   brc       1265  250    0 6d Ad
+dumpchips 903658998  4  4 rr  rr    rr    rr        1015  240  485 Kd 6d
+dumpchips 903659026  4  3 rc  rc    rr    rr        1260  240  730 Kh 5c
+dumpchips 903659092  4  2 Brr b     b     b         1750   90  185 Ah As
+dumpchips 903659115  4  1 Brr brc   b     brf       1845  160    0 
+dumpchips 903659146  4  4 rc  rr    rr    rr        1685  240    0 2c Jh
+dumpchips 903659210  5  3 rr  krc   krr   kf        1445  160    0 
+dumpchips 903659267  5  2 Brc k     b     k         1285   60    0 Qh 9d
+dumpchips 903659303  5  1 Br  b     brc   br        1225  200    0 9h 2c
+dumpchips 903659357  5  5 rc  rc    rr    b         1025  180    0 Kd 5h
+dumpchips 903659395  5  4 rc  rr    rr    rr         845  240  730 3c Ad
+dumpchips 903659450  5  3 rr  rr    rr    rr        1335  240    0 8c 3d
+dumpchips 903659492  4  2 Br  rc    rr    rr        1095  240  560 8s Kc
+dumpchips 903659529  5  1 Brc br    krc   f         1415  180    0 
+dumpchips 903659628  6  6 r   rr    b     b         1235  120  425 2s 5h
+dumpchips 903659717  6  5 rc  rc    rc    rr        1540  240    0 8s Th
+dumpchips 903659768  6  4 rc  rr    rr    rc        1300  240  760 Js Ks
+dumpchips 903659828  6  3 rc  rc    rr    rr        1820  240    0 8d 7d
+dumpchips 903659928  6  2 Br  kf    -     -         1580   50    0 
+dumpchips 903659976  6  1 Br  br    br    br        1530  240    0 Ad 2h
+dumpchips 903660014  7  7 r   rr    b     b         1290  120    0 4s 7h
+dumpchips 903660075  7  6 r   f     -     -         1170   50    0 
+dumpchips 903660143  7  5 rc  rc    rc    rc        1120  240    0 Qh 8h
+dumpchips 903660191  7  4 rc  kc    kc    kc         880   90    0 8h 2c
+dumpchips 903660272  8  3 rc  brc   brc   brc        790  240  855 6s 8h
+dumpchips 903660354  8  2 Br  bc    bc    bc        1405  240    0 Ac 7d
+dumpchips 903660427  8  1 Brc br    br    br        1165  240    0 4d 8h
+dumpchips 903660465  7  7 rc  r     rc    rc         925  260    0 Kc 7h
+dumpchips 903660566  9  7 rc  rc    rr    rr         665  250  328 8h Kd
+dumpchips 903660633  8  5 rc  brc   br    br         743  240    0 3h 8h
+dumpchips 903660714  9  5 rc  rc    rc    rr         503  280    0 3h 6s
+dumpchips 903660820 10  4 rc  rc    br    rcA        223  223    0 Js 2h
+dumpchips 903660997 10  7 f   -     -     -         1000    0    0 
+dumpchips 903661057  9  6 rc  rc    rr    rr        1000  290    0 6h Kc
+dumpchips 903661162  7  3 Q   -     -     -          710    0    0 

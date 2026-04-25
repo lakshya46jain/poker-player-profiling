@@ -1,0 +1,57 @@
+flipflop  913177987 10  2 Br  br    brc   bc        1000  200  605 Qh Ah
+flipflop  913178060 10  1 Bf  -     -     -         1405    5    0 
+flipflop  913178092 10 10 f   -     -     -         1400    0    0 
+flipflop  913178162  9  8 f   -     -     -         1400    0    0 
+flipflop  913178188  9  7 f   -     -     -         1400    0    0 
+flipflop  913178254  9  6 f   -     -     -         1400    0    0 
+flipflop  913178299  8  4 f   -     -     -         1400    0    0 
+flipflop  913178328  8  3 f   -     -     -         1400    0    0 
+flipflop  913178385  8  2 Bc  k     kc    kc        1400   80  300 8s Td
+flipflop  913178450  8  1 Bf  -     -     -         1620    5    0 
+flipflop  913178520  8  8 cc  cc    cc    c         1615  180    0 7s Ts
+flipflop  913178607  8  7 cc  k     b     -         1435   40  110 
+flipflop  913178674  8  6 f   -     -     -         1505    0    0 
+flipflop  913178717  8  4 f   -     -     -         1505    0    0 
+flipflop  913178751  7  4 f   -     -     -         1505    0    0 
+flipflop  913178828  5  3 ccc kc    kcc   f         1505  130    0 
+flipflop  913178906  5  2 Bf  -     -     -         1375   10    0 
+flipflop  913178945  5  1 Bf  -     -     -         1365    5    0 
+flipflop  913178958  5  5 f   -     -     -         1360    0    0 
+flipflop  913178996  5  4 rc  br    bc    b         1360  130  360 
+flipflop  913179036  5  3 cc  br    b     b         1590   90  190 
+flipflop  913179060  5  2 Bc  kf    -     -         1690   20    0 
+flipflop  913179103  5  1 Brc br    kc    kf        1670  100    0 
+flipflop  913179152  5  5 f   -     -     -         1570    0    0 
+flipflop  913179162  5  4 r   c     c     f         1570   50    0 
+flipflop  913179205  4  3 f   -     -     -         1520    0    0 
+flipflop  913179228  4  2 B   -     -     -         1520   10   15 
+flipflop  913179233  4  1 Bf  -     -     -         1525    5    0 
+flipflop  913179242  4  4 f   -     -     -         1520    0    0 
+flipflop  913179252  4  3 f   -     -     -         1520    0    0 
+flipflop  913179273  4  2 Bf  -     -     -         1520   10    0 
+flipflop  913179279  4  1 Bf  -     -     -         1510    5    0 
+flipflop  913179308  4  4 r   b     k     k         1505   30   80 Ad Td
+flipflop  913179346  4  3 f   -     -     -         1555    0    0 
+flipflop  913179354  4  2 B   -     -     -         1555   10   15 
+flipflop  913179362  4  1 Bf  -     -     -         1560    5    0 
+flipflop  913179375  4  4 cc  c     c     f         1555   80    0 
+flipflop  913179418  5  3 f   -     -     -         1475    0    0 
+flipflop  913179426  5  2 Bcc kc    kf    -         1475   50    0 
+flipflop  913179465  7  1 Bcc kc    bc    kc        1425  100    0 5s 8s
+flipflop  913179518  8  8 cc  c     f     -         1325   50    0 
+flipflop  913179575  8  7 f   -     -     -         1275    0    0 
+flipflop  913179640  8  6 f   -     -     -         1275    0    0 
+flipflop  913179729  7  4 ccc kcc   bc    bc        1275  160  415 9d 7h
+flipflop  913179791  7  3 cc  kf    -     -         1530   20    0 
+flipflop  913179872  8  2 Bc  krr   brc   brc       1510  220  475 6c 5c
+flipflop  913179927  9  1 Bcc kc    k     k         1765   35   95 Qc 7c
+flipflop  913179970  8  8 f   -     -     -         1825    0    0 
+flipflop  913180047  9  8 fQ  -     -     -         1825    0    0 
+flipflop  913291485  5  3 f   -     -     -         1825    0    0 
+flipflop  913291559  5  2 Bk  k     k     k         1825   10    0 Js 2h
+flipflop  913291583  5  1 BQ  -     -     -         1815    5    0 
+flipflop  913292297  6  2 Brc kc    b     b         1810   90  235 
+flipflop  913292356  6  1 Bc  kc    k     k         1955   20    0 4s 2s
+flipflop  913292441  6  4 Q   -     -     -         1935    0    0 
+flipflop  913761284  4  2 BQ  -     -     -         1935   10    0 
+flipflop  913795620  3  3 Q   -     -     -         1925    0    0 

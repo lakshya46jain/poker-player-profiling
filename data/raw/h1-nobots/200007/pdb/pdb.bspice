@@ -1,0 +1,13 @@
+bspice    964591437  7  4 cc  cc    cc    f         2108  160    0 
+bspice    964591502  8  3 f   -     -     -         1948    0    0 
+bspice    964591579  8  2 Bk  k     k     k         1948   10    0 Ks 4c
+bspice    964591622  8  1 Bc  kf    -     -         1938   20    0 
+bspice    964591670  9  9 f   -     -     -         1918    0    0 
+bspice    964591717  8  7 c   f     -     -         1918   20    0 
+bspice    964591751  8  6 c   c     cc    f         1898   90    0 
+bspice    964591792  8  5 f   -     -     -         1808    0    0 
+bspice    964591814  8  4 ccc ccc   cc    kc        1808  140  420 Td As
+bspice    964591891  8  3 f   -     -     -         2088    0    0 
+bspice    964591943  7  2 Bk  c     c     cf        2088   60    0 
+bspice    964591990  7  1 Bcc kf    -     -         2028   40    0 
+bspice    964592042  7  7 f   Q     -     -         1988    0    0 

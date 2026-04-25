@@ -1,0 +1,22 @@
+re-raise  956138307  2  2 Brc rr    rr    rf        1000  200    0 
+re-raise  956138338  2  1 Brr brc   brc   bf         800  180    0 
+re-raise  956138367  2  2 Brc rr    rr    rf         620  200    0 
+re-raise  956138394  2  1 Brr brc   brc   brf        420  220    0 
+re-raise  956138418  2  2 Brc rr    rr    k          200  160  160 5s 8h
+re-raise  956138448  2  1 Brr brc   brc   kf         200  160    0 
+re-raise  956138479  2  2 BrcA -     -     -           40   40   80 7s Ts
+re-raise  956138487  2  1 Brr kf    -     -           80   40    0 
+re-raise  956138504  2  2 Bc  bcA   -     -           40   40    0 7h Qd
+re-raise  956138561  2  2 Brc rr    rr    rf        1000  200    0 
+re-raise  956138619  2  1 Brr brc   brc   bf         800  180    0 
+re-raise  956138650  2  2 Brc rr    rr    rf         620  200    0 
+re-raise  956138675  2  1 Brr brc   brc   brc        420  240    0 5h 6c
+re-raise  956138705  2  2 Brc rr    rr    f          180  160    0 
+re-raise  956138745  2  1 BrA -     -     -           20   20    0 4h 5d
+re-raise  956138762  2  2 Brc rr    rc    rf        1000  180    0 
+re-raise  956138788  2  1 Brr brc   brc   brf        820  220    0 
+re-raise  956138809  2  2 Brc rr    rr    brf        600  220    0 
+re-raise  956138833  2  1 Brr brc   brc   brf        380  220    0 
+re-raise  956138869  2  2 Brc rr    rrA   -          160  160  320 5c Qc
+re-raise  956138902  2  1 Brr brc   brf   -          320  140    0 
+re-raise  956138931  2  2 Brc rr    rr    cA         180  180    0 8h 5d

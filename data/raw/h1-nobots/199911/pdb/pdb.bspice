@@ -1,0 +1,12 @@
+bspice    942445020 10  7 cc  f     -     -          589   30    0 
+bspice    942445110 10  6 c   ccc   cf    -          559   80    0 
+bspice    942445217 10  5 fQ  -     -     -          479    0    0 
+bspice    943226333  4  2 Bf  -     -     -          479   10    0 
+bspice    943226352  4  1 Bccc kcc   kcc   kf         469  160    0 
+bspice    943226405  4  4 cc  c     c     rr         309  130  290 Ts 4c
+bspice    943226465  4  3 cc  cc    f     -          469   50    0 
+bspice    943226526  5  3 f   -     -     -          419    0    0 
+bspice    943226557  6  3 cc  kc    kc    kc         419   70  155 Td Jd
+bspice    943226592  8  4 ccc cc    cc    cc         504  240    0 8c 9h
+bspice    943226678  8  3 cc  kf    -     -          264   20    0 
+bspice    943226714  8  3 cc  fQ    -     -          244   20    0 

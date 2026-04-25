@@ -1,0 +1,7 @@
+bspice    966206330  9  2 Bc  kc    k     k         1958   40  165 6c 9h
+bspice    966206380  9  1 Bf  -     -     -         2083    5    0 
+bspice    966206420  9  9 c   f     -     -         2078   10    0 
+bspice    966206497  9  8 c   c     c     c         2068   70  225 Qc 8d
+bspice    966206533  8  6 c   k     k     f         2223   10    0 
+bspice    966206581  9  6 cc  c     k     k         2213   50    0 Jc Qs
+bspice    966206624  9  5 f   -     -     Q         2163    0    0 

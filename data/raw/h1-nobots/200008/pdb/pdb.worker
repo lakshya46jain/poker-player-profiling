@@ -1,0 +1,90 @@
+worker    965133044  2  2 Brc rr    rr    rf        1470  200    0 
+worker    965133072  2  1 Brr brc   brc   brc       1270  240    0 2s As
+worker    965133092  2  2 Brc rr    rr    rr        1030  240    0 Qc Th
+worker    965133120  2  1 Br  brc   brc   brf        790  200    0 
+worker    965133140  2  2 Brc rr    c     f          590  100    0 
+worker    965133163  3  1 Bc  kc    k     k          490   20    0 9s 4c
+worker    965133189  3  3 cf  -     -     -          470   10    0 
+worker    965133206  3  2 Bk  bc    b     b          460   70  145 Qs 9s
+worker    965133224  3  1 Bc  bc    b     b          535   70    0 8c Ah
+worker    965133256  3  3 c   c     f     -          465   20    0 
+worker    965133278  3  2 Bf  -     -     -          445   10    0 
+worker    965133285  3  1 Bf  -     -     -          435    5    0 
+worker    965133289  3  3 c   c     c     f          430   40    0 
+worker    965133313  3  2 Bk  c     c     f          390   40    0 
+worker    965133328  3  1 Bf  -     -     -          350    5    0 
+worker    965133335  3  3 cc  c     c     f          345   50    0 
+worker    965133352  3  2 Bc  c     c     f          295   50    0 
+worker    965133366  3  1 Bcc k     kc    k          245   40   60 Kh Qs
+worker    965133395  3  3 cc  c     c     f          265   50    0 
+worker    965133414  3  2 Bc  rc    rc    c          215  130    0 Tc Kd
+worker    965133461  4  1 Bf  -     -     -           85    5    0 
+worker    965133471  4  4 f   -     -     -           80    0    0 
+worker    965133478  4  3 f   -     -     -           80    0    0 
+worker    965133508  5  2 B   -     -     -           80   10   15 
+worker    965133513  5  1 Bf  -     -     -           85    5    0 
+worker    965133520  4  4 f   -     -     -           80    0    0 
+worker    965133549  5  4 cc  r     bcA   -           80   80  245 9c As
+worker    965133580  5  3 rr  br    b     bf         245  110    0 
+worker    965133616  5  2 Bc  Q     -     -          135   20    0 
+worker    967052362  3  3 f   -     -     -         1175    0    0 
+worker    967052381  3  2 Bf  -     -     -         1175   10    0 
+worker    967052409  3  1 Bc  kf    -     -         1165   20    0 
+worker    967052430  3  3 f   -     -     -         1145    0    0 
+worker    967052436  3  2 Bk  bc    kc    b         1145   70  145 Th Ad
+worker    967052456  3  1 Bc  kf    -     -         1220   20    0 
+worker    967052467  3  3 f   -     -     -         1200    0    0 
+worker    967052476  3  2 Bk  k     b     -         1200   30   45 
+worker    967052488  3  1 Bf  -     -     -         1215    5    0 
+worker    967052494  3  3 cc  b     b     k         1210   50  120 6c Ah
+worker    967052517  3  2 Bf  -     -     -         1280   10    0 
+worker    967052526  3  1 Brr bc    bc    kc        1270  120    0 8c 8s
+worker    967052546  3  3 f   -     -     -         1150    0    0 
+worker    967052562  3  2 Bc  k     f     -         1150   20    0 
+worker    967052572  3  1 Bf  -     -     -         1130    5    0 
+worker    967052575  3  3 cc  f     -     -         1125   20    0 
+worker    967052588  3  2 B   -     -     -         1105   10   15 
+worker    967052592  3  1 Bc  k     b     kc        1110   60    0 9s 8s
+worker    967052615  3  3 f   -     -     -         1050    0    0 
+worker    967052622  3  2 Br  b     bc    c         1050  100    0 Ah Kc
+worker    967052651  3  1 Br  b     b     b          950   70  140 Kh Qc
+worker    967052666  3  3 f   -     -     -         1020    0    0 
+worker    967052683  3  2 Brc b     b     c         1020   90    0 Qd 6h
+worker    967052716  3  1 Bf  -     -     -          930    5    0 
+worker    967052723  3  3 f   -     -     -          925    0    0 
+worker    967052725  3  2 Brc f     -     -          925   40    0 
+worker    967052739  3  1 Bf  -     -     -          885    5    0 
+worker    967052743  3  3 f   -     -     -          880    0    0 
+worker    967052760  3  2 Bk  f     -     -          880   10    0 
+worker    967052772  3  1 Bf  -     -     -          870    5    0 
+worker    967052777  3  3 cc  b     c     c          865   70  160 Th Js
+worker    967052818  3  2 Bc  c     k     rc         955   90    0 7h Th
+worker    967052842  3  1 Bf  -     -     -          865    5    0 
+worker    967052852  3  3 c   f     -     -          860   10    0 
+worker    967052861  3  2 B   -     -     -          850   10   15 
+worker    967052866  3  1 Br  -     -     -          855   20   30 
+worker    967052876  3  3 c   c     b     b          865   60    0 Qc 7c
+worker    967052903  3  2 Bk  rr    r     k          805   90  190 3s 7s
+worker    967052932  3  1 Bf  -     -     -          905    5    0 
+worker    967052942  3  3 f   -     -     -          900    0    0 
+worker    967052963  3  2 Bc  c     k     b          900   50    0 8h 7s
+worker    967052979  3  1 Bf  -     -     -          850    5    0 
+worker    967052986  3  3 f   -     -     -          845    0    0 
+worker    967052988  3  2 Br  r     -     -          845   50   90 
+worker    967053013  3  1 Bc  b     b     bc         885   80    0 Jd Tc
+worker    967053031  3  3 f   -     -     -          805    0    0 
+worker    967053038  3  2 B   -     -     -          805   10   15 
+worker    967053042  3  1 Br  brc   bc    kc         810  130    0 Ac Ks
+worker    967053066  3  3 f   -     -     -          680    0    0 
+worker    967053072  3  2 Brc f     -     -          680   40    0 
+worker    967053084  4  1 Br  -     -     -          640   20   30 
+worker    967053090  4  4 c   cc    f     -          650   60    0 
+worker    967053118  4  3 c   r     k     k          590   30    0 Kh Td
+worker    967053148  4  2 Bc  kc    kf    -          560   30    0 
+worker    967053173  4  1 Bf  -     -     -          530    5    0 
+worker    967053201  4  4 cc  f     -     -          525   20    0 
+worker    967053240  4  3 c   b     -     -          505   20   35 
+worker    967053255  4  2 B   -     -     -          520   10   15 
+worker    967053261  4  1 Br  -     -     -          525   20   30 
+worker    967053277  4  4 c   c     c     k          535   40    0 Ac Tc
+worker    967053302  5  4 fQ  -     -     -          495    0    0 

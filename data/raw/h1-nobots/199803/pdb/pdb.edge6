@@ -1,0 +1,33 @@
+edge6     889050757  2  2 B   -     -     -         1000   10   15 
+edge6     889050758  2  1 Br  -     -     -         1005   20   30 
+edge6     889050760  2  2 B   -     -     -         1015   10   15 
+edge6     889050761  2  1 Bc  b     -     -         1020   20   30 
+edge6     889050777  2  2 B   -     -     -         1030   10   15 
+edge6     889050778  2  1 Brr br    brc   brf       1035  210    0 
+edge6     889050932  2  2 Brc rr    rr    rf         825  200    0 
+edge6     889050972  2  1 Brr brc   brc   brf        625  220    0 
+edge6     889051028  2  2 Brc rr    rr    rr         405  240  480 Qh 6c
+edge6     889051090  3  1 Brc brc   brc   kf         645  160    0 
+edge6     889051138  3  3 rc  c     rc    f          485  120    0 
+edge6     889051184  3  2 Br  rr    rr    f          365  160    0 
+edge6     889051257  4  1 Brc kf    -     -          205   40    0 
+edge6     889051288  4  4 rc  rc    c     rrA        165  165    0 Ts Jh
+edge6     889052330  3  2 Brc brc   krr   kf        1000  160    0 
+edge6     889052376  3  1 Bcr bc    k     bf         840   80    0 
+edge6     889052425  3  3 rc  cc    k     f          760   70    0 
+edge6     889052451  3  2 Bf  -     -     -          690   10    0 
+edge6     889052456  3  1 Brr kc    brf   -          680  110    0 
+edge6     889052474  3  3 c   f     -     -          570   10    0 
+edge6     889052485  3  2 B   -     -     -          560   10   15 
+edge6     889052488  3  1 Brr brc   kc    kf         565  100    0 
+edge6     889052507  3  3 ccc f     -     -          465   40    0 
+edge6     889052530  3  2 Bc  c     r     b          425   90    0 8h 7c
+edge6     889052550  3  1 Bc  b     b     bc         335   80    0 9c Qh
+edge6     889052582  3  3 rr  b     k     r          255   90    0 5c 8d
+edge6     889052621  3  2 Brc krr   bf    -          165  100    0 
+edge6     889052669  3  1 Brc bcA   -     -           65   65    0 5h 2s
+edge6     890296909  8  5 rc  rc    rc    r         1000  220    0 Tc 3c
+edge6     890296980  9  4 rc  rc    rc    rc         780  200    0 Qd 6s
+edge6     890297050  9  3 rc  br    brc   br         580  230    0 6c Qh
+edge6     890297144  9  2 Brc brc   brc   brc        350  240    0 Ks 3c
+edge6     890297255  9  1 Br  br    bA    -          110  110    0 4d Td

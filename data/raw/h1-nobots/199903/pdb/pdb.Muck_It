@@ -1,0 +1,811 @@
+Muck_It   921457374  2  2 Bk  b     -     -         1000   20   30 
+Muck_It   921457391  2  1 Br  b     b     -         1010   50   80 
+Muck_It   921457405  2  2 B   -     -     -         1040   10   15 
+Muck_It   921457407  2  1 Bc  b     -     -         1045   20   30 
+Muck_It   921457414  2  2 Bk  f     -     -         1055   10    0 
+Muck_It   921457419  2  1 Bc  b     b     br        1045  100  180 
+Muck_It   921457437  3  2 Bk  k     f     -         1125   10    0 
+Muck_It   921457447  3  1 Bc  b     b     b         1115   60  100 
+Muck_It   921457465  3  3 c   b     b     r         1155   80  170 Ac 9h
+Muck_It   921457491  3  2 Bk  f     -     -         1245   10    0 
+Muck_It   921457503  3  1 Bc  kc    bc    kcc       1235  120    0 7c 9h
+Muck_It   921457540  4  4 c   brc   c     f         1115   70    0 
+Muck_It   921457578  4  3 c   b     b     b         1045   60  125 Ad 8c
+Muck_It   921457601  4  2 Br  b     b     b         1110   80  165 As 7s
+Muck_It   921457619  5  1 Bc  kc    kc    k         1195   40    0 4s 8s
+Muck_It   921457651  4  4 c   f     -     -         1155   20    0 
+Muck_It   921457673  4  3 c   k     k     k         1135   10   30 2c Ah
+Muck_It   921457697  5  3 c   k     bc    f         1155   50    0 
+Muck_It   921457719  6  2 Br  bc    kc    kf        1105  110    0 
+Muck_It   921457759  6  1 Bc  k     kf    -          995   20    0 
+Muck_It   921457784  6  6 c   k     f     -          975   10    0 
+Muck_It   921457809  6  5 rc  f     -     -          965   40    0 
+Muck_It   921457841  6  4 fQ  -     -     -          925    0    0 
+Muck_It   921457915  6  2 Bk  k     b     b          925   50  110 Ac 5d
+Muck_It   921457938  6  1 Bc  kf    -     -          985   40    0 
+Muck_It   921457981  6  6 c   k     k     f          945   20    0 
+Muck_It   921458016  6  5 cc  f     -     -          925   40    0 
+Muck_It   921458055  5  3 cc  kc    kc    kf         885   50    0 
+Muck_It   921458088  5  2 Brc k     k     f          835   40    0 
+Muck_It   921458121  6  1 Brc br    k     k          795   70  250 Qd As
+Muck_It   921458150  6  6 r   cc    cc    cc         975  240    0 Ah 6s
+Muck_It   921458193  7  6 rr  rr    r     -          735  120   20 6h 8h
+Muck_It   921458238  7  5 ccc cc    f     -          635   80    0 
+Muck_It   921458311  7  4 cc  kf    -     -          555   20    0 
+Muck_It   921458352  7  3 c   k     b     -          535   30   80 
+Muck_It   921458383  6  2 Bk  f     -     -          585   10    0 
+Muck_It   921458397  6  1 Bc  kf    -     -          575   30    0 
+Muck_It   921458437  6  6 r   rr    rr    r          545  200  945 9c 9d
+Muck_It   921458506  8  6 cc  f     -     -         1290   20    0 
+Muck_It   921458575  9  6 rc  f     -     -         1270   60    0 
+Muck_It   921458663  8  6 rc  kf    -     -         1210   40    0 
+Muck_It   921458721  9  5 c   f     -     -         1170   10    0 
+Muck_It   921458757  9  4 f   -     -     -         1160    0    0 
+Muck_It   921458801  9  3 cc  c     f     -         1160   30    0 
+Muck_It   921458863  9  2 Bc  kc    kc    kf        1130   50    0 
+Muck_It   921458898  8  1 Bc  br    b     br        1080  130  480 8s 5s
+Muck_It   921458946  8  8 ccc c     k     k         1430   60    0 4c As
+Muck_It   921458983  9  8 c   cc    kc    f         1370   70    0 
+Muck_It   921459031  8  6 c   f     -     -         1300   10    0 
+Muck_It   921459076  8  5 cr  ccc   f     -         1290   80    0 
+Muck_It   921459163  8  4 r   rc    rr    rr        1210  220    0 Kh Kd
+Muck_It   921459235  7  2 fQ  -     -     -          990    0    0 
+Muck_It   921461316  7  2 Brc kf    -     -          990   40    0 
+Muck_It   921461362  6  1 Bc  kf    -     -          950   20    0 
+Muck_It   921461398  6  6 c   c     c     f          930   50    0 
+Muck_It   921461448  6  5 cc  f     -     -          880   20    0 
+Muck_It   921461485  6  4 c   c     b     b          860   60  130 9h 4c
+Muck_It   921461529  6  3 ccc kcc   krr   brc        930  240    0 4d 5s
+Muck_It   921461620  7  2 Bk  kf    -     -          690   10    0 
+Muck_It   921461660  6  1 BQ  -     -     -          680    5    0 
+Muck_It   921571655  3  2 Bc  b     r     f          675   70    0 
+Muck_It   921571688  3  1 Br  b     br    b          605  110  220 Ac Kc
+Muck_It   921571721  3  3 rr  k     b     b          715   80  150 
+Muck_It   921571757  4  2 Bc  k     kf    -          785   20    0 
+Muck_It   921571794  4  1 Br  kc    k     kf         765   60    0 
+Muck_It   921571849  4  4 cc  f     -     -          705   20    0 
+Muck_It   921571864  3  2 Br  f     -     -          685   40    0 
+Muck_It   921571882  3  1 Brr brc   b     b          645  120    0 7c Jc
+Muck_It   921571921  3  3 r   k     f     -          525   20    0 
+Muck_It   921571944  3  2 Bc  kc    kf    -          505   30    0 
+Muck_It   921571971  3  1 Brr b     b     b          475   90    0 Kh 7c
+Muck_It   921571992  3  3 rr  k     f     -          385   40    0 
+Muck_It   921572022  3  2 Br  b     b     b          345   80    0 7h 7d
+Muck_It   921572051  3  1 Br  -     -     -          265   20   30 
+Muck_It   921572060  3  3 r   rr    c     f          275   80    0 
+Muck_It   921572091  3  2 Bk  kc    kf    -          195   20    0 
+Muck_It   921572126  3  1 Bf  -     -     -          175    5    0 
+Muck_It   921572129  3  3 rc  k     k     k          170   30    0 7s Jh
+Muck_It   921572150  3  2 Br  k     f     -          140   20    0 
+Muck_It   921572176  3  1 Br  b     br    bcA        120  120  290 Kd Ac
+Muck_It   921572210  4  4 r   k     b     -          290   40   65 
+Muck_It   921572235  4  3 crc c     r     bc         315  130    0 Kc 7s
+Muck_It   921572274  4  2 Br  kc    f     -          185   40    0 
+Muck_It   921572312  4  1 Bcc kf    -     -          145   40    0 
+Muck_It   921572358  4  4 rc  f     -     -          105   40    0 
+Muck_It   921572409  4  3 rr  c     f     -           65   50    0 
+Muck_It   921572445  4  2 BcA -     Q     -           15   15    0 
+Muck_It   921698510  3  2 Bc  b     bc    kc         830   90  185 2h 2c
+Muck_It   921698543  3  1 Brr kc    -     -          925   50  100 
+Muck_It   921698575  2  2 c   k     k     k          975   10    0 Ah 6s
+Muck_It   921698602  3  2 Br  k     b     -          965   40   62 
+Muck_It   921698640  2  1 Bc  b     b     b          987   60  120 Th Ts
+Muck_It   921698663  3  2 Bc  r     b     b         1047   80  140 
+Muck_It   921698698  4  1 Bc  kr    b     b         1107   70  200 4h Js
+Muck_It   921698747  4  4 c   k     k     f         1237   20    0 
+Muck_It   921698771  4  3 cc  kf    -     -         1217   20    0 
+Muck_It   921698797  5  2 Bc  kf    -     -         1197   20    0 
+Muck_It   921698814  7  1 Bc  krc   b     b         1177   80  230 7c 9d
+Muck_It   921698910  8  8 f   -     -     -         1327    0    0 
+Muck_It   921698932  7  6 f   -     -     -         1327    0    0 
+Muck_It   921698977  7  5 c   f     -     -         1327   10    0 
+Muck_It   921699022  7  4 f   -     -     -         1317    0    0 
+Muck_It   921699081  7  3 cc  kc    k     kc        1317   50   78 3s Ad
+Muck_It   921699122  9  2 Bc  kf    -     -         1345   20    0 
+Muck_It   921699190  8  1 Bc  kc    kf    -         1325   20    0 
+Muck_It   921699240  7  7 cc  r     b     c         1305   90    0 Kd 3d
+Muck_It   921699325  7  6 f   -     -     -         1215    0    0 
+Muck_It   921699391  7  5 cc  rr    b     r         1215  120  325 Tc Qc
+Muck_It   921699507  7  4 c   kf    -     -         1420   10    0 
+Muck_It   921699574  7  3 cc  kc    kf    -         1410   30    0 
+Muck_It   921699639  7  2 Bk  kf    -     -         1380   10    0 
+Muck_It   921699722  8  1 Bc  kc    kf    -         1370   40    0 
+Muck_It   921699785  6  6 c   f     -     -         1330   20    0 
+Muck_It   921699819  7  6 c   f     -     -         1310   20    0 
+Muck_It   921699855  7  5 c   r     r     b         1290   90    0 9c 7d
+Muck_It   921699907  7  4 rc  k     r     b         1200  100  250 7c 7s
+Muck_It   921699965  5  2 cc  kf    -     -         1350   20    0 
+Muck_It   921700009  6  2 Bc  kf    -     -         1330   30    0 
+Muck_It   921700035  6  1 Bc  kf    -     -         1300   20    0 
+Muck_It   921700059  6  6 c   c     b     b         1280   60  140 2h 5h
+Muck_It   921700134  5  4 c   r     b     b         1360   80    0 Td Qc
+Muck_It   921700200  8  6 c   b     b     b         1280   70  230 5d Tc
+Muck_It   921700291  8  5 c   b     b     b         1440   70  155 
+Muck_It   921700349  8  5 c   cc    k     kf        1525   30    0 
+Muck_It   921700383  8  4 rc  rc    cc    rc        1495  220    0 Jh Jd
+Muck_It   921700477  9  3 fQ  -     -     -         1275    0    0 
+Muck_It   921706654  7  3 cc  kc    kc    b         1275   70  160 
+Muck_It   921706717  9  2 Bc  kc    c     br        1365  140  280 Qh As
+Muck_It   921706786  9  1 Bc  k     k     k         1505   20    0 Kh Qc
+Muck_It   921706813  9  9 f   -     -     -         1485    0    0 
+Muck_It   921706873 10  9 f   -     -     -         1485    0    0 
+Muck_It   921706931 10  8 c   rc    f     -         1485   60    0 
+Muck_It   921706990 10  7 cc  c     c     f         1425   70    0 
+Muck_It   921707041  9  5 rr  k     brc   br        1355  180  480 Js Jh
+Muck_It   921707099  9  5 c   c     k     f         1655   30    0 
+Muck_It   921707163 10  4 f   -     -     -         1625    0    0 
+Muck_It   921707223 10  3 f   -     -     -         1625    0    0 
+Muck_It   921707266 10  2 Bf  -     -     -         1625   10    0 
+Muck_It   921707339 10  1 Bc  k     k     k         1615   20   95 3s 4d
+Muck_It   921707395 10 10 f   -     -     -         1690    0    0 
+Muck_It   921707452 10  9 c   f     -     -         1690   20    0 
+Muck_It   921707522 10  8 c   f     -     -         1670   20    0 
+Muck_It   921707555 10  7 c   f     -     -         1650   10    0 
+Muck_It   921707594 10  6 cc  rc    c     c         1640  110    0 9c Kc
+Muck_It   921707649 10  5 rr  b     b     b         1530   90  260 Jc Js
+Muck_It   921707706 10  4 cc  k     kf    -         1700   20    0 
+Muck_It   921707766 10  3 f   -     -     -         1680    0    0 
+Muck_It   921707827  9  2 Br  k     b     b         1680   60  180 
+Muck_It   921707863 10  1 Bc  k     kf    -         1800   20    0 
+Muck_It   921707899  9  9 c   f     -     -         1780   10    0 
+Muck_It   921707936  9  8 f   -     -     -         1770    0    0 
+Muck_It   921707988  9  7 cc  f     -     -         1770   20    0 
+Muck_It   921708073 10  8 f   -     -     -         1750    0    0 
+Muck_It   921708134 10  6 f   -     -     -         1750    0    0 
+Muck_It   921708213  9  5 f   -     -     -         1750    0    0 
+Muck_It   921708244  8  3 c   f     -     -         1750   10    0 
+Muck_It   921708306  8  2 Bc  k     kf    -         1740   20    0 
+Muck_It   921708387  7  1 Bf  -     -     -         1720    5    0 
+Muck_It   921708450  8  8 c   f     -     -         1715   10    0 
+Muck_It   921708491  7  6 c   k     c     f         1705   30    0 
+Muck_It   921708539  7  6 f   -     -     -         1675    0    0 
+Muck_It   921708582  7  5 f   -     -     -         1675    0    0 
+Muck_It   921708631  7  4 f   -     -     -         1675    0    0 
+Muck_It   921708684  9  4 c   kcf   -     -         1675   20    0 
+Muck_It   921708792  9  3 cc  kf    -     -         1655   20    0 
+Muck_It   921708842  9  2 Bk  kf    -     -         1635   10    0 
+Muck_It   921708947  9  1 Bc  kcc   kf    -         1625   40    0 
+Muck_It   921708997  8  8 c   f     -     -         1585   10    0 
+Muck_It   921709075  8  7 f   -     -     -         1575    0    0 
+Muck_It   921709173  8  6 f   -     -     -         1575    0    0 
+Muck_It   921709246 10  6 f   -     -     -         1575    0    0 
+Muck_It   921709307 10  5 f   -     -     -         1575    0    0 
+Muck_It   921709370 10  4 f   -     -     -         1575    0    0 
+Muck_It   921709415 10  3 rc  br    bc    kc        1575  120    0 Jh Js
+Muck_It   921709519 10  2 Bk  k     f     -         1455   10    0 
+Muck_It   921709629 10  1 Bf  -     -     -         1445    5    0 
+Muck_It   921709780 10 10 f   -     -     -         1440    0    0 
+Muck_It   921709887 10  9 f   -     -     -         1440    0    0 
+Muck_It   921709920 10  8 f   -     -     -         1440    0    0 
+Muck_It   921709978 10  7 f   -     -     -         1440    0    0 
+Muck_It   921710004 10  6 f   -     -     -         1440    0    0 
+Muck_It   921710074  9  5 f   -     -     -         1440    0    0 
+Muck_It   921710153 10  4 cc  kf    -     -         1440   20    0 
+Muck_It   921710205 10  3 f   -     -     -         1420    0    0 
+Muck_It   921710268 10  2 Bk  kc    kf    -         1420   30    0 
+Muck_It   921710365 10  1 Bc  bc    br    b         1390  110  330 9d Jd
+Muck_It   921710416  9  9 c   f     -     -         1610   10    0 
+Muck_It   921710522 10  9 c   k     f     -         1600   10    0 
+Muck_It   921710606 10  8 f   -     -     -         1590    0    0 
+Muck_It   921710680 10  7 f   -     -     -         1590    0    0 
+Muck_It   921710766 10  6 f   -     -     -         1590    0    0 
+Muck_It   921710842  9  4 f   -     -     -         1590    0    0 
+Muck_It   921710962  8  2 Bk  kf    -     -         1590   10    0 
+Muck_It   921711045  9  1 Bc  kc    kf    -         1580   40    0 
+Muck_It   921711135  9  9 f   -     -     -         1540    0    0 
+Muck_It   921711178  9  8 c   c     c     f         1540   50    0 
+Muck_It   921711272  9  7 c   f     -     -         1490   10    0 
+Muck_It   921711368  9  6 c   kf    -     -         1480   10    0 
+Muck_It   921711427  9  5 f   -     -     -         1470    0    0 
+Muck_It   921711504  9  4 f   -     -     -         1470    0    0 
+Muck_It   921711567  9  3 f   -     -     -         1470    0    0 
+Muck_It   921711688  9  2 Bk  k     k     k         1470   10    0 Kc 5d
+Muck_It   921711789  9  1 Bc  k     kr    k         1460   50   65 Qh 9h
+Muck_It   921711876  8  8 c   f     -     -         1475   10    0 
+Muck_It   921711965  8  7 f   -     -     -         1465    0    0 
+Muck_It   921712046 10  8 c   c     c     k         1465   50    0 7s 7d
+Muck_It   921712090 10  7 cc  k     kc    kf        1415   40    0 
+Muck_It   921712181 10  6 f   -     -     -         1375    0    0 
+Muck_It   921712249 10  5 f   -     -     -         1375    0    0 
+Muck_It   921712294 10  4 f   -     -     -         1375    0    0 
+Muck_It   921712381 10  3 f   -     -     -         1375    0    0 
+Muck_It   921712438 10  2 Bk  kf    -     -         1375   10    0 
+Muck_It   921712578 10  1 Bc  bc    kc    kc        1365   80  140 Jc Kd
+Muck_It   921712688  9  9 f   -     -     -         1425    0    0 
+Muck_It   921712765 10  8 c   c     cc    k         1425   80    0 8s 4s
+Muck_It   921712910 10  7 f   -     -     -         1345    0    0 
+Muck_It   921713051 10  6 cc  k     kc    cQ        1345   60    0 
+Muck_It   921713860  5  3 ccc k     kf    -         1285   40    0 
+Muck_It   921713929  4  2 Bc  b     -     -         1245   30   70 
+Muck_It   921713953  4  1 Bcc kf    -     -         1285   20    0 
+Muck_It   921714035  5  4 f   -     -     -         1265    0    0 
+Muck_It   921714132  7  5 f   -     -     -         1265    0    0 
+Muck_It   921714180  6  3 c   kf    -     -         1265   10    0 
+Muck_It   921714236  7  2 f   -     -     -         1255    0    0 
+Muck_It   921714295  7  2 Bk  b     bc    kc        1255  100    0 9h 9d
+Muck_It   921714338  7  1 Bf  -     -     -         1155    5    0 
+Muck_It   921714372  7  7 f   -     -     -         1150    0    0 
+Muck_It   921714406  7  6 ccc f     -     -         1150   40    0 
+Muck_It   921714505  7  5 f   -     -     -         1110    0    0 
+Muck_It   921714571  7  5 f   -     -     -         1110    0    0 
+Muck_It   921714595  6  4 c   kc    kf    -         1110   20    0 
+Muck_It   921714690  6  3 f   -     -     -         1090    0    0 
+Muck_It   921714773  6  2 Bk  kf    -     -         1090   10    0 
+Muck_It   921714832  5  1 Bf  -     -     -         1080    5    0 
+Muck_It   921714858  4  4 f   -     -     -         1075    0    0 
+Muck_It   921714888  5  4 crc brc   br    b         1075  160  168 Ts As
+Muck_It   921714928  4  2 cc  kf    -     -         1083   20    0 
+Muck_It   921714967  4  2 Bk  bc    kc    k         1063   50    0 2h 5s
+Muck_It   921715001  4  1 Bf  -     -     -         1013    5    0 
+Muck_It   921715026  4  4 c   k     c     c         1008   50  105 3d 8d
+Muck_It   921715076  5  3 f   -     -     -         1063    0    0 
+Muck_It   921715146  4  1 Brc kf    -     -         1063   40    0 
+Muck_It   921715207  4  1 Bf  -     -     -         1023    5    0 
+Muck_It   921715256  4  4 r   -     -     -         1018   20   35 
+Muck_It   921715264  4  3 f   -     -     -         1033    0    0 
+Muck_It   921715293  4  2 Bk  k     k     b         1033   30   45 
+Muck_It   921715358  3  1 Bc  bc    k     bf        1048   60    0 
+Muck_It   921715417  3  3 rc  f     -     -          988   40    0 
+Muck_It   921715437  3  3 f   -     -     -          948    0    0 
+Muck_It   921715500  4  2 B   -     -     -          948   10   15 
+Muck_It   921715513  4  1 Br  -     -     -          953   20   30 
+Muck_It   921715521  4  4 c   b     -     -          963   20   35 
+Muck_It   921715576  5  3 cc  c     c     fQ         978   70    0 
+Muck_It   921893920  2  1 Bc  b     -     -          581   20   30 
+Muck_It   921893932  2  2 Br  -     -     -          591   20   30 
+Muck_It   921893957  2  1 Bc  k     k     k          601   10   20 3s Jd
+Muck_It   921893974  2  2 B   -     -     -          611   10   15 
+Muck_It   921893981  2  1 Bc  b     b     -          616   40   60 
+Muck_It   921893992  2  2 B   -     -     -          636   10   15 
+Muck_It   921893995  2  1 Bc  k     b     -          641   30   40 
+Muck_It   921894004  2  2 B   -     -     -          651   10   15 
+Muck_It   921894007  2  1 Bc  kc    kc    kf         656   40    0 
+Muck_It   921894041  2  2 B   -     -     -          616   10   15 
+Muck_It   921894046  2  1 Br  -     -     -          621   20   30 
+Muck_It   921894050  2  2 B   -     -     -          631   10   15 
+Muck_It   921894061  2  1 Bc  k     kf    -          636   10    0 
+Muck_It   921894073  2  2 B   -     -     -          626   10   15 
+Muck_It   921894079  2  1 Bc  k     k     b          631   30   40 
+Muck_It   921894096  2  2 Bc  c     rr    rr         641  190  380 4h Qd
+Muck_It   921894128  3  1 Bc  kr    b     b          831   70  150 Jc Ah
+Muck_It   921894154  3  3 cc  f     -     -          911   20    0 
+Muck_It   921894187  3  2 Bk  f     -     -          891   10    0 
+Muck_It   921894200  2  1 Bc  kf    -     -          881   10    0 
+Muck_It   921894208  2  2 Bc  k     c     c          871   60  120 Jc Ad
+Muck_It   921894217  2  1 Bcc k     k     kf         931   20    0 
+Muck_It   921894231  2  2 Bc  c     f     -          911   30    0 
+Muck_It   921894241  2  1 Bcc k     k     kf         881   20    0 
+Muck_It   921894252  2  2 Bc  k     c     r          861   80    0 3h Qc
+Muck_It   921894263  2  1 Bcc k     b     -          781   40   60 
+Muck_It   921894277  2  2 Br  f     -     -          801   20    0 
+Muck_It   921894293  2  1 Br  b     b     b          781   70    0 Jc Js
+Muck_It   921894308  3  2 Bc  kf    -     -          711   20    0 
+Muck_It   921894331  3  1 Br  b     b     bc         691   90    0 8h Ad
+Muck_It   921894351  3  3 c   c     r     br         601  120  300 3d 9s
+Muck_It   921894380  3  2 Bk  c     c     c          781   60  120 Kd 2h
+Muck_It   921894394  3  1 Bc  kr    b     br         841  120  250 Ah Kh
+Muck_It   921894421  3  3 cc  k     c     f          971   40    0 
+Muck_It   921894440  3  2 Bc  kf    -     -          931   20    0 
+Muck_It   921894461  3  1 Bc  kf    -     -          911   20    0 
+Muck_It   921894473  3  3 c   b     b     rr         891  120    0 Tc Ks
+Muck_It   921894500  3  2 Br  brc   kc    kc         771  110    0 Ac Kc
+Muck_It   921894528  3  1 Bcc br    b     kf         661   70    0 
+Muck_It   921894554  3  3 f   -     -     -          591    0    0 
+Muck_It   921894570  3  2 Bc  k     c     c          591   70  170 6s 3c
+Muck_It   921894588  3  1 Bc  kc    k     kc         691   40   90 9h 6d
+Muck_It   921894608  3  3 cc  f     -     -          741   20    0 
+Muck_It   921894628  3  2 Br  r     b     b          721   90  180 9c Ah
+Muck_It   921894647  3  1 Bc  kf    -     -          811   10    0 
+Muck_It   921894671  3  3 cr  c     k     f          801   50    0 
+Muck_It   921894687  3  2 Bc  cc    f     -          751   60    0 
+Muck_It   921894712  3  1 Bc  kc    kr    b          691   90  190 Kh Qc
+Muck_It   921894734  3  3 r   bc    b     b          791   80  200 Kc Tc
+Muck_It   921894756  3  2 Br  rr    rr    f          911  150    0 
+Muck_It   921894776  4  1 Bc  kc    kc    kf         761   50    0 
+Muck_It   921894808  3  3 cc  k     c     k          711   40  100 Jd Qs
+Muck_It   921894832  3  2 Bc  c     f     -          771   30    0 
+Muck_It   921894845  3  1 Bc  bc    kf    -          741   40    0 
+Muck_It   921894866  3  3 cc  k     r     b          701   80  180 8c 3s
+Muck_It   921894888  3  2 Bk  b     -     -          801   20   30 
+Muck_It   921894904  3  1 Br  kc    kr    b          811   90  210 Kd Kc
+Muck_It   921894932  3  3 r   k     k     c          931   40    0 7c Ac
+Muck_It   921894950  3  2 Bk  k     k     k          891   10    0 4c Th
+Muck_It   921894969  3  1 Br  b     b     b          881   70    0 4c Ah
+Muck_It   921894994  3  3 r   b     b     bc         811   90    0 Ah 5c
+Muck_It   921895016  3  2 Bc  k     r     br         721  120  160 Ks 9h
+Muck_It   921895041  3  1 Bc  k     kf    -          761   10    0 
+Muck_It   921895061  3  3 c   f     -     -          751   10    0 
+Muck_It   921895083  3  2 Bk  kf    -     -          741   10    0 
+Muck_It   921895104  3  1 Bcc kr    k     br         731  110  250 Jd 8c
+Muck_It   921895138  3  3 r   b     -     -          871   30   70 
+Muck_It   921895158  3  2 Bk  k     k     k          911   10   20 Qh 5h
+Muck_It   921895167  3  1 Bc  kr    b     b          921   70    0 4h 3s
+Muck_It   921895190  3  3 cc  r     r     c          851  100    0 8c 6c
+Muck_It   921895220  3  2 Bk  k     k     f          751   10    0 
+Muck_It   921895238  3  1 Bc  kf    -     -          741   10    0 
+Muck_It   921895255  3  3 r   b     b     b          731   70  125 
+Muck_It   921895272  3  2 Br  b     b     b          786   80  170 Ad 8h
+Muck_It   921895286  3  1 Bc  kf    -     -          876   20    0 
+Muck_It   921895311  3  3 cc  f     -     -          856   20    0 
+Muck_It   921895329  3  2 Bc  c     k     k          836   40    0 9c 3c
+Muck_It   921895348  3  1 Bc  k     kr    br         796  110  310 Jd 9s
+Muck_It   921895377  3  3 c   c     c     f          996   40    0 
+Muck_It   921895395  3  2 Bk  b     b     r          956   80  150 
+Muck_It   921895424  3  1 Bc  kf    -     -         1026   10    0 
+Muck_It   921895441  3  3 f   -     -     -         1016    0    0 
+Muck_It   921895450  3  2 Bc  b     -     -         1016   30   70 
+Muck_It   921895460  3  1 Bc  kf    -     -         1056   10    0 
+Muck_It   921895481  3  3 c   b     b     -         1046   40   65 
+Muck_It   921895496  3  2 Bk  f     -     -         1071   10    0 
+Muck_It   921895511  3  1 Bc  kf    -     -         1061   10    0 
+Muck_It   921895539  3  3 c   r     b     rc        1051  110  230 Js Tc
+Muck_It   921895562  3  2 Br  b     b     b         1171   70  120 
+Muck_It   921895591  3  1 Br  bc    kf    -         1221   40    0 
+Muck_It   921895613  3  3 cc  c     r     r         1181  110    0 6c 3s
+Muck_It   921895631  3  2 Bc  r     r     f         1071   80    0 
+Muck_It   921895650  3  1 Bcc kf    -     -          991   20    0 
+Muck_It   921895667  3  3 cc  c     k     c          971   50    0 8d Qd
+Muck_It   921895685  3  2 Bc  r     r     c          921  100    0 Qh 8h
+Muck_It   921895714  3  1 Bc  k     kf    -          821   10    0 
+Muck_It   921895732  3  3 c   c     r     r          811  100  210 Ts 8s
+Muck_It   921895759  3  2 Bk  k     c     f          921   30    0 
+Muck_It   921895775  3  1 Br  bc    kc    kc         891   80    0 4h 4s
+Muck_It   921895797  3  3 c   k     k     k          811   10    0 4h 3h
+Muck_It   921895810  3  2 Br  f     -     -          801   30    0 
+Muck_It   921895824  3  1 Bc  b     bc    bc         771  110    0 6s 9d
+Muck_It   921895842  3  3 c   c     k     k          661   30    0 6h Kh
+Muck_It   921895871  3  2 Bk  r     c     f          631   50    0 
+Muck_It   921895903  4  1 Bc  kcc   kf    -          581   30    0 
+Muck_It   921895942  4  4 cc  c     k     f          551   30    0 
+Muck_It   921895960  4  3 rc  b     b     bc         521  100  210 Tc 7s
+Muck_It   921895985  4  2 Br  b     b     b          631   70  140 Qc Ac
+Muck_It   921896007  4  1 Bc  kc    k     kf         701   20    0 
+Muck_It   921896089  4  4 c   f     -     -          681   10    0 
+Muck_It   921896121  4  3 c   r     b     b          671   70  150 6c Td
+Muck_It   921896142  3  1 Br  kr    bc    kf         751   90    0 
+Muck_It   921896160  3  1 Bc  kf    -     -          661   10    0 
+Muck_It   921896176  3  3 cc  c     c     k          651   50    0 Tc 7d
+Muck_It   921896199  3  2 Brc k     rr    rr         601  200    0 Th Kh
+Muck_It   921896234  3  1 Bc  b     b     b          401   70  150 9d 2c
+Muck_It   921896254  3  3 r   b     -     -          481   30   55 
+Muck_It   921896265  3  2 Br  r     bc    c          506  110    0 6c Jc
+Muck_It   921896284  3  1 Br  kf    -     -          396   30    0 
+Muck_It   921896307  3  3 cc  c     k     f          366   30    0 
+Muck_It   921896328  3  2 Br  r     b     b          336   90  180 Qh 7d
+Muck_It   921896345  3  1 Bcc kf    -     -          426   20    0 
+Muck_It   921896369  3  3 c   r     r     rr         406  150  285 
+Muck_It   921896397  3  2 Bc  k     f     -          541   20    0 
+Muck_It   921896406  3  1 Bc  kc    kc    kc         521   60  140 3d 6s
+Muck_It   921896448  3  3 r   c     c     f          601   50    0 
+Muck_It   921896473  3  2 Brc b     br    -          551  110  240 
+Muck_It   921896497  3  1 Bc  kf    -     -          681   10    0 
+Muck_It   921896525  3  3 c   r     c     f          671   50    0 
+Muck_It   921896541  3  2 Bk  f     -     -          621   10    0 
+Muck_It   921896565  3  1 Bc  b     b     kc         611   70  160 9h 4d
+Muck_It   921896596  3  3 cc  rc    c     c          701   90    0 7h 2c
+Muck_It   921896622  3  2 Br  c     k     r          611   70  160 7s 9s
+Muck_It   921896642  3  1 Bc  kf    -     -          701   10    0 
+Muck_It   921896667  3  3 c   c     c     r          691   80  170 7c 8d
+Muck_It   921896693  3  2 Br  r     c     c          781   90    0 Ks 6s
+Muck_It   921896726  3  1 Bc  b     bc    kc         691   80  170 8c Qs
+Muck_It   921896749  3  3 cc  rc    f     -          781   60    0 
+Muck_It   921896795  3  2 Br  rr    r     r          721  150  330 9d 9s
+Muck_It   921896823  3  1 Br  b     b     b          901   80  170 Ac Qc
+Muck_It   921896842  4  4 r   c     rr    -          991  100  185 4s 4h
+Muck_It   921896860  3  2 cc  c     rr    c         1076  130    0 Jh 2h
+Muck_It   921896899  4  2 Bc  bc    kc    k          946   60    0 6h Th
+Muck_It   921896928  4  1 Bc  krc   kf    -          886   40    0 
+Muck_It   921896945  3  3 c   b     b     b          846   60  140 Th 8h
+Muck_It   921896970  3  2 Bk  f     -     -          926   10    0 
+Muck_It   921896993  3  1 Br  -     -     -          916   20   30 
+Muck_It   921896998  3  3 c   Q     -     -          926   10    0 
+Muck_It   922050645  4  2 Bc  b     b     -         1000   50   85 
+Muck_It   922050674  3  1 Bcc krc   kc    bc        1035  130    0 2h Tc
+Muck_It   922050729  5  4 cc  f     -     -          905   30    0 
+Muck_It   922050766  5  3 cc  c     c     rr         875  130    0 6s Qc
+Muck_It   922050830  6  2 Bc  k     k     k          745   20    0 2s Ac
+Muck_It   922050888  7  1 Bc  kc    k     k          725   20    0 6s 9c
+Muck_It   922050950  7  7 f   -     -     -          705    0    0 
+Muck_It   922050996  8  7 rr  br    b     bc         705  130    0 As 6s
+Muck_It   922051035  7  5 f   -     -     -          575    0    0 
+Muck_It   922051068  6  3 cc  br    b     b          575   90  300 3d Ks
+Muck_It   922051137  7  2 Bc  bc    kf    -          785   40    0 
+Muck_It   922051166  8  1 Bc  kf    -     -          745   20    0 
+Muck_It   922051202  8  8 rc  k     c     f          725   50    0 
+Muck_It   922051254  8  7 r   b     k     k          675   30    0 Ts Ah
+Muck_It   922051292  9  7 cc  k     c     c          645   90    0 Jd 7d
+Muck_It   922051361  9  7 cc  brc   krr   b          555  160    0 Kc 6s
+Muck_It   922051437  9  5 cc  krc   bc    r          395  130    0 Td 7c
+Muck_It   922051541 10  4 cc  c     ccc   k          265  130    0 Jd 6c
+Muck_It   922051626 10  3 cc  kf    -     -          135   20    0 
+Muck_It   922051723 10  2 Bf  Q     -     -          115   10    0 
+Muck_It   922061985  4  4 c   k     k     f          255   10    0 
+Muck_It   922062012  4  3 c   kQ    -     -          245   10    0 
+Muck_It   922062386  4  4 c   k     c     c          987   50    0 7h 8s
+Muck_It   922062414  4  3 cc  kf    -     -          930   20    0 
+Muck_It   922062452  4  2 Bk  k     k     k          910   10    0 3s 6d
+Muck_It   922062493  5  1 Bc  kc    k     k          900   30    0 Kd 3h
+Muck_It   922062530  5  5 c   r     r     k          870   70    0 Jd Tc
+Muck_It   922062572  4  3 c   k     k     k          800   10    0 3h 6d
+Muck_It   922062601  4  2 Bk  k     k     k          790   10    0 8h 3s
+Muck_It   922062634  4  1 Bc  k     k     kc         780   30   35 6c 8c
+Muck_It   922062676  5  5 r   b     b     b          785   70  155 
+Muck_It   922062732  5  4 r   r     b     k          870   60    0 4d Jc
+Muck_It   922062785  6  3 cc  kcc   kc    kc         810  120    0 Ks 8h
+Muck_It   922062829  6  2 Bk  c     kf    -          690   20    0 
+Muck_It   922062910  6  1 Bc  kf    -     -          670   20    0 
+Muck_It   922062936  6  6 c   f     -     -          650   10    0 
+Muck_It   922062987  6  5 f   -     -     -          640    0    0 
+Muck_It   922063029  6  4 r   r     b     r          640  100  320 4s 4h
+Muck_It   922063099  6  3 f   -     -     -          810    0    0 
+Muck_It   922063138  8  2 Bk  k     k     b          800   30   60 
+Muck_It   922063183  8  1 Bc  kc    kf    -          830   40    0 
+Muck_It   922063240  8  8 f   -     -     -          760    0    0 
+Muck_It   922063291  8  7 cc  f     -     -          720   40    0 
+Muck_It   922063352  7  5 cc  kc    kc    kf         660   50    0 
+Muck_It   922063420  7  4 r   k     f     -          810   20    0 
+Muck_It   922063462  8  4 cc  kf    -     -          790   30    0 
+Muck_It   922063541  9  4 c   kf    -     -          750   10    0 
+Muck_It   922063630  9  3 crc kc    kf    -          740   50    0 
+Muck_It   922063704 10  2 Bc  kc    br    b          690  110  235 8h Th
+Muck_It   922063835 10  1 Bcc kf    -     -          965   40    0 
+Muck_It   922063905 10 10 f   -     -     -         1095    0    0 
+Muck_It   922063962 10  9 rc  c     c     f         1095   70    0 
+Muck_It   922063997 10  8 cc  f     -     -         1005   20    0 
+Muck_It   922064064 10  7 f   -     -     -          985    0    0 
+Muck_It   922064171  9  5 cc  kc    kf    -          975   30    0 
+Muck_It   922064229  9  4 f   -     -     -          945    0    0 
+Muck_It   922064267  9  3 c   kc    kc    kr         945   90  305 6d 5d
+Muck_It   922064309  9  2 Bc  kf    -     -         1160   20    0 
+Muck_It   922064378  9  1 Bc  kf    -     -         1140   20    0 
+Muck_It   922064426  8  8 cc  c     f     -         1100   30    0 
+Muck_It   922064475  8  5 Q   -     -     -         1070    0    0 
+Muck_It   922214586  3  2 Bk  k     k     k          637   10    0 5s 6h
+Muck_It   922214625  2  1 Br  b     -     -          627   30   50 
+Muck_It   922214633  2  2 Bk  b     -     -          647   20   30 
+Muck_It   922214639  2  1 Bc  kf    -     -          657   10    0 
+Muck_It   922214645  2  2 Br  bf    -     -          647   30    0 
+Muck_It   922214658  2  1 Br  -     -     -          617   20   30 
+Muck_It   922214661  2  2 Bk  c     k     k          627   20   40 Qh Kh
+Muck_It   922214673  2  1 Br  b     -     -          647   30   50 
+Muck_It   922214681  2  2 Br  r     b     rf         667  100    0 
+Muck_It   922214698  2  1 Bc  -     -     -          567   10   20 
+Muck_It   922214701  2  2 Bk  k     b     -          577   30   40 
+Muck_It   922214714  2  1 Bc  -     -     -          587   10   20 
+Muck_It   922214719  2  2 Bk  b     b     b          597   60  100 
+Muck_It   922214736  2  1 Br  bc    kc    kc         637   80    0 7c Jh
+Muck_It   922214754  2  2 Bk  k     k     f          557   10    0 
+Muck_It   922214769  2  1 Br  b     -     -          547   30   50 
+Muck_It   922214776  2  2 Br  b     -     -          567   30   50 
+Muck_It   922214788  2  1 Bc  bc    k     k          587   30    0 5d 8s
+Muck_It   922214805  2  2 Bk  f     -     -          557   10    0 
+Muck_It   922214814  2  1 Bf  -     -     -          547    5    0 
+Muck_It   922214817  2  2 Bk  k     c     k          542   30    0 2d Js
+Muck_It   922214831  2  1 Br  -     -     -          512   20   30 
+Muck_It   922214838  2  2 Br  k     k     k          522   20   40 As Qh
+Muck_It   922214852  2  1 Br  -     -     -          542   20   30 
+Muck_It   922214858  2  2 B   -     -     -          552   10   15 
+Muck_It   922214861  2  1 Br  -     -     -          557   20   30 
+Muck_It   922214864  2  2 Bk  b     -     -          567   20   30 
+Muck_It   922214873  2  1 Bc  -     -     -          577   10   20 
+Muck_It   922214878  2  2 Br  rr    b     b          587  100  180 
+Muck_It   922214900  2  1 Bc  b     b     b          667   60  100 
+Muck_It   922214916  2  2 Br  k     b     -          707   40   60 
+Muck_It   922214926  2  1 Bc  kc    kf    -          727   20    0 
+Muck_It   922214938  2  2 Br  c     c     f          707   50    0 
+Muck_It   922214953  2  1 Bc  kf    -     -          657   10    0 
+Muck_It   922214960  2  2 Brc c     r     b          647  100  200 8d Ad
+Muck_It   922214978  2  1 Bc  -     -     -          747   10   20 
+Muck_It   922214985  2  2 Br  k     b     -          757   40   60 
+Muck_It   922214998  2  1 Bf  -     -     -          777    5    0 
+Muck_It   922215002  2  2 Br  k     c     k          772   40    0 Kd 4c
+Muck_It   922215016  2  1 Br  b     -     -          732   30   50 
+Muck_It   922215025  2  2 Br  r     b     -          752   60  100 
+Muck_It   922215038  2  1 Bc  b     -     -          792   20   30 
+Muck_It   922215046  2  2 B   -     -     -          802   10   15 
+Muck_It   922215048  2  1 Bc  kf    -     -          807   10    0 
+Muck_It   922215053  2  2 Bk  k     br    rr         797  150  300 2h Jh
+Muck_It   922215082  2  1 Br  b     -     -          947   30   50 
+Muck_It   922215093  2  2 Br  rc    k     k          967   50    0 8c 7c
+Muck_It   922215108  2  1 Bf  -     -     -          917    5    0 
+Muck_It   922215114  2  2 Bk  b     -     -          912   20   30 
+Muck_It   922215122  2  1 Br  -     -     -          922   20   30 
+Muck_It   922215125  2  2 B   -     -     -          932   10   15 
+Muck_It   922215128  2  1 Bc  k     k     kf         937   10    0 
+Muck_It   922215139  2  2 B   -     -     -          927   10   15 
+Muck_It   922215141  2  1 Br  kf    -     -          932   20    0 
+Muck_It   922215148  2  2 B   -     -     -          912   10   15 
+Muck_It   922215151  2  1 Br  brc   bc    kc         917  120    0 Ac 9d
+Muck_It   922215171  2  2 Bk  k     k     c          797   30    0 9s 2c
+Muck_It   922215190  2  1 Bc  b     b     b          767   60    0 7s 9s
+Muck_It   922215211  2  2 Bk  k     k     f          707   10    0 
+Muck_It   922215227  2  1 Bc  k     k     k          697   10    0 6d 8h
+Muck_It   922215245  2  2 Bk  b     rf    -          687   60    0 
+Muck_It   922215262  2  1 Br  -     -     -          627   20   30 
+Muck_It   922215266  2  2 Bk  k     k     k          637   10    0 9h 2h
+Muck_It   922215279  2  1 Bf  -     -     -          627    5    0 
+Muck_It   922215283  2  2 Br  b     -     -          622   30   50 
+Muck_It   922215293  2  1 Bc  b     b     b          642   60    0 7c 4s
+Muck_It   922215308  2  2 B   -     -     -          582   10   15 
+Muck_It   922215314  2  1 Bc  k     k     kf         587   10    0 
+Muck_It   922215325  2  2 B   -     -     -          577   10   15 
+Muck_It   922215328  2  1 Bc  k     kc    kf         582   30    0 
+Muck_It   922215341  2  2 Bk  k     k     k          552   10    0 5d 3h
+Muck_It   922215351  2  1 Bc  k     k     kf         542   10    0 
+Muck_It   922215366  2  2 Br  -     -     -          532   20   30 
+Muck_It   922215371  2  1 Br  b     -     -          542   30   50 
+Muck_It   922215379  2  2 B   -     -     -          562   10   15 
+Muck_It   922215382  2  1 Br  b     b     b          567   70  140 2s Js
+Muck_It   922215393  2  2 Br  b     -     -          637   30   50 
+Muck_It   922215406  2  1 Bc  k     kf    -          657   10    0 
+Muck_It   922215416  2  2 Bk  c     c     k          647   40   80 7c 2s
+Muck_It   922215432  3  1 Bc  kf    -     -          687   20    0 
+Muck_It   922215456  3  3 c   b     b     -          667   40   65 
+Muck_It   922215472  3  2 Bk  kf    -     -          692   10    0 
+Muck_It   922215497  3  1 Br  k     b     b          682   60    0 Ad 7h
+Muck_It   922215521  3  3 r   f     -     -          622   20    0 
+Muck_It   922215545  3  2 Bk  rc    k     k          602   40    0 5d Kh
+Muck_It   922215577  3  1 Brc kc    krr   brc        562  220    0 Ad 6s
+Muck_It   922215625  3  3 cc  b     b     -          342   50  100 
+Muck_It   922215649  3  2 Brc b     b     -          392   70    0 Ts Tc
+Muck_It   922215678  4  1 Bc  kf    -     -          322   20    0 
+Muck_It   922215698  4  4 c   k     c     c          302   50    0 5s 8s
+Muck_It   922215720  4  3 cc  rc    rc    f          252  140    0 
+Muck_It   922215762  4  2 Bk  rc    c     c          112   80    0 8h 6s
+Muck_It   922215798  4  1 BrA -     -     -           32   32    0 Ts 2d
+Muck_It   922215864  5  4 c   kf    -     -         1000   20    0 
+Muck_It   922215886  5  3 c   kcc   kf    -          980   50    0 
+Muck_It   922215941  5  2 Bc  f     -     -          930   20    0 
+Muck_It   922215991  6  1 Bc  kf    -     -          910   10    0 
+Muck_It   922216027  6  6 c   rc    k     r          900   80    0 Qd Jd
+Muck_It   922216063  6  5 f   -     -     -          820    0    0 
+Muck_It   922216107  7  5 f   -     -     -          820    0    0 
+Muck_It   922216151  7  4 c   b     k     k          820   20    0 Ad 7h
+Muck_It   922216196  7  3 f   -     -     -          800    0    0 
+Muck_It   922216244  7  2 Bk  brc   k     cc         800   90    0 Th 6d
+Muck_It   922216294  7  1 Bf  -     -     -          710    5    0 
+Muck_It   922216347  6  6 c   f     -     -          705   10    0 
+Muck_It   922216375  6  5 c   f     -     -          695   10    0 
+Muck_It   922216429  7  6 c   k     k     k          685   20    0 6d Ah
+Muck_It   922216558  5  3 cc  bc    kc    bc         665  110    0 As 9h
+Muck_It   922216618  5  2 BQ  -     -     -          555   10    0 
+Muck_It   922218911  4  3 c   f     -     -          545   10    0 
+Muck_It   922218945  4  2 Br  b     b     -          535   50  100 
+Muck_It   922218991  4  1 Bf  -     -     -          585    5    0 
+Muck_It   922219043  4  4 f   -     -     -          580    0    0 
+Muck_It   922219060  4  3 f   -     -     -          580    0    0 
+Muck_It   922219098  4  2 Bf  -     -     -          580   10    0 
+Muck_It   922219128  4  1 Br  k     k     b          570   50  110 
+Muck_It   922219179  4  4 c   f     -     -          630   10    0 
+Muck_It   922219193  4  3 c   r     bc    c          620   90    0 Ad 8c
+Muck_It   922219243  4  2 Bc  k     f     -          530   20    0 
+Muck_It   922219279  4  1 Bc  kf    -     -          510   20    0 
+Muck_It   922219323  4  4 c   r     b     r          490   90    0 Kh Qs
+Muck_It   922219351  3  2 B   -     -     -          400   10   15 
+Muck_It   922219360  3  1 Br  b     k     br         405   90  190 3c Ks
+Muck_It   922219386  3  3 r   k     k     b          505   40   65 
+Muck_It   922219408  3  2 B   -     -     -          530   10   15 
+Muck_It   922219415  2  1 Br  -     -     -          535   20   30 
+Muck_It   922219422  2  2 Bk  b     b     k          545   40   80 Jh 2s
+Muck_It   922219454  2  1 Br  -     -     -          585   20   30 
+Muck_It   922219467  2  2 B   -     -     -          595   10   15 
+Muck_It   922219472  2  1 Bc  b     k     k          600   20   40 Kh Js
+Muck_It   922219504  2  2 Br  k     b     -          620   40   60 
+Muck_It   922219533  2  1 Br  b     b     b          640   70    0 6s 2s
+Muck_It   922219553  2  2 Bk  k     k     k          570   10   10 8c Qh
+Muck_It   922219580  2  1 Br  -     -     -          570   20   30 
+Muck_It   922219587  2  2 Bk  k     k     f          580   10    0 
+Muck_It   922219611  2  1 Bc  b     -     -          570   20   30 
+Muck_It   922219624  2  2 Br  b     -     -          580   30   50 
+Muck_It   922219640  2  1 Brc b     b     b          600   80    0 Td Qs
+Muck_It   922219672  2  2 Bk  k     k     k          520   10   20 6c 8d
+Muck_It   922219693  2  1 Bc  k     k     k          530   10    0 9d 4h
+Muck_It   922219711  2  2 Br  b     rc    f          520  100    0 
+Muck_It   922219755  2  1 Br  b     k     k          420   30   60 7s Qc
+Muck_It   922219787  2  2 Br  rc    c     c          450   90    0 7h Jh
+Muck_It   922219836  2  1 Bc  k     k     k          360   10   20 8c Qh
+Muck_It   922219894  2  2 B   -     -     -          370   10   15 
+Muck_It   922219903  2  1 Bc  k     k     kf         375   10    0 
+Muck_It   922219925  2  2 Bk  c     r     b          365   80  160 Qs 2c
+Muck_It   922219970  2  1 Bc  k     k     k          445   10    0 9s 8c
+Muck_It   922220001  2  2 B   -     -     -          435   10   15 
+Muck_It   922220009  2  1 Bc  b     b     b          440   60  120 Qd 7h
+Muck_It   922220036  3  3 c   k     b     -          500   30   45 
+Muck_It   922220055  3  2 Bk  c     k     k          515   20   50 Tc Js
+Muck_It   922220075  3  1 Bf  -     -     -          545    5    0 
+Muck_It   922220120  3  3 r   b     b     b          540   70   72 Qs Js
+Muck_It   922220144  3  2 Bc  c     r     b          542   90  210 As 7d
+Muck_It   922220179  3  1 Bc  b     b     b          662   60  130 9h 3h
+Muck_It   922220206  3  3 c   r     k     k          732   30   70 5d 6d
+Muck_It   922220232  3  2 B   -     -     -          772   10   15 
+Muck_It   922220240  2  1 Bc  k     k     k          777   10    0 4c 2h
+Muck_It   922220281  2  2 Bk  f     -     -          767   10    0 
+Muck_It   922220297  2  1 Bc  k     k     k          757   10   20 5d 8h
+Muck_It   922220324  2  2 Br  b     b     b          767   70  140 3h Qc
+Muck_It   922220370  2  1 Bc  k     k     k          837   10   20 5s Ts
+Muck_It   922220398  2  2 Bk  b     b     b          847   60    0 Js Ks
+Muck_It   922220438  2  1 Bc  k     b     -          787   30   40 
+Muck_It   922220454  2  2 Bc  c     c     f          797   50    0 
+Muck_It   922220520  2  1 Br  b     b     bc         747   90  180 3s Kd
+Muck_It   922220545  2  2 B   -     -     -          837   10   15 
+Muck_It   922220554  2  1 Bc  k     k     b          842   30   40 
+Muck_It   922220584  3  3 c   f     -     -          852   10    0 
+Muck_It   922220617  3  2 Bk  f     -     -          842   10    0 
+Muck_It   922220647  3  1 Bc  kf    -     -          832   20    0 
+Muck_It   922220660  3  3 c   b     -     -          812   20   35 
+Muck_It   922220668  3  2 Br  r     -     -          827   50   90 
+Muck_It   922220678  3  1 Br  b     b     b          867   80    0 9d Ks
+Muck_It   922220695  3  3 rc  f     -     -          787   30    0 
+Muck_It   922220706  3  2 Bf  -     -     -          757   10    0 
+Muck_It   922220710  3  1 Bc  kc    kr    b          747   90  190 Ks Ac
+Muck_It   922220724  3  3 c   c     k     f          847   20    0 
+Muck_It   922220778  3  2 Bc  r     -     -          827   40   70 
+Muck_It   922220788  3  1 Bc  kc    kr    b          857   90    0 7s 5h
+Muck_It   922220813  3  3 c   r     b     b          767   70    0 Kd Qd
+Muck_It   922220839  3  2 Bc  f     -     -          697   20    0 
+Muck_It   922220875  3  1 Bc  kc    k     k          677   30    0 Jc 9s
+Muck_It   922220906  3  3 cc  c     r     b          647   90  185 4d Kh
+Muck_It   922220926  3  2 Bk  k     k     k          742   10    0 4s Qh
+Muck_It   922220953  3  1 Bc  kf    -     -          732   20    0 
+Muck_It   922221012  3  3 c   cf    -     -          712   30    0 
+Muck_It   922221049  3  2 B   -     -     -          682   10   15 
+Muck_It   922221061  3  1 Bc  kc    kf    -          687   30    0 
+Muck_It   922221078  3  3 cc  f     -     -          657   20    0 
+Muck_It   922221108  3  2 B   -     -     -          637   10   15 
+Muck_It   922221116  3  1 Bc  kf    -     -          642   20    0 
+Muck_It   922221138  3  3 c   r     b     f          622   50    0 
+Muck_It   922221183  3  2 Bc  kQ    -     -          572   20    0 
+Muck_It   922251613  6  2 Bk  k     f     -          722   10    0 
+Muck_It   922251685  6  1 Bf  Q     -     -          842    5    0 
+Muck_It   922261481  3  2 Bc  k     k     k          145   30    0 5s Js
+Muck_It   922261508  3  1 Br  k     k     b          115   40   60 
+Muck_It   922261527  2  2 B   -     -     -          135   10   15 
+Muck_It   922261528  2  1 Br  br    b     b          140   90  180 9s Kd
+Muck_It   922261538  2  2 Bk  c     c     f          230   40    0 
+Muck_It   922261553  2  1 Br  b     -     -          190   30   50 
+Muck_It   922261559  2  2 Bk  k     b     b          210   50   80 
+Muck_It   922261569  2  1 Bc  b     -     -          240   20   30 
+Muck_It   922261575  2  2 B   -     -     -          250   10   15 
+Muck_It   922261576  2  1 Bc  k     kf    -          255   10    0 
+Muck_It   922261584  2  2 Bk  c     f     -          245   20    0 
+Muck_It   922261592  2  1 Bf  -     -     -          225    5    0 
+Muck_It   922261594  2  2 Brc c     b     b          220   90  180 Jd Qc
+Muck_It   922261605  2  1 Br  b     b     b          310   70  140 8s Kh
+Muck_It   922261618  2  2 Br  b     b     b          380   70  140 As 6h
+Muck_It   922261631  2  1 Bc  k     k     k          450   10    0 8h 4s
+Muck_It   922261643  2  2 Bc  b     b     -          440   50   80 
+Muck_It   922261654  2  1 Br  b     -     -          470   30   50 
+Muck_It   922261660  2  2 B   -     -     -          490   10   15 
+Muck_It   922261662  2  1 Br  -     -     -          495   20   30 
+Muck_It   922261665  2  2 Bk  f     -     -          505   10    0 
+Muck_It   922261669  2  1 Bc  b     -     -          495   20   30 
+Muck_It   922261675  2  2 Br  k     k     k          505   20   40 2d Ad
+Muck_It   922261684  2  1 Bc  bc    k     b          525   50   80 
+Muck_It   922261698  2  2 Bk  b     -     -          555   20   30 
+Muck_It   922323644 10 10 cc  rc    c     c          820  100    0 7h Ts
+Muck_It   922323749  9  8 c   rc    rc    r          720  150  390 Jd 9c
+Muck_It   922323819  9  7 rc  c     rr    rr         960  220    0 Jd Kh
+Muck_It   922323908  8  5 c   kc    kQ    -          740   20    0 
+Muck_It   922487345  7  3 c   b     b     -          715   40   70 
+Muck_It   922487377  7  2 Bk  b     b     -          745   40   60 
+Muck_It   922487394  7  1 Bc  kr    b     b          765   70    0 6d Ah
+Muck_It   922487419  8  7 c   k     f     -          695   10    0 
+Muck_It   922487470  8  6 f   -     -     -          685    0    0 
+Muck_It   922487534  7  4 f   -     -     -          685    0    0 
+Muck_It   922487612  6  3 f   -     -     -          685    0    0 
+Muck_It   922487643  6  2 Bk  k     k     k          685   10   30 Ah 2h
+Muck_It   922487687  4  1 Bc  bc    b     b          705   70    0 Ah Kc
+Muck_It   922487732  4  4 f   -     -     -          635    0    0 
+Muck_It   922487743  4  3 f   -     -     -          635    0    0 
+Muck_It   922487750  4  2 Bf  -     -     -          635   10    0 
+Muck_It   922487772  4  1 Bf  -     -     -          625    5    0 
+Muck_It   922487786  5  4 cc  br    brc   r          620  170    0 4s As
+Muck_It   922487839  5  3 c   f     -     -          450   10    0 
+Muck_It   922487877  6  2 B   -     -     -          440   10   15 
+Muck_It   922487894  6  1 Bc  kc    k     kQ         445   20    0 
+Muck_It   922506504  5  3 c   k     r     b          425   70  190 
+Muck_It   922506587  4  2 B   -     -     -          545   10   15 
+Muck_It   922506592  4  1 Bc  kc    bc    k          550   70  190 Qs 8c
+Muck_It   922506627  4  4 c   f     -     -          670   10    0 
+Muck_It   922506649  4  3 c   k     r     b          660   70  150 2d 7d
+Muck_It   922506677  4  2 Bc  kf    -     -          740   30    0 
+Muck_It   922506718  4  1 Bc  kr    bc    brc        710  170    0 9h 7s
+Muck_It   922506743  4  4 c   c     k     b          540   40  120 5s Td
+Muck_It   922506777  5  3 cc  bc    kf    -          620   40    0 
+Muck_It   922506804  5  2 Bk  f     -     -          580   10    0 
+Muck_It   922506822  5  1 Bc  kf    -     -          570   10    0 
+Muck_It   922506845  5  5 cc  r     b     b          560   80    0 8c 5h
+Muck_It   922506884  5  4 c   c     cc    k          480   60    0 6d 9c
+Muck_It   922506924  6  3 c   b     -     -          420   20   40 
+Muck_It   922506946  6  2 Bc  c     c     b          440   80    0 9s 3s
+Muck_It   922506984  6  1 Bc  kr    br    b          360  120    0 7c Qc
+Muck_It   922507027  6  6 cc  c     k     k          240   50    0 7d 8d
+Muck_It   922507070  6  5 r   k     k     k          190   20    0 Ac 6d
+Muck_It   922507096  6  4 c   kc    k     k          170   20    0 Kd 6d
+Muck_It   922507146  7  4 c   kc    kc    kc         150   90    0 Qh 6s
+Muck_It   922507197  7  3 r   b     bcA   -           60   60    0 4s 4c
+Muck_It   922507286  7  7 cc  c     c     c         1000   70  150 5s 3h
+Muck_It   922507310  6  5 c   c     c     k         1080   40    0 Qh 5d
+Muck_It   922507344  6  4 c   r     b     b         1040   80  240 6s 6d
+Muck_It   922507395  7  4 cc  rc    c     c         1200  100    0 8s 8c
+Muck_It   922507436  7  3 r   k     k     k         1100   20   55 Ac 3s
+Muck_It   922507460  7  2 Bc  b     b     bc        1135   90    0 Ts 5c
+Muck_It   922507526  7  1 Bc  kc    kr    br        1045  120  270 8s Ah
+Muck_It   922507578  7  7 c   f     -     -         1195   10    0 
+Muck_It   922507623  6  6 c   f     -     -         1185   10    0 
+Muck_It   922507647  6  5 c   r     b     b         1175   80  175 Ac Th
+Muck_It   922507673  6  4 cc  brc   b     bc        1270  120  285 Tc Kd
+Muck_It   922507709  6  3 c   c     c     f         1435   40    0 
+Muck_It   922507738  6  2 Bk  k     k     f         1395   10    0 
+Muck_It   922507766  5  1 Bcc k     kc    kf        1385   80    0 
+Muck_It   922507806  5  5 c   k     k     k         1305   10    0 As Js
+Muck_It   922507835  5  4 c   k     k     k         1295   10    0 Ad 3c
+Muck_It   922507869  5  3 cc  rc    c     cQ        1285   90    0 
+Muck_It   922508048  5  2 Bc  c     cf    -         1195   50    0 
+Muck_It   922508085  5  1 Bc  kc    kc    kc        1145   70    0 6d 6s
+Muck_It   922508116  6  5 c   f     -     -         1075   20    0 
+Muck_It   922508155  6  4 c   kf    -     -         1055   10    0 
+Muck_It   922508190  6  3 f   -     -     -         1045    0    0 
+Muck_It   922508217  6  2 Bc  k     c     f         1045   50    0 
+Muck_It   922508256  6  1 Bc  k     kc    kf         995   30    0 
+Muck_It   922508309  6  6 rc  bc    c     r          965  140    0 8h Jd
+Muck_It   922508350  6  5 c   k     b     b          825   50  120 
+Muck_It   922508400  6  4 c   k     k     kf         895   10    0 
+Muck_It   922508454  6  3 f   -     -     -          885    0    0 
+Muck_It   922508506  6  2 Bk  f     -     -          885   10    0 
+Muck_It   922508563  6  1 Bcc bf    -     -          875   30    0 
+Muck_It   922508607  6  6 c   k     k     f          845   10    0 
+Muck_It   922508678  6  5 c   k     c     k          835   30    0 Qh 5c
+Muck_It   922508708  8  4 f   -     -     -          805    0    0 
+Muck_It   922508773  8  3 f   -     -     -          805    0    0 
+Muck_It   922508859  8  2 Bc  k     k     k          805   20    0 4c 7s
+Muck_It   922508906  8  1 Bc  kc    kf    -          785   60    0 
+Muck_It   922508972  8  8 c   b     -     -          725   20   50 
+Muck_It   922509011  8  7 c   f     -     -          755   10    0 
+Muck_It   922509031  8  6 c   rr    c     c          745   90    0 6c Ks
+Muck_It   922509091  8  5 f   -     -     -          655    0    0 
+Muck_It   922509131  8  3 c   f     -     -          655   10    0 
+Muck_It   922509160  9  2 Bk  c     kf    -          645   20    0 
+Muck_It   922509237  9  1 Bf  -     -     -          625    5    0 
+Muck_It   922509316  9  9 f   -     -     -          620    0    0 
+Muck_It   922509401  9  8 f   -     -     -          620    0    0 
+Muck_It   922509458  8  6 f   -     -     -          620    0    0 
+Muck_It   922509537 10  8 f   -     -     -          620    0    0 
+Muck_It   922509645  9  6 c   c     k     c          620   50    0 Td Qc
+Muck_It   922509710  9  5 f   -     -     -          570    0    0 
+Muck_It   922509761  9  4 f   -     -     -          570    0    0 
+Muck_It   922509875  9  3 c   bc    brc   kc         570  130    0 9h Ac
+Muck_It   922509949 10  2 Bf  -     -     -          440   10    0 
+Muck_It   922510049  9  1 Bc  kQ    -     -          430   20    0 
+Muck_It   922873247  8  6 c   bf    -     -          353   20    0 
+Muck_It   922873321  7  4 crc c     f     -          333   50    0 
+Muck_It   922873356  6  3 f   -     -     -          283    0    0 
+Muck_It   922873399  6  2 Br  bc    kf    -          283   40    0 
+Muck_It   922873472  7  1 Bc  kc    kf    -          243   20    0 
+Muck_It   922873516  9  8 c   k     r     b          223   70    0 Kd 9s
+Muck_It   922873592 10  7 cf  -     -     -          153   10    0 
+Muck_It   922873713 10  6 f   -     -     -          143    0    0 
+Muck_It   922873806  9  4 c   f     -     -          143   10    0 
+Muck_It   922873908  8  3 f   -     -     -          133    0    0 
+Muck_It   922873963  8  2 Bk  kf    -     -          133   10    0 
+Muck_It   922874022  8  1 Br  kc    b     krrA       123  123  286 7d 5h
+Muck_It   922874079  8  8 cc  b     b     k          286   60    0 Ts 8s
+Muck_It   922874140  7  6 r   cc    cc    f          226  130    0 
+Muck_It   922874198  7  5 cc  f     -     -           96   30    0 
+Muck_It   922874267  7  4 cc  brc   bA    -           66   66  248 3h Qh
+Muck_It   922874347  7  3 c   b     b     b          248   60    0 6d Jd
+Muck_It   922874388  7  2 BQ  -     -     -          188   10    0 
+Muck_It   922916580  2  1 Bk  k     b     b          178   50   80 
+Muck_It   922916599  3  1 Bcc kcc   kcc   krAQ       208  208    0 
+Muck_It   922916730  4  3 f   -     -     -         1000    0    0 
+Muck_It   922916792  5  2 Bcc c     c     rc        1000  130    0 Jc 5c
+Muck_It   922916894  4  1 Bc  krr   krr   -          870  140  280 
+Muck_It   922917019  3  3 c   c     c     rr        1010  130  250 
+Muck_It   922917043  3  3 cc  f     -     -         1130   20    0 
+Muck_It   922917056  2  2 Bc  c     c     r         1110   90  160 
+Muck_It   922917072  2  1 Bcrc brc   br    kr        1180  180  360 8d As
+Muck_It   922917109  2  2 Br  -     -     -         1360   25   10 4h Ac
+Muck_It   922917115  2  1 Brr -     -     -         1345   40   10 7s 8h
+Muck_It   922917122  2  2 Brc r     -     -         1315   60  110 
+Muck_It   922917140  2  1 Br  -     -     -         1365   20   30 2s 3h
+Muck_It   922917209  2  2 BQ  -     -     -         1375   10    0 

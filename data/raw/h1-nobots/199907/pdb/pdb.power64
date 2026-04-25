@@ -1,0 +1,14 @@
+power64   933059492  3  1 Bcc br    br    br        1000  240  660 
+power64   933059596  3  3 rc  rc    rc    r         1420  200  540 
+power64   933059645  3  2 Br  rc    rc    r         1760  200  540 
+power64   933059682  3  1 Brc brc   br    br        2100  240  720 8s Td
+power64   933059731  3  3 rc  rf    -     -         2580   70    0 
+power64   933059767  3  2 Br  rc    rc    r         2510  200  540 
+power64   933059809  3  1 Brc bc    b     -         2850   90   15 3h Kd
+power64   933059836  3  3 rc  rc    rr    b         2775  175  240 8h 9d
+power64   933059874  3  2 Br  -     -     -         2840   40   90 
+power64   933059890  3  1 B   -     -     -         2890    5   15 
+power64   933060003  3  1 Brc br    br    br        2900  240  660 
+power64   933060068  3  3 rc  rc    rc    r         3320  220  600 
+power64   933060117  3  2 Br  rc    rc    rc        3700  240  720 2s 5h
+power64   933060163  3  1 Brc br    br    br        4180  240  660 

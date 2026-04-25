@@ -1,0 +1,72 @@
+CCall     930968477  2  1 Brr brf   -     -          970   70    0 
+CCall     930968498  2  2 Brc rr    rr    r          900  200  380 
+CCall     930968530  2  1 Brr brc   brc   br        1080  220  420 
+CCall     930968559  2  2 Br  rr    rr    r         1280  190  360 
+CCall     930968595  2  1 Brr br    b     -         1450   90  160 
+CCall     930968609  2  2 Brc r     -     -         1520   60  110 
+CCall     930968625  2  1 Brr br    br    br        1570  190  360 
+CCall     930968647  2  2 Br  rr    rr    r         1740  190  360 
+CCall     930968668  2  1 Brr b     b     -         1910   70  120 
+CCall     930968680  2  2 B   -     -     -         1960   10    0 5s 2d
+CCall     930968683  2  1 Br  -     -     -         1950   20   40 5h 3c
+CCall     930968697  2  1 Brr br    br    kr        1970  170  320 
+CCall     930968716  2  2 Br  r     r     r         2120  120  220 
+CCall     930968730  2  1 Brr br    b     brc       2220  170  340 8h 3h
+CCall     930968756  2  2 Brc brc   rr    r         2390  200  380 
+CCall     930968785  2  1 Brr br    brc   br        2570  210  400 
+CCall     930968808  2  2 Br  r     brc   c         2760  150  300 4d 6c
+CCall     930968833  2  1 Brr b     b     -         2910   70  120 
+CCall     930968846  2  2 B   -     -     -         2960   10   20 Td Th
+CCall     930968857  2  1 Brr br    brc   br        2970  210  400 
+CCall     930968887  2  2 B   -     -     -         3160   10   15 
+CCall     931753423  2  1 Brr br    br    br        1117  190  360 
+CCall     931753446  2  2 Br  r     rr    r         1287  170  320 
+CCall     931753464  2  1 Brr br    brc   br        1437  210  400 
+CCall     931753491  2  2 Brc br    rr    r         1627  190  360 
+CCall     931753522  2  1 Brr br    br    -         1797  130  240 
+CCall     931753545  2  2 Br  -     -     -         1907   25   10 Jd 8c
+CCall     931753548  2  1 Br  b     -     -         1892   30   50 
+CCall     931753559  2  2 B   -     -     -         1912   10   20 As Kd
+CCall     931753569  2  1 Brr b     brc   br        1922  190  360 
+CCall     931753594  2  2 Br  r     rr    r         2092  170  320 
+CCall     931753613  2  1 Brr br    brf   -         2242  130    0 
+CCall     931753633  2  2 Br  rr    rr    r         2112  190  360 
+CCall     931753656  2  1 Br  b     brc   br        2282  170  320 
+CCall     931753674  2  2 Br  rr    rr    r         2432  190  360 
+CCall     931753702  2  1 Brr br    brc   br        2602  210  400 
+CCall     931753726  2  2 Brc r     rr    -         2792  140  260 
+CCall     931753752  2  1 Br  -     -     -         2912   20   10 2d 8h
+CCall     931753758  2  2 Br  -     -     -         2902   30   50 Js 3c
+CCall     931753775  2  1 Br  br    br    br        2922  170  320 
+CCall     931753795  2  2 Brc r     rr    rr        3072  220  420 
+CCall     931753824  2  1 Br  br    br    br        3272  170  320 
+CCall     931753846  2  2 Br  r     rr    rr        3422  210  400 
+CCall     931753872  2  1 Brr br    brc   br        3612  210  400 
+CCall     931753900  2  2 Br  brc   r     b         3802  120  220 
+CCall     931753927  2  1 Br  -     -     -         3902   20   40 Js 7c
+CCall     932285583  2  2 Brc br    rr    br        2339  210  400 
+CCall     932285616  2  1 Brr b     b     br        2529  130  240 
+CCall     932285632  2  2 Br  r     rr    r         2639  170  320 
+CCall     932285651  2  1 Brr br    br    b         2789  150  280 
+CCall     932285669  2  2 Br  r     b     r         2919  110  200 
+CCall     932285683  2  1 Brr br    brc   br        3009  210  400 
+CCall     932285708  2  2 Br  r     r     r         3199  130  240 
+CCall     932285722  2  1 Br  b     -     -         3309   30    0 8d Qs
+CCall     932285729  2  2 Br  rr    -     -         3279   60  120 6c Js
+CCall     932285753  2  2 Br  r     r     b         3339  110  200 
+CCall     932285775  2  1 Br  bc    br    b         3429  120  220 
+CCall     932285802  3  2 Br  k     r     r         3529  100  200 
+CCall     932285833  3  1 Bf  -     -     -         3629    5    0 
+CCall     932285838  3  3 rc  f     -     -         3624   30    0 
+CCall     932285861  3  2 Brc k     r     -         3594   80  180 
+CCall     932285892  3  1 Br  b     k     k         3694   30    0 Td Qc
+CCall     932285928  3  3 r   b     b     b         3664   70  125 
+CCall     932285958  3  2 Brc krr   br    b         3719  160  340 
+CCall     932285997  3  1 Bc  kc    kc    b         3899   70  150 
+CCall     932286039  3  3 r   r     r     b         3979  100  185 
+CCall     932286056  3  2 Br  r     b     k         4064   70    0 Ad 7d
+CCall     932286076  3  1 Br  b     kc    k         3994   60  160 2d 3h
+CCall     932286105  3  3 r   b     b     b         4094   70  170 
+CCall     932286138  3  2 Bc  f     -     -         4194   20    0 
+CCall     932286161  3  1 Brr bf    -     -         4174   50    0 
+CCall     932286183  3  3 Q   -     -     -         4124    0    0 

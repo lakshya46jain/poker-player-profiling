@@ -1,0 +1,32 @@
+jerkjoint 918367705  9  9 f   -     -     -         1135    0    0 
+jerkjoint 918367792  9  8 f   -     -     -         1135    0    0 
+jerkjoint 918367858  9  7 r   f     -     -         1135   60    0 
+jerkjoint 918367918  8  5 f   -     -     -         1075    0    0 
+jerkjoint 918367974  8  4 f   -     -     -         1075    0    0 
+jerkjoint 918368051  8  3 rc  f     -     -         1075   50    0 
+jerkjoint 918368100  9  2 Bf  -     -     -         1025   10    0 
+jerkjoint 918368164  9  1 Bf  -     -     -         1015    5    0 
+jerkjoint 918368244  9  9 r   c     f     -         1010   70    0 
+jerkjoint 918368346  9  8 f   -     -     -          940    0    0 
+jerkjoint 918368393  9  7 rc  rr    k     kc         940  120    0 Qs Qc
+jerkjoint 918368456  9  6 f   -     -     -          820    0    0 
+jerkjoint 918368497  9  5 f   -     -     -          820    0    0 
+jerkjoint 918368590  9  4 f   -     -     -          820    0    0 
+jerkjoint 918368676 10  3 f   -     -     -          820    0    0 
+jerkjoint 918368755  9  2 Br  cc    kcc   f          820  160    0 
+jerkjoint 918368842 10  1 Bf  -     -     -          660    5    0 
+jerkjoint 918368933  9  9 f   -     -     -          655    0    0 
+jerkjoint 918369010  9  8 r   c     c     c          655  120  575 4c 3c
+jerkjoint 918369084 10  8 f   -     -     -         1110    0    0 
+jerkjoint 918369170 10  7 f   -     -     -         1110    0    0 
+jerkjoint 918369203 10  6 f   -     -     -         1110    0    0 
+jerkjoint 918369270 10  5 f   -     -     -         1110    0    0 
+jerkjoint 918369425 10  4 f   -     -     -         1110    0    0 
+jerkjoint 918369495  8  2 f   -     -     -         1110    0    0 
+jerkjoint 918369586 10  2 Bf  -     -     -         1110   10    0 
+jerkjoint 918369718  9  1 Bf  -     -     -         1100    5    0 
+jerkjoint 918369848  9  9 f   -     -     -         1095    0    0 
+jerkjoint 918369978  8  7 rr  k     f     -         1095   40    0 
+jerkjoint 918370023  7  5 fQ  -     -     -         1055    0    0 
+jerkjoint 918512275  9  4 f   -     -     -         1055    0    0 
+jerkjoint 918512370  6  1 BQ  -     -     -         1055   10    0 

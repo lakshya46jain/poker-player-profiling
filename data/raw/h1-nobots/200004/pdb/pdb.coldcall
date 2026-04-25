@@ -1,0 +1,410 @@
+coldcall  955590411  9  7 f   -     -     -         1000    0    0 
+coldcall  955590503  8  6 f   -     -     -         1000    0    0 
+coldcall  955590567  7  4 c   b     b     b         1000   60    0 Js 4s
+coldcall  955590629  7  3 f   -     -     -          940    0    0 
+coldcall  955590668  7  2 Bf  -     -     -          940   10    0 
+coldcall  955590700  7  1 Br  k     bf    -          930   50    0 
+coldcall  955590799  8  8 rc  k     f     -          880   40    0 
+coldcall  955590923  9  8 f   -     -     -          840    0    0 
+coldcall  955590978  9  7 f   -     -     -          840    0    0 
+coldcall  955591086  9  6 f   -     -     -          840    0    0 
+coldcall  955591169 10  5 r   ccc   f     -          840   70    0 
+coldcall  955591271 10  4 c   r     b     rr         770  140  192 7s 6c
+coldcall  955591351 10  3 cc  c     cc    f          822   90    0 
+coldcall  955591427 10  2 Bf  -     -     -          732   10    0 
+coldcall  955591500 10  1 Bc  kf    -     -          722   11    0 
+coldcall  955591606 10 10 f   -     -     -          711    0    0 
+coldcall  955591656 10  9 c   f     -     -          711   20    0 
+coldcall  955591708 10  8 f   -     -     -          691    0    0 
+coldcall  955591788 10  7 f   Q     -     -          691    0    0 
+coldcall  956097261  7  5 cc  kf    -     -         1340   20    0 
+coldcall  956097308  8  4 f   -     -     -         1320    0    0 
+coldcall  956097393  8  3 cc  kc    kc    kc        1320   70    0 Ac 9h
+coldcall  956097452  8  2 Bc  kf    -     -         1250   20    0 
+coldcall  956097519  9  1 Bf  -     -     -         1230    5    0 
+coldcall  956097605  9  9 c   r     b     -         1225   50  120 
+coldcall  956097695  9  8 c   k     b     b         1295   60  160 
+coldcall  956097748 10  8 f   -     -     -         1395    0    0 
+coldcall  956097822 10  7 r   f     -     -         1395   20    0 
+coldcall  956097877 10  6 c   kf    -     -         1375   10    0 
+coldcall  956097935 10  5 f   -     -     -         1365    0    0 
+coldcall  956097966 10  4 f   -     -     -         1365    0    0 
+coldcall  956098007 10  3 fQ  -     -     -         1365    0    0 
+coldcall  956294117  8  5 cc  k     f     -         1000   20    0 
+coldcall  956294176  7  3 r   kf    -     -          980   20    0 
+coldcall  956294239  7  2 Bk  k     k     kf         960   10    0 
+coldcall  956294306  7  1 Bf  -     -     -          950    5    0 
+coldcall  956294335  7  7 f   -     -     -          945    0    0 
+coldcall  956294392  8  6 rc  r     rc    c          945  130    0 Ah 4h
+coldcall  956294475  8  5 c   c     r     rr         815  150  500 4s 5h
+coldcall  956294561  9  4 c   f     -     -         1165   10    0 
+coldcall  956294588 10  3 f   -     -     -         1155    0    0 
+coldcall  956294712 10  2 Bf  -     -     -         1155   10    0 
+coldcall  956294791 10  1 Br  kc    k     b         1145   50  180 
+coldcall  956294906 10 10 c   k     b     b         1275   50  120 
+coldcall  956294998 10  9 c   b     kc    kf        1345   40    0 
+coldcall  956295084 10  8 r   b     b     c         1305   70    0 Js Jc
+coldcall  956295216 10  7 f   -     -     -         1235    0    0 
+coldcall  956295396 10  6 r   c     c     c         1235   70    0 7s 7d
+coldcall  956295543  9  5 cc  kc    kf    -         1165   30    0 
+coldcall  956295631  9  4 c   b     b     b         1135   60    0 Ts Qh
+coldcall  956295678  9  2 Br  b     kf    -         1075   30    0 
+coldcall  956295771  9  1 Bf  -     -     -         1045    5    0 
+coldcall  956295815  9  9 r   rc    r     r         1040  140  445 Kc Kd
+coldcall  956295893  8  8 c   c     c     c         1345   80  139 8d 4c
+coldcall  956295954  7  6 c   k     b     -         1404   30   60 
+coldcall  956296014  7  6 c   r     c     c         1434   80  280 8s 7c
+coldcall  956296081  6  5 cc  f     -     -         1634   20    0 
+coldcall  956296111  6  4 c   k     r     b         1614   70  190 Ad 9d
+coldcall  956296190  6  3 ccc f     -     -         1734   40    0 
+coldcall  956296269  6  2 Bk  kf    -     -         1694   10    0 
+coldcall  956296296  6  1 Bf  -     -     -         1684    5    0 
+coldcall  956296333  6  6 rc  k     k     k         1679   30    0 3h Th
+coldcall  956296378  6  5 f   -     -     -         1649    0    0 
+coldcall  956296391  6  4 f   Q     -     -         1649    0    0 
+coldcall  956339303 10  3 f   -     -     -         1649    0    0 
+coldcall  956339365 10  2 Bc  k     b     b         1649   60    0 Qd 5d
+coldcall  956339421  9  1 Bc  k     b     -         1589   30   40 
+coldcall  956339481  8  8 f   -     -     -         1599    0    0 
+coldcall  956339574  7  6 f   -     -     -         1599    0    0 
+coldcall  956339632  7  5 rc  f     -     -         1599   40    0 
+coldcall  956339676  5  2 Bk  k     b     -         1559   30   45 
+coldcall  956339704  5  1 Bc  kf    -     -         1574   20    0 
+coldcall  956339722  5  5 rc  c     c     c         1554   80  165 6s 8c
+coldcall  956339756  5  4 f   -     Q     -         1639    0    0 
+coldcall  956531315  9  9 f   -     -     -         1107    0    0 
+coldcall  956531325  9  9 f   -     -     -         1107    0    0 
+coldcall  956531359  9  8 r   k     f     -         1107   20    0 
+coldcall  956531421  9  7 c   r     b     c         1087   80    0 Kd 8s
+coldcall  956531486 10  6 cc  c     f     -         1007   30    0 
+coldcall  956531545 10  5 f   -     -     -          977    0    0 
+coldcall  956531578 10  4 cc  kc    b     b          977   90    0 5h 9h
+coldcall  956531648 10  3 cc  f     -     -          887   20    0 
+coldcall  956531680 10  2 Bf  -     -     -          867   10    0 
+coldcall  956531701 10  1 Bc  kf    -     -          857   10    0 
+coldcall  956531743 10 10 f   -     -     -          847    0    0 
+coldcall  956531787 10  9 f   -     -     -          847    0    0 
+coldcall  956531824 10  8 f   -     -     -          847    0    0 
+coldcall  956531878 10  7 r   b     b     -          847   50  100 
+coldcall  956531913 10  6 Q   -     -     -          897    0    0 
+coldcall  956533149 10  2 Bk  kc    kf    -          897   20    0 
+coldcall  956533194 10  1 Bf  -     -     -          877    5    0 
+coldcall  956533298 10 10 f   -     -     -          872    0    0 
+coldcall  956533339  9  8 f   -     -     -          872    0    0 
+coldcall  956533411  9  7 f   -     -     -          872    0    0 
+coldcall  956533457 10  7 f   -     -     -          872    0    0 
+coldcall  956533485 10  6 cc  bc    br    b          872  120  485 4h 6h
+coldcall  956533557 10  5 cc  kf    -     -         1237   20    0 
+coldcall  956533607 10  5 c   f     -     -         1217   20    0 
+coldcall  956533673  8  4 r   b     kf    -         1197   30    0 
+coldcall  956533729  7  2 Bf  -     -     -         1167   10    0 
+coldcall  956533769  7  1 Bc  kf    -     -         1157   10    0 
+coldcall  956533816  7  7 c   f     -     -         1147   20    0 
+coldcall  956533895  7  6 r   f     -     -         1127   30    0 
+coldcall  956533954  7  5 f   -     -     -         1097    0    0 
+coldcall  956534031  9  5 r   b     b     b         1097   70  150 Jd Td
+coldcall  956534084  9  4 c   k     b     b         1177   50  130 
+coldcall  956534170  9  3 cc  kf    -     -         1257   20    0 
+coldcall  956534252 10  2 Bk  b     k     b         1237   40   60 Kh 9h
+coldcall  956534313 10  1 Br  bc    kf    -         1257   50    0 
+coldcall  956534383  9  9 f   -     -     -         1207    0    0 
+coldcall  956534447  9  8 f   -     -     -         1207    0    0 
+coldcall  956534512  9  8 KQ  -     -     -         1207    0    0 
+coldcall  956546437  8  6 f   -     -     -         1207    0    0 
+coldcall  956546499  9  6 f   -     -     -         1207    0    0 
+coldcall  956546587  9  5 f   -     -     -         1207    0    0 
+coldcall  956546641  8  3 f   -     -     -         1207    0    0 
+coldcall  956546661  8  2 Bk  b     br    kc        1207  100    0 5c 3d
+coldcall  956546757  9  1 Br  kf    -     -         1107   20    0 
+coldcall  956546838 10 10 c   f     -     -         1087   10    0 
+coldcall  956546943 10  9 f   -     -     -         1077    0    0 
+coldcall  956547015 10  8 f   -     -     -         1077    0    0 
+coldcall  956547093 10  7 f   -     -     -         1077    0    0 
+coldcall  956547177 10  6 r   k     bc    kc        1077  100    0 2d Ad
+coldcall  956547242 10  5 r   bc    rr    k          977  120  480 7h Ah
+coldcall  956547357  9  4 rc  b     k     b         1337   60    0 Td Kd
+coldcall  956547433 10  3 f   -     -     -         1277    0    0 
+coldcall  956547494 10  2 Bk  k     c     kc        1277   50    0 3c 2h
+coldcall  956547593 10  1 Br  bc    k     kf        1227   40    0 
+coldcall  956547651 10 10 c   k     cc    f         1187   50    0 
+coldcall  956547738 10  9 f   -     -     -         1137    0    0 
+coldcall  956547830 10  8 f   -     -     -         1137    0    0 
+coldcall  956547887 10  7 c   rc    c     f         1137   90    0 
+coldcall  956547961 10  6 f   -     -     -         1047    0    0 
+coldcall  956548005 10  5 c   k     f     -         1047   10    0 
+coldcall  956548084 10  4 r   b     b     b         1037   70  235 8c 9c
+coldcall  956548144 10  3 f   -     -     -         1202    0    0 
+coldcall  956548210 10  2 Bk  kf    -     -         1202   10    0 
+coldcall  956548280 10  1 Bc  kf    -     -         1192   10    0 
+coldcall  956548366 10 10 c   r     b     b         1182   70    0 3h 4d
+coldcall  956548467 10  9 c   kc    kc    kf        1112   40    0 
+coldcall  956548576 10  8 c   f     -     -         1072   10    0 
+coldcall  956548652 10  7 f   -     -     -         1062    0    0 
+coldcall  956548725 10  6 r   cc    k     f         1062   50    0 
+coldcall  956548805 10  5 r   k     k     kf        1012   20    0 
+coldcall  956548891 10  4 c   kc    k     kcf        992   40    0 
+coldcall  956549044 10  3 f   -     -     -          952    0    0 
+coldcall  956549129 10  2 Bk  kf    -     -          952   10    0 
+coldcall  956549183 10  1 Bf  -     -     -          942    5    0 
+coldcall  956549235 10 10 f   -     -     -          937    0    0 
+coldcall  956549314 10  9 f   -     -     -          937    0    0 
+coldcall  956549398 10  8 f   -     -     -          937    0    0 
+coldcall  956549519 10  7 f   -     -     -          937    0    0 
+coldcall  956549634 10  6 r   k     k     k          937   20  110 9c Ac
+coldcall  956549710 10  5 f   -     -     -         1027    0    0 
+coldcall  956549860 10  4 f   -     -     -         1027    0    0 
+coldcall  956550006  8  2 f   -     -     -         1027    0    0 
+coldcall  956550089  8  2 Bk  kf    -     -         1027   10    0 
+coldcall  956550150  7  1 Br  b     b     b         1017   70  160 
+coldcall  956550239  7  7 f   -     -     -         1107    0    0 
+coldcall  956550279  7  6 r   r     b     rc        1107  120    0 Jd Qc
+coldcall  956550349  8  6 f   Q     -     -          987    0    0 
+coldcall  956774416 10  6 c   c     f     -         2022   20    0 
+coldcall  956774492 10  5 f   -     -     -         2002    0    0 
+coldcall  956774542 10  4 f   -     -     -         2002    0    0 
+coldcall  956774592 10  3 f   -     -     -         2002    0    0 
+coldcall  956774655 10  2 Bk  kf    -     -         2002   10    0 
+coldcall  956774706 10  1 Bf  -     -     -         1992    5    0 
+coldcall  956774767 10 10 f   -     -     -         1987    0    0 
+coldcall  956774852 10  9 f   -     -     -         1987    0    0 
+coldcall  956774916 10  8 cc  f     -     -         1987   20    0 
+coldcall  956775021  9  7 f   -     -     -         1967    0    0 
+coldcall  956775082  8  5 cc  kf    -     -         1967   40    0 
+coldcall  956775170  8  4 f   -     -     -         1927    0    0 
+coldcall  956775226  8  3 c   b     b     bc        1927   80  123 5d Qd
+coldcall  956775287  9  2 Bf  -     -     -         1970   10    0 
+coldcall  956775375  9  1 Bf  -     -     -         1960    5    0 
+coldcall  956775438  8  8 r   b     b     b         1955   70    0 8s 9d
+coldcall  956775518  8  7 f   -     -     -         1885    0    0 
+coldcall  956775577  9  7 c   f     -     -         1885   20    0 
+coldcall  956775620  9  6 f   -     -     -         1865    0    0 
+coldcall  956775681  9  5 f   -     -     -         1865    0    0 
+coldcall  956775809  9  5 f   -     -     -         1865    0    0 
+coldcall  956775902  9  3 f   -     -     -         1865    0    0 
+coldcall  956775938  9  2 Bk  k     k     kf        1865   10    0 
+coldcall  956776025  9  1 Bc  kc    kc    kf        1855   50    0 
+coldcall  956776099  9  9 r   r     b     b         1805   80  230 
+coldcall  956776185  8  7 f   -     -     -         1955    0    0 
+coldcall  956776261  8  6 f   -     -     -         1955    0    0 
+coldcall  956776302  9  6 f   -     -     -         1955    0    0 
+coldcall  956776368  9  5 c   b     k     b         1955   40    0 5s 6s
+coldcall  956776439  9  4 f   -     -     -         1915    0    0 
+coldcall  956776495  9  3 cc  kf    -     -         1915   30    0 
+coldcall  956776572  9  2 Bk  kc    kf    -         1885   20    0 
+coldcall  956776664  9  1 Bf  -     -     -         1865    5    0 
+coldcall  956776742 10 10 r   c     f     -         1860   30    0 
+coldcall  956776861  9  8 f   -     -     -         1830    0    0 
+coldcall  956776938  9  7 f   -     -     -         1830    0    0 
+coldcall  956777000 10  7 c   c     c     b         1830   60  210 
+coldcall  956777064 10  6 r   kc    kf    -         1980   30    0 
+coldcall  956777125 10  5 f   -     -     -         1950    0    0 
+coldcall  956777206 10  4 f   -     -     -         1950    0    0 
+coldcall  956777257 10  3 f   -     -     -         1950    0    0 
+coldcall  956777315 10  2 Bk  kf    -     -         1950   10    0 
+coldcall  956777423 10  1 Bc  bc    b     b         1940   70  190 9h 9d
+coldcall  956777503 10 10 c   f     -     -         2060   10    0 
+coldcall  956777588  9  8 f   -     -     -         2050    0    0 
+coldcall  956777672 10  8 f   -     -     -         2050    0    0 
+coldcall  956777729 10  7 f   -     -     -         2050    0    0 
+coldcall  956777759  9  6 r   b     kf    -         2050   30    0 
+coldcall  956777823  9  5 f   -     -     -         2020    0    0 
+coldcall  956777876 10  4 f   -     -     -         2020    0    0 
+coldcall  956777920 10  3 f   -     -     -         2020    0    0 
+coldcall  956778065 10  2 Bf  -     -     -         2020   10    0 
+coldcall  956778127  9  1 Bc  k     k     k         2010   10    0 Jh 8s
+coldcall  956778177 10 10 f   -     -     -         2000    0    0 
+coldcall  956778249 10  9 f   -     -     -         2000    0    0 
+coldcall  956778300 10  8 r   f     -     -         2000   40    0 
+coldcall  956778359 10  7 f   -     -     -         1960    0    0 
+coldcall  956778405 10  6 cc  f     -     -         1960   20    0 
+coldcall  956778487 10  5 f   -     -     -         1940    0    0 
+coldcall  956778540 10  4 f   -     -     -         1940    0    0 
+coldcall  956778569 10  3 c   f     -     -         1940   10    0 
+coldcall  956778608 10  2 Bf  -     -     -         1930   10    0 
+coldcall  956778648 10  1 Bf  -     -     -         1920    5    0 
+coldcall  956778687  8  8 f   -     -     -         1915    0    0 
+coldcall  956778737  8  7 f   -     -     -         1915    0    0 
+coldcall  956778800  8  6 f   -     -     -         1915    0    0 
+coldcall  956778833  7  4 KQ  -     -     -         1915    0    0 
+coldcall  956778970  6  1 Bk  b     k     kc        1915   40    0 Ah 5s
+coldcall  956779010  5  1 Br  b     kf    -         1875   30    0 
+coldcall  956779048  5  5 f   -     -     -         1845    0    0 
+coldcall  956779099  5  4 rr  c     f     -         1845   50    0 
+coldcall  956779139  6  3 r   b     kf    -         1795   30    0 
+coldcall  956779194  6  2 Bk  b     k     k         1765   20    0 4d Ks
+coldcall  956779241  6  1 Bc  k     k     k         1745   10    0 Tc Qh
+coldcall  956779294  6  6 f   -     -     -         1735    0    0 
+coldcall  956779383  7  5 r   c     f     -         1735   30    0 
+coldcall  956779424  6  3 r   k     f     -         1705   20    0 
+coldcall  956779452  6  2 Bc  kf    -     -         1685   20    0 
+coldcall  956779478  6  1 Bc  kc    kc    kf        1665   50    0 
+coldcall  956779530  6  6 f   -     Q     -         1615    0    0 
+coldcall  956808055  9  8 c   c     f     -         1615   40    0 
+coldcall  956808168  9  7 c   cc    f     -         1575   50    0 
+coldcall  956808270 10  6 f   -     -     -         1525    0    0 
+coldcall  956808429  9  4 f   -     -     -         1525    0    0 
+coldcall  956808477  9  3 f   -     -     -         1525    0    0 
+coldcall  956808589 10  2 Bc  b     b     -         1525   50  210 
+coldcall  956808650 10  1 Bc  kf    -     -         1685   10    0 
+coldcall  956808717 10 10 f   -     -     -         1675    0    0 
+coldcall  956808854 10  9 cc  f     -     -         1675   20    0 
+coldcall  956808956  8  6 f   -     -     -         1655    0    0 
+coldcall  956809043  7  5 r   cf    -     -         1655   50    0 
+coldcall  956809124  9  6 f   -     -     -         1605    0    0 
+coldcall  956809200 10  5 cc  f     -     -         1605   20    0 
+coldcall  956809240 10  4 f   -     -     -         1585    0    0 
+coldcall  956809331 10  3 f   -     -     -         1585    0    0 
+coldcall  956809407 10  2 Bf  -     -     -         1585   10    0 
+coldcall  956809480 10  1 Bf  -     -     -         1575    5    0 
+coldcall  956809564 10 10 f   -     -     -         1570    0    0 
+coldcall  956809635 10  9 r   b     f     -         1570   30    0 
+coldcall  956809708 10  8 f   -     -     -         1540    0    0 
+coldcall  956809778 10  7 c   f     -     -         1540   20    0 
+coldcall  956809892 10  6 c   kf    -     -         1520   10    0 
+coldcall  956809983  9  4 f   -     -     -         1510    0    0 
+coldcall  956810092 10  5 c   kf    -     -         1510   10    0 
+coldcall  956810150  9  3 f   -     -     -         1500    0    0 
+coldcall  956810206  9  2 Bf  -     -     -         1500   10    0 
+coldcall  956810269  9  1 Bf  -     -     -         1490    5    0 
+coldcall  956810339  9  9 r   f     -     -         1485   20    0 
+coldcall  956810400 10  8 f   -     -     -         1465    0    0 
+coldcall  956810493 10  7 r   r     bf    -         1465   60    0 
+coldcall  956810589 10  6 f   -     -     -         1405    0    0 
+coldcall  956810642 10  5 cr  r     bc    kf        1405  100    0 
+coldcall  956810750 10  4 f   -     -     -         1305    0    0 
+coldcall  956810803  9  3 f   -     -     -         1305    0    0 
+coldcall  956810861  9  2 Bk  f     -     -         1305   10    0 
+coldcall  956810953 10  1 Bf  -     -     -         1295    5    0 
+coldcall  956811027  9  9 f   -     -     -         1290    0    0 
+coldcall  956811114  9  8 f   -     -     -         1290    0    0 
+coldcall  956811166  9  8 c   r     c     c         1290   90    0 6d Qd
+coldcall  956811254  8  6 cc  f     -     -         1200   20    0 
+coldcall  956811342  8  5 f   -     -     -         1180    0    0 
+coldcall  956811400  8  4 c   r     kc    b         1180   70    0 Ts 7h
+coldcall  956811474  9  3 f   -     -     -         1110    0    0 
+coldcall  956811543  9  2 Bk  bc    kc    kf        1110   50    0 
+coldcall  956811609  9  1 Bf  -     -     -         1060    5    0 
+coldcall  956811673  8  8 r   r     b     b         1055   90  405 4d 3d
+coldcall  956811768  9  8 f   -     -     -         1370    0    0 
+coldcall  956811845  9  8 r   c     c     c         1370   80  275 6h 6s
+coldcall  956811907  8  6 f   -     -     -         1565    0    0 
+coldcall  956811964  7  4 f   -     -     -         1565    0    0 
+coldcall  956812010  7  4 f   -     -     -         1565    0    0 
+coldcall  956812066  8  3 f   -     -     -         1565    0    0 
+coldcall  956812140  8  2 Bf  -     -     -         1565   10    0 
+coldcall  956812221  8  1 Bc  kc    k     k         1555   30    0 9h 8d
+coldcall  956812284  8  8 r   c     r     k         1525   70    0 Kh Jd
+coldcall  956812357  8  7 f   -     -     -         1455    0    0 
+coldcall  956812398  8  6 c   f     -     -         1455   20    0 
+coldcall  956812456  8  5 c   b     b     b         1435   60  200 Ac Jd
+coldcall  956812488  8  4 c   c     c     r         1575   80  270 Jh Jc
+coldcall  956812551  9  3 cf  -     -     -         1765   10    0 
+coldcall  956812635  9  2 Bf  -     -     -         1755   10    0 
+coldcall  956812709  8  1 Bf  -     -     -         1745    5    0 
+coldcall  956812760  9  9 f   -     -     -         1740    0    0 
+coldcall  956812814  9  8 f   -     -     -         1740    0    0 
+coldcall  956812868  9  7 f   -     -     -         1740    0    0 
+coldcall  956812927  9  6 f   -     -     -         1740    0    0 
+coldcall  956812972 10  5 f   -     -     -         1740    0    0 
+coldcall  956813032 10  4 r   cc    c     c         1740   90  355 Ah Kc
+coldcall  956813097 10  3 fQ  -     -     -         2005    0    0 
+coldcall  956847580 10 10 f   -     -     -         2005    0    0 
+coldcall  956847661 10  9 c   b     b     bc        2005   80  245 Td Ac
+coldcall  956847746 10  8 f   -     -     -         2170    0    0 
+coldcall  956847852 10  7 rr  c     k     f         2170   50    0 
+coldcall  956847947  9  6 f   -     -     -         2120    0    0 
+coldcall  956848024  6  3 r   bc    b     b         2120   80  170 Kc As
+coldcall  956848060  4  2 Bf  Q     -     -         2210   10    0 
+coldcall  956959257 10  3 cc  kf    -     -         1000   20    0 
+coldcall  956959346 10  2 Bc  kc    kf    -          980   30    0 
+coldcall  956959429 10  1 Bf  -     -     -          950    5    0 
+coldcall  956959540  9  9 r   c     c     c          945   80    0 3h Th
+coldcall  956959604  9  8 f   -     -     -          865    0    0 
+coldcall  956959650  9  7 c   f     -     -          865   20    0 
+coldcall  956959705  9  6 r   c     f     -          845   30    0 
+coldcall  956959792 10  6 f   -     -     -          815    0    0 
+coldcall  956959881 10  5 f   -     -     -          815    0    0 
+coldcall  956959956 10  4 f   -     -     -          815    0    0 
+coldcall  956960029 10  3 f   -     -     -          815    0    0 
+coldcall  956960112 10  2 Bk  c     b     k          815   40  170 7s Ks
+coldcall  956960168 10  1 Bc  kc    kc    kc         945   60  200 6h Th
+coldcall  956960246 10 10 r   c     f     -         1085   30    0 
+coldcall  956960314 10  9 c   f     -     -         1055   20    0 
+coldcall  956960408 10  8 f   -     -     -         1035    0    0 
+coldcall  956960478 10  7 c   f     -     -         1035   20    0 
+coldcall  956960540 10  6 f   -     -     -         1015    0    0 
+coldcall  956960619 10  5 r   r     b     b         1015   80  255 
+coldcall  956960686 10  4 rc  rc    kc    c         1190  110    0 Qh Qc
+coldcall  956960768 10  3 cc  kf    -     -         1080   20    0 
+coldcall  956960845 10  2 Bc  f     -     -         1060   20    0 
+coldcall  956960905 10  1 Bcc kf    -     -         1040   20    0 
+coldcall  956960984 10 10 c   f     -     -         1020   10    0 
+coldcall  956961034 10  9 r   f     -     -         1010   40    0 
+coldcall  956961085  9  8 f   -     -     -          970    0    0 
+coldcall  956961153 10  7 f   -     -     -          970    0    0 
+coldcall  956961230 10  6 r   c     f     -          970   30    0 
+coldcall  956961311 10  5 r   c     r     r          940  110  340 Ks Kc
+coldcall  956961376 10  4 f   -     -     -         1170    0    0 
+coldcall  956961439 10  3 f   -     -     -         1170    0    0 
+coldcall  956961595 10  2 Bf  -     -     -         1170   10    0 
+coldcall  956961625 10  1 Bc  kf    -     -         1160   10    0 
+coldcall  956961699  9  9 c   b     b     -         1150   40  100 
+coldcall  956961762 10  9 f   -     -     -         1210    0    0 
+coldcall  956961825  9  7 cc  c     c     f         1210   70    0 
+coldcall  956961877  9  6 rc  cc    c     c         1140  130    0 5h Ah
+coldcall  956962002 10  7 f   -     -     -         1010    0    0 
+coldcall  956962081  9  5 c   c     c     k         1010   40    0 9s Qh
+coldcall  956962142 10  4 f   -     -     -          970    0    0 
+coldcall  956962240 10  3 f   -     -     -          970    0    0 
+coldcall  956962299 10  2 Bk  f     -     -          970   10    0 
+coldcall  956962327 10  1 Bf  -     -     -          960    5    0 
+coldcall  956962379  9  9 r   rc    rc    bc         955  160    0 Qd Qh
+coldcall  956962462  9  9 rc  f     -     -          795   40    0 
+coldcall  956962519 10  8 c   b     b     k          755   40    0 Jc 9h
+coldcall  956962601 10  8 r   c     f     -          715   40    0 
+coldcall  956962679  9  6 r   b     b     b          675   70  180 
+coldcall  956962736  9  5 r   -     -     -          785   20   35 
+coldcall  956962750  9  4 fQ  -     -     -          800    0    0 
+coldcall  957030504  9  7 f   -     -     -         1500    0    0 
+coldcall  957030547  9  6 f   -     -     -         1500    0    0 
+coldcall  957030593  7  4 f   -     -     -         1500    0    0 
+coldcall  957030604  7  3 f   -     -     -         1500    0    0 
+coldcall  957030647  7  2 Bk  kf    -     -         1500   10    0 
+coldcall  957030665  7  1 Bf  -     -     -         1490    5    0 
+coldcall  957030682  8  8 r   b     k     b         1485   50    0 2h 2c
+coldcall  957030751  9  8 c   f     -     -         1435   10    0 
+coldcall  957030795  9  7 f   -     -     -         1425    0    0 
+coldcall  957030849  9  6 r   b     b     b         1425   70  175 Ad Ks
+coldcall  957030883  9  5 c   f     -     -         1530   10    0 
+coldcall  957030962  8  3 c   b     b     -         1520   40   90 
+coldcall  957031020  9  3 cc  kc    bc    kf        1570   70    0 
+coldcall  957031089  9  2 Bc  kf    -     -         1500   20    0 
+coldcall  957031135  9  1 Bf  -     -     -         1480    5    0 
+coldcall  957031183  9  9 f   -     -     -         1475    0    0 
+coldcall  957031221  9  8 f   -     -     -         1475    0    0 
+coldcall  957031279  9  7 f   -     -     -         1475    0    0 
+coldcall  957031329  9  6 f   -     -     -         1475    0    0 
+coldcall  957031374 10  6 r   b     b     b         1475   70  175 
+coldcall  957031424 10  5 c   kc    kc    kc        1580   60  145 Jd 9h
+coldcall  957031467 10  4 f   -     -     -         1665    0    0 
+coldcall  957031507  9  2 Bk  b     b     kc        1665   60    0 Qh 6h
+coldcall  957031560 10  1 Bc  kf    -     -         1605   10    0 
+coldcall  957031623 10 10 f   -     -     -         1595    0    0 
+coldcall  957031685 10  9 f   -     -     -         1595    0    0 
+coldcall  957031746 10  8 r   r     b     k         1595   60    0 Th Td
+coldcall  957031801  8  5 r   b     b     c         1535   80  215 Ah 5h
+coldcall  957031839  8  4 f   -     -     -         1670    0    0 
+coldcall  957031941  9  3 f   -     -     -         1670    0    0 
+coldcall  957032005  8  2 Bk  k     f     -         1670   10    0 
+coldcall  957032031  8  1 Bf  -     -     -         1660    5    0 
+coldcall  957032079  8  8 f   -     -     -         1655    0    0 
+coldcall  957032140  9  8 c   f     -     -         1655   10    0 
+coldcall  957032219  9  7 cKQ -     -     -         1645   20    0 
+coldcall  957040527  7  5 f   -     -     -         1625    0    0 
+coldcall  957040574  7  4 f   -     -     -         1625    0    0 
+coldcall  957040627  7  3 f   -     -     -         1625    0    0 
+coldcall  957040664  7  2 Br  -     -     -         1625   20   35 
+coldcall  957040685  7  1 Bc  b     -     -         1640   20   40 
+coldcall  957040712  7  7 f   -     -     -         1660    0    0 
+coldcall  957040781  7  6 f   -     -     -         1660    0    0 
+coldcall  957040813  7  5 fQ  -     -     -         1660    0    0 

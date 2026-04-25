@@ -1,0 +1,75 @@
+SpiceWorm 951246427  5  4 f   -     -     -         1000    0    0 
+SpiceWorm 951246446  6  3 f   -     -     -         1000    0    0 
+SpiceWorm 951246456  7  2 Bc  kf    -     -         1000   20    0 
+SpiceWorm 951246500  8  1 Bf  -     -     -          980    5    0 
+SpiceWorm 951246555  9  9 c   k     k     f          975   10    0 
+SpiceWorm 951246613 10  9 f   -     -     -          965    0    0 
+SpiceWorm 951246663 10  8 f   -     -     -          965    0    0 
+SpiceWorm 951246699  9  6 f   -     -     -          965    0    0 
+SpiceWorm 951246766 10  5 f   -     -     -          965    0    0 
+SpiceWorm 951246841 10  4 f   -     -     -          965    0    0 
+SpiceWorm 951246942 10  3 f   -     -     -          965    0    0 
+SpiceWorm 951247035 10  2 Bk  k     kf    -          965   10    0 
+SpiceWorm 951247082 10  1 Bf  -     -     -          955    5    0 
+SpiceWorm 951247122 10 10 f   -     -     -          950    0    0 
+SpiceWorm 951247183 10  9 f   -     -     -          950    0    0 
+SpiceWorm 951247218 10  8 f   -     -     -          950    0    0 
+SpiceWorm 951247292  9  6 f   -     -     -          950    0    0 
+SpiceWorm 951247360  9  5 f   -     -     -          950    0    0 
+SpiceWorm 951247393  9  4 f   -     -     -          950    0    0 
+SpiceWorm 951247441  9  3 cc  kf    -     -          950   20    0 
+SpiceWorm 951247489  8  1 Bc  kf    -     -          930   20    0 
+SpiceWorm 951247521  9  1 Bcr kf    -     -          910   40    0 
+SpiceWorm 951247603  8  8 r   f     -     -          870   40    0 
+SpiceWorm 951247654  8  8 r   c     c     k          830   70    0 9h Td
+SpiceWorm 951247725  7  6 cr  kf    -     -          760   40    0 
+SpiceWorm 951247822  8  6 f   -     -     -          720    0    0 
+SpiceWorm 951247880  7  5 f   -     -     -          720    0    0 
+SpiceWorm 951247931  7  4 f   -     -     -          720    0    0 
+SpiceWorm 951247999  8  3 f   -     -     -          720    0    0 
+SpiceWorm 951248025  8  2 Bc  r     b     k          720   60    0 2s 2d
+SpiceWorm 951248105  8  1 Bc  kf    -     -          660   10    0 
+SpiceWorm 951248170  6  6 f   -     -     -          650    0    0 
+SpiceWorm 951248228  7  6 f   -     -     -          650    0    0 
+SpiceWorm 951248274  7  5 f   -     -     -          650    0    0 
+SpiceWorm 951248337  7  4 f   -     -     -          650    0    0 
+SpiceWorm 951248383  7  3 f   -     -     -          650    0    0 
+SpiceWorm 951248484  7  2 Br  b     -     -          650   40  130 
+SpiceWorm 951248539  6  1 Br  k     k     k          740   20   80 Qc Ac
+SpiceWorm 951248583  6  6 f   -     -     -          800    0    0 
+SpiceWorm 951248606  6  5 f   -     -     -          800    0    0 
+SpiceWorm 951248637  6  4 f   -     -     -          800    0    0 
+SpiceWorm 951248675  6  3 f   Q     -     -          800    0    0 
+SpiceWorm 951285622  6  2 Bk  kc    k     b         1350   40  105 5s Js
+SpiceWorm 951285671  5  1 Bf  -     -     -         1415    5    0 
+SpiceWorm 951285685  5  5 r   k     f     -         1410   20    0 
+SpiceWorm 951285709  5  4 Q   -     -     -         1390    0    0 
+SpiceWorm 951412946  6  5 f   -     -     -         1390    0    0 
+SpiceWorm 951412975  6  4 f   -     -     -         1390    0    0 
+SpiceWorm 951413002  6  3 rc  kc    kc    k         1390   80    0 Ks Ad
+SpiceWorm 951413068  6  2 Bc  c     c     b         1310   70  160 7h Ac
+SpiceWorm 951413095  6  1 Bc  kf    -     -         1400   10    0 
+SpiceWorm 951413171  5  5 f   -     -     -         1390    0    0 
+SpiceWorm 951413183  5  4 f   -     -     -         1390    0    0 
+SpiceWorm 951413191  5  3 f   -     -     -         1390    0    0 
+SpiceWorm 951413223  5  2 Bk  k     k     k         1390   10    0 8h 4d
+SpiceWorm 951413252  5  1 Bc  kr    k     b         1380   60  150 Th Jh
+SpiceWorm 951413283  6  6 f   -     -     -         1470    0    0 
+SpiceWorm 951413311  6  5 rr  b     k     c         1470   70    0 9d 9s
+SpiceWorm 951413355  6  4 f   -     -     -         1400    0    0 
+SpiceWorm 951413401  6  3 c   r     b     b         1400   70  135 
+SpiceWorm 951413436  6  2 Bk  f     -     -         1465   10    0 
+SpiceWorm 951413476  6  1 Bf  -     -     -         1455    5    0 
+SpiceWorm 951413496  6  6 c   b     k     c         1450   40    0 6d Qd
+SpiceWorm 951413548  5  4 f   -     -     -         1410    0    0 
+SpiceWorm 951413594  6  4 f   -     -     -         1410    0    0 
+SpiceWorm 951413613  6  3 f   -     -     -         1410    0    0 
+SpiceWorm 951413678  6  2 Bk  kc    b     -         1410   40  100 
+SpiceWorm 951413710  6  1 Bc  kc    kc    kc        1470   70    0 9c 6c
+SpiceWorm 951413744  6  6 c   r     b     c         1400   80    0 Td Js
+SpiceWorm 951413813  6  5 c   b     b     b         1320   60  130 Js Kd
+SpiceWorm 951413863  6  4 c   k     f     -         1390   10    0 
+SpiceWorm 951413900  6  3 f   -     -     -         1380    0    0 
+SpiceWorm 951413944  6  2 Bc  c     c     b         1380   70  200 
+SpiceWorm 951414005  6  1 Bcf -     -     -         1510   10    0 
+SpiceWorm 951414076  6  6 f   Q     -     -         1500    0    0 

@@ -1,0 +1,121 @@
+lilo      951673596  9  7 c   f     -     -         1000   10    0 
+lilo      951673627  8  5 c   k     c     f          990   50    0 
+lilo      951673686  8  4 cr  c     f     -          940   40    0 
+lilo      951673738  8  3 c   k     f     -          900   10    0 
+lilo      951673773  8  2 Br  b     b     b          890   70    0 4d 4c
+lilo      951673802  8  1 Bc  b     b     b          820   60  110 
+lilo      951673857  8  8 c   c     c     f          870   40    0 
+lilo      951673901  8  7 r   -     -     -          830   20   35 
+lilo      951673913  8  6 r   r     c     f          845   60    0 
+lilo      951673995  8  5 rr  b     b     b          785   90  320 Qd Ks
+lilo      951674064  9  5 rc  rr    r     b         1015  140  580 Ks Jd
+lilo      951674143  9  4 r   b     br    k         1455   90  355 Kh Js
+lilo      951674211  8  2 Bk  kf    -     -         1720   10    0 
+lilo      951674247  8  1 Br  bc    krc   brc       1710  200  740 4h 3h
+lilo      951674313 10 10 f   -     -     -         2250    0    0 
+lilo      951674391 10  9 rr  k     r     b         2250  100  285 Th Js
+lilo      951674469 10  8 c   f     -     -         2435   20    0 
+lilo      951674513 10  8 c   k     f     -         2415   20    0 
+lilo      951674551  9  7 c   b     kf    -         2395   20    0 
+lilo      951674611  8  3 Q   -     -     -         2375    0    0 
+lilo      951782944  4  4 c   b     b     -         2375   40   70 
+lilo      951782967  4  3 r   b     -     -         2405   30   55 
+lilo      951782980  4  2 B   -     -     -         2430   10   15 
+lilo      951782983  4  1 Bc  k     k     k         2435   10    0 7d Jh
+lilo      951783006  4  4 f   -     -     -         2425    0    0 
+lilo      951783022  4  3 r   b     br    c         2425  110    0 6h 6c
+lilo      951783071  4  2 Bk  f     -     -         2315   10    0 
+lilo      951783094  5  1 Bc  kf    -     -         2305   10    0 
+lilo      951783124  5  5 r   b     b     b         2295   70    0 4c Ah
+lilo      951783149  5  4 c   k     k     k         2225   10    0 2c Kd
+lilo      951783176  5  3 c   c     k     kf        2215   20    0 
+lilo      951783208  5  2 Bk  c     b     -         2195   40   60 
+lilo      951783236  5  1 Bc  b     -     -         2215   20   50 
+lilo      951783250  5  5 c   r     c     k         2245   50    0 7h 8h
+lilo      951783270  5  4 c   k     f     -         2195   10    0 
+lilo      951783299  5  3 f   -     -     -         2185    0    0 
+lilo      951783316  5  2 Bk  kf    -     -         2185   10    0 
+lilo      951783338  5  1 Bc  kc    b     b         2175   70  130 
+lilo      951783376  6  6 c   k     b     k         2235   30   75 3h Ad
+lilo      951783421  6  5 cc  k     f     -         2280   20    0 
+lilo      951783464  6  4 r   kf    -     -         2260   20    0 
+lilo      951783510  6  3 c   cf    -     -         2240   20    0 
+lilo      951783549  6  2 Bc  br    b     b         2220   90    0 Js 6s
+lilo      951783599  6  1 Br  bc    k     kc        2130   60    0 Ks Kd
+lilo      951783632  6  6 c   f     -     -         2070   10    0 
+lilo      951783656  6  5 c   kf    -     -         2060   10    0 
+lilo      951783693  6  4 c   c     f     -         2050   30    0 
+lilo      951783719  6  3 f   -     -     -         2020    0    0 
+lilo      951783776  6  2 Br  bc    kc    kc        2020   80    0 Ah Kh
+lilo      951783826  7  1 Bc  kc    kc    k         1940   50    0 8d 4d
+lilo      951783898  7  7 c   f     -     -         1890   20    0 
+lilo      951783932  7  6 c   c     k     k         1870   30    0 As 9d
+lilo      951784000  7  5 c   c     b     r         1840   90  215 
+lilo      951784040  6  4 c   k     k     b         1965   30    0 6s Ah
+lilo      951784068  7  3 r   b     b     b         1935   70  220 
+lilo      951784100  7  2 Bc  kf    -     -         2085   20    0 
+lilo      951784139  8  1 Bc  kf    -     -         2065   20    0 
+lilo      951784158  8  8 c   k     k     f         2045   10    0 
+lilo      951784247  8  7 c   kf    -     -         2035   10    0 
+lilo      951784309  9  7 c   c     kc    k         2025   50  205 6h 4s
+lilo      951784361  9  6 c   c     c     c         2180   70    0 3d Qd
+lilo      951784426  9  5 c   r     b     c         2110   80    0 Ad 7d
+lilo      951784490 10  5 c   f     -     -         2030   10    0 
+lilo      951784565 10  4 c   kf    -     -         2020   10    0 
+lilo      951784648 10  3 cc  brKQ  -     -         2010   50    0 
+lilo      951795143 10 10 cc  rc    c     f         1960  100    0 
+lilo      951795197 10  9 f   -     -     -         1860    0    0 
+lilo      951795273  9  8 cc  ccc   cr    f         1860  160    0 
+lilo      951795365  8  6 cc  kc    kf    -         1700   30    0 
+lilo      951795401  7  5 crc bc    kc    f         1670   80    0 
+lilo      951795465 10  5 f   -     -     -         1590    0    0 
+lilo      951795546 10  4 cr  br    br    kc        1590  180    0 9s 3s
+lilo      951795627  8  1 Bc  kf    -     -         1410   40    0 
+lilo      951795655 10  1 Bc  kcc   kcc   kf        1370  160    0 
+lilo      951795721 10 10 cc  f     -     -         1210   40    0 
+lilo      951795799 10  9 r   cc    cc    f         1170  140    0 
+lilo      951795847 10  8 cc  b     br    b         1030  130    0 5h Ah
+lilo      951795893 10  7 r   c     r     b          900  110    0 Qd Ad
+lilo      951795938 10  6 cc  cc    kcc   f          790  150    0 
+lilo      951796032 10  5 rc  br    bc    k          640  110  470 Jd Th
+lilo      951796108  9  3 cc  kf    -     -         1000   20    0 
+lilo      951796167 10  2 Bc  kf    -     -          980   40    0 
+lilo      951796233 10  1 Bf  -     -     -          940    5    0 
+lilo      951796299 10 10 c   rr    rc    rr         935  230  860 3c Kd
+lilo      951796368  9  8 f   -     -     -         1565    0    0 
+lilo      951796461  6  5 cc  ccc   rc    rc        1565  240  455 4c 2d
+lilo      951796526  6  5 cc  c     cr    f         1780  130    0 
+lilo      951796577  5  3 cc  k     c     c         1650   60  150 5s 4c
+lilo      951796607  6  2 Bc  kf    -     -         1740   40    0 
+lilo      951796654  6  1 Brc kcc   krc   br        1700  240  750 8s 8c
+lilo      951796707  7  7 rc  f     -     -         2210   60    0 
+lilo      951796764  6  5 r   b     b     b         2150   80  170 
+lilo      951796799  6  4 f   -     -     -         2240    0    0 
+lilo      951796889  8  5 f   -     -     -         2240    0    0 
+lilo      951796960  8  4 rc  cc    f     -         2240  100    0 
+lilo      951797008  9  4 cr  kcc   krc   br        2140  240    0 9h Ts
+lilo      951797069  9  3 rc  br    kcc   kf        1900  170    0 
+lilo      951797130 10  2 Bc  cf    -     -         1730   40    0 
+lilo      951797169  9  1 Br  b     brc   br        1690  190  490 Qc 9h
+lilo      951797214  9  9 cc  f     -     -         1990   40    0 
+lilo      951797277 10  9 rr  rc    cc    r         1950  220    0 As Kc
+lilo      951797362  9  7 ccc r     rr    brc       1730  220    0 Jc 2c
+lilo      951797496  8  6 cc  kf    -     -         1510   30    0 
+lilo      951797550  8  5 r   r     b     b         1480   80  265 3d 8d
+lilo      951797592  9  4 rr  k     f     -         1665   40    0 
+lilo      951797645  9  3 cc  brc   bc    kc        1625  120    0 Kc 3h
+lilo      951797724 10  2 B   -     -     -         1505   10   15 
+lilo      951797761  9  1 Bcrc kcc   kf    -         1510   60    0 
+lilo      951797872 10 10 c   f     -     -         1450   20    0 
+lilo      951797924 10  9 r   b     b     b         1430   70  220 9s As
+lilo      951797980 10  8 c   f     -     -         1580   10    0 
+lilo      951798063  9  7 c   cc    f     -         1570   40    0 
+lilo      951798163  7  4 r   b     br    b         1530  110  340 
+lilo      951798212  7  3 c   f     -     -         1760   10    0 
+lilo      951798295  7  2 Bc  kcc   br    brc       1750  200  625 7c 5h
+lilo      951798365  7  1 Br  kf    -     -         2175   20    0 
+lilo      951798398  7  7 f   -     -     -         2155    0    0 
+lilo      951798436  6  6 f   -     -     -         2155    0    0 
+lilo      951798482  7  6 c   k     kf    -         2155   10    0 
+lilo      951798588  5  3 f   -     Q     -         2145    0    0 
+lilo      951872103  8  7 c   f     Q     -         1125   10    0 

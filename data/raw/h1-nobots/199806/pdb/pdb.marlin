@@ -1,0 +1,371 @@
+marlin    896914946  2  1 Bc  kc    k     k         1000   20   40 Kh 6h
+marlin    896914973  3  3 c   k     c     r         1020   70  145 Kc 7s
+marlin    896915000  3  2 Bk  f     -     -         1095   10    0 
+marlin    896915014  3  1 Bf  -     -     -         1085    5    0 
+marlin    896915036  3  3 c   k     k     c         1080   30   35 9h Kc
+marlin    896915059  3  2 Bk  b     b     -         1085   40   70 
+marlin    896915086  3  1 Bc  k     k     bc        1115   50  100 4c Jh
+marlin    896915119  3  3 c   k     k     k         1165   10   25 7c Qh
+marlin    896915139  3  2 Bk  b     k     b         1180   40   65 
+marlin    896915162  3  1 Bcc k     k     k         1205   20    0 7c 6h
+marlin    896915180  3  3 c   b     -     -         1185   20   40 
+marlin    896915199  4  3 f   -     -     -         1205    0    0 
+marlin    896915206  4  2 Bk  b     -     -         1205   20   35 
+marlin    896915217  4  1 Bc  k     kf    -         1220   20    0 
+marlin    896915236  4  4 r   k     k     k         1200   20    0 Jc Qh
+marlin    896915260  4  3 c   f     -     -         1180   10    0 
+marlin    896915275  4  2 B   -     -     -         1170   10   15 
+marlin    896915285  4  1 Bf  -     -     -         1175    5    0 
+marlin    896915297  4  4 f   -     -     -         1170    0    0 
+marlin    896915320  4  3 f   -     -     -         1170    0    0 
+marlin    896915337  4  2 Br  b     -     -         1170   40   70 
+marlin    896915358  4  1 Bc  b     b     -         1200   40   70 
+marlin    896915375  4  4 c   cf    -     -         1230   30    0 
+marlin    896915409  5  4 c   kc    k     kc        1200   40    0 Qd 9c
+marlin    896915461  5  3 r   b     k     f         1160   30    0 
+marlin    896915490  5  2 Bk  kf    -     -         1130   10    0 
+marlin    896915503  5  1 Bc  kf    -     -         1120   10    0 
+marlin    896915518  5  5 f   -     -     -         1110    0    0 
+marlin    896915538  5  4 f   -     -     -         1110    0    0 
+marlin    896915554  5  3 f   -     -     -         1110    0    0 
+marlin    896915574  5  2 Bk  kf    -     -         1110   10    0 
+marlin    896915592  5  1 Bc  kc    kf    -         1100   30    0 
+marlin    896915607  5  5 f   -     -     -         1070    0    0 
+marlin    896915611  5  4 f   -     -     -         1070    0    0 
+marlin    896915655  5  3 f   -     -     -         1070    0    0 
+marlin    896915665  5  2 Bk  kf    -     -         1070   10    0 
+marlin    896915679  5  1 Bc  bc    k     kc        1060   60    0 Jh 7h
+marlin    896915698  4  4 f   -     -     -         1000    0    0 
+marlin    896915719  4  3 c   r     k     k         1000   30    0 Ks Jc
+marlin    896915749  4  2 B   -     -     -          970   10   15 
+marlin    896915756  3  1 Bf  -     -     -          975    5    0 
+marlin    896915764  3  3 c   k     k     f          970   10    0 
+marlin    896915803  3  2 B   -     -     -          960   10   15 
+marlin    896915807  3  1 Bc  kf    -     -          965   20    0 
+marlin    896915817  3  3 r   b     k     f          945   30    0 
+marlin    896915831  3  2 Bk  k     b     k          915   30    0 7s 2h
+marlin    896915846  3  1 Bc  bc    k     k          885   30    0 6s 6d
+marlin    896915869  2  2 B   -     -     -          855   10   15 
+marlin    896915874  2  1 Br  b     k     b          860   50   80 
+marlin    896915905  2  2 Bk  b     b     b          890   60  100 
+marlin    896915940  2  1 Bc  b     b     b          930   60  100 
+marlin    896915958  2  2 B   -     -     -          970   10   15 
+marlin    896915963  2  1 Bc  k     k     k          975   10    0 7h Jc
+marlin    896915980  2  2 B   -     -     -          965   10   15 
+marlin    896915991  2  1 Bc  b     b     b          970   60  100 
+marlin    896916009  2  2 B   -     -     -         1010   10   15 
+marlin    896916013  2  1 Br  -     -     -         1015   20   30 
+marlin    896916016  2  2 B   -     -     -         1025   10   15 
+marlin    896916019  2  1 Bf  -     -     -         1030    5    0 
+marlin    896916023  2  2 Bk  k     f     -         1025   10    0 
+marlin    896916036  2  1 Bc  b     b     b         1015   60  120 4h Qd
+marlin    896916054  2  2 Bk  c     r     -         1075   60  110 9d 6h
+marlin    896916081  2  1 Br  b     -     -         1125   30   50 
+marlin    896916091  2  2 B   -     -     -         1145   10   15 
+marlin    896916095  2  1 Bc  bc    kf    -         1150   30    0 
+marlin    896916110  2  2 Bk  c     b     -         1120   40   60 
+marlin    896916136  2  1 Bf  -     -     -         1140    5    0 
+marlin    896916139  2  2 B   -     -     -         1135   10   15 
+marlin    896916144  2  1 Br  -     -     -         1140   20   30 
+marlin    896916150  2  2 Bc  bc    k     k         1150   40    0 9c 9s
+marlin    896916175  2  1 Bcc kf    -     -         1110   20    0 
+marlin    896916189  2  2 B   -     -     -         1090   10   15 
+marlin    896916196  2  1 Br  -     -     -         1095   20   30 
+marlin    896916203  2  2 B   -     -     -         1105   10   15 
+marlin    896916206  2  1 Bf  -     -     -         1110    5    0 
+marlin    896916212  2  2 B   -     -     -         1105   10   15 
+marlin    896916216  2  1 Bf  -     -     -         1110    5    0 
+marlin    896916219  2  2 B   -     -     -         1105   10   15 
+marlin    896916220  2  1 Bc  k     k     k         1110   10    0 Tc 8h
+marlin    896916235  2  2 Bk  k     f     -         1100   10    0 
+marlin    896916250  2  1 Bc  kf    -     -         1090   10    0 
+marlin    896916263  2  2 B   -     -     -         1080   10   15 
+marlin    896916268  2  1 Bc  b     -     -         1085   20   30 
+marlin    896916277  2  2 Br  k     k     k         1095   20    0 Ac 8c
+marlin    896916300  2  1 Bc  bf    -     -         1075   20    0 
+marlin    896916314  2  2 Bk  f     -     -         1055   10    0 
+marlin    896916324  2  1 Bc  kf    -     -         1045   10    0 
+marlin    896916337  2  2 Bf  -     -     -         1035   10    0 
+marlin    896916344  2  1 Bc  b     -     -         1025   20   30 
+marlin    896916354  2  2 Bk  k     c     f         1035   30    0 
+marlin    896916372  2  1 Bf  -     -     -         1005    5    0 
+marlin    896916374  2  2 Bk  k     b     k         1000   30   60 3s 5c
+marlin    896916395  2  1 Br  -     -     -         1030   20   30 
+marlin    896916401  2  2 B   -     -     -         1040   10   15 
+marlin    896916406  2  1 Bf  -     -     -         1045    5    0 
+marlin    896916409  2  2 Bk  c     b     b         1040   60  120 5c 6c
+marlin    896916434  2  1 Bcc k     kf    -         1100   20    0 
+marlin    896916454  2  2 Bk  k     b     -         1080   30   40 
+marlin    896916470  2  1 Bc  b     -     -         1090   20   30 
+marlin    896916478  2  2 Bk  k     b     -         1100   30   40 
+marlin    896916497  2  1 Br  -     -     -         1110   20   30 
+marlin    896916501  2  2 Bk  f     -     -         1120   10    0 
+marlin    896916512  2  1 Bc  kf    -     -         1110   10    0 
+marlin    896916522  2  2 Bf  -     -     -         1100   10    0 
+marlin    896916529  2  1 Bc  k     b     k         1090   30    0 Kh 4h
+marlin    896916549  2  2 B   -     -     -         1060   10   15 
+marlin    896916554  2  1 Br  -     -     -         1065   20   30 
+marlin    896916559  2  2 Bc  c     f     -         1075   30    0 
+marlin    896916575  2  1 Bcc b     b     -         1045   50   80 
+marlin    896916592  2  2 B   -     -     -         1075   10   15 
+marlin    896916595  2  1 Bc  k     kf    -         1080   10    0 
+marlin    896916609  2  2 B   -     -     -         1070   10   15 
+marlin    896916613  2  1 Bcc b     b     b         1075   70  140 Kc 3h
+marlin    896916638  2  2 Bc  f     -     -         1145   20    0 
+marlin    896916650  2  1 Br  -     -     -         1125   20   30 
+marlin    896916655  2  2 Bc  c     f     -         1135   30    0 
+marlin    896916668  2  1 Bf  -     -     -         1105    5    0 
+marlin    896916670  2  2 B   -     -     -         1100   10   15 
+marlin    896916677  2  1 Bc  k     k     k         1105   10   20 Jc 8h
+marlin    896916697  2  2 B   -     -     -         1115   10   15 
+marlin    896916702  2  1 Br  -     -     -         1120   20   30 
+marlin    896916706  2  2 B   -     -     -         1130   10   15 
+marlin    896916710  2  1 Bf  -     -     -         1135    5    0 
+marlin    896916716  2  2 Bk  k     f     -         1130   10    0 
+marlin    896916728  2  1 Bcc kf    -     -         1120   20    0 
+marlin    896916741  2  2 B   -     -     -         1100   10   15 
+marlin    896916746  2  1 Bcc k     b     -         1105   40   60 
+marlin    896916760  2  2 B   -     -     -         1125   10   15 
+marlin    896916765  2  1 Bf  -     -     -         1130    5    0 
+marlin    896916770  2  2 Br  b     b     b         1125   70  140 7c 7s
+marlin    896916800  2  1 Bf  -     -     -         1195    5    0 
+marlin    896916803  2  2 B   -     -     -         1190   10   15 
+marlin    896916808  2  1 Bf  -     -     -         1195    5    0 
+marlin    896916812  2  2 Bc  f     -     -         1190   20    0 
+marlin    896916823  2  1 Bcc kf    -     -         1170   20    0 
+marlin    896916835  2  2 Bc  c     c     f         1150   50    0 
+marlin    896916857  2  1 Br  -     -     -         1100   20   30 
+marlin    896916862  2  2 B   -     -     -         1110   10   15 
+marlin    896916866  2  1 Bc  kc    kr    b         1115   80  160 9d Ts
+marlin    896916888  2  2 Bf  -     -     -         1195   10    0 
+marlin    896916894  2  1 Bc  bc    kc    kc        1185   70    0 8h Ks
+marlin    896916917  2  2 B   -     -     -         1115   10   15 
+marlin    896916923  2  1 Bf  -     -     -         1120    5    0 
+marlin    896916931  2  2 Bk  c     c     k         1115   40    0 7h 6d
+marlin    896916951  2  1 Bc  kf    -     -         1075   10    0 
+marlin    896916962  2  2 Bk  k     k     k         1065   10    0 Ks 5c
+marlin    896916990  2  1 Bf  -     -     -         1055    5    0 
+marlin    896916993  2  2 Bf  -     -     -         1050   10    0 
+marlin    896916996  2  1 Bc  b     bc    kf        1040   60    0 
+marlin    896917017  2  2 B   -     -     -          980   10   15 
+marlin    896917020  2  1 Bc  k     k     k          985   10   20 Tc Qh
+marlin    896917034  2  2 Bk  c     k     k          995   20    0 7h 4s
+marlin    896917053  2  1 Bc  k     k     k          975   10   20 2d As
+marlin    896917070  2  2 Bk  c     f     -          985   20    0 
+marlin    896917087  2  1 Bc  bf    -     -          965   20    0 
+marlin    896917099  2  2 B   -     -     -          945   10   15 
+marlin    896917104  2  1 Bf  -     -     -          950    5    0 
+marlin    896917107  2  2 B   -     -     -          945   10   15 
+marlin    896917114  2  1 Br  -     -     -          950   20   30 
+marlin    896917117  2  2 B   -     -     -          960   10   15 
+marlin    896917121  2  1 Bc  k     kc    b          965   50  100 Kh 7s
+marlin    896917138  2  2 B   -     -     -         1015   10   15 
+marlin    896917143  2  1 Br  b     b     b         1020   70    0 Kh Ks
+marlin    896917160  2  2 B   -     -     -          950   10   15 
+marlin    896917165  2  1 Bc  k     bc    kf         955   50    0 
+marlin    896917187  2  2 Bk  c     bc    c          905   80  160 Qd Ts
+marlin    896917214  2  1 Bcc b     bf    -          985   50    0 
+marlin    896917233  2  2 Bc  c     f     -          935   30    0 
+marlin    896917246  2  1 Bc  b     k     k          905   20   40 Ts 8h
+marlin    896917260  2  2 B   -     -     -          925   10   15 
+marlin    896917265  2  1 Bf  -     -     -          930    5    0 
+marlin    896917269  2  2 B   -     -     -          925   10   15 
+marlin    896917275  2  1 Bc  kf    -     -          930   10    0 
+marlin    896917287  2  2 B   -     -     -          920   10   15 
+marlin    896917292  2  1 Bc  b     k     k          925   20    0 6c 5d
+marlin    896917310  2  2 B   -     -     -          905   10   15 
+marlin    896917321  2  1 Bc  kf    -     -          910   10    0 
+marlin    896917332  2  2 B   -     -     -          900   10   15 
+marlin    896917336  2  1 Br  k     b     -          905   40   60 
+marlin    896917352  2  2 B   -     -     -          925   10   15 
+marlin    896917356  2  1 Bc  b     -     -          930   20   30 
+marlin    896917366  2  2 Bk  c     f     -          940   20    0 
+marlin    896917383  2  1 Bc  b     -     -          920   20   30 
+marlin    896917396  2  2 B   -     -     -          930   10   15 
+marlin    896917399  2  1 Bc  kf    -     -          935   10    0 
+marlin    896917412  3  3 c   k     k     b          925   30   45 
+marlin    896917441  3  2 Bk  k     f     -          940   10    0 
+marlin    896917458  3  1 Bc  k     k     k          930   10   10 Js 3h
+marlin    896917477  3  3 c   f     -     -          930   10    0 
+marlin    896917510  3  2 B   -     -     -          920   10   15 
+marlin    896917516  3  1 Bf  -     -     -          925    5    0 
+marlin    896917521  3  3 f   -     -     -          920    0    0 
+marlin    896917545  3  2 Bc  c     b     -          920   50   80 
+marlin    896917567  3  1 Bc  bf    -     -          950   20    0 
+marlin    896917578  3  3 r   b     k     b          930   50  105 Ac Jc
+marlin    896917599  3  2 Bk  f     -     -          985   10    0 
+marlin    896917617  3  1 Bcc bc    kc    kc         975   80  160 Jd Th
+marlin    896917644  3  3 r   -     -     -         1055   20   35 
+marlin    896917652  3  2 Bc  f     -     -         1070   20    0 
+marlin    896917665  3  1 Bf  -     -     -         1050    5    0 
+marlin    896917670  3  3 cc  f     -     -         1045   20    0 
+marlin    896917682  3  2 Bf  -     -     -         1025   10    0 
+marlin    896917687  3  1 Bcc kc    kc    kc        1015   70    0 Js 8s
+marlin    896917711  3  3 f   -     -     -          945    0    0 
+marlin    896917717  3  2 B   -     -     -          945   10   15 
+marlin    896917723  3  1 Bc  b     -     -          950   20   40 
+marlin    896917734  3  3 cc  c     b     k          970   50    0 Kc 8h
+marlin    896917761  3  2 Bk  kf    -     -          920   10    0 
+marlin    896917783  3  1 Bf  -     -     -          910    5    0 
+marlin    896917788  3  3 f   -     -     -          905    0    0 
+marlin    896917795  3  2 Bk  f     -     -          905   10    0 
+marlin    896917810  3  1 Bc  kf    -     -          895   20    0 
+marlin    896917819  3  3 c   rc    c     b          875   80  220 Qs 8c
+marlin    896917849  3  2 Bc  kf    -     -         1015   20    0 
+marlin    896917867  3  1 Bc  b     k     k          995   20    0 Jh Ts
+marlin    896917886  3  3 c   c     r     b          975   80  145 
+marlin    896917909  3  2 Bc  b     b     -         1040   50   85 
+marlin    896917926  3  1 Bc  bc    bc    k         1075   80  170 9d Qs
+marlin    896917945  3  3 r   k     b     f         1165   40    0 
+marlin    896917965  3  2 Bk  r     -     -         1125   30   50 
+marlin    896917978  3  1 Bc  b     bc    kf        1145   60    0 
+marlin    896917999  3  3 f   -     -     -         1085    0    0 
+marlin    896918004  3  2 Bk  f     -     -         1085   10    0 
+marlin    896918019  3  1 Bc  k     k     k         1075   10   20 6d Qh
+marlin    896918084  2  2 B   -     -     -         1085   10   15 
+marlin    896918088  2  1 Bf  -     -     -         1090    5    0 
+marlin    896918092  2  2 Bk  k     k     k         1085   10    0 Qc 2c
+marlin    896918111  2  1 BcQ -     -     -         1075   10   20 
+marlin    897067290  9  8 f   -     -     -         1100    0    0 
+marlin    897067361  9  7 c   f     -     -         1100   10    0 
+marlin    897067407  9  7 f   -     -     -         1090    0    0 
+marlin    897067459  8  5 f   -     -     -         1090    0    0 
+marlin    897067515  8  4 f   -     -     -         1090    0    0 
+marlin    897067558  8  3 f   -     -     -         1090    0    0 
+marlin    897067625  8  2 Bf  -     -     -         1090   10    0 
+marlin    897067711  8  1 Bcc kc    kf    -         1080   30    0 
+marlin    897067802  8  8 f   -     -     -         1050    0    0 
+marlin    897067850  7  6 r   f     -     -         1050   20    0 
+marlin    897067906  7  5 c   c     f     -         1030   30    0 
+marlin    897067966  8  4 r   b     bc    kc        1000   90    0 Jc Jd
+marlin    897068023  8  3 f   -     -     -          910    0    0 
+marlin    897068129  8  2 Bk  b     b     b          910   60  150 Td 5d
+marlin    897068175  8  1 Bf  -     -     -         1000    5    0 
+marlin    897068207  8  8 f   -     -     -          995    0    0 
+marlin    897068246  8  3 Q   -     -     -          995    0    0 
+marlin    897081304  2  1 Bcc kf    -     -          995   20    0 
+marlin    897081320  2  2 B   -     -     -          975   10   15 
+marlin    897081324  2  1 Bc  b     -     -          980   20   30 
+marlin    897081335  2  2 Bk  rc    c     b          990   80  160 6c 4c
+marlin    897081362  2  1 Br  k     k     b         1070   40    0 As 6s
+marlin    897081383  2  2 Bk  f     -     -         1030   10    0 
+marlin    897081393  2  1 Bc  b     -     -         1020   20   30 
+marlin    897081405  2  2 B   -     -     -         1030   10   15 
+marlin    897081409  2  1 Bc  kf    -     -         1035   10    0 
+marlin    897081419  2  2 B   -     -     -         1025   10   15 
+marlin    897081423  2  1 Bc  k     b     k         1030   30   60 As 6d
+marlin    897081452  2  2 B   -     -     -         1060   10   15 
+marlin    897081457  2  1 Bc  kf    -     -         1065   10    0 
+marlin    897081467  2  2 Bk  b     -     -         1055   20   30 
+marlin    897081477  2  1 Br  b     k     b         1065   50  100 Jd Qs
+marlin    897081497  2  2 BQ  -     -     -         1115   10   15 
+marlin    897179796  3  3 cc  f     -     -         1465   20    0 
+marlin    897179816  3  2 Bk  c     rc    c         1445  100    0 5s 3d
+marlin    897179844  3  1 Bf  -     -     -         1345    5    0 
+marlin    897179867  3  3 c   k     f     -         1340   10    0 
+marlin    897179890  3  2 Bk  c     c     rc        1330  100    0 9c Qc
+marlin    897179911  3  1 Bcc kf    -     -         1230   20    0 
+marlin    897179937  3  3 f   -     -     -         1210    0    0 
+marlin    897179947  3  2 Bk  k     k     f         1210   10    0 
+marlin    897179968  3  1 Bcc kf    -     -         1200   20    0 
+marlin    897179984  3  3 c   k     k     f         1180   10    0 
+marlin    897180010  3  2 Bk  b     k     b         1170   40   80 Tc 5c
+marlin    897180036  3  1 Bcc kc    kf    -         1210   30    0 
+marlin    897180060  3  3 rc  f     -     -         1180   30    0 
+marlin    897180075  3  2 Bk  f     -     -         1150   10    0 
+marlin    897180088  3  1 Bf  -     -     -         1140    5    0 
+marlin    897180109  3  3 c   f     -     -         1135   10    0 
+marlin    897180130  3  2 Bk  k     k     k         1125   10   10 2c 8c
+marlin    897180155  3  1 Bcc kf    -     -         1125   20    0 
+marlin    897180193  3  3 c   k     k     k         1105   10    0 6c As
+marlin    897180210  3  2 Bc  kf    -     -         1095   20    0 
+marlin    897180239  3  1 Bc  kc    kf    -         1075   20    0 
+marlin    897180270  2  2 rr  b     k     b         1055   70  140 Ac Jc
+marlin    897180300  2  2 Bc  c     c     c         1125   70    0 Kc 6h
+marlin    897180319  2  1 Bcc kc    kf    -         1055   30    0 
+marlin    897180338  2  2 Bf  -     -     -         1025   10    0 
+marlin    897180344  2  1 Bf  -     -     -         1015    5    0 
+marlin    897180347  2  2 Br  b     c     k         1010   50    0 Jc Ac
+marlin    897180370  2  1 Bf  -     -     -          960    5    0 
+marlin    897180376  2  2 Bk  k     c     c          955   50   50 8d 5s
+marlin    897180395  2  1 Bf  -     -     -          955    5    0 
+marlin    897180400  3  2 Bk  b     c     c          950   60    0 6c As
+marlin    897180426  3  1 Bc  k     k     kf         890   10    0 
+marlin    897180458  3  3 f   -     -     -          880    0    0 
+marlin    897180464  3  2 Br  b     b     b          880   70  120 
+marlin    897180499  3  1 Br  b     kc    kc         930   70  150 Ad Ks
+marlin    897180532  3  3 r   f     -     -         1010   20    0 
+marlin    897180545  3  2 Br  r     k     k          990   40    0 Ad Jc
+marlin    897180572  3  1 Br  br    b     kc         950   90  190 Ad Jh
+marlin    897180613  3  3 c   c     f     -         1050   20    0 
+marlin    897180635  3  2 Bc  cc    c     f         1030   60    0 
+marlin    897180669  3  1 Bc  bc    kc    kf         970   60    0 
+marlin    897180705  2  2 c   k     k     k          910   10   20 Ts 5s
+marlin    897180731  2  2 Bk  k     k     k          920   10    0 5c Qc
+marlin    897180754  2  1 Br  krc   b     bc         910  110    0 Kh Qc
+marlin    897180788  3  2 Brc c     c     f          800   70    0 
+marlin    897180831  4  1 Bf  -     -     -          730    5    0 
+marlin    897180877  4  4 f   -     -     -          725    0    0 
+marlin    897180903  4  3 cc  kc    kf    -          725   30    0 
+marlin    897180941  4  2 Bf  -     -     -          695   10    0 
+marlin    897180971  4  1 Bc  k     b     -          685   30   50 
+marlin    897180996  4  4 c   k     f     -          705   10    0 
+marlin    897181014  4  3 f   -     -     -          695    0    0 
+marlin    897181048  4  2 Bk  kc    f     -          695   30    0 
+marlin    897181091  4  1 Bc  k     kc    kf         665   30    0 
+marlin    897181129  4  4 f   -     -     -          635    0    0 
+marlin    897181136  4  3 cc  rc    b     c          635   90    0 Jh Ac
+marlin    897181186  4  2 Bk  f     -     -          545   10    0 
+marlin    897181208  4  1 Bc  br    krr   b          535  140  140 9s 8h
+marlin    897181240  4  4 f   -     -     -          535    0    0 
+marlin    897181270  4  3 f   -     -     -          535    0    0 
+marlin    897181301  4  2 Bc  k     b     -          535   50  140 
+marlin    897181326  4  1 Bf  -     -     -          625    5    0 
+marlin    897181346  4  4 c   f     -     -          620   10    0 
+marlin    897181365  4  3 r   rr    c     c          610  100    0 Ah Qc
+marlin    897181400  4  2 Bc  c     c     c          510   80  200 Js 6s
+marlin    897181430  6  1 Bc  kf    -     -          630   20    0 
+marlin    897181460  6  6 f   -     -     -          610    0    0 
+marlin    897181487  6  5 r   b     b     k          610   50  125 Ad Kh
+marlin    897181539  6  4 f   -     -     -          685    0    0 
+marlin    897181583  6  3 cc  f     -     -          685   20    0 
+marlin    897181638  5  2 Bf  -     -     -          665   10    0 
+marlin    897181665  5  1 Brc b     k     b          655   80  280 Ks Kd
+marlin    897181706  5  5 cc  f     -     -          855   40    0 
+marlin    897181740  5  4 cc  cf    -     -          815   50    0 
+marlin    897181787  5  3 cf  -     -     -          765   10    0 
+marlin    897181824  5  2 Bk  kf    -     -          755   10    0 
+marlin    897181863  4  1 Brc kc    kc    kc         745   80    0 Td Th
+marlin    897181896  4  4 c   c     c     f          665   40    0 
+marlin    897181932  4  3 cc  k     k     f          625   20    0 
+marlin    897181988  4  2 Bf  -     -     -          605   10    0 
+marlin    897182019  4  1 Bf  -     -     -          595    5    0 
+marlin    897182038  4  4 cc  c     c     rc         590  120    0 9h Ah
+marlin    897182082  4  3 cc  kf    -     -          470   20    0 
+marlin    897182131  4  2 Bc  kf    -     -          450   20    0 
+marlin    897182175  4  1 Bf  -     -     -          430    5    0 
+marlin    897182209  4  4 f   -     -     -          425    0    0 
+marlin    897182241  4  3 f   -     -     -          425    0    0 
+marlin    897182258  4  2 Bf  -     -     -          425   10    0 
+marlin    897182271  4  1 Bf  -     -     -          415    5    0 
+marlin    897182277  4  4 f   -     -     -          410    0    0 
+marlin    897182311  4  3 f   -     -     -          410    0    0 
+marlin    897182339  4  2 Bf  -     -     -          410   10    0 
+marlin    897182366  4  1 Bc  b     k     b          400   40   70 
+marlin    897182395  4  4 f   -     -     -          430    0    0 
+marlin    897182402  4  3 f   -     -     -          430    0    0 
+marlin    897182429  4  2 Bf  -     -     -          430   10    0 
+marlin    897182436  4  1 Bc  k     k     kf         420   10    0 
+marlin    897182472  5  4 f   -     -     -          410    0    0 
+marlin    897182494  5  3 f   -     -     -          410    0    0 
+marlin    897182523  5  2 Bc  kc    kr    b          410   90  230 7s 9s
+marlin    897182570  5  1 Bf  -     -     -          550    5    0 
+marlin    897182608  5  5 c   k     k     k          545   10    0 8h Ac
+marlin    897182649  5  4 f   -     -     -          535    0    0 
+marlin    897182686  5  3 f   -     -     -          535    0    0 
+marlin    897182713  5  2 Bf  -     -     -          535   10    0 
+marlin    897182755  4  1 Bc  kf    -     -          525   10    0 
+marlin    897182794  4  4 c   c     c     c          515   70  195 8h Qh
+marlin    897182826  5  4 f   -     -     -          640    0    0 
+marlin    897182853  6  3 f   -     -     -          640    0    0 
+marlin    897182869  6  2 Bk  f     -     Q          640   10    0 

@@ -1,0 +1,19 @@
+bspice    941248980  5  5 f   -     -     -          850    0    0 
+bspice    941249007  4  3 c   kc    c     fQ         850   60    0 
+bspice    941254924  9  8 c   f     -     -          790   10    0 
+bspice    941254992  8  6 c   c     c     c          780   60  160 7d Jc
+bspice    941255034  8  5 c   b     b     -          880   40   70 
+bspice    941255073  8  4 c   bc    b     b          910   70    0 4s 2s
+bspice    941255115  8  3 c   cc    cc    ccc        840  160    0 Tc Qd
+bspice    941255208  8  2 Bk  k     b     -          680   30   50 
+bspice    941255285  9  1 Bc  bc    bc    kf         700   80    0 
+bspice    941255356  8  8 f   -     -     -          620    0    0 
+bspice    941255412  8  7 c   k     k     b          620   30   90 Kh 9d
+bspice    941255484  8  6 ccc bcc   k     k          680   80    0 9s Td
+bspice    941255556  8  5 cc  ccc   cc    cc         600  160    0 Th Kh
+bspice    941255699  9  4 c   f     -     -          440   10    0 
+bspice    941255749  9  3 c   k     k     f          430   10    0 
+bspice    941255835 10  2 Bk  r     b     b          420   70  200 Ac Ah
+bspice    941255930 10  1 Bc  k     kf    -          550   20    0 
+bspice    941256007 10 10 c   f     -     -          530   20    0 
+bspice    941256100 10  9 c   fQ    -     -          510   20    0 

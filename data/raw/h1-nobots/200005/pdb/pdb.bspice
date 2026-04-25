@@ -1,0 +1,15 @@
+bspice    959228792  6  5 f   -     -     -         2189    0    0 
+bspice    959228831  6  4 f   -     -     -         2189    0    0 
+bspice    959228864  6  3 f   -     -     -         2189    0    0 
+bspice    959228893  6  2 Bk  bc    bc    bc        2189  110    0 Kd 9h
+bspice    959228942  6  1 Bc  kf    -     -         2079   10    0 
+bspice    959228982  6  6 c   k     k     k         2069   10   50 4s 8s
+bspice    959229052  6  5 c   k     k     kc        2109   30   75 Kh Js
+bspice    959229103  6  4 c   kf    -     -         2154   10    0 
+bspice    959229166  6  3 f   -     Q     -         2144    0    0 
+bspice    959728179  9  4 c   f     -     -         2034   10    0 
+bspice    959728233 10  3 f   -     -     -         2024    0    0 
+bspice    959728283  9  2 Bf  -     -     -         2024   10    0 
+bspice    959728331  9  1 Bc  kc    kf    -         2014   30    0 
+bspice    959728398  8  8 cc  c     k     k         1984   30    0 8d 9s
+bspice    959728449  8  3 Q   -     -     -         1954    0    0 
