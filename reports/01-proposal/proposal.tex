@@ -1,0 +1,83 @@
+\documentclass[11pt]{extarticle}
+\usepackage[utf8]{inputenc}
+\usepackage{cite}
+\usepackage{geometry}
+\geometry{a4paper,left=2cm,right=2cm,top=1.5cm,bottom=1.5cm}
+\usepackage{xcolor}
+
+\title{Poker Player Profiling: Heuristics vs. K-Means Clustering }
+\author{\textbf{Team Members}: Lakshya J., Aryan S., Shreya A., Claire S.
+    \\ \textbf{Option B:} Algorithm Implementation}
+\date{}
+
+\begin{document}
+\maketitle
+\section{Technical Description}
+
+\subsection{Problem Statement}
+Poker is a popular decision-making game in which understanding a player's behaviors is an asset to other players. Understanding and categorizing players' behaviors can provide insight into overall player behavior and strategic tendencies, thus letting other players come up with play strategies. Traditionally, players can be grouped into different types using different statistics such as VPIP (Voluntarily Put Money in Pot) and PFR (Pre-Flop Raise). These types include TAG (Tight-Aggressive), LAG (Loose-Aggressive), The Fish (Loose-Passive), and The Rock (Tight-Passive). In our project, we want to profile player behaviors to these types by using a K-Means clustering approach to group players based on their behavioral features and compare the clusters with traditional heuristic groupings.
+
+\subsection{Background and Related Work}
+Prior work in poker AI, such as DeepStack \cite{moravcik2017deepstack} and Libratus \cite{brown2017libratus}, focused on computing ideal strategies using methods based on game theory instead of modeling human behavior. In practice, behavioral metrics like VPIP and PFR are widely used to categorize players, serving as a baseline for our approach. Clustering methods such as K-Means \cite{macqueen1967some} are commonly used in machine learning for behavioral profiling since they group data points based on similarity without any predefined rules. This motivates our use of K-Means to learn player profiles and compare them with traditional heuristic methods.
+
+\subsection{Dataset and Feature Engineering}
+\subsubsection{Dataset Description}
+We plan to use the IRC Poker Database provided by the University of Alberta \cite{irc_poker_dataset}, which contains over 10 million hands of Texas Hold'em poker played on Internet Relay Chat (IRC) servers. The dataset consists of raw hand history logs, where each entry includes a unique hand identifier, the number of players, and aggregated information about betting actions across different rounds (pre-flop, flop, turn, and river). The dataset also records lists of the players participating in each hand.
+
+An example of the raw data format is shown in Table~\ref{tab:dataset_sample}. Each row represents a single hand, with entries such as ``2/50'' indicating the number of bets and the corresponding pot size at a given stage. Player names are listed separately for each hand. Since the dataset is unstructured and does not directly provide player-level statistics, we preprocess it by parsing hand histories and aggregating player actions across multiple hands to construct behavioral features such as VPIP and PFR.
+\begin{table}[h]
+\centering
+\small
+\begin{tabular}{c c c c c c}
+\hline
+Hand ID & \#Players & Pre-Flop & Flop & Turn & River \\
+\hline
+797223441 & 3 & 2/20 & 2/40 & 0/0 & 0/0 \\
+797223474 & 6 & 2/50 & 2/70 & 2/110 & 2/190 \\
+797223636 & 7 & 4/80 & 4/120 & 2/160 & 2/200 \\
+797223883 & 7 & 5/50 & 5/50 & 4/130 & 2/170 \\
+\hline
+\end{tabular}
+\caption{Sample Entries from the IRC Poker Dataset}
+\label{tab:dataset_sample}
+\end{table}
+
+\subsubsection{Feature Engineering}
+The dataset is comprised of raw hand histories, thus we must first convert it to a structured format using Python libraries such as Pandas, parsing each hand to 1. identify players and 2. track their actions across hands, aggregating the data by player (where each player is represented as a feature vector of their behavior).
+
+The primary features we plan to compute and extract are VPIP and PFR, capturing the "tightness" (hands played) and the "aggressiveness" (raising pre-flop) of the player. These features are used as inputs for both the heuristic-based and clustering-based profiling methods. Using the same feature set ensures a fair comparison between rule-based grouping and K-Means clustering.
+
+\subsection{Evaluation}
+We compare heuristic-based player grouping and K-Means clustering using the same set of player-level features. For the clustering approach, a K-Means model is trained on the feature vectors, where each data point represents a player. For the heuristic method, players are assigned to groups using predefined thresholds on features such as VPIP and PFR.
+
+The primary evaluation metric is the Silhouette Score, which measures how well players fit within their assigned groups compared to other groups. A higher score indicates more coherent and well-separated clusters. This metric is used to determine whether data-driven clustering produces better player groupings than traditional heuristic methods.
+
+\subsection{Ethical Considerations}
+\begin{itemize}
+    \item \textbf{Misuse of Technology:} Player profiling tools can be used to build cheating bots. Thus, our project is strictly for research and strategy analysis, not for real-time use in live games.
+    \item \textbf{Data Bias:} The dataset comes from an older version of online poker. Our results may emphasize how people played in the past which may not apply to how people play today.
+\end{itemize}
+
+\section{Project Management}
+\subsection{Project Timeline and Milestones}
+\begin{itemize}
+    \item \textbf{03/27/2026 - Data Processing \& Feature Extraction:} Parse raw hand history logs, clean inconsistencies, and convert data into a structured format. Extract player-level features such as VPIP and PFR.
+    \item \textbf{03/31/2026 - Initial Prototype (Demo 1):} Implement a basic K-Means clustering model on a subset of the data. Verify feature correctness and ensure the pipeline functions properly.
+    \item \textbf{04/10/2026 - Heuristic Baseline Implementation:} Define rule-based player categories using VPIP and PFR thresholds and ensure consistency with extracted features.
+    \item \textbf{04/23/2026 - Model Refinement (Demo 2):} Tune the number of clusters using Silhouette Score and finalize clustering results. Perform comparison between heuristic and clustering approaches.
+    \item \textbf{04/29/2026 - Presentation Preparation:} Prepare visualizations (e.g., cluster plots) and presentation slides summarizing methodology and results.
+    \item \textbf{05/11/2026 - Final Deliverables:} Complete final report, including analysis of cluster quality and interpretation of player groupings, and submit all deliverables.
+\end{itemize}
+
+\subsection{Communication Plan}
+\begin{itemize}
+    \item \textbf{Communication:} Using Discord for day-to-day messaging, quick questions, and meetings.
+    \item \textbf{Task Tracking \& Version Control:} Using GitHub Issues to assign specific tasks to team members and monitor progress, as well as code/version management.
+    \item \textbf{Meetings:} We plan to meet at least weekly over Discord, updating each other on our individual progress (as well as updating via messages), with the occasional in-person meeting sprinkled in.
+\end{itemize}
+
+\newpage
+\bibliographystyle{plain}
+\bibliography{reference}
+
+\end{document}
