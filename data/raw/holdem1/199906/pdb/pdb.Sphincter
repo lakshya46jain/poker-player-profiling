@@ -1,0 +1,340 @@
+Sphincter 928916465  2  1 Br  b     b     kc         570   70    0 8h Ac
+Sphincter 928916488  2  2 Brc r     b     b          500  100  200 Kc Jd
+Sphincter 928916516  2  1 Brr bc    bc    b          600  120  240 Ah 7c
+Sphincter 928916536  2  2 Bk  rc    c     c          720   80  160 Jd Qd
+Sphincter 928916557  3  1 Bc  b     b     bc         800   80    0 6s Tc
+Sphincter 928916576  3  3 r   bc    cc    rc         720  180    0 9h Qs
+Sphincter 928916618  3  2 Br  k     c     f          540   40    0 
+Sphincter 928916667  3  1 Bc  b     b     b          500   60  130 Kd 4s
+Sphincter 928916686  3  3 rc  b     b     b          570   80  190 7s 3s
+Sphincter 928916720  3  2 Br  b     k     f          680   30    0 
+Sphincter 928916742  3  1 Brr b     b     b          650   90    0 4s 6h
+Sphincter 928916758  3  3 r   b     b     k          560   50  105 Qs Qc
+Sphincter 928916786  3  2 Brc brc   kc    k          615  100    0 Tc 8d
+Sphincter 928916812  3  1 Br  b     b     brc        515  130    0 Td Qs
+Sphincter 928916841  3  3 r   b     b     r          385   90    0 Qd Js
+Sphincter 928916865  3  2 Br  k     kc    k          295   40    0 3c 2h
+Sphincter 928916901  3  1 Br  b     b     kf         255   50    0 
+Sphincter 928916916  3  3 r   b     k     k          205   30   65 3s 2d
+Sphincter 928916945  3  2 Br  b     b     k          240   50    0 Tc Ac
+Sphincter 928916959  3  1 Brr b     b     kf         190   70    0 
+Sphincter 928916985  3  3 rr  b     k     f          120   50    0 
+Sphincter 928917010  3  2 B   -     -     -           70   10   15 
+Sphincter 928917013  3  1 Br  kf    -     -           75   30    0 
+Sphincter 928917046  3  3 rr  k     k     k           45   40    0 Th 4h
+Sphincter 928917066  3  2 BA  -     -     -            5    5   15 Qs Ac
+Sphincter 928917072  3  1 BrA -     -     -           15   15    0 8s Qd
+Sphincter 928917088  3  2 B   -     -     -         1000   10   15 
+Sphincter 928917093  3  1 Bf  -     -     -         1005    5    0 
+Sphincter 928917097  4  4 f   -     -     -         1000    0    0 
+Sphincter 928917101  5  4 cc  f     -     -         1000   20    0 
+Sphincter 928917120  7  5 f   -     -     -          980    0    0 
+Sphincter 928917132  7  4 rc  b     b     b          980   80  235 Js Ks
+Sphincter 928917153  7  3 f   -     -     -         1135    0    0 
+Sphincter 928917179  7  2 Bf  -     -     -         1135   10    0 
+Sphincter 928917240  8  1 Bf  -     -     -         1125    5    0 
+Sphincter 928917303  8  8 f   -     -     -         1120    0    0 
+Sphincter 928917342  8  7 f   -     -     -         1120    0    0 
+Sphincter 928917360  9  7 f   -     -     -         1120    0    0 
+Sphincter 928917406  9  6 f   -     -     -         1120    0    0 
+Sphincter 928917452  9  5 f   -     -     -         1120    0    0 
+Sphincter 928917506  9  4 f   -     -     -         1120    0    0 
+Sphincter 928917554  9  3 f   -     -     -         1120    0    0 
+Sphincter 928917588 10  3 cc  b     bc    kf        1120   70    0 
+Sphincter 928917618  9  2 Bf  -     -     -         1050   10    0 
+Sphincter 928917666  9  1 Bc  kc    b     k         1040   40    0 Qd Jc
+Sphincter 928917729  8  8 f   -     -     -         1000    0    0 
+Sphincter 928917802  9  7 f   -     -     -         1000    0    0 
+Sphincter 928917831  9  6 f   -     -     -         1000    0    0 
+Sphincter 928917901 10  6 f   -     -     -         1000    0    0 
+Sphincter 928917950 10  5 f   -     -     -         1000    0    0 
+Sphincter 928918032  8  4 f   -     -     -         1000    0    0 
+Sphincter 928918065  7  2 f   -     -     -         1000    0    0 
+Sphincter 928918110  7  2 Bk  k     kc    k         1000   30   90 6s 9c
+Sphincter 928918221  9  1 Bf  -     -     -         1060    5    0 
+Sphincter 928918258  9  9 f   -     -     -         1055    0    0 
+Sphincter 928918296  9  8 f   -     -     -         1055    0    0 
+Sphincter 928918335  9  7 f   -     -     -         1055    0    0 
+Sphincter 928918386 10  7 f   -     -     -         1055    0    0 
+Sphincter 928918418  9  6 f   -     -     -         1055    0    0 
+Sphincter 928918485  9  5 f   -     -     -         1055    0    0 
+Sphincter 928918532 10  4 f   -     -     -         1055    0    0 
+Sphincter 928918573 10  3 f   -     -     -         1055    0    0 
+Sphincter 928918599 10  2 Bcc kf    -     -         1055   30    0 
+Sphincter 928918645 10  1 Bf  -     -     -         1025    5    0 
+Sphincter 928918673  9  9 f   -     -     -         1020    0    0 
+Sphincter 928918700 10  9 f   -     -     -         1020    0    0 
+Sphincter 928918762 10  8 rc  rc    f     -         1020   70    0 
+Sphincter 928918838 10  7 f   -     -     -          950    0    0 
+Sphincter 928918878 10  6 f   -     -     -          950    0    0 
+Sphincter 928918964 10  5 r   br    b     b          950   90  225 Th Kh
+Sphincter 928919019 10  4 f   -     -     -         1085    0    0 
+Sphincter 928919062 10  3 f   -     -     -         1085    0    0 
+Sphincter 928919093 10  2 Bk  b     r     c         1085   80    0 2c 6h
+Sphincter 928919148 10  1 Bf  -     -     -         1005    5    0 
+Sphincter 928919172 10 10 r   c     r     b         1000   90  270 3s Ad
+Sphincter 928919235 10  9 r   -     -     -         1180   20   35 
+Sphincter 928919256 10  8 f   -     -     -         1195    0    0 
+Sphincter 928919325 10  7 f   -     -     -         1195    0    0 
+Sphincter 928919356 10  6 f   -     -     -         1195    0    0 
+Sphincter 928919405 10  5 f   -     -     -         1195    0    0 
+Sphincter 928919520 10  4 f   -     -     -         1195    0    0 
+Sphincter 928919612 10  4 f   -     -     -         1195    0    0 
+Sphincter 928919696 10  2 Bc  r     b     b         1195   90  300 
+Sphincter 928919768  9  1 Bf  -     -     -         1405    5    0 
+Sphincter 928919829  9  9 f   -     -     -         1400    0    0 
+Sphincter 928919877 10  9 f   -     -     -         1400    0    0 
+Sphincter 928919932 10  8 c   r     b     kf        1400   60    0 
+Sphincter 928919985 10  7 f   -     -     -         1340    0    0 
+Sphincter 928920044 10  6 f   -     -     -         1340    0    0 
+Sphincter 928920083 10  5 f   -     -     -         1340    0    0 
+Sphincter 928920142  9  4 f   -     -     -         1340    0    0 
+Sphincter 928920177 10  4 f   -     -     -         1340    0    0 
+Sphincter 928920222  9  2 Bf  -     -     -         1340   10    0 
+Sphincter 928920261  9  1 Bf  -     -     -         1330    5    0 
+Sphincter 928920297  9  9 c   f     -     -         1325   20    0 
+Sphincter 928920349  9  8 f   -     -     -         1305    0    0 
+Sphincter 928920392 10  7 f   -     -     -         1305    0    0 
+Sphincter 928920441  8  4 f   -     -     -         1305    0    0 
+Sphincter 928920495  8  4 f   -     -     -         1305    0    0 
+Sphincter 928920518  8  3 f   -     -     -         1305    0    0 
+Sphincter 928920604  7  2 Bf  -     -     -         1305   10    0 
+Sphincter 928920654  8  1 Bf  -     -     -         1295    5    0 
+Sphincter 928920737  7  7 r   r     b     c         1290   80    0 Td Ah
+Sphincter 928920819  7  6 c   b     b     b         1210   60    0 2h 2d
+Sphincter 928920871  8  6 f   -     -     -         1150    0    0 
+Sphincter 928920904  8  5 f   -     -     -         1150    0    0 
+Sphincter 928920927  9  5 f   -     -     -         1150    0    0 
+Sphincter 928921066  7  3 f   -     -     -         1150    0    0 
+Sphincter 928921087  6  2 Bc  kc    b     brc       1150  130    0 5d 6c
+Sphincter 928921148  5  1 Bc  b     -     -         1020   20   30 
+Sphincter 928921165  4  4 rc  f     -     -         1030   40    0 
+Sphincter 928921175  5  3 f   -     -     -          990    0    0 
+Sphincter 928921178  6  2 Bf  -     -     -          990   10    0 
+Sphincter 928921186  6  1 Bf  -     -     -          980    5    0 
+Sphincter 928921212  7  7 rr  r     b     rc         975  140    0 As 7s
+Sphincter 928921266  6  5 f   -     -     -          835    0    0 
+Sphincter 928921301  6  4 f   -     -     -          835    0    0 
+Sphincter 928921337  6  3 c   bf    -     -          835   20    0 
+Sphincter 928921388  6  2 Bf  -     -     -          815   10    0 
+Sphincter 928921422  6  1 Bc  b     kf    -          805   20    0 
+Sphincter 928921452  6  6 f   -     -     -          785    0    0 
+Sphincter 928921455  6  5 f   -     -     -          785    0    0 
+Sphincter 928921479  6  4 f   -     -     -          785    0    0 
+Sphincter 928921514  6  3 f   -     -     -          785    0    0 
+Sphincter 928921530  7  2 Bk  rr    b     k          785   70    0 4d 6h
+Sphincter 928921612  6  1 Bf  -     -     -          715    5    0 
+Sphincter 928921652  6  5 f   -     -     -          710    0    0 
+Sphincter 928921664  6  4 f   -     -     -          710    0    0 
+Sphincter 928921696  6  3 f   -     -     -          710    0    0 
+Sphincter 928921728  7  2 Bc  k     b     b          710   60    0 Td Kd
+Sphincter 928921764  7  1 Bf  -     -     -          650    5    0 
+Sphincter 928921791  7  7 rc  rr    c     c          645  110    0 7d 2d
+Sphincter 928921833  6  5 r   b     k     b          535   50  175 Js Ah
+Sphincter 928921864  6  4 rr  b     c     f          660   70    0 
+Sphincter 928921903  6  3 cc  br    b     k          590   70  280 2c 2s
+Sphincter 928921958  6  2 Bk  k     kf    -          800   10    0 
+Sphincter 928922006  6  1 Bf  -     -     -          790    5    0 
+Sphincter 928922036  6  6 f   -     -     -          785    0    0 
+Sphincter 928922065  6  5 f   -     -     -          785    0    0 
+Sphincter 928922106  7  4 f   -     -     -          785    0    0 
+Sphincter 928922110  7  3 f   -     -     -          785    0    0 
+Sphincter 928922130  7  2 Bf  -     -     -          785   10    0 
+Sphincter 928922149  7  1 Bf  -     -     -          775    5    0 
+Sphincter 928922187  7  7 f   -     -     -          770    0    0 
+Sphincter 928922208  7  6 f   -     -     -          770    0    0 
+Sphincter 928922251  8  6 c   k     kc    k          770   30    0 Ah 7d
+Sphincter 928922297  9  6 f   -     -     -          740    0    0 
+Sphincter 928922330  8  4 f   -     -     -          740    0    0 
+Sphincter 928922407  9  3 f   -     -     -          740    0    0 
+Sphincter 928922427  8  1 Bk  b     b     b          740   60  140 
+Sphincter 928922460  7  1 Bc  b     b     b          820   60  170 8c Qc
+Sphincter 928922485  7  7 f   -     -     -          930    0    0 
+Sphincter 928922507  7  6 f   -     -     -          930    0    0 
+Sphincter 928922528  7  5 c   c     f     -          930   30    0 
+Sphincter 928922566  8  4 cc  c     f     -          900   30    0 
+Sphincter 928922626  8  3 f   -     -     -          870    0    0 
+Sphincter 928922680  7  2 Bf  -     -     -          870   10    0 
+Sphincter 928922723  6  1 Bc  bf    -     -          860   20    0 
+Sphincter 928922768  6  6 c   c     c     k          840   35    0 9s Js
+Sphincter 928922802  5  4 f   -     -     -          805    0    0 
+Sphincter 928922808  4  3 r   b     -     -          805   30   60 
+Sphincter 928922822  5  1 Bk  b     k     b          835   40   70 
+Sphincter 928922849  7  1 Bc  b     k     b          865   40  100 
+Sphincter 928922878  7  7 f   -     -     -          925    0    0 
+Sphincter 928922901  7  6 f   -     -     -          925    0    0 
+Sphincter 928922932  7  5 f   -     -     -          925    0    0 
+Sphincter 928922972  7  4 c   k     k     b          925   30    0 Kh Js
+Sphincter 928923005  7  3 f   -     -     -          895    0    0 
+Sphincter 928923042  7  2 Br  bc    b     kc         895   80    0 Kc Ad
+Sphincter 928923081  7  1 Bf  -     -     -          815    5    0 
+Sphincter 928923091  7  7 f   -     -     -          810    0    0 
+Sphincter 928923123  8  7 f   -     -     -          810    0    0 
+Sphincter 928923225  6  6 c   c     c     f          810   50    0 
+Sphincter 928923251  6  6 f   -     -     -          760    0    0 
+Sphincter 928923292  6  5 f   -     -     -          760    0    0 
+Sphincter 928923322  6  4 f   -     -     -          760    0    0 
+Sphincter 928923349  6  3 f   -     -     -          760    0    0 
+Sphincter 928923378  6  2 Bk  f     -     -          760   10    0 
+Sphincter 928923401  6  1 Bc  brc   bc    kc         750  130  150 Kc Ac
+Sphincter 928923429  6  6 r   rf    -     -          770   50    0 
+Sphincter 928923452  6  5 f   -     -     -          720    0    0 
+Sphincter 928923459  6  4 f   -     -     -          720    0    0 
+Sphincter 928923482  6  3 f   -     -     -          720    0    0 
+Sphincter 928923508  7  2 Bf  -     -     -          720   10    0 
+Sphincter 928923535  8  1 Bf  -     -     -          710    5    0 
+Sphincter 928923586  8  8 f   -     -     -          705    0    0 
+Sphincter 928923657  9  8 f   -     -     -          705    0    0 
+Sphincter 928923703  8  6 f   -     -     -          705    0    0 
+Sphincter 928923727  8  5 f   -     -     -          705    0    0 
+Sphincter 928923760  9  5 f   -     -     -          705    0    0 
+Sphincter 928923804 10  5 r   kc    c     f          705   50    0 
+Sphincter 928923871 10  4 f   -     -     -          655    0    0 
+Sphincter 928923904  8  3 f   -     -     -          655    0    0 
+Sphincter 928923920  8  2 Bk  kf    -     -          655   10    0 
+Sphincter 928923941  7  1 Bf  -     -     -          645    5    0 
+Sphincter 928923978  7  7 f   -     -     -          640    0    0 
+Sphincter 928924047  7  7 c   c     f     -          640   30    0 
+Sphincter 928924096  8  6 f   -     -     -          610    0    0 
+Sphincter 928924121  8  5 cc  kf    -     -          610   30    0 
+Sphincter 928924162  7  3 c   c     k     b          580   40    0 2s 2h
+Sphincter 928924195  9  3 f   -     -     -          540    0    0 
+Sphincter 928924210  9  2 Bf  -     -     -          540   10    0 
+Sphincter 928924236 10  1 Bf  -     -     -          530    5    0 
+Sphincter 928924264 10 10 f   -     -     -          525    0    0 
+Sphincter 928924285 10  9 f   -     -     -          525    0    0 
+Sphincter 928924339 10  8 f   -     -     -          525    0    0 
+Sphincter 928924370  9  6 c   f     -     -          525   20    0 
+Sphincter 928924404  9  5 f   -     -     -          505    0    0 
+Sphincter 928924442  9  4 f   -     -     -          505    0    0 
+Sphincter 928924468  9  3 f   -     -     -          505    0    0 
+Sphincter 928924500  9  2 Bk  kf    -     -          505   10    0 
+Sphincter 928924519 10  1 Bf  -     -     -          495    5    0 
+Sphincter 928924547 10 10 f   -     -     -          490    0    0 
+Sphincter 928924578 10  9 f   -     -     -          490    0    0 
+Sphincter 928924619  9  8 f   -     -     -          490    0    0 
+Sphincter 928924650  9  7 r   b     k     k          490   30   75 Ks Qh
+Sphincter 928924672  9  6 c   c     cc    f          535   90    0 
+Sphincter 928924703  9  5 f   -     -     -          445    0    0 
+Sphincter 928924732  9  4 cc  ccc   f     -          445   60    0 
+Sphincter 928924778 10  3 f   -     -     -          385    0    0 
+Sphincter 928924803 10  2 Bc  f     -     -          385   20    0 
+Sphincter 928924830 10  1 Br  -     -     -          365   20   30 
+Sphincter 928924844 10 10 crc rc    r     c          375  130    0 7h 7d
+Sphincter 928924892  9  8 r   rr    r     b          245  140    0 Ac 8c
+Sphincter 928924936  9  7 f   -     -     -          105    0    0 
+Sphincter 928924972 10  7 f   -     -     -          105    0    0 
+Sphincter 928925025  9  5 c   b     b     b          105   70  170 6h 6s
+Sphincter 928925050  9  4 f   -     -     -          205    0    0 
+Sphincter 928925077  8  4 f   -     -     -          205    0    0 
+Sphincter 928925109  8  3 f   -     -     -          205    0    0 
+Sphincter 928925137  8  2 Bf  -     -     -          205   10    0 
+Sphincter 928925161  8  1 Bf  -     -     -          195    5    0 
+Sphincter 928925207  8  8 f   -     -     -          190    0    0 
+Sphincter 928925215  8  7 c   c     f     -          190   30    0 
+Sphincter 928925246  9  6 f   -     -     -          160    0    0 
+Sphincter 928925261  9  5 f   -     -     -          160    0    0 
+Sphincter 928925279  9  4 c   k     f     -          160   10    0 
+Sphincter 928925318  9  3 f   -     -     -          150    0    0 
+Sphincter 928925354  9  2 Bc  kc    kc    b          150   70  215 8s Ah
+Sphincter 928925431  9  1 Bc  kc    kf    -          295   20    0 
+Sphincter 928925483  9  9 f   -     -     -          275    0    0 
+Sphincter 928925499  9  8 f   -     -     -          275    0    0 
+Sphincter 928925539  9  7 f   Q     -     -          275    0    0 
+Sphincter 928925627 10  6 r   b     -     -          275   30   75 
+Sphincter 928925659 10  5 cf  -     -     -          320   10    0 
+Sphincter 928925735 10  4 f   -     -     -          310    0    0 
+Sphincter 928925837 10  3 f   -     -     -          310    0    0 
+Sphincter 928925874 10  2 Bf  -     -     -          310   10    0 
+Sphincter 928925907 10  1 Bc  kf    -     -          300   10    0 
+Sphincter 928925953 10 10 c   rc    c     c          290   90    0 8h 8s
+Sphincter 928925999 10  9 f   -     -     -          200    0    0 
+Sphincter 928926036  9  7 f   -     -     -          200    0    0 
+Sphincter 928926070  9  6 f   -     -     -          200    0    0 
+Sphincter 928926131 10  5 f   -     -     -          200    0    0 
+Sphincter 928926149  9  3 c   br    r     c          200  100    0 Ks Qh
+Sphincter 928926191  9  2 Bc  bc    k     bc         100   80  205 Ts Js
+Sphincter 928926264 10  1 Bf  -     -     -          225    5    0 
+Sphincter 928926290 10 10 f   -     -     -          220    0    0 
+Sphincter 928926325 10  9 f   -     -     -          220    0    0 
+Sphincter 928926359 10  8 rc  kc    kf    -          220   40    0 
+Sphincter 928926387 10  7 f   -     -     -          180    0    0 
+Sphincter 928926434 10  6 f   -     -     -          180    0    0 
+Sphincter 928926458  9  4 c   cc    kf    -          180   30    0 
+Sphincter 928926561  9  3 f   -     -     -          150    0    0 
+Sphincter 928926594  9  2 Bk  kf    -     -          150   10    0 
+Sphincter 928926635  9  1 Bf  -     -     -          140    5    0 
+Sphincter 928926645  9  9 f   -     -     -          135    0    0 
+Sphincter 928926675  9  8 r   b     b     -          135   50  100 
+Sphincter 928926708  9  7 f   -     -     -          185    0    0 
+Sphincter 928926722  9  6 f   -     -     -          185    0    0 
+Sphincter 928926754  9  5 f   -     -     -          185    0    0 
+Sphincter 928926789  9  4 c   f     -     -          185   10    0 
+Sphincter 928926839  9  3 f   -     -     -          175    0    0 
+Sphincter 928926859  9  2 Bk  r     -     -          175   30   60 
+Sphincter 928926882  8  1 Bc  kf    -     -          205   10    0 
+Sphincter 928926922  8  8 f   -     -     -          195    0    0 
+Sphincter 928926937  8  7 f   -     -     -          195    0    0 
+Sphincter 928926958  8  6 f   -     -     -          195    0    0 
+Sphincter 928927009  8  5 f   -     -     -          195    0    0 
+Sphincter 928927041  8  4 f   -     -     -          195    0    0 
+Sphincter 928927062  8  3 f   -     -     -          195    0    0 
+Sphincter 928927102 10  2 Bf  -     -     -          195   10    0 
+Sphincter 928927137 10  1 Bf  -     -     -          185    5    0 
+Sphincter 928927184 10 10 f   -     -     -          180    0    0 
+Sphincter 928927221 10  9 f   -     -     -          180    0    0 
+Sphincter 928927275 10  8 cc  brc   c     cf         180  110    0 
+Sphincter 928927328 10  7 rr  rcA   -     -           70   70  190 Js Ad
+Sphincter 928927362 10  6 f   -     -     -          190    0    0 
+Sphincter 928927418 10  5 f   -     -     -          190    0    0 
+Sphincter 928927467 10  4 f   -     -     -          190    0    0 
+Sphincter 928927495 10  3 f   -     -     -          190    0    0 
+Sphincter 928927519 10  2 Bf  -     -     -          190   10    0 
+Sphincter 928927553 10  1 Bf  -     -     -          180    5    0 
+Sphincter 928927605 10 10 cc  c     c     c          175   70  200 Js Kh
+Sphincter 928927657 10  9 f   -     -     -          305    0    0 
+Sphincter 928927716 10  8 rc  k     c     f          305   50    0 
+Sphincter 928927755  9  6 f   -     -     -          255    0    0 
+Sphincter 928927785  9  5 f   -     -     -          255    0    0 
+Sphincter 928927806  9  4 f   -     -     -          255    0    0 
+Sphincter 928927837  9  3 f   -     -     -          255    0    0 
+Sphincter 928927939 10  2 Bf  -     -     -          255   10    0 
+Sphincter 928927972 10  1 Bcc kcc   krc   kf         245  150    0 
+Sphincter 928928056 10 10 f   -     -     -           95    0    0 
+Sphincter 928928108 10  9 f   -     -     -           95    0    0 
+Sphincter 928928170 10  8 f   -     -     -           95    0    0 
+Sphincter 928928206 10  7 f   -     -     -          105    0    0 
+Sphincter 928928247 10  6 f   -     -     -          105    0    0 
+Sphincter 928928297 10  5 f   -     -     -          100    0    0 
+Sphincter 928928334 10  4 f   -     -     -          100    0    0 
+Sphincter 928928371 10  3 f   -     -     -          115    0    0 
+Sphincter 928928424 10  2 Bf  -     -     -          210   10    0 
+Sphincter 928928479 10  1 Bf  -     -     -          255    5    0 
+Sphincter 928928522 10 10 f   -     -     -          250    0    0 
+Sphincter 928928566 10  9 f   -     -     -          190    0    0 
+Sphincter 928928637 10  8 f   -     -     -          265    0    0 
+Sphincter 928928712 10  7 f   -     -     -          270    0    0 
+Sphincter 928928767 10  6 f   -     -     -          260    0    0 
+Sphincter 928928802 10  5 f   -     -     -          330    0    0 
+Sphincter 928928837 10  4 f   -     -     -          355    0    0 
+Sphincter 928928901 10  3 f   -     -     -          425    0    0 
+Sphincter 928928981 10  2 Bc  br    br    bc         435  200    0 Ks Qd
+Sphincter 928929066 10  1 Bf  -     -     -          230    5    0 
+Sphincter 928929109 10 10 f   -     -     -          260    0    0 
+Sphincter 928929187  9  8 f   -     -     -          230    0    0 
+Sphincter 928929243 10  7 rc  b     b     b          170   90    0 6h 5h
+Sphincter 928929292 10  6 f   -     -     -           80    0    0 
+Sphincter 928929401 10  5 f   -     -     -           80    0    0 
+Sphincter 928929447  9  3 f   -     -     -           80    0    0 
+Sphincter 928929478  9  2 Bf  -     -     -           80   10    0 
+Sphincter 928929513  9  1 Bf  -     -     -           70    5    0 
+Sphincter 928929572 10 10 f   -     -     -           50    0    0 
+Sphincter 928929629 10  9 f   -     -     -           50    0    0 
+Sphincter 928929694  9  7 rc  cc    ccA   -           85   85    0 9s 9h
+Sphincter 928929780 10  7 f   -     -     -           90    0    0 
+Sphincter 928929828  9  6 f   -     -     -           90    0    0 
+Sphincter 928929852  9  5 f   -     -     -           90    0    0 
+Sphincter 928929896  8  3 f   -     -     -           90    0    0 
+Sphincter 928929942  8  2 Bk  kf    -     -           60   10    0 
+Sphincter 928929987  9  1 Bf  -     -     -           20    5    0 
+Sphincter 928930023  9  9 f   -     -     -           15    0    0 

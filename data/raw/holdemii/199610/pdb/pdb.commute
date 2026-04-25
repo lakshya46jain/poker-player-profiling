@@ -1,0 +1,582 @@
+commute   846120758  4  3 cc  kr    bc    k         1000   80  190 9s 8h
+commute   846120825  3  2 Bk  k     k     k         1110   10   15 6d Qh
+commute   846120852  3  1 Bc  k     k     kf        1115   10    0 
+commute   846120869  3  3 c   c     c     c         1105   60    0 Ks 6h
+commute   846120887  3  2 Bk  kc    kf    -         1045   20    0 
+commute   846120903  3  1 Bc  kf    -     -         1025   10    0 
+commute   846120944  3  3 f   -     -     -         1015    0    0 
+commute   846120971  3  2 B   -     -     -         1015   10   15 
+commute   846120980  3  1 Bf  -     -     -         1020    5    0 
+commute   846120985  3  3 f   -     -     -         1015    0    0 
+commute   846120996  3  2 Bc  kf    -     -         1015   20    0 
+commute   846121005  3  1 Bc  k     k     k          995   10    0 6d Qh
+commute   846121035  3  3 f   -     -     -          985    0    0 
+commute   846121054  3  2 Bk  bc    k     k          985   30   70 9d 2h
+commute   846121074  3  1 Bc  k     b     -         1025   30   40 
+commute   846121087  3  3 cf  -     -     -         1035   10    0 
+commute   846121103  4  2 Bc  f     -     -         1025   20    0 
+commute   846121132  4  1 Bc  kf    -     -         1005   20    0 
+commute   846121171  4  4 f   -     -     -          985    0    0 
+commute   846121196  4  3 c   f     -     -          985   10    0 
+commute   846121217  4  2 Bk  k     b     b          975   50   95 
+commute   846121240  4  1 Bcc kc    kf    -         1020   40    0 
+commute   846121262  4  4 f   -     -     -          980    0    0 
+commute   846121299  4  3 c   cc    kf    -          980   30    0 
+commute   846121335  4  2 Bf  -     -     -          950   10    0 
+commute   846121361  4  1 Bf  -     -     -          940    5    0 
+commute   846121399  4  4 f   -     -     -          935    0    0 
+commute   846121418  4  3 f   -     -     -          935    0    0 
+commute   846121450  4  2 Bf  -     -     -          935   10    0 
+commute   846121485  5  1 Bcf -     -     -          925   10    0 
+commute   846121507  5  5 f   -     -     -          915    0    0 
+commute   846121553  5  4 f   -     -     -          915    0    0 
+commute   846121585  5  3 c   k     kf    -          915   10    0 
+commute   846121621  6  3 rc  kcc   kf    -          905   80    0 
+commute   846121728  6  2 Bc  kf    -     -          825   20    0 
+commute   846121786  6  1 Bf  -     -     -          805    5    0 
+commute   846121861  5  5 f   -     -     -          800    0    0 
+commute   846121899  4  4 rc  b     bc    k          800   90    0 Ah Qh
+commute   846121930  4  3 cc  kf    -     -          710   20    0 
+commute   846121959  4  2 Bf  -     -     -          690   10    0 
+commute   846121996  4  1 Bc  k     kf    -          680   10    0 
+commute   846122018  4  4 c   b     k     k          670   30    0 Qs Js
+commute   846122043  4  3 c   kf    -     -          640   10    0 
+commute   846122065  4  2 Bf  -     -     -          630   10    0 
+commute   846122084  4  1 Bf  -     -     -          620    5    0 
+commute   846122111  4  4 c   k     b     -          615   30   50 
+commute   846122139  4  3 c   k     k     k          635   10    0 5d 8d
+commute   846122155  4  2 Bk  b     -     -          625   20   50 
+commute   846122170  4  1 Bc  b     b     -          655   40   60 
+commute   846122183  4  4 f   -     -     -          675    0    0 
+commute   846122194  4  3 f   -     -     -          675    0    0 
+commute   846122200  4  2 Bk  c     bc    f          675   60    0 
+commute   846122221  4  1 Bc  kc    kf    -          615   20    0 
+commute   846122260  4  4 c   k     b     b          595   50  115 
+commute   846122285  4  3 r   b     b     b          660   70  175 Ad As
+commute   846122312  4  2 Bc  f     -     -          765   20    0 
+commute   846122340  4  1 Bc  b     -     -          745   20   30 
+commute   846122355  5  4 f   -     -     -          755    0    0 
+commute   846122366  5  3 f   -     -     -          755    0    0 
+commute   846122387  5  2 Bf  -     -     -          755   10    0 
+commute   846122407  5  1 Bf  -     -     -          745    5    0 
+commute   846122440  5  5 cf  -     -     -          740   10    0 
+commute   846122451  5  4 ccc rc    bc    brc        730  190  535 Qs 6s
+commute   846122507  6  4 f   -     -     -         1075    0    0 
+commute   846122531  6  3 f   -     -     -         1075    0    0 
+commute   846122563  6  2 Bc  kf    -     -         1075   20    0 
+commute   846122605  6  1 Bf  -     -     -         1055    5    0 
+commute   846122640  6  6 f   -     -     -         1050    0    0 
+commute   846122701  6  5 f   -     -     -         1050    0    0 
+commute   846122763  6  4 cc  kf    -     -         1050   20    0 
+commute   846122813  6  3 f   -     -     -         1030    0    0 
+commute   846122836  6  2 Bc  kf    -     -         1030   20    0 
+commute   846122871  6  1 Brr bc    kf    -         1010   60    0 
+commute   846122921  6  6 f   -     -     -          950    0    0 
+commute   846122939  6  5 cc  c     f     -          950   30    0 
+commute   846122983  5  4 cc  b     r     b          920   90  230 Jh 9d
+commute   846123029  6  4 f   -     -     -         1060    0    0 
+commute   846123092  5  3 f   -     -     -         1060    0    0 
+commute   846123135  6  2 Bf  -     -     -         1060   10    0 
+commute   846123172  6  1 Bcc k     kf    -         1050   30    0 
+commute   846123215  5  5 c   k     b     k         1020   30    0 6d 5d
+commute   846123261  6  5 f   -     -     -          990    0    0 
+commute   846123336  7  4 f   -     -     -          990    0    0 
+commute   846123349  7  3 f   -     -     -          990    0    0 
+commute   846123389  7  2 Bc  kf    -     -          990   20    0 
+commute   846123438  7  1 Bf  -     -     -          970    5    0 
+commute   846123489  7  7 f   -     -     -          965    0    0 
+commute   846123586  7  6 rr  b     b     -          965   70  195 
+commute   846123669  6  4 f   -     -     -         1090    0    0 
+commute   846123738  7  4 cc  kf    -     -         1090   20    0 
+commute   846123788  6  4 f   -     -     -         1070    0    0 
+commute   846123809  5  2 Bk  k     f     -         1070   10    0 
+commute   846123887  5  1 Bc  k     b     -         1060   30   50 
+commute   846123926  5  5 c   f     -     -         1080   20    0 
+commute   846123952  5  4 f   -     -     -         1060    0    0 
+commute   846123991  5  3 c   b     -     -         1060   20   50 
+commute   846124023  5  2 Br  b     -     -         1090   30   55 
+commute   846124046  5  1 Br  kc    kf    -         1115   30    0 
+commute   846124070  5  5 f   -     -     -         1085    0    0 
+commute   846124107  4  3 f   -     -     -         1085    0    0 
+commute   846124145  4  2 Bc  r     b     b         1085   80  100 Jc Ah
+commute   846124193  5  1 Bcc kf    -     -         1105   40    0 
+commute   846124276  6  6 cc  rc    KQ    -         1065   60    0 
+commute   846124735  5  5 KQ  -     -     -         1005    0    0 
+commute   846124846  5  4 f   -     -     -         1005    0    0 
+commute   846124881  5  3 f   -     -     -         1005    0    0 
+commute   846124919  5  2 Bc  cc    brrrrrrc brrc      1005  440  940 Ah 5d
+commute   846124967  5  1 Bcc kf    -     -         1505   20    0 
+commute   846125070  5  5 f   -     -     -         1485    0    0 
+commute   846125095  5  4 cc  f     -     -         1485   20    0 
+commute   846125144  5  3 cc  bc    kc    bc        1465  100    0 Kh 9s
+commute   846125182  5  2 Bf  -     -     -         1365   10    0 
+commute   846125216  5  1 Bf  -     -     -         1355    5    0 
+commute   846125251  5  5 cc  f     -     -         1350   20    0 
+commute   846125281  6  5 f   -     -     -         1330    0    0 
+commute   846125350  6  4 cc  f     -     -         1330   20    0 
+commute   846125381  5  3 c   f     -     -         1310   10    0 
+commute   846125408  6  2 Bf  -     -     -         1300   10    0 
+commute   846125483  6  1 Bcc kf    -     -         1290   30    0 
+commute   846125543  6  6 cc  rrr   rrrrr -         1260  290  600 Ks Jh
+commute   846125593  5  5 c   f     -     -         1570   20    0 
+commute   846125622  6  4 fQ  -     -     -         1550    0    0 
+commute   846280736  3  3 rc  cc    k     k         1970   60    0 As 4s
+commute   846280766  3  2 Bf  -     -     -         1910   10    0 
+commute   846280795  3  1 Bf  -     -     -         1900    5    0 
+commute   846280805  3  3 cc  f     -     -         1895   20    0 
+commute   846280828  3  2 Bf  -     -     -         1875   10    0 
+commute   846280851  3  1 Bc  b     b     br        1865  110  240 8c Td
+commute   846280877  3  3 cc  rc    c     c         1995   90  185 Kh 6c
+commute   846280904  3  2 Bf  -     -     -         2090   10    0 
+commute   846280916  3  1 Bc  bf    -     -         2080   20    0 
+commute   846280928  3  3 f   -     -     -         2060    0    0 
+commute   846280943  4  2 Bc  f     -     -         2060   20    0 
+commute   846280956  4  1 Bcc kc    kf    -         2040   60    0 
+commute   846280989  4  4 f   -     -     -         1980    0    0 
+commute   846281010  4  3 cc  b     -     -         1980   30   90 
+commute   846281032  4  2 Bf  -     -     -         2040   10    0 
+commute   846281068  4  1 Bc  kc    kf    -         2030   20    0 
+commute   846281084  4  4 f   -     -     -         2010    0    0 
+commute   846281099  4  3 f   -     -     -         2010    0    0 
+commute   846281137  5  3 f   -     -     -         2010    0    0 
+commute   846281198  5  2 Bc  kf    -     -         2010   20    0 
+commute   846281210  5  1 Bc  kc    kc    kc        1990   70    0 8d 7d
+commute   846281238  5  5 f   -     -     -         1920    0    0 
+commute   846281280  5  4 cc  c     f     -         1920   30    0 
+commute   846281298  5  3 f   -     -     -         1890    0    0 
+commute   846281338  5  2 Br  b     -     -         1890   30   70 
+commute   846281373  5  1 Br  bc    kc    b         1930   80  140 
+commute   846281395  5  5 ccc c     f     -         1990   60    0 
+commute   846281475  5  4 f   -     -     -         1930    0    0 
+commute   846281519  5  3 cf  -     -     -         1930   10    0 
+commute   846281578  6  3 c   f     -     -         1920   10    0 
+commute   846281597  7  3 cc  bcc   kc    k         1910   80    0 Qd Jd
+commute   846281683  6  2 Bf  -     -     -         1830   10    0 
+commute   846281784  6  1 Bf  -     -     -         1820    5    0 
+commute   846281825  6  6 c   b     k     rrc       1815  120    0 As 9s
+commute   846281885  6  5 cc  b     b     k         1695   50  110 8s 8c
+commute   846281929  5  4 cc  kf    -     -         1755   20    0 
+commute   846281959  5  3 f   -     -     -         1735    0    0 
+commute   846281971  6  2 Bk  b     -     -         1735   20   30 
+commute   846282007  6  1 Bc  kf    -     -         1745   10    0 
+commute   846282072  9  9 c   f     -     -         1735   20    0 
+commute   846282257  6  5 f   -     -     -         1715    0    0 
+commute   846282304  6  4 cc  f     -     -         1715   30    0 
+commute   846282364  6  3 f   -     -     -         1685    0    0 
+commute   846282396  6  2 Bk  kf    -     -         1685   10    0 
+commute   846282440  6  1 Bf  -     -     -         1675    5    0 
+commute   846282509  6  6 f   -     -     -         1670    0    0 
+commute   846282528  6  5 f   -     -     -         1670    0    0 
+commute   846282559  6  4 f   -     -     -         1670    0    0 
+commute   846282624  6  3 f   -     -     -         1670    0    0 
+commute   846282675  6  2 Bf  -     -     -         1670   10    0 
+commute   846282692  6  1 Bf  -     -     -         1660    5    0 
+commute   846282734  6  6 c   rc    c     b         1655   90  195 9d Ac
+commute   846282765  6  5 f   -     -     -         1760    0    0 
+commute   846282779  6  4 f   -     -     -         1760    0    0 
+commute   846282814  6  3 c   f     -     -         1760   10    0 
+commute   846282855  6  2 Bf  -     -     -         1750   10    0 
+commute   846282913  6  1 Bcc kc    kc    kf        1740   80    0 
+commute   846282993  6  6 r   b     br    b         1660  110  250 Ad As
+commute   846283067  6  5 f   -     -     -         1800    0    0 
+commute   846283104  6  4 f   -     -     -         1800    0    0 
+commute   846283163  6  4 cc  bc    brc   kc        1800  140    0 9c 7c
+commute   846283215  6  3 f   -     -     -         1660    0    0 
+commute   846283244  7  2 Bc  kf    -     -         1660   20    0 
+commute   846283318  8  1 Bcc kc    b     b         1640   80  320 Qh Ad
+commute   846283434  8  8 f   -     -     -         1880    0    0 
+commute   846283524  8  7 f   -     -     -         1880    0    0 
+commute   846283560  8  6 f   -     -     -         1880    0    0 
+commute   846283645  8  5 f   -     -     -         1880    0    0 
+commute   846283659  8  5 f   -     -     -         1880    0    0 
+commute   846283750  7  3 cc  kc    kf    -         1880   30    0 
+commute   846283798  7  2 Bk  f     -     -         1850   10    0 
+commute   846283839  7  1 Bf  -     -     -         1840    5    0 
+commute   846283858  7  7 f   -     -     -         1835    0    0 
+commute   846283956  7  6 f   -     -     -         1835    0    0 
+commute   846283986  7  5 f   -     -     -         1835    0    0 
+commute   846284062  7  4 f   -     -     -         1835    0    0 
+commute   846284107  7  3 cc  f     -     -         1835   20    0 
+commute   846284133  7  2 Bcc bc    kc    kc        1815  110    0 Jd Jc
+commute   846284252  7  1 Bf  -     -     -         1705    5    0 
+commute   846284319  6  6 f   -     -     -         1700    0    0 
+commute   846284397  6  5 f   -     -     -         1700    0    0 
+commute   846284416  5  4 c   f     -     -         1700   20    0 
+commute   846284462  5  3 f   -     -     -         1680    0    0 
+commute   846284503  5  2 B   -     -     -         1680   10   15 
+commute   846284514  5  1 Bc  k     kf    -         1685   10    0 
+commute   846284557  5  5 f   -     -     -         1675    0    0 
+commute   846284568  5  4 f   -     -     -         1675    0    0 
+commute   846284627  5  3 f   -     -     -         1675    0    0 
+commute   846284664  5  2 Bf  -     -     -         1675   10    0 
+commute   846284682  6  1 Bc  k     k     k         1665   10    0 Tc 9d
+commute   846284732  6  6 c   b     b     b         1655   60   67 Jh Qs
+commute   846284799  6  5 r   -     -     -         1662   20   35 
+commute   846284817  6  4 f   -     -     -         1677    0    0 
+commute   846284881  6  3 f   -     -     -         1677    0    0 
+commute   846284919  6  2 B   -     -     -         1677   10   15 
+commute   846284933  6  1 Bf  -     -     -         1682    5    0 
+commute   846284983  6  6 c   f     -     -         1677   10    0 
+commute   846285031  6  5 f   -     -     -         1667    0    0 
+commute   846285149  5  4 f   -     -     -         1667    0    0 
+commute   846285181  5  3 c   c     b     k         1667   40  110 Ah Td
+commute   846285252  6  2 Bc  f     -     -         1737   20    0 
+commute   846285322  5  1 Bc  kf    -     -         1717   20    0 
+commute   846285356  4  4 c   b     -     -         1697   20   35 
+commute   846285402  2  2 Bc  k     f     -         1712   20    0 
+commute   846285426  2  1 Bf  -     -     -         1692    5    0 
+commute   846285431  2  2 B   -     -     -         1687   10   15 
+commute   846285442  2  1 Bc  kf    -     -         1692   10    0 
+commute   846285462  2  2 BQ  -     -     -         1682   10   15 
+commute   846286177  2  2 Bk  b     -     -         1717   20   30 
+commute   846286190  3  1 Bc  k     k     k         1727   10    0 5d Tc
+commute   846286223  2  2 c   k     f     -         1717   10    0 
+commute   846286237  2  2 Br  b     -     -         1707   30   50 
+commute   846286247  2  1 Br  kf    -     -         1727   20    0 
+commute   846286262  2  2 B   -     -     -         1707   10   15 
+commute   846286264  2  1 Bc  k     b     -         1712   30   40 
+commute   846286299  2  2 Bk  f     -     -         1722   10    0 
+commute   846286308  2  1 Br  b     b     k         1712   50  100 Kd 9h
+commute   846286325  2  2 B   -     -     -         1762   10   15 
+commute   846286332  2  1 Bf  -     -     -         1767    5    0 
+commute   846286335  2  2 B   -     -     -         1762   10   15 
+commute   846286336  2  1 Bc  kc    k     b         1767   40   60 
+commute   846286353  2  2 B   -     -     -         1787   10   15 
+commute   846286355  2  1 Bc  kc    b     -         1792   40   60 
+commute   846286372  2  2 B   -     -     -         1812   10   15 
+commute   846286374  2  1 Bc  kc    k     k         1817   20    0 Jc 4d
+commute   846286395  2  2 Bk  k     f     -         1797   10    0 
+commute   846286407  2  1 Br  bc    kc    k         1787   60    0 Jh Qh
+commute   846286425  2  2 Br  b     b     r         1727   90  180 3c Ac
+commute   846286475  2  1 Bc  bc    k     k         1817   30    0 Jc 9d
+commute   846286503  2  2 Bk  b     b     b         1787   60    0 4d 5h
+commute   846286530  2  1 Bcc kf    -     -         1727   20    0 
+commute   846286543  2  2 Bk  k     k     k         1707   10    0 Jc 7h
+commute   846286555  2  1 Br  kc    k     kc        1697   50    0 Ad Jd
+commute   846286582  2  2 Br  b     -     -         1647   30   50 
+commute   846286607  2  1 Bf  -     -     -         1667    5    0 
+commute   846286610  2  2 B   -     -     -         1662   10   15 
+commute   846286613  2  1 Bf  -     -     -         1667    5    0 
+commute   846286616  2  2 Bk  f     -     -         1662   10    0 
+commute   846286626  2  1 Bc  b     -     -         1652   20   30 
+commute   846286635  2  2 Br  b     -     -         1662   30   50 
+commute   846286648  2  1 Br  b     b     -         1682   50   80 
+commute   846286665  2  2 B   -     -     -         1712   10   15 
+commute   846286669  2  1 Bf  -     -     -         1717    5    0 
+commute   846286672  2  2 Br  c     b     -         1712   50   80 
+commute   846286686  2  1 Br  k     kf    -         1742   20    0 
+commute   846286702  2  2 B   -     -     -         1722   10   15 
+commute   846286706  2  1 Bf  -     -     -         1727    5    0 
+commute   846286707  2  2 Bk  k     f     -         1722   10    0 
+commute   846286721  2  1 Bc  b     -     -         1712   20   30 
+commute   846286735  2  2 B   -     -     -         1722   10   15 
+commute   846286737  2  1 Bc  k     k     k         1727   10    0 Jh 4s
+commute   846286754  2  2 Bk  c     b     -         1717   40   60 
+commute   846286771  2  1 Bc  k     k     b         1737   30   40 
+commute   846286792  2  2 B   -     -     -         1747   10   15 
+commute   846286793  2  1 Bc  kc    b     -         1752   40   60 
+commute   846286809  2  2 Bk  b     c     k         1772   40   80 8s 6h
+commute   846286829  2  1 Bc  kf    -     -         1812   10    0 
+commute   846286840  2  2 B   -     -     -         1802   10   15 
+commute   846286842  2  1 Bc  b     kf    -         1807   20    0 
+commute   846286855  2  2 B   -     -     -         1787   10   15 
+commute   846286857  2  1 Br  b     -     -         1792   30   50 
+commute   846286870  2  2 B   -     -     -         1812   10   15 
+commute   846286872  2  1 Bf  -     -     -         1817    5    0 
+commute   846286879  2  2 B   -     -     -         1812   10   15 
+commute   846286880  2  1 Bc  b     b     b         1817   60  120 3c 4d
+commute   846286900  2  2 Br  b     -     -         1877   30   50 
+commute   846286916  2  1 Bc  b     -     -         1897   20   30 
+commute   846286925  2  2 B   -     -     -         1907   10   15 
+commute   846286928  2  1 Br  b     b     -         1912   50   80 
+commute   846286942  2  2 Bk  b     -     -         1942   20   30 
+commute   846286951  2  1 Br  b     -     -         1952   30   50 
+commute   846286962  2  2 Bk  k     bc    f         1972   50    0 
+commute   846286987  2  1 Br  b     b     b         1922   70  140 Tc Qh
+commute   846287006  2  2 Bk  k     c     k         1992   30    0 7d 5s
+commute   846287021  2  1 Bc  kf    -     -         1962   10    0 
+commute   846287034  2  2 B   -     -     -         1952   10   15 
+commute   846287036  2  1 Bf  -     -     -         1957    5    0 
+commute   846287039  2  2 Bk  c     k     b         1952   40   60 
+commute   846287056  2  1 Bc  bc    b     -         1972   50   80 
+commute   846287073  2  2 B   -     -     -         2002   10   15 
+commute   846287076  2  1 Br  -     -     -         2007   20   30 
+commute   846287080  2  2 B   -     -     -         2017   10   15 
+commute   846287083  2  1 Bf  -     -     -         2022    5    0 
+commute   846287085  2  2 Bk  bc    c     r         2017   90   90 8h 9h
+commute   846287106  2  1 Bc  b     -     -         2017   20   30 
+commute   846287120  2  2 Bk  k     c     r         2027   70  120 
+commute   846287141  2  1 Bc  kf    -     -         2077   10    0 
+commute   846287154  2  2 B   -     -     -         2067   10   15 
+commute   846287157  2  1 Br  b     -     -         2072   30   50 
+commute   846287163  2  2 B   -     -     -         2092   10   15 
+commute   846287165  2  1 Bc  kc    bc    brrrrrrrc   2097  380  760 9h 7c
+commute   846287202  3  2 B   -     -     -         2477   10   20 Kc 5h
+commute   846287223  2  1 Bc  kf    -     -         2487   10    0 
+commute   846287238  3  3 f   -     -     -         2477    0    0 
+commute   846287273  3  2 Bf  -     -     -         2477   10    0 
+commute   846287296  3  1 Bf  -     -     -         2467    5    0 
+commute   846287340  2  2 B   -     -     -         2462   10   15 
+commute   846287349  3  1 Bc  k     k     b         2467   30   40 
+commute   846287371  3  3 c   r     k     f         2477   30    0 
+commute   846287392  3  2 Bk  b     b     -         2447   40   70 
+commute   846287409  3  1 Bc  kf    -     -         2477   10    0 
+commute   846287424  3  3 c   f     -     -         2467   10    0 
+commute   846287441  3  2 Bc  kc    kc    kf        2457   50    0 
+commute   846287472  3  1 Bc  b     bc    b         2407   90  200 7d Qs
+commute   846287493  3  3 r   b     b     b         2517   70  145 Ts Tc
+commute   846287520  3  2 Bc  kf    -     -         2592   20    0 
+commute   846287540  3  1 Bf  -     -     -         2572    5    0 
+commute   846287549  3  3 r   f     -     -         2567   20    0 
+commute   846287562  3  2 Br  b     b     b         2547   70  150 
+commute   846287594  3  1 Bc  kf    -     -         2627   10    0 
+commute   846287608  3  3 f   -     -     -         2617    0    0 
+commute   846287613  3  2 Bk  kf    -     -         2617   10    0 
+commute   846287625  3  1 Bc  kc    k     kf        2607   30    0 
+commute   846287650  3  3 rc  rrrr  b     bc        2577  170    0 4d Ad
+commute   846287679  3  2 Bk  k     f     -         2407   10    0 
+commute   846287712  3  1 Bc  k     b     b         2397   50  100 6c Jc
+commute   846287731  3  3 f   -     -     -         2447    0    0 
+commute   846287739  3  2 Bk  c     k     f         2447   20    0 
+commute   846287762  3  1 Bc  bf    -     -         2427   20    0 
+commute   846287775  3  3 c   b     -     -         2407   20   40 
+commute   846287796  3  2 Br  br    b     b         2427   90  185 Qh Kd
+commute   846287823  3  1 Bc  k     k     k         2522   10    0 9h 7s
+commute   846287839  3  3 c   b     bc    f         2512   60    0 
+commute   846287863  3  2 Bk  f     -     -         2452   10    0 
+commute   846287876  3  1 Bc  k     kf    -         2442   10    0 
+commute   846287891  3  3 c   rc    c     r         2432  100  220 Jh 9h
+commute   846287917  3  2 B   -     -     -         2552   10   15 
+commute   846287926  3  1 Bf  -     -     -         2557    5    0 
+commute   846287950  3  3 cc  f     -     -         2552   20    0 
+commute   846287972  3  2 Br  b     b     b         2532   70  130 
+commute   846287997  3  1 Bf  -     -     -         2592    5    0 
+commute   846288001  3  3 f   -     -     -         2587    0    0 
+commute   846288024  3  2 Bf  -     -     -         2587   10    0 
+commute   846288035  3  1 Bc  k     k     k         2577   10   10 7h 8s
+commute   846288076  2  2 B   -     -     -         2577   10   15 
+commute   846288081  2  1 Br  bc    kc    kc        2582   80  160 5s Kc
+commute   846288102  2  2 B   -     -     -         2662   10   15 
+commute   846288105  2  1 Bc  k     k     kf        2667   10    0 
+commute   846288123  2  2 Bc  f     -     -         2657   20    0 
+commute   846288131  2  1 Bc  k     kf    -         2637   10    0 
+commute   846288144  2  2 Bc  c     c     c         2627   70    0 Qc Ts
+commute   846288160  2  1 Bf  -     -     -         2557    5    0 
+commute   846288163  2  2 Bc  r     b     k         2552   60   60 9d Jh
+commute   846288179  2  1 Br  b     -     -         2552   30   50 
+commute   846288190  2  2 Br  b     b     bc        2572   90    0 Ac 9s
+commute   846288209  2  1 Bc  kf    -     -         2482   10    0 
+commute   846288221  2  2 Bk  f     -     -         2472   10    0 
+commute   846288230  2  1 Bcc b     b     b         2462   70  140 8d 5d
+commute   846288251  2  2 Bk  b     -     -         2532   20   30 
+commute   846288264  2  1 Br  -     -     -         2542   20   30 
+commute   846288275  2  2 Bk  Q     -     -         2552   10   20 
+commute   846290919  3  1 Bc  k     k     kf        2002   10    0 
+commute   846290950  3  3 f   -     -     -         1992    0    0 
+commute   846290970  3  2 Bk  k     b     -         1992   30   45 
+commute   846290987  3  1 Bc  k     b     -         2007   30   40 
+commute   846291006  3  3 c   b     b     -         2017   40   80 
+commute   846291031  3  2 Bc  f     -     -         2057   20    0 
+commute   846291055  3  1 Bc  k     kf    -         2037   20    0 
+commute   846291072  3  3 f   -     -     -         2017    0    0 
+commute   846291077  3  2 B   -     -     -         2017   10   15 
+commute   846291081  3  1 Bf  -     -     -         2022    5    0 
+commute   846291097  3  3 f   -     -     -         2017    0    0 
+commute   846291100  3  2 Bk  k     f     -         2017   10    0 
+commute   846291122  3  1 Bc  b     b     b         2007   60    0 5h 6c
+commute   846291146  3  3 f   -     -     -         1947    0    0 
+commute   846291151  3  2 Bk  b     -     -         1947   20   35 
+commute   846291165  3  1 Bc  kf    -     -         1962   20    0 
+commute   846291177  3  3 c   k     f     -         1942   10    0 
+commute   846291204  3  2 B   -     -     -         1932   10   15 
+commute   846291207  3  1 Bc  k     b     -         1937   30   40 
+commute   846291225  3  3 f   -     -     -         1947    0    0 
+commute   846291258  3  2 B   -     -     -         1947   10   15 
+commute   846291264  3  1 Bc  kf    -     -         1952   20    0 
+commute   846291297  3  3 f   -     -     -         1932    0    0 
+commute   846291300  3  2 Bc  k     k     k         1932   20   23 6d Ad
+commute   846291322  3  1 Bf  -     -     -         1935    5    0 
+commute   846291344  3  3 f   -     -     -         1930    0    0 
+commute   846291367  3  2 Bk  b     -     -         1930   20   30 
+commute   846291384  3  1 Bc  k     kf    -         1940   10    0 
+commute   846291400  3  3 cc  f     -     -         1930   20    0 
+commute   846291411  3  2 Bc  b     f     -         1910   30    0 
+commute   846291428  3  1 Bf  -     -     -         1880    5    0 
+commute   846291444  3  3 f   -     -     -         1875    0    0 
+commute   846291454  3  2 Bc  c     c     k         1875   50  100 Qd 3c
+commute   846291478  3  1 Bf  -     -     -         1925    5    0 
+commute   846291501  3  3 rc  c     f     -         1920   40    0 
+commute   846291527  3  2 Bk  k     k     f         1880   10    0 
+commute   846291558  3  1 Bc  b     b     k         1870   40  120 Ah 9s
+commute   846291595  3  3 cc  c     rc    k         1950   90    0 Qh Tc
+commute   846291635  3  2 Bc  f     -     -         1860   20    0 
+commute   846291663  3  1 Bc  kf    -     -         1840   10    0 
+commute   846291681  3  3 cc  f     -     -         1830   20    0 
+commute   846291697  3  2 B   -     -     -         1810   10   15 
+commute   846291701  3  1 Bf  -     -     -         1815    5    0 
+commute   846291719  3  3 r   b     k     f         1810   30    0 
+commute   846291747  3  2 B   -     -     -         1780   10   15 
+commute   846291753  3  1 Br  b     -     -         1785   30   70 
+commute   846291766  3  3 rc  f     -     -         1825   30    0 
+commute   846291797  3  2 Bc  c     f     -         1795   30    0 
+commute   846291817  4  1 Bf  -     -     -         1765    5    0 
+commute   846291848  4  4 c   k     c     k         1760   30    0 8d Jh
+commute   846291879  4  3 f   -     -     -         1730    0    0 
+commute   846291911  4  2 B   -     -     -         1730   10   15 
+commute   846291921  4  1 Bc  k     kf    -         1735   10    0 
+commute   846291942  4  4 c   f     -     -         1725   10    0 
+commute   846291959  4  3 c   b     -     -         1715   20   35 
+commute   846291976  4  2 Bf  -     -     -         1730   10    0 
+commute   846291997  4  1 Bc  k     k     b         1720   40   90 9c Ks
+commute   846292026  4  4 rr  r     r     b         1770  120  280 Ad Ah
+commute   846292058  4  3 f   -     -     -         1930    0    0 
+commute   846292097  4  2 Bk  k     k     k         1930   10   25 Kh 2d
+commute   846292118  4  1 Bf  -     -     -         1945    5    0 
+commute   846292154  4  4 c   c     b     b         1940   70  135 
+commute   846292192  4  3 f   -     -     -         2005    0    0 
+commute   846292200  4  2 Bf  -     -     -         2005   10    0 
+commute   846292247  4  1 Bc  b     b     b         1995   60  100 
+commute   846292273  4  4 f   -     -     -         2035    0    0 
+commute   846292284  4  3 f   -     -     -         2035    0    0 
+commute   846292315  4  2 Bk  k     k     k         2035   10   35 Ts Ad
+commute   846292342  4  1 Bf  -     -     -         2060    5    0 
+commute   846292350  4  4 f   -     -     -         2055    0    0 
+commute   846292359  4  3 c   k     b     -         2055   30   45 
+commute   846292381  4  2 B   -     -     -         2070   10   15 
+commute   846292388  4  1 Bc  b     b     kc        2075   60    0 8c Td
+commute   846292430  4  4 c   k     k     f         2015   10    0 
+commute   846292489  4  3 f   -     -     -         2005    0    0 
+commute   846292522  4  2 Bc  kc    kf    -         2005   30    0 
+commute   846292557  4  1 Bf  -     -     -         1975    5    0 
+commute   846292565  4  4 c   f     -     -         1970   20    0 
+commute   846292582  4  3 fQ  -     -     -         1950    0    0 
+commute   846810665  7  2 Bc  kf    -     -         1665   20    0 
+commute   846810709  7  1 Bf  -     -     -         1645    5    0 
+commute   846810745  7  7 f   -     -     -         1640    0    0 
+commute   846810796  7  6 f   -     -     -         1640    0    0 
+commute   846810836  7  5 f   -     -     -         1640    0    0 
+commute   846810852  7  4 ccc f     -     -         1640   40    0 
+commute   846810894  6  2 f   -     -     -         1600    0    0 
+commute   846810927  6  2 Bf  -     -     -         1600   10    0 
+commute   846810957  6  1 Bf  -     -     -         1590    5    0 
+commute   846810987  6  6 c   c     f     -         1585   30    0 
+commute   846811030  6  5 c   k     -     -         1555   10   25 
+commute   846811057  6  4 f   -     -     -         1570    0    0 
+commute   846811123  6  4 cc  c     f     -         1570   30    0 
+commute   846811179  5  2 cc  rc    c     c         1540   90  180 Ks Ts
+commute   846811215  5  2 Bf  -     -     -         1630   10    0 
+commute   846811232  5  1 Bf  -     -     -         1620    5    0 
+commute   846811270  5  5 c   k     f     -         1615   10    0 
+commute   846811305  4  3 c   k     b     -         1605   30   45 
+commute   846811334  4  2 B   -     -     -         1620   10   15 
+commute   846811342  4  1 Bc  kc    b     b         1625   60  160 Qc 2s
+commute   846811375  4  4 c   f     -     -         1725   10    0 
+commute   846811410  4  3 cc  kf    -     -         1715   30    0 
+commute   846811447  4  2 Bc  bc    kc    kc        1685   90  215 Td Th
+commute   846811476  4  1 Bc  b     kf    -         1810   20    0 
+commute   846811529  4  4 c   b     b     b         1790   60    0 Jd Tc
+commute   846811560  4  3 f   -     -     -         1730    0    0 
+commute   846811569  4  2 Bk  k     k     k         1730   10   10 4s 2s
+commute   846811597  4  1 Bc  bcc   bc    k         1730   90  270 Jd Th
+commute   846811656  5  5 rc  r     b     -         1910   70  130 
+commute   846811697  5  4 cc  kf    -     -         1970   20    0 
+commute   846811730  5  3 f   -     -     -         1950    0    0 
+commute   846811741  5  2 Bc  kf    -     -         1950   20    0 
+commute   846811763  5  1 Bf  -     -     -         1930    5    0 
+commute   846811785  4  4 f   -     -     -         1925    0    0 
+commute   846811815  4  3 f   -     -     -         1925    0    0 
+commute   846811858  4  2 Bc  kf    -     -         1925   20    0 
+commute   846811909  4  1 Bf  -     -     -         1905    5    0 
+commute   846811939  4  4 c   f     -     -         1900   10    0 
+commute   846811960  4  3 r   -     -     -         1890   20   35 
+commute   846811976  4  2 Bf  -     -     -         1905   10    0 
+commute   846812014  4  1 Bf  -     -     -         1895    5    0 
+commute   846812040  4  4 f   -     -     -         1890    0    0 
+commute   846812046  4  3 c   f     -     -         1890   10    0 
+commute   846812081  4  2 Bc  bc    kc    kc        1880   80    0 Tc Ks
+commute   846812108  4  1 Bc  k     br    b         1800   90  170 
+commute   846812144  4  4 c   bc    c     f         1880   60    0 
+commute   846812177  4  3 f   -     -     -         1820    0    0 
+commute   846812204  4  2 Bc  c     f     -         1820   30    0 
+commute   846812219  4  1 Bf  -     -     -         1790    5    0 
+commute   846812227  4  4 f   -     -     -         1785    0    0 
+commute   846812282  4  3 f   -     -     -         1785    0    0 
+commute   846812303  4  2 Bk  k     f     -         1785   10    0 
+commute   846812323  4  1 Bf  -     -     -         1775    5    0 
+commute   846812342  4  4 c   b     b     -         1770   40   70 
+commute   846812375  4  3 f   -     -     -         1800    0    0 
+commute   846812385  4  2 B   -     -     -         1800   10   15 
+commute   846812391  4  1 Bc  k     k     b         1805   30    0 2h Qs
+commute   846812426  4  4 c   f     -     -         1775   10    0 
+commute   846812443  4  3 f   -     -     -         1765    0    0 
+commute   846812453  4  2 Bf  -     -     -         1765   10    0 
+commute   846812460  4  1 Bc  kc    b     b         1755   80  190 3c Ks
+commute   846812492  4  4 f   -     -     -         1865    0    0 
+commute   846812499  4  3 r   k     k     k         1865   20   45 Tc Ad
+commute   846812520  4  2 B   -     -     -         1890   10   15 
+commute   846812524  4  1 Bf  -     -     -         1895    5    0 
+commute   846812532  4  4 f   -     -     -         1890    0    0 
+commute   846812552  4  3 r   -     -     -         1890   20   35 
+commute   846812560  4  2 Bcc cf    -     -         1905   50    0 
+commute   846812600  4  1 Bf  -     -     -         1855    5    0 
+commute   846812609  4  4 rc  c     c     c         1850   80    0 As Jd
+commute   846812639  4  3 c   rc    b     b         1770   80  170 3h 3s
+commute   846812687  4  2 Bk  b     -     -         1860   20   30 
+commute   846812701  4  1 Bf  -     -     -         1870    5    0 
+commute   846812733  4  4 f   -     -     -         1865    0    0 
+commute   846812789  4  3 cc  f     -     -         1865   20    0 
+commute   846812822  5  2 Bf  -     -     -         1845   10    0 
+commute   846812859  5  1 Bf  -     -     -         1835    5    0 
+commute   846812872  5  5 f   -     -     -         1830    0    0 
+commute   846812883  5  4 c   f     -     -         1830   20    0 
+commute   846812914  5  3 f   -     -     -         1810    0    0 
+commute   846812922  5  2 Bc  kf    -     -         1810   20    0 
+commute   846812939  5  1 Bc  bc    k     k         1790   30   70 Qh 8d
+commute   846812970  5  5 c   k     f     -         1830   10    0 
+commute   846813009  5  4 r   -     -     -         1820   20   35 
+commute   846813018  5  3 f   -     -     -         1835    0    0 
+commute   846813029  5  2 Bc  kc    kf    -         1835   30    0 
+commute   846813057  5  1 Bf  -     -     -         1805    5    0 
+commute   846813064  5  5 rc  c     f     -         1800   40    0 
+commute   846813101  5  4 f   -     -     -         1760    0    0 
+commute   846813113  5  3 f   -     -     -         1760    0    0 
+commute   846813137  5  2 Bf  -     -     -         1760   10    0 
+commute   846813160  5  1 Bf  -     -     -         1750    5    0 
+commute   846813183  5  5 f   -     -     -         1745    0    0 
+commute   846813225  5  4 f   -     -     -         1745    0    0 
+commute   846813271  5  3 cc  kf    -     -         1745   20    0 
+commute   846813312  5  2 Bcc bc    kc    k         1725   80  245 Kh Jd
+commute   846813379  5  1 Bc  b     b     b         1890   60   60 9c Qs
+commute   846813403  5  5 f   -     -     -         1890    0    0 
+commute   846813437  5  4 f   -     -     -         1890    0    0 
+commute   846813461  5  3 f   -     -     -         1890    0    0 
+commute   846813489  5  2 Bc  b     b     b         1890   70  160 Qc Tc
+commute   846813519  5  1 Bf  -     -     -         1980    5    0 
+commute   846813529  4  4 c   f     -     -         1975   20    0 
+commute   846813543  4  3 f   -     -     -         1955    0    0 
+commute   846813564  4  2 Bc  k     b     rc        1955  100    0 7c 6d
+commute   846813601  4  1 Bc  k     k     b         1855   30   50 
+commute   846813628  4  4 f   -     -     -         1875    0    0 
+commute   846813656  4  3 f   -     -     -         1875    0    0 
+commute   846813678  4  2 Bf  -     -     -         1875   10    0 
+commute   846813722  4  1 Bf  -     -     -         1865    5    0 
+commute   846813751  4  4 f   -     -     -         1860    0    0 
+commute   846813777  4  3 c   b     -     -         1860   20   35 
+commute   846813796  4  2 Bk  k     k     b         1875   30   40 
+commute   846813815  4  1 Bc  k     k     k         1885   10   20 Js 9c
+commute   846813835  4  4 f   -     -     -         1895    0    0 
+commute   846813851  4  3 cc  kf    -     -         1895   20    0 
+commute   846813880  4  2 Bf  -     -     -         1875   10    0 
+commute   846813891  4  1 Bf  -     -     -         1865    5    0 
+commute   846813899  4  4 r   b     k     brc       1860  110    0 Ac Kd
+commute   846813930  4  3 c   k     k     f         1750   10    0 
+commute   846813957  4  2 B   -     -     -         1740   10   15 
+commute   846813965  4  1 Bc  kf    -     -         1745   10    0 
+commute   846813994  4  4 c   f     -     -         1735   10    0 
+commute   846814013  4  3 cc  kf    -     -         1725   20    0 
+commute   846814040  4  2 Bk  k     b     b         1705   50  100 8d Qd
+commute   846814066  4  1 Br  b     b     b         1755   80  170 As Kc
+commute   846814090  4  4 c   k     f     -         1845   10    0 
+commute   846814114  3  2 r   f     -     -         1835   20    0 
+commute   846814131  2  2 B   -     -     -         1815   10   15 
+commute   846814142  2  1 BQ  -     -     -         1820    5   15 

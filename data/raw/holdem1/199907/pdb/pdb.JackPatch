@@ -1,0 +1,463 @@
+JackPatch 932504648 10  3 f   -     -     -         1305    0    0 
+JackPatch 932504679 10  2 Bf  -     -     -         1305   10    0 
+JackPatch 932504723 10  1 Bf  -     -     -         1295    5    0 
+JackPatch 932504789 10 10 f   -     -     -         1290    0    0 
+JackPatch 932504842 10  9 f   -     -     -         1290    0    0 
+JackPatch 932504911 10  8 f   -     -     -         1290    0    0 
+JackPatch 932504994 10  7 f   -     -     -         1290    0    0 
+JackPatch 932505041 10  6 f   -     -     -         1290    0    0 
+JackPatch 932505075 10  5 f   -     -     -         1290    0    0 
+JackPatch 932505127 10  4 f   -     -     -         1290    0    0 
+JackPatch 932505196 10  3 f   -     -     -         1290    0    0 
+JackPatch 932505247  9  2 Bk  kf    -     -         1290   10    0 
+JackPatch 932505281  9  1 Bc  b     kf    -         1280   20    0 
+JackPatch 932505326  9  9 r   k     k     b         1260   40  105 
+JackPatch 932505385  7  7 f   -     -     -         1325    0    0 
+JackPatch 932505425  8  6 f   -     -     -         1325    0    0 
+JackPatch 932505489 10  7 f   -     -     -         1325    0    0 
+JackPatch 932505517  9  5 f   -     -     -         1325    0    0 
+JackPatch 932505540  9  4 f   -     -     -         1325    0    0 
+JackPatch 932505605  7  3 f   -     -     -         1325    0    0 
+JackPatch 932505674  9  2 Bf  -     -     -         1325   10    0 
+JackPatch 932505787  9  1 Bc  k     k     kf        1315   10    0 
+JackPatch 932505857  9  9 c   c     f     -         1305   20    0 
+JackPatch 932505928  9  9 r   f     -     -         1285   20    0 
+JackPatch 932505962  9  8 f   -     -     -         1265    0    0 
+JackPatch 932506022  9  7 f   -     -     -         1265    0    0 
+JackPatch 932506115  9  6 f   -     -     -         1265    0    0 
+JackPatch 932506194  9  5 f   -     -     -         1265    0    0 
+JackPatch 932506261  8  3 f   -     -     -         1265    0    0 
+JackPatch 932506319  7  2 Bf  -     -     -         1265   10    0 
+JackPatch 932506377  7  1 Bc  kf    -     -         1255   10    0 
+JackPatch 932506438  7  7 c   f     -     -         1245   10    0 
+JackPatch 932506523  7  6 f   -     -     -         1235    0    0 
+JackPatch 932506558  7  5 f   -     -     -         1235    0    0 
+JackPatch 932506602  8  4 f   -     -     -         1235    0    0 
+JackPatch 932506644  8  3 cf  -     -     -         1235   10    0 
+JackPatch 932506677  8  2 Bf  -     -     -         1225   10    0 
+JackPatch 932506719  7  1 Bc  kf    -     -         1215   10    0 
+JackPatch 932506764  7  7 f   -     -     -         1205    0    0 
+JackPatch 932506838  7  6 f   -     -     -         1205    0    0 
+JackPatch 932506885  8  6 f   -     -     -         1205    0    0 
+JackPatch 932506956  8  5 f   -     -     -         1205    0    0 
+JackPatch 932506999  7  4 f   -     -     -         1205    0    0 
+JackPatch 932507062  7  4 f   -     -     -         1205    0    0 
+JackPatch 932507119  7  2 Br  b     bc    kc        1205   90    0 Ad Ah
+JackPatch 932507179  7  1 Bf  -     -     -         1115    5    0 
+JackPatch 932507237  7  7 f   -     -     -         1110    0    0 
+JackPatch 932507304  7  6 f   -     -     -         1110    0    0 
+JackPatch 932507350  7  5 f   -     -     -         1110    0    0 
+JackPatch 932507381  7  4 rc  k     c     f         1110   60    0 
+JackPatch 932507437  7  3 f   -     -     -         1050    0    0 
+JackPatch 932507461  7  2 Bf  -     -     -         1050   10    0 
+JackPatch 932507508  7  1 Bf  -     -     -         1040    5    0 
+JackPatch 932507542  7  7 f   -     -     -         1035    0    0 
+JackPatch 932507577  8  7 f   -     -     -         1035    0    0 
+JackPatch 932507613  8  6 cc  rc    c     rc        1035  160  525 Kh 7h
+JackPatch 932507658  8  5 f   -     -     -         1400    0    0 
+JackPatch 932507749  7  3 f   -     -     -         1400    0    0 
+JackPatch 932507805  6  2 Bc  f     -     -         1400   20    0 
+JackPatch 932507841  4  1 Bf  -     -     -         1380    5    0 
+JackPatch 932507868  4  4 f   -     -     -         1375    0    0 
+JackPatch 932507895  4  3 f   -     -     -         1375    0    0 
+JackPatch 932507914  4  2 Br  kf    -     -         1375   20    0 
+JackPatch 932507966  4  1 Bf  -     -     -         1355    5    0 
+JackPatch 932507987  4  4 f   -     -     -         1350    0    0 
+JackPatch 932508013  4  3 c   k     k     kf        1350   10    0 
+JackPatch 932508050  7  2 Bf  -     -     -         1340   10    0 
+JackPatch 932508108  7  1 Bf  -     -     -         1330    5    0 
+JackPatch 932508169  7  7 f   -     -     -         1325    0    0 
+JackPatch 932508211  8  7 f   -     -     -         1325    0    0 
+JackPatch 932508301  9  7 f   -     -     -         1325    0    0 
+JackPatch 932508374  9  6 f   -     -     -         1325    0    0 
+JackPatch 932508461  8  5 f   -     -     -         1325    0    0 
+JackPatch 932508505  8  4 c   k     b     k         1325   30   43 As 9s
+JackPatch 932508560  8  3 c   kf    -     -         1338   10    0 
+JackPatch 932508601 10  2 Bf  -     -     -         1328   10    0 
+JackPatch 932508656  9  1 Bf  -     -     -         1318    5    0 
+JackPatch 932508683 10 10 f   -     -     -         1313    0    0 
+JackPatch 932508730 10  9 r   c     c     f         1313   50    0 
+JackPatch 932508785 10  8 f   -     -     -         1263    0    0 
+JackPatch 932508836 10  7 f   -     -     -         1263    0    0 
+JackPatch 932508889 10  6 c   k     b     k         1263   30    0 Jd 9d
+JackPatch 932508935 10  6 f   -     -     -         1233    0    0 
+JackPatch 932508987  8  3 cc  c     cc    kf        1233   70    0 
+JackPatch 932509053  7  3 f   -     -     -         1163    0    0 
+JackPatch 932509077  7  2 Bk  kf    -     -         1163   10    0 
+JackPatch 932509130  7  1 Bc  kf    -     -         1153   10    0 
+JackPatch 932509212  6  6 c   c     c     f         1143   40    0 
+JackPatch 932509248  6  5 f   -     -     -         1103    0    0 
+JackPatch 932509279  6  4 f   Q     -     -         1103    0    0 
+JackPatch 932588378 10  3 f   -     -     -         1103    0    0 
+JackPatch 932588436 10  2 Bf  -     -     -         1103   10    0 
+JackPatch 932588486 10  1 Bf  -     -     -         1093    5    0 
+JackPatch 932588526 10 10 f   -     -     -         1088    0    0 
+JackPatch 932588583 10  9 f   -     -     -         1088    0    0 
+JackPatch 932588643 10  8 c   k     c     c         1088   50  140 8d 9d
+JackPatch 932588707 10  7 f   -     -     -         1178    0    0 
+JackPatch 932588785 10  6 f   -     -     -         1178    0    0 
+JackPatch 932588873 10  5 f   -     -     -         1178    0    0 
+JackPatch 932588922 10  4 f   -     -     -         1178    0    0 
+JackPatch 932588982 10  3 f   -     -     -         1178    0    0 
+JackPatch 932589024 10  2 Bk  f     -     -         1178   10    0 
+JackPatch 932589119 10  1 Bf  -     -     -         1168    5    0 
+JackPatch 932589201 10 10 r   k     f     -         1163   50    0 
+JackPatch 932589260 10  9 f   -     -     -         1113    0    0 
+JackPatch 932589318 10  8 f   -     -     -         1113    0    0 
+JackPatch 932589381 10  7 r   b     kf    -         1113   30    0 
+JackPatch 932589455 10  6 f   -     -     -         1083    0    0 
+JackPatch 932589537 10  5 r   b     b     b         1083   70  240 
+JackPatch 932589617 10  4 f   -     -     -         1253    0    0 
+JackPatch 932589677 10  3 r   b     b     b         1253   70  195 Ks Jc
+JackPatch 932589736 10  2 Bc  k     kf    -         1378   20    0 
+JackPatch 932589770 10  1 Bc  k     k     k         1358   30   33 Td Ts
+JackPatch 932589839 10 10 f   -     -     -         1361    0    0 
+JackPatch 932589906 10  9 c   k     f     -         1361   10    0 
+JackPatch 932589988 10  8 f   -     -     -         1351    0    0 
+JackPatch 932590020 10  7 rc  kc    kf    -         1351   40    0 
+JackPatch 932590074 10  6 f   -     -     -         1311    0    0 
+JackPatch 932590114 10  5 f   -     -     -         1311    0    0 
+JackPatch 932590175 10  4 r   kc    kc    kc        1311   70  165 9c 9d
+JackPatch 932590215 10  3 f   -     -     -         1406    0    0 
+JackPatch 932590288 10  2 Bf  -     -     -         1406   10    0 
+JackPatch 932590357  8  1 Bf  -     -     -         1396    5    0 
+JackPatch 932590390  9  8 f   -     -     -         1391    0    0 
+JackPatch 932590444  9  7 c   f     -     -         1391   20    0 
+JackPatch 932590519  9  6 f   -     -     -         1371    0    0 
+JackPatch 932590595  9  5 f   -     -     -         1371    0    0 
+JackPatch 932590679  8  3 r   b     b     -         1371   50  105 
+JackPatch 932590742  8  2 Bf  -     -     -         1426   10    0 
+JackPatch 932590792  9  1 Bf  -     -     -         1416    5    0 
+JackPatch 932590807  9  9 r   c     c     f         1411   50    0 
+JackPatch 932590896  8  7 cf  -     -     -         1361   10    0 
+JackPatch 932590939  8  6 f   -     -     -         1351    0    0 
+JackPatch 932590998  7  4 r   c     c     c         1351   70    0 Kh As
+JackPatch 932591038  8  3 r   b     b     b         1281   70  210 
+JackPatch 932591090  8  2 Bk  b     -     -         1421   20   55 
+JackPatch 932591150  8  1 Bc  k     k     kf        1456   10    0 
+JackPatch 932591225  8  8 f   -     -     -         1446    0    0 
+JackPatch 932591272  8  7 f   -     -     -         1446    0    0 
+JackPatch 932591320  8  6 r   k     b     b         1446   60  115 
+JackPatch 932591346  8  5 f   -     -     -         1501    0    0 
+JackPatch 932591389  7  4 f   -     -     -         1501    0    0 
+JackPatch 932591430  6  2 Bf  -     -     -         1501   10    0 
+JackPatch 932591480  6  1 Br  kf    -     -         1491   20    0 
+JackPatch 932591528  6  6 f   -     -     -         1471    0    0 
+JackPatch 932591568  6  5 f   -     -     -         1471    0    0 
+JackPatch 932591608  6  4 f   -     -     -         1471    0    0 
+JackPatch 932591639  6  3 f   -     -     -         1471    0    0 
+JackPatch 932591698  7  3 f   -     -     -         1471    0    0 
+JackPatch 932591736  6  2 Bk  c     kc    bc        1471  100  320 8h 9c
+JackPatch 932591787  6  1 Bf  -     -     -         1691    5    0 
+JackPatch 932591826  6  6 c   c     r     b         1686   90  300 Kh 9h
+JackPatch 932591884  6  5 r   kf    -     -         1896   20    0 
+JackPatch 932591910  7  5 f   -     -     -         1876    0    0 
+JackPatch 932591945  8  4 f   -     -     -         1876    0    0 
+JackPatch 932592019  8  3 f   -     -     -         1876    0    0 
+JackPatch 932592067  8  2 Bf  -     -     -         1876   10    0 
+JackPatch 932592112  7  1 Bf  -     -     -         1866    5    0 
+JackPatch 932592154  7  7 f   -     -     -         1861    0    0 
+JackPatch 932592173  7  6 f   -     -     -         1861    0    0 
+JackPatch 932592197  7  5 f   -     -     -         1861    0    0 
+JackPatch 932592249  7  4 f   -     -     -         1861    0    0 
+JackPatch 932592293  7  3 cf  -     -     -         1861   10    0 
+JackPatch 932592346  8  2 Bc  kc    kc    kc        1851   70    0 9c Ac
+JackPatch 932592391  8  1 Bf  -     -     -         1781    5    0 
+JackPatch 932592425  8  8 f   -     -     -         1776    0    0 
+JackPatch 932592449  8  7 r   c     f     -         1776   30    0 
+JackPatch 932592495  8  6 f   -     -     -         1746    0    0 
+JackPatch 932592544  8  5 f   -     -     -         1746    0    0 
+JackPatch 932592570  8  4 ccc kc    kccc  kf        1746  130    0 
+JackPatch 932592696 10  3 f   -     -     -         1616    0    0 
+JackPatch 932592793 10  2 Bc  kf    -     -         1616   20    0 
+JackPatch 932592873  9  1 Bf  -     -     -         1596    5    0 
+JackPatch 932592927  8  8 f   -     -     -         1591    0    0 
+JackPatch 932592982  8  8 f   -     -     -         1591    0    0 
+JackPatch 932593066  9  7 rc  c     c     f         1591   60    0 
+JackPatch 932593104 10  7 cf  -     -     -         1531   10    0 
+JackPatch 932593216 10  6 f   -     -     -         1521    0    0 
+JackPatch 932593312 10  5 cf  -     -     -         1521   10    0 
+JackPatch 932593423  9  4 cc  kf    -     -         1511   20    0 
+JackPatch 932593491  9  3 rc  k     r     bc        1491  110    0 Ad Js
+JackPatch 932593544  9  2 Bk  f     -     -         1381   10    0 
+JackPatch 932593609  9  1 Bf  -     -     -         1371    5    0 
+JackPatch 932593682  9  9 f   -     -     -         1366    0    0 
+JackPatch 932593742 10  9 f   -     -     -         1366    0    0 
+JackPatch 932593772 10  8 f   -     -     -         1366    0    0 
+JackPatch 932593852  8  6 cc  f     -     -         1366   20    0 
+JackPatch 932593894  9  5 f   -     -     -         1346    0    0 
+JackPatch 932593930  9  4 c   k     c     f         1346   30    0 
+JackPatch 932593989  9  3 f   -     -     -         1316    0    0 
+JackPatch 932594044  9  2 Bk  kf    -     -         1316   10    0 
+JackPatch 932594099  9  1 Bf  -     -     -         1306    5    0 
+JackPatch 932594136 10 10 c   c     c     c         1301   70    0 7c Ah
+JackPatch 932594188 10  9 f   -     -     -         1231    0    0 
+JackPatch 932594250 10  8 f   -     -     -         1231    0    0 
+JackPatch 932594332  9  6 f   -     -     -         1231    0    0 
+JackPatch 932594388  9  5 f   -     -     -         1231    0    0 
+JackPatch 932594453 10  4 cf  -     -     -         1231   10    0 
+JackPatch 932594521  9  3 f   -     -     -         1221    0    0 
+JackPatch 932594567  9  2 Bc  f     -     -         1221   20    0 
+JackPatch 932594606  9  1 Bc  kf    -     -         1201   10    0 
+JackPatch 932594642  9  9 f   -     -     -         1191    0    0 
+JackPatch 932594713  8  7 f   -     -     -         1191    0    0 
+JackPatch 932594742  8  6 f   -     -     -         1191    0    0 
+JackPatch 932594765  8  5 r   b     -     -         1191   30   80 
+JackPatch 932594783  8  5 f   -     -     -         1241    0    0 
+JackPatch 932594839  7  3 f   -     -     -         1241    0    0 
+JackPatch 932594901  7  2 Bc  r     b     b         1241   80  160 
+JackPatch 932594939  8  1 Bc  b     bc    kf        1321   60    0 
+JackPatch 932594992  8  8 f   -     -     -         1261    0    0 
+JackPatch 932595040  8  7 f   -     -     -         1261    0    0 
+JackPatch 932595086  8  6 f   -     -     -         1261    0    0 
+JackPatch 932595118  7  5 f   -     -     -         1261    0    0 
+JackPatch 932595146  6  3 r   k     f     -         1261   20    0 
+JackPatch 932595183  5  2 Br  bc    kc    kc        1241   90  215 Kh Ks
+JackPatch 932595231  5  1 Bcc kc    kc    k         1366   60    0 Qc Ts
+JackPatch 932595298  5  5 r   k     b     b         1306   60  180 Ad Qs
+JackPatch 932595349  5  4 f   -     -     -         1426    0    0 
+JackPatch 932595370  5  3 c   k     b     b         1426   50    0 8c Ad
+JackPatch 932595402  5  2 Bk  kf    -     -         1376   10    0 
+JackPatch 932595438  5  1 Bf  -     -     -         1366    5    0 
+JackPatch 932595469  5  5 rc  c     c     k         1361   70  155 Ks Ad
+JackPatch 932595495  5  4 f   -     -     -         1446    0    0 
+JackPatch 932595503  5  3 c   c     f     -         1446   20    0 
+JackPatch 932595562  4  2 Br  b     b     b         1426   80  165 Ah Ks
+JackPatch 932595592  3  1 Bc  kc    b     b         1511   60  100 
+JackPatch 932595616  2  2 Bk  k     f     -         1551   10    0 
+JackPatch 932595631  2  1 Bc  b     k     k         1541   20   40 7d As
+JackPatch 932595648  2  2 Brc rr    rc    r         1561  180  360 Jc Js
+JackPatch 932595682  3  1 Bf  -     -     -         1741    5    0 
+JackPatch 932595703  3  3 f   -     -     -         1736    0    0 
+JackPatch 932595707  3  2 Bk  k     k     bf        1736   30    0 
+JackPatch 932595723  3  1 Bc  kc    kf    -         1706   30    0 
+JackPatch 932595746  3  3 rr  b     b     b         1676   90  200 
+JackPatch 932595770  4  3 f   -     -     -         1786    0    0 
+JackPatch 932595790  4  1 Bk  br    br    br        1786  160  340 7s Kc
+JackPatch 932595831  4  1 Br  bc    kc    kc        1966   80  190 Tc Ts
+JackPatch 932595860  4  4 f   -     -     -         2076    0    0 
+JackPatch 932595892  5  3 f   -     -     -         2076    0    0 
+JackPatch 932595928  4  2 Bc  b     kc    kc        2076   70    0 Kh 9s
+JackPatch 932595956  4  1 Bc  b     kf    -         2006   20    0 
+JackPatch 932595982  3  3 f   -     -     -         1986    0    0 
+JackPatch 932595994  3  3 f   -     -     -         1986    0    0 
+JackPatch 932596000  2  1 Brc brc   b     b         1986  120  240 Qc Qh
+JackPatch 932596041  2  1 Bc  b     b     -         2106   40   60 
+JackPatch 932596053  2  2 Bk  k     f     -         2126   10    0 
+JackPatch 932596059  2  1 Bf  -     -     -         2116    5    0 
+JackPatch 932596061  2  2 Bf  -     -     -         2111   10    0 
+JackPatch 932596065  2  1 Bcf -     -     -         2101   10    0 
+JackPatch 932596071  2  2 Br  b     bf    -         2091   50    0 
+JackPatch 932596085  2  1 Br  k     b     -         2041   40   60 
+JackPatch 932596096  2  2 Bk  rc    rc    c         2061  120  240 Jc 3c
+JackPatch 932596115  2  1 Bcc kf    -     -         2181   20    0 
+JackPatch 932596130  2  2 Br  b     -     -         2161   30   50 
+JackPatch 932596136  2  1 Bc  b     b     b         2181   60  100 
+JackPatch 932596155  2  2 B   -     -     -         2221   10   15 
+JackPatch 932596157  2  1 Bc  k     k     k         2226   10   20 8h As
+JackPatch 932596170  2  2 Br  b     bf    -         2236   50    0 
+JackPatch 932596185  2  1 Bf  -     -     -         2186    5    0 
+JackPatch 932596189  2  2 Bk  k     f     -         2181   10    0 
+JackPatch 932596200  2  1 Bc  kf    -     -         2171   10    0 
+JackPatch 932596206  2  2 B   -     -     -         2161   10   15 
+JackPatch 932596209  2  1 Bc  kf    -     -         2166   10    0 
+JackPatch 932596218  2  2 Bf  -     -     -         2156   10    0 
+JackPatch 932596221  2  1 Bc  bc    k     k         2146   30   60 Ah 3d
+JackPatch 932596235  2  2 Br  b     b     -         2176   50   80 
+JackPatch 932596249  2  1 Bf  -     -     -         2206    5    0 
+JackPatch 932596252  2  2 Bk  k     c     r         2201   70  140 9c 3c
+JackPatch 932596268  3  1 Br  k     k     kc        2271   40  120 Kh Qd
+JackPatch 932596296  3  3 f   -     -     -         2351    0    0 
+JackPatch 932596323  3  2 Bk  b     -     -         2351   20   40 
+JackPatch 932596339  3  1 Brc kf    -     -         2371   30    0 
+JackPatch 932596358  3  3 f   -     -     -         2341    0    0 
+JackPatch 932596369  3  2 Bf  -     -     -         2341   10    0 
+JackPatch 932596386  3  1 Bf  -     -     -         2331    5    0 
+JackPatch 932596391  3  3 c   c     f     -         2326   20    0 
+JackPatch 932596411  3  2 Bf  -     -     -         2306   10    0 
+JackPatch 932596419  2  1 Bf  -     -     -         2296    5    0 
+JackPatch 932596423  2  2 B   -     -     -         2291   10   15 
+JackPatch 932596428  2  1 Bc  k     kc    k         2296   30   60 5d 4c
+JackPatch 932596446  2  2 Bf  -     -     -         2326   10    0 
+JackPatch 932596453  2  1 Bf  -     -     -         2316    5    0 
+JackPatch 932596456  2  2 B   -     -     -         2311   10   15 
+JackPatch 932596460  2  1 Bc  k     k     b         2316   30   40 
+JackPatch 932596475  2  2 Bk  r     k     b         2326   50  100 Qd 9s
+JackPatch 932596494  2  1 Bf  -     -     -         2376    5    0 
+JackPatch 932596499  2  2 Bf  -     -     -         2371   10    0 
+JackPatch 932596503  2  1 Bc  b     bf    -         2361   40    0 
+JackPatch 932596515  2  2 Bf  -     -     -         2321   10    0 
+JackPatch 932596524  2  1 Bc  kf    -     -         2311   10    0 
+JackPatch 932596535  2  2 B   -     -     -         2301   10   15 
+JackPatch 932596539  2  1 Bc  kf    -     -         2306   10    0 
+JackPatch 932596548  2  2 Br  rc    f     -         2296   50    0 
+JackPatch 932596564  3  1 Br  b     k     k         2246   30   60 8h 7h
+JackPatch 932596596  3  3 rr  b     b     b         2276   90  270 Kc Tc
+JackPatch 932596642  3  2 Bk  k     k     b         2456   30   70 2h 4c
+JackPatch 932596676  4  1 Bc  k     b     b         2496   50  110 2d 7d
+JackPatch 932596718  5  5 f   -     -     -         2556    0    0 
+JackPatch 932596735  4  3 f   -     -     -         2556    0    0 
+JackPatch 932596739  3  2 Bk  b     -     -         2556   20   40 
+JackPatch 932596760  3  1 Br  b     b     b         2576   80  180 
+JackPatch 932596783  3  3 f   -     -     -         2676    0    0 
+JackPatch 932596800  3  2 Br  k     k     b         2676   40   80 
+JackPatch 932596821  3  1 Br  k     b     -         2716   40   60 
+JackPatch 932596829  3  3 c   f     -     -         2736   10    0 
+JackPatch 932596842  3  2 Bk  k     k     k         2726   10   13 Jh 6c
+JackPatch 932596858  3  1 Bc  b     -     -         2729   20   30 
+JackPatch 932596868  4  4 r   -     -     -         2739   20   35 
+JackPatch 932596874  5  3 f   -     -     -         2754    0    0 
+JackPatch 932596883  5  2 Bf  -     -     -         2754   10    0 
+JackPatch 932596890  5  1 Bf  -     -     -         2744    5    0 
+JackPatch 932596910  5  5 cf  -     -     -         2739   10    0 
+JackPatch 932596919  5  4 r   f     -     -         2729   20    0 
+JackPatch 932596934  5  3 f   -     -     -         2709    0    0 
+JackPatch 932596956  5  2 Bk  k     k     b         2709   30   45 
+JackPatch 932596971  5  1 Bf  -     -     -         2724    5    0 
+JackPatch 932596978  5  5 r   b     b     -         2719   50  110 
+JackPatch 932596999  5  4 Q   -     -     -         2779    0    0 
+JackPatch 932664194 10  4 f   -     -     -         2779    0    0 
+JackPatch 932664242 10  3 r   kf    -     -         2779   20    0 
+JackPatch 932664332 10  2 Bf  -     -     -         2759   10    0 
+JackPatch 932664389 10  1 Bcc kc    kf    -         2749   50    0 
+JackPatch 932664483 10 10 f   -     -     -         2699    0    0 
+JackPatch 932664556  9  8 f   -     -     -         2699    0    0 
+JackPatch 932664603 10  8 f   -     -     -         2699    0    0 
+JackPatch 932664658 10  7 f   -     -     -         2699    0    0 
+JackPatch 932664729 10  6 f   -     -     -         2699    0    0 
+JackPatch 932664770 10  5 cc  r     r     b         2699  100  250 
+JackPatch 932664853 10  5 f   -     -     -         2849    0    0 
+JackPatch 932664913  9  3 rc  kc    f     -         2849   40    0 
+JackPatch 932664990  8  1 Bc  k     kf    -         2809   20    0 
+JackPatch 932665071  9  1 Bf  -     -     -         2789    5    0 
+JackPatch 932665150 10 10 f   -     -     -         2784    0    0 
+JackPatch 932665227 10  9 f   -     -     -         2784    0    0 
+JackPatch 932665311 10  8 f   -     -     -         2784    0    0 
+JackPatch 932665399 10  7 f   -     -     -         2784    0    0 
+JackPatch 932665498  9  5 f   -     -     -         2784    0    0 
+JackPatch 932665511  9  4 f   -     -     -         2784    0    0 
+JackPatch 932665592  9  2 r   b     kc    kf        2784   50    0 
+JackPatch 932665688  9  2 Bf  -     -     -         2734   10    0 
+JackPatch 932665768  8  1 Bcf -     -     -         2724   10    0 
+JackPatch 932665857  7  7 c   c     f     -         2714   20    0 
+JackPatch 932665909  8  7 f   -     -     -         2694    0    0 
+JackPatch 932665990  9  7 f   -     -     -         2694    0    0 
+JackPatch 932666031  9  6 f   -     -     -         2694    0    0 
+JackPatch 932666116  9  5 f   -     -     -         2694    0    0 
+JackPatch 932666216  8  4 f   -     -     -         2694    0    0 
+JackPatch 932666278  7  2 Bf  -     -     -         2694   10    0 
+JackPatch 932666306  7  1 Bf  -     -     -         2684    5    0 
+JackPatch 932666331  7  7 r   b     b     b         2679   70  215 Ks Qc
+JackPatch 932666393  6  5 f   -     -     -         2824    0    0 
+JackPatch 932666420  6  4 f   -     -     -         2824    0    0 
+JackPatch 932666465  6  3 r   k     b     -         2824   40   95 
+JackPatch 932666495  6  2 Bk  f     -     -         2879   10    0 
+JackPatch 932666530  6  1 Bc  k     kf    -         2869   10    0 
+JackPatch 932666573  6  6 r   c     c     c         2859   70  165 As Qd
+JackPatch 932666607  6  5 cf  -     -     -         2954   10    0 
+JackPatch 932666651  7  5 r   k     c     c         2944   60    0 Td Th
+JackPatch 932666701  7  4 r   b     b     b         2884   70    0 Ks Kd
+JackPatch 932666755  8  3 f   -     -     -         2814    0    0 
+JackPatch 932666835 10  2 Bk  k     b     br        2814   90  275 Qs 6s
+JackPatch 932666887 10  1 Bc  kf    -     -         2999   10    0 
+JackPatch 932666987 10 10 f   -     -     -         2989    0    0 
+JackPatch 932667030 10  9 f   -     -     -         2989    0    0 
+JackPatch 932667094 10  8 r   b     b     k         2989   50  185 Qh Qc
+JackPatch 932667169 10  7 f   -     -     -         3124    0    0 
+JackPatch 932667236 10  6 f   -     -     -         3124    0    0 
+JackPatch 932667271 10  5 f   Q     -     -         3124    0    0 
+JackPatch 933020162 10  3 cc  kf    -     -         2454   20    0 
+JackPatch 933020211 10  2 Bk  kc    kf    -         2434   20    0 
+JackPatch 933020269 10  1 Bf  -     -     -         2414    5    0 
+JackPatch 933020348 10 10 cf  -     -     -         2409   10    0 
+JackPatch 933020455 10  9 f   -     -     -         2399    0    0 
+JackPatch 933020542 10  8 f   -     -     -         2399    0    0 
+JackPatch 933020644 10  7 cc  kc    kc    kQ        2399   60    0 
+JackPatch 933020866 10  2 Bf  -     -     -         2339   10    0 
+JackPatch 933021010  8  1 Bc  kf    -     -         2329   10    0 
+JackPatch 933021066  9  9 f   -     -     -         2319    0    0 
+JackPatch 933021117  8  7 f   -     -     -         2319    0    0 
+JackPatch 933021208  9  6 f   -     -     -         2319    0    0 
+JackPatch 933021239  9  5 cf  -     -     -         2319   10    0 
+JackPatch 933021266  8  3 f   -     -     -         2309    0    0 
+JackPatch 933021307  8  2 Bf  -     -     -         2309   10    0 
+JackPatch 933021381  8  1 Bf  -     -     -         2299    5    0 
+JackPatch 933021452  9  9 f   -     -     -         2294    0    0 
+JackPatch 933021484  9  8 f   -     -     -         2294    0    0 
+JackPatch 933021546  9  7 f   -     -     -         2294    0    0 
+JackPatch 933021579  8  5 f   -     -     -         2294    0    0 
+JackPatch 933021600  8  5 c   c     c     b         2294   70    0 Td Ts
+JackPatch 933021654  8  4 f   -     -     -         2224    0    0 
+JackPatch 933021693  8  3 f   -     -     -         2224    0    0 
+JackPatch 933021728  8  2 Bf  -     -     -         2224   10    0 
+JackPatch 933021740  8  1 Bc  bc    kc    kf        2214   80    0 
+JackPatch 933021799  8  8 rc  c     c     r         2134  110    0 Kh Ac
+JackPatch 933021844  9  8 f   -     -     -         2024    0    0 
+JackPatch 933021893  8  6 c   c     f     -         2024   20    0 
+JackPatch 933021945  8  5 f   -     -     -         2004    0    0 
+JackPatch 933022010 10  6 rc  c     bc    c         2004  100    0 Td Tc
+JackPatch 933022061  8  4 f   -     -     -         1904    0    0 
+JackPatch 933022080  7  3 f   -     -     -         1904    0    0 
+JackPatch 933022106  7  2 Bk  f     -     -         1904   10    0 
+JackPatch 933022128  7  1 Bf  -     -     -         1894    5    0 
+JackPatch 933022161  7  7 f   -     -     -         1889    0    0 
+JackPatch 933022175  7  6 c   r     -     -         1889   30   65 
+JackPatch 933022211  9  6 f   -     -     -         1924    0    0 
+JackPatch 933022286  9  5 r   r     -     -         1924   40   85 
+JackPatch 933022314  9  4 c   b     k     b         1969   40  110 9d Kh
+JackPatch 933022381  9  3 f   -     -     -         2039    0    0 
+JackPatch 933022416  9  2 Bk  kf    -     -         2039   10    0 
+JackPatch 933022454  9  1 Bf  -     -     -         2029    5    0 
+JackPatch 933022491  9  9 r   k     b     b         2024   60    0 Qc Js
+JackPatch 933022574 10  9 f   -     -     -         1964    0    0 
+JackPatch 933022617  9  7 c   f     -     -         1964   10    0 
+JackPatch 933022646  9  7 c   f     -     -         1954   10    0 
+JackPatch 933022691  9  6 c   k     f     -         1944   10    0 
+JackPatch 933022743  8  4 f   -     -     -         1934    0    0 
+JackPatch 933022765  7  2 Br  b     k     b         1934   50  100 
+JackPatch 933022804  7  1 Bf  -     -     -         1984    5    0 
+JackPatch 933022847  7  7 c   b     k     b         1979   40   75 
+JackPatch 933022887  7  6 c   k     k     f         2014   10    0 
+JackPatch 933022924  6  4 f   -     -     -         2004    0    0 
+JackPatch 933022932  5  3 f   -     -     -         2004    0    0 
+JackPatch 933022950  5  2 Br  k     kf    -         2004   20    0 
+JackPatch 933022988  4  1 Bc  k     b     -         1984   30   40 
+JackPatch 933023007  4  4 cf  -     -     -         1994   10    0 
+JackPatch 933023054  6  3 f   -     -     -         1984    0    0 
+JackPatch 933023071  6  2 Bc  kf    -     -         1984   30    0 
+JackPatch 933023120  6  1 Bc  bc    k     kc        1954   60    0 Ks Qc
+JackPatch 933023157  5  5 r   f     -     -         1894   20    0 
+JackPatch 933023172  4  4 f   -     -     -         1874    0    0 
+JackPatch 933023189  4  3 cf  -     -     -         1874   10    0 
+JackPatch 933023211  4  2 Bc  kc    k     b         1864   50  105 8h 8d
+JackPatch 933023238  4  1 Bf  -     -     -         1919    5    0 
+JackPatch 933023255  4  4 c   b     -     -         1914   20   35 
+JackPatch 933023267  4  3 rc  krc   kc    bc        1929  120    0 Kc Ac
+JackPatch 933023296  4  2 Bc  k     kf    -         1809   20    0 
+JackPatch 933023322  4  1 Bf  -     -     -         1789    5    0 
+JackPatch 933023349  4  4 f   -     -     -         1784    0    0 
+JackPatch 933023375  5  3 c   c     k     k         1784   20    0 Ah 4s
+JackPatch 933023403  5  2 Bk  f     -     -         1764   10    0 
+JackPatch 933023417  5  1 Br  k     b     -         1754   50  110 
+JackPatch 933023468  4  4 f   -     -     -         1814    0    0 
+JackPatch 933023482  5  4 f   -     -     -         1814    0    0 
+JackPatch 933023510  5  3 c   k     f     -         1814   10    0 
+JackPatch 933023537  5  2 Bc  f     -     -         1804   20    0 
+JackPatch 933023579  4  1 Bf  -     -     -         1784    5    0 
+JackPatch 933023610  4  4 f   -     -     -         1779    0    0 
+JackPatch 933023629  4  3 c   r     -     -         1779   30   55 
+JackPatch 933023650  4  2 Bf  -     -     -         1804   10    0 
+JackPatch 933023661  4  1 Bc  kf    -     -         1794   10    0 
+JackPatch 933023673  4  4 c   f     -     -         1784   10    0 
+JackPatch 933023695  4  3 r   -     -     -         1774   20   35 
+JackPatch 933023706  4  2 Bf  -     -     -         1789   10    0 
+JackPatch 933023729  4  1 Bc  kf    -     -         1779   20    0 
+JackPatch 933023764  4  4 cc  f     -     -         1759   30    0 
+JackPatch 933023800  5  3 cc  kf    -     -         1729   20    0 
+JackPatch 933023822  5  2 Bf  -     -     -         1709   10    0 
+JackPatch 933023827  5  1 Bf  -     -     -         1699    5    0 
+JackPatch 933023841  5  5 f   -     -     -         1694    0    0 
+JackPatch 933023846  5  4 c   c     rc    c         1694  110    0 Qh Ac
+JackPatch 933023872  6  3 r   b     -     -         1584   30   80 
+JackPatch 933023892  6  2 Bc  kc    kf    -         1634   40    0 
+JackPatch 933023918  6  1 BQ  -     -     -         1594    5    0 

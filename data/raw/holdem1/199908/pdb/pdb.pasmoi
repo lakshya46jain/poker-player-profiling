@@ -1,0 +1,542 @@
+pasmoi    933486132  8  5 f   -     -     -          707    0    0 
+pasmoi    933486165  8  4 c   kf    -     -          707   10    0 
+pasmoi    933486220  7  3 f   -     -     -          697    0    0 
+pasmoi    933486257  7  2 Bk  k     k     k          697   10    0 Kd As
+pasmoi    933486297  7  1 Bc  kc    kc    kf         687   40    0 
+pasmoi    933486330  7  7 f   -     -     -          647    0    0 
+pasmoi    933486338  7  6 c   b     r     r          647  100    0 Ad Kc
+pasmoi    933486361  7  5 f   -     -     -          547    0    0 
+pasmoi    933486394  7  4 c   kf    -     -          547   10    0 
+pasmoi    933486424  7  3 c   bc    kc    kc         537   70  185 Ad 5d
+pasmoi    933486452  7  2 B   -     -     -          652   10   15 
+pasmoi    933486465  7  1 Bc  kc    kf    -          657   20    0 
+pasmoi    933486510  7  7 c   c     f     -          637   20    0 
+pasmoi    933486548  7  6 f   -     -     -          617    0    0 
+pasmoi    933486564  7  5 f   -     -     -          617    0    0 
+pasmoi    933486587  7  4 c   f     -     -          617   10    0 
+pasmoi    933486617  7  3 f   -     -     -          607    0    0 
+pasmoi    933486646  7  2 Bk  k     k     f          607   10    0 
+pasmoi    933486670  7  1 Bf  -     -     -          597    5    0 
+pasmoi    933486694  7  7 c   c     c     c          592   60    0 2h As
+pasmoi    933486724  7  6 f   -     -     -          532    0    0 
+pasmoi    933486743  7  5 f   -     -     -          532    0    0 
+pasmoi    933486760  7  4 c   k     b     -          532   30   55 
+pasmoi    933486780  7  3 f   -     -     -          557    0    0 
+pasmoi    933486824  7  2 Bk  b     rc    c          557  100  220 9d Qd
+pasmoi    933486849  7  1 Bf  -     -     -          677    5    0 
+pasmoi    933486860  7  7 f   -     -     -          672    0    0 
+pasmoi    933486885  7  6 c   c     c     c          672   60  130 Kc Qh
+pasmoi    933486911  7  5 c   c     c     c          742   60    0 Qd Qh
+pasmoi    933486942  7  4 f   -     -     -          682    0    0 
+pasmoi    933486971  7  3 f   -     -     -          682    0    0 
+pasmoi    933487017  7  2 Bk  kc    kc    kf         682   40    0 
+pasmoi    933487055  7  1 Bc  kf    -     -          642   20    0 
+pasmoi    933487082  7  7 c   f     -     -          622   20    0 
+pasmoi    933487120  7  6 f   -     -     -          602    0    0 
+pasmoi    933487137  7  5 f   -     -     -          602    0    0 
+pasmoi    933487170  7  4 f   -     -     -          602    0    0 
+pasmoi    933487199  8  3 f   -     -     -          602    0    0 
+pasmoi    933487302  8  2 Bc  kc    kc    kc         602   70    0 Th 4h
+pasmoi    933487348  8  1 Bf  -     -     -          532    5    0 
+pasmoi    933487393  8  8 f   -     -     -          527    0    0 
+pasmoi    933487425  9  7 f   -     -     -          527    0    0 
+pasmoi    933487474 10  6 c   kc    k     k          527   20   75 7d 7c
+pasmoi    933487546 10  5 f   -     -     -          582    0    0 
+pasmoi    933487671  8  3 c   k     c     f          582   30    0 
+pasmoi    933487717  9  3 c   k     c     f          552   30    0 
+pasmoi    933487746 10  2 Bk  k     k     kr         522   70    0 Jh Qs
+pasmoi    933487782 10  1 Bf  -     -     -          452    5    0 
+pasmoi    933487820 10 10 c   f     -     -          447   10    0 
+pasmoi    933487873 10  9 c   k     f     -          437   10    0 
+pasmoi    933487926 10  8 f   -     -     -          427    0    0 
+pasmoi    933488020 10  7 f   -     -     -          427    0    0 
+pasmoi    933488138 10  6 c   c     k     k          427   30    0 Ah Qh
+pasmoi    933488214 10  5 f   -     -     -          397    0    0 
+pasmoi    933488327 10  4 c   f     -     -          397   20    0 
+pasmoi    933488390 10  3 f   -     -     -          377    0    0 
+pasmoi    933488425 10  2 Bc  kf    -     -          377   20    0 
+pasmoi    933488540 10  1 Bc  kc    kc    kc         357   70  240 Ac Qc
+pasmoi    933488615 10 10 f   -     -     -          527    0    0 
+pasmoi    933488696  9  8 c   f     -     -          527   10    0 
+pasmoi    933488747 10  8 f   -     -     -          517    0    0 
+pasmoi    933488822 10  7 cc  c     c     f          517   50    0 
+pasmoi    933488865  9  5 c   f     -     -          467   10    0 
+pasmoi    933488904 10  5 f   -     -     -          457    0    0 
+pasmoi    933488980 10  4 c   kc    k     kc         457   40  210 5h Ad
+pasmoi    933489054  9  3 cc  k     k     kf         627   20    0 
+pasmoi    933489103 10  2 Bk  kf    -     -          607   10    0 
+pasmoi    933489163  9  1 Bf  -     -     -          597    5    0 
+pasmoi    933489230  8  8 c   k     f     -          592   10    0 
+pasmoi    933489290  9  8 c   c     k     k          582   20    0 8s 7d
+pasmoi    933489342 10  7 c   KQ    -     -          562   10    0 
+pasmoi    933496616  9  7 f   -     -     -          552    0    0 
+pasmoi    933496676  9  6 f   -     -     -          552    0    0 
+pasmoi    933496724  8  5 c   kf    -     -          552   10    0 
+pasmoi    933496783  8  4 f   -     -     -          542    0    0 
+pasmoi    933496813  8  3 c   kc    kc    f          542   40    0 
+pasmoi    933496915  8  2 Bf  -     -     -          502   10    0 
+pasmoi    933496970  8  1 Bf  -     -     -          492    5    0 
+pasmoi    933497031  8  8 c   c     c     c          487   60    0 Qh Ts
+pasmoi    933497090  8  7 f   -     -     -          427    0    0 
+pasmoi    933497139  9  6 c   k     k     b          427   30   80 9h Qs
+pasmoi    933497202  9  5 f   -     -     -          477    0    0 
+pasmoi    933497252  9  4 c   kc    kf    -          477   20    0 
+pasmoi    933497299  9  3 f   -     -     -          457    0    0 
+pasmoi    933497396  9  2 B   -     -     -          457   10   15 
+pasmoi    933497412  9  1 Bf  -     -     -          462    5    0 
+pasmoi    933497454  9  9 f   -     -     -          457    0    0 
+pasmoi    933497493  9  8 f   -     -     -          457    0    0 
+pasmoi    933497568  9  7 f   -     -     -          457    0    0 
+pasmoi    933497614 10  7 cc  c     c     f          457   60    0 
+pasmoi    933497679 10  6 f   -     -     -          397    0    0 
+pasmoi    933497742  9  5 c   kc    kc    kf         397   40    0 
+pasmoi    933497821 10  4 c   k     k     c          357   30    0 8s 9s
+pasmoi    933497874  9  3 f   -     -     -          327    0    0 
+pasmoi    933497931  9  2 Bf  -     -     -          327   10    0 
+pasmoi    933497998  9  1 Bc  k     b     k          317   30  100 Qd Qh
+pasmoi    933498046  9  9 f   -     -     -          387    0    0 
+pasmoi    933498088  9  8 cc  k     f     -          387   20    0 
+pasmoi    933498175  9  7 f   -     -     -          367    0    0 
+pasmoi    933498240  9  6 f   -     -     -          367    0    0 
+pasmoi    933498302  9  5 c   bc    kc    kc         367   70  110 Th Js
+pasmoi    933498364  8  4 f   -     -     -          407    0    0 
+pasmoi    933498396  8  3 c   k     b     k          407   30    0 3h As
+pasmoi    933498426  8  2 Bk  k     b     b          377   50  110 
+pasmoi    933498485  8  1 Bc  k     b     -          437   30   40 
+pasmoi    933498503  8  8 f   -     -     -          447    0    0 
+pasmoi    933498533  8  7 cc  f     -     -          447   20    0 
+pasmoi    933498580  8  6 c   f     -     -          427   30    0 
+pasmoi    933498633  8  5 f   -     -     -          397    0    0 
+pasmoi    933498686  8  4 cc  kf    -     -          397   20    0 
+pasmoi    933498745  8  3 f   -     -     -          377    0    0 
+pasmoi    933498781  8  2 Bc  kc    kf    -          377   30    0 
+pasmoi    933498866  9  1 Bf  -     -     -          347    5    0 
+pasmoi    933498937  8  8 c   f     -     -          342   10    0 
+pasmoi    933498995  7  6 c   k     k     k          332   10    0 Td Qd
+pasmoi    933499028  7  5 c   kf    -     -          322   10    0 
+pasmoi    933499071  7  4 c   k     c     c          312   50    0 Ac Jd
+pasmoi    933499108  7  3 c   b     b     b          262   60  150 Td As
+pasmoi    933499146  7  2 Bk  f     -     -          352   10    0 
+pasmoi    933499165  7  1 Bc  k     b     -          342   30   50 
+pasmoi    933499189  7  7 c   f     -     -          362   20    0 
+pasmoi    933499219  7  6 f   -     -     -          342    0    0 
+pasmoi    933499245  7  5 f   -     -     -          342    0    0 
+pasmoi    933499283  7  4 c   kc    f     -          342   20    0 
+pasmoi    933499320  7  3 f   -     -     -          322    0    0 
+pasmoi    933499344  7  2 Bc  kc    kc    kf         322   50    0 
+pasmoi    933499383  7  1 Bf  -     -     -          272    5    0 
+pasmoi    933499409  7  7 c   c     rc    b          267  120  400 9d Ah
+pasmoi    933499446  8  7 f   -     -     -          547    0    0 
+pasmoi    933499487  8  6 c   k     k     f          547   10    0 
+pasmoi    933499519  8  5 c   kc    k     k          537   20   50 5s Ah
+pasmoi    933499570  8  4 cc  k     c     f          567   40    0 
+pasmoi    933499620  8  3 cc  f     -     -          527   20    0 
+pasmoi    933499642  8  2 Bcc ccc   f     -          507   80    0 
+pasmoi    933499702  8  1 Bc  kf    -     -          427   10    0 
+pasmoi    933499746  9  9 c   k     f     -          417   20    0 
+pasmoi    933499779  9  8 c   b     k     bc         397   60    0 Jc 2c
+pasmoi    933499821  9  7 c   k     kc    k          337   40    0 Kc Qh
+pasmoi    933499879  9  6 cc  kf    -     -          297   20    0 
+pasmoi    933499929  9  5 c   f     -     -          277   10    0 
+pasmoi    933499967  9  4 c   cc    k     f          267   30    0 
+pasmoi    933500020  9  3 c   kc    b     k          237   40  145 Qh 9h
+pasmoi    933500068 10  2 Bk  kc    kf    -          342   20    0 
+pasmoi    933500124 10  1 Bf  -     -     -          322    5    0 
+pasmoi    933500180  9  9 c   b     b     b          317   60  110 
+pasmoi    933500225 10  9 c   f     -     -          367   20    0 
+pasmoi    933500315 10  8 f   -     -     -          347    0    0 
+pasmoi    933500355 10  7 cc  f     -     -          347   20    0 
+pasmoi    933500431 10  6 f   -     -     -          327    0    0 
+pasmoi    933500492 10  5 ccc kc    kc    f          327   70    0 
+pasmoi    933500557 10  5 f   -     -     -          257    0    0 
+pasmoi    933500616  9  3 f   -     -     -          257    0    0 
+pasmoi    933500672 10  2 Bc  kc    kc    kc         257   70    0 Jd Ah
+pasmoi    933500718 10  1 Bf  -     -     -          187    5    0 
+pasmoi    933500762 10 10 f   -     -     -          182    0    0 
+pasmoi    933500811 10  9 c   cf    -     -          182   20    0 
+pasmoi    933500900 10  8 c   c     cc    k          162   70    0 Ks 8s
+pasmoi    933500982 10  7 f   -     -     -           92    0    0 
+pasmoi    933501036 10  6 c   c     c     c           92   60  195 6h 6d
+pasmoi    933501089 10  5 f   -     -     -          227    0    0 
+pasmoi    933501140 10  4 c   kf    -     -          227   10    0 
+pasmoi    933501198 10  3 f   -     -     -          217    0    0 
+pasmoi    933501259 10  2 Bk  kcc   kc    br         217  120  360 7c 6d
+pasmoi    933501369 10  1 Bc  kc    kf    -          457   20    0 
+pasmoi    933501468  9  9 f   -     -     -          437    0    0 
+pasmoi    933501505 10  9 cc  f     -     -          437   30    0 
+pasmoi    933501568 10  8 c   f     -     -          407   20    0 
+pasmoi    933501626  9  7 f   -     -     -          387    0    0 
+pasmoi    933501664  9  5 f   -     -     -          387    0    0 
+pasmoi    933501719  9  4 f   -     -     -          387    0    0 
+pasmoi    933501774  9  3 f   -     -     -          387    0    0 
+pasmoi    933501812 10  3 f   -     -     -          387    0    0 
+pasmoi    933501887 10  2 Bc  k     k     k          387   20   80 Ac 3d
+pasmoi    933501933  9  1 Bcc kc    k     kf         447   40    0 
+pasmoi    933502007 10 10 cc  c     f     -          407   30    0 
+pasmoi    933502071 10  9 f   -     -     -          377    0    0 
+pasmoi    933502196 10  8 f   -     -     -          377    0    0 
+pasmoi    933502268 10  7 f   -     -     -          377    0    0 
+pasmoi    933502331  9  6 c   k     kc    br         377   90  290 8s 9h
+pasmoi    933502432 10  5 f   -     -     -          577    0    0 
+pasmoi    933502512 10  4 f   -     -     -          577    0    0 
+pasmoi    933502553 10  3 c   k     kf    -          577   10    0 
+pasmoi    933502602 10  2 Bc  kc    kc    kc         567   70    0 7d As
+pasmoi    933502662  9  1 Bc  kc    kf    -          497   30    0 
+pasmoi    933502704 10 10 cc  c     f     -          467   30    0 
+pasmoi    933502779 10  9 f   -     -     -          437    0    0 
+pasmoi    933502860 10  8 cc  kc    kc    kc         437   70  245 8s 8c
+pasmoi    933502946 10  7 f   -     -     -          612    0    0 
+pasmoi    933503032 10  6 ccc kc    kf    -          612   50    0 
+pasmoi    933503159 10  5 f   -     -     -          562    0    0 
+pasmoi    933503238 10  4 cc  kf    -     -          562   20    0 
+pasmoi    933503297 10  3 c   c     k     k          542   20   90 Th As
+pasmoi    933503381 10  2 Bk  kf    -     -          612   10    0 
+pasmoi    933503436 10  1 Bcc kcc   bc    kc         602  120    0 Td Qd
+pasmoi    933503560 10  3 Q   -     -     -          482    0    0 
+pasmoi    933571027 10 10 f   -     -     -          482    0    0 
+pasmoi    933571066 10  9 f   -     -     -          482    0    0 
+pasmoi    933571166  9  7 cc  f     -     -          482   40    0 
+pasmoi    933571243 10  7 c   k     c     c          442   60    0 Ah 3s
+pasmoi    933571289 10  6 c   cc    kc    k          382   50  200 Ac 5s
+pasmoi    933571365 10  5 f   -     -     -          532    0    0 
+pasmoi    933571433  9  3 ccc kcc   f     -          532   50    0 
+pasmoi    933571522 10  3 c   kf    -     -          482   10    0 
+pasmoi    933571576 10  2 Bf  -     -     -          472   10    0 
+pasmoi    933571655  8  1 Bc  kf    -     -          462   10    0 
+pasmoi    933571715  9  9 f   -     -     -          452    0    0 
+pasmoi    933571787  9  8 rr  r     c     c          452  100  300 Ad Ac
+pasmoi    933571856  8  6 f   -     -     -          652    0    0 
+pasmoi    933571898  9  6 c   f     -     -          652   20    0 
+pasmoi    933571930  8  5 f   -     -     -          632    0    0 
+pasmoi    933571944  8  4 f   -     -     -          632    0    0 
+pasmoi    933571962  7  2 cc  kc    kc    k          632   50    0 2h 2d
+pasmoi    933571993  7  2 Bc  k     kf    -          582   20    0 
+pasmoi    933572079  8  1 Bf  -     -     -          562    5    0 
+pasmoi    933572119  8  8 c   k     c     rr         557  120  175 Th Jc
+pasmoi    933572182  9  7 c   kc    kc    kf         612   40    0 
+pasmoi    933572236 10  6 rc  b     k     b          572   70  300 As Ac
+pasmoi    933572302 10  5 f   -     -     -          802    0    0 
+pasmoi    933572384  9  3 f   -     -     -          802    0    0 
+pasmoi    933572448 10  3 cc  k     k     b          802   40  120 
+pasmoi    933572490 10  2 Bf  -     -     -          882   10    0 
+pasmoi    933572548 10  1 Bf  -     -     -          872    5    0 
+pasmoi    933572591 10 10 c   c     f     -          867   30    0 
+pasmoi    933572637 10  9 c   c     bc    c          837   80    0 As Ts
+pasmoi    933572685 10  8 cc  f     -     -          757   20    0 
+pasmoi    933572757 10  7 f   -     -     -          737    0    0 
+pasmoi    933572836 10  6 f   -     -     -          737    0    0 
+pasmoi    933572871 10  5 f   -     -     -          737    0    0 
+pasmoi    933572910 10  4 f   -     -     -          737    0    0 
+pasmoi    933572951 10  3 c   kf    -     -          737   10    0 
+pasmoi    933572990 10  2 Bf  -     -     -          727   10    0 
+pasmoi    933573050 10  1 Bf  -     -     -          717    5    0 
+pasmoi    933573075 10 10 f   -     -     -          712    0    0 
+pasmoi    933573132 10  9 f   -     -     -          712    0    0 
+pasmoi    933573182 10  8 c   kc    kc    c          712   60    0 6d Ah
+pasmoi    933573221 10  7 f   -     -     -          652    0    0 
+pasmoi    933573309 10  6 f   -     -     -          652    0    0 
+pasmoi    933573364 10  5 f   -     -     -          652    0    0 
+pasmoi    933573412 10  4 cc  kf    -     -          652   20    0 
+pasmoi    933573482 10  3 f   -     -     -          632    0    0 
+pasmoi    933573535 10  2 Bc  kc    kc    br         632  110  325 Ts Th
+pasmoi    933573602 10  1 Bf  -     -     -          847    5    0 
+pasmoi    933573644 10 10 f   -     -     -          842    0    0 
+pasmoi    933573696 10  9 c   c     c     f          842   40    0 
+pasmoi    933573755 10  8 f   -     -     -          802    0    0 
+pasmoi    933573781 10  7 c   k     c     b          802   50  145 Td 9s
+pasmoi    933573833 10  6 f   -     -     -          897    0    0 
+pasmoi    933573903 10  5 c   f     -     -          897   10    0 
+pasmoi    933573953 10  4 f   -     -     -          887    0    0 
+pasmoi    933574030 10  3 cc  kc    k     b          887   50  150 6s Qs
+pasmoi    933574106 10  2 Bk  kc    kf    -          987   20    0 
+pasmoi    933574152 10  1 Bc  kf    -     -          967   20    0 
+pasmoi    933574211 10 10 c   k     c     c          947   50  125 Ad Th
+pasmoi    933574265 10  9 c   c     c     c         1022   70  210 Qc Ks
+pasmoi    933574321 10  9 f   -     -     -         1162    0    0 
+pasmoi    933574389  8  6 f   -     -     -         1162    0    0 
+pasmoi    933574446  9  5 cc  f     -     -         1162   20    0 
+pasmoi    933574512  9  4 f   -     -     -         1142    0    0 
+pasmoi    933574527  9  3 c   kc    kf    -         1142   20    0 
+pasmoi    933574566  9  2 Bk  kf    -     -         1122   10    0 
+pasmoi    933574601  9  1 Bc  kc    kc    kf        1112   50    0 
+pasmoi    933574693  8  8 f   -     -     -         1062    0    0 
+pasmoi    933574718  8  7 c   c     c     k         1062   40    0 3s 6s
+pasmoi    933574757  8  6 c   f     -     -         1022   10    0 
+pasmoi    933574779  8  5 c   k     k     k         1012   10    0 Th 9s
+pasmoi    933574803  8  4 c   k     kf    -         1002   10    0 
+pasmoi    933574836  8  3 f   -     -     -          992    0    0 
+pasmoi    933574861  8  2 Bk  k     b     b          992   50   85 
+pasmoi    933574879  8  1 Bc  kc    k     b         1027   40  110 Kc 7d
+pasmoi    933574909  8  8 c   f     -     -         1097   10    0 
+pasmoi    933574925  8  7 cc  kc    br    b         1087  110  255 Ks 4s
+pasmoi    933574956  7  5 c   kc    kf    -         1232   20    0 
+pasmoi    933574999  7  5 c   b     c     c         1212   60  145 Jd 5d
+pasmoi    933575026  8  4 cc  kc    k     k         1297   30  105 Tc Ts
+pasmoi    933575059  8  3 f   -     -     -         1372    0    0 
+pasmoi    933575096  8  2 Bc  kc    bc    kc        1372   90    0 Td Ts
+pasmoi    933575139  9  1 Bc  k     kc    k         1282   40    0 8c Ad
+pasmoi    933575168  8  8 f   -     -     -         1242    0    0 
+pasmoi    933575214  8  7 f   -     -     -         1242    0    0 
+pasmoi    933575275  8  6 f   -     -     -         1242    0    0 
+pasmoi    933575312  8  5 f   -     -     -         1242    0    0 
+pasmoi    933575359  8  4 c   k     k     f         1242   10    0 
+pasmoi    933575398  7  3 f   -     -     -         1232    0    0 
+pasmoi    933575412  7  2 Bf  -     -     -         1232   10    0 
+pasmoi    933575438  7  1 Bf  -     -     -         1222    5    0 
+pasmoi    933575458  7  7 c   k     k     k         1217   20    0 Ah 3s
+pasmoi    933575488  7  6 f   -     -     -         1197    0    0 
+pasmoi    933575518  6  4 f   -     -     -         1197    0    0 
+pasmoi    933575543  5  2 Bk  k     b     bc        1197   70    0 Kc 3h
+pasmoi    933575556  5  1 Bc  k     kf    -         1127   10    0 
+pasmoi    933575572  5  5 c   k     r     b         1117   70  180 Qs Td
+pasmoi    933575594  5  4 f   -     -     -         1227    0    0 
+pasmoi    933575609  5  3 c   b     bc    k         1227   60  180 3c 4c
+pasmoi    933575630  5  2 Bc  c     c     b         1347   70  210 9h 7h
+pasmoi    933575649  5  1 Bc  kc    kc    kf        1487   40    0 
+pasmoi    933575672  6  6 c   k     b     k         1447   30    0 8h 8s
+pasmoi    933575697  6  5 f   -     -     -         1417    0    0 
+pasmoi    933575726  6  4 f   -     -     -         1417    0    0 
+pasmoi    933575755  6  3 c   k     b     b         1417   50  115 9h Td
+pasmoi    933575793  6  2 Bk  b     bcc   kf        1482   80    0 
+pasmoi    933575820  6  1 Bf  -     -     -         1402    5    0 
+pasmoi    933575854  6  6 c   f     -     -         1397   10    0 
+pasmoi    933575875  6  5 c   b     b     b         1387   60  105 
+pasmoi    933575889  6  4 c   f     -     -         1432   10    0 
+pasmoi    933575900  6  3 c   c     f     -         1422   20    0 
+pasmoi    933575928  6  2 Bk  k     b     b         1402   50    0 3d Kd
+pasmoi    933575949  6  1 Bf  -     -     -         1352    5    0 
+pasmoi    933575961  6  6 c   k     f     -         1347   10    0 
+pasmoi    933575988  6  5 f   -     -     -         1337    0    0 
+pasmoi    933576003  6  4 c   k     f     -         1337   10    0 
+pasmoi    933576025  6  3 f   -     -     -         1327    0    0 
+pasmoi    933576028  6  2 Bc  kr    b     b         1327   80  165 Ad Kc
+pasmoi    933576043  6  1 Bf  -     -     -         1412    5    0 
+pasmoi    933576101  6  6 c   k     k     k         1407   10    0 Ts 8h
+pasmoi    933576139  5  4 c   k     f     -         1397   10    0 
+pasmoi    933576160  5  3 f   -     -     -         1387    0    0 
+pasmoi    933576165  5  2 B   -     -     -         1387   10   15 
+pasmoi    933576195  5  1 Bc  b     -     -         1392   20   40 
+pasmoi    933576204  5  5 c   k     k     k         1412   10   25 7s Ts
+pasmoi    933576217  5  4 c   c     b     b         1427   60  170 Kh Ah
+pasmoi    933576235  6  4 c   k     b     -         1537   30   50 
+pasmoi    933576265  6  3 f   -     -     -         1557    0    0 
+pasmoi    933576346  6  2 Bk  kc    kc    kc        1557   60    0 Js 5s
+pasmoi    933576387  6  1 Bf  -     -     -         1497    5    0 
+pasmoi    933576421  6  6 c   c     f     -         1492   30    0 
+pasmoi    933576440  6  5 c   k     k     k         1462   10    0 Ac 6s
+pasmoi    933576461  6  4 f   -     -     -         1452    0    0 
+pasmoi    933576501  6  3 f   -     -     -         1452    0    0 
+pasmoi    933576515  6  2 Bk  cc    kc    kf        1452   50    0 
+pasmoi    933576547  6  1 Bc  kc    kc    kc        1402   80    0 Kh 9d
+pasmoi    933576573  6  6 c   c     k     b         1322   40    0 As 9c
+pasmoi    933576593  6  5 c   k     k     kf        1282   20    0 
+pasmoi    933576674  6  4 cc  k     c     b         1262   60  180 2d 3d
+pasmoi    933576712  6  3 f   -     -     -         1382    0    0 
+pasmoi    933576723  6  2 Bk  kf    -     -         1382   10    0 
+pasmoi    933576732  6  1 Bc  k     k     k         1372   10    0 6s 2s
+pasmoi    933576762  6  6 f   -     -     -         1362    0    0 
+pasmoi    933576772  6  5 c   k     b     -         1362   30   50 
+pasmoi    933576790  6  4 f   -     -     -         1382    0    0 
+pasmoi    933576804  6  3 f   -     -     -         1382    0    0 
+pasmoi    933576820  6  2 Bf  -     -     -         1382   10    0 
+pasmoi    933576847  6  1 Bc  k     b     b         1372   50  110 Ac Tc
+pasmoi    933576866  7  7 f   -     -     -         1432    0    0 
+pasmoi    933576882  7  6 c   k     b     -         1432   30   70 
+pasmoi    933576902  6  4 cc  k     f     -         1472   20    0 
+pasmoi    933576915  6  3 f   -     -     -         1452    0    0 
+pasmoi    933576928  6  2 Bf  -     -     -         1452   10    0 
+pasmoi    933576936  6  1 Bc  k     k     b         1442   30   80 Ah Th
+pasmoi    933576955  6  6 f   -     -     -         1492    0    0 
+pasmoi    933576969  6  5 c   c     c     c         1492   60   95 5h 7h
+pasmoi    933576986  6  4 f   -     -     -         1527    0    0 
+pasmoi    933576993  7  4 c   c     rr    b         1527  130  275 5d 5s
+pasmoi    933577012  7  3 f   -     -     -         1672    0    0 
+pasmoi    933577020  7  2 Bk  c     c     k         1672   40   80 3d Kd
+pasmoi    933577039  7  1 Bc  k     kf    -         1712   10    0 
+pasmoi    933577065  7  7 f   -     -     -         1702    0    0 
+pasmoi    933577072  7  6 f   -     -     -         1702    0    0 
+pasmoi    933577081  7  5 f   -     -     -         1702    0    0 
+pasmoi    933577088  7  4 c   k     k     k         1702   10   25 9s As
+pasmoi    933577105  7  3 f   -     -     -         1717    0    0 
+pasmoi    933577130  8  3 f   -     -     -         1717    0    0 
+pasmoi    933577151  8  2 Bk  b     b     kf        1717   40    0 
+pasmoi    933577190  8  1 Bf  -     -     -         1677    5    0 
+pasmoi    933577214  8  8 c   f     -     -         1672   20    0 
+pasmoi    933577235  8  8 f   -     -     -         1652    0    0 
+pasmoi    933577272  9  7 f   -     -     -         1652    0    0 
+pasmoi    933577312  9  6 c   k     kc    kc        1652   50  160 9d 3d
+pasmoi    933577355  9  5 f   -     -     -         1762    0    0 
+pasmoi    933577395  9  4 c   f     -     -         1762   10    0 
+pasmoi    933577437  9  3 f   -     -     -         1752    0    0 
+pasmoi    933577471 10  2 Bk  kf    -     -         1752   10    0 
+pasmoi    933577509 10  1 Bc  kf    -     -         1742   10    0 
+pasmoi    933577542  9  9 c   ccc   f     -         1732   70    0 
+pasmoi    933577612 10  8 f   -     -     -         1662    0    0 
+pasmoi    933577675 10  7 f   -     -     -         1662    0    0 
+pasmoi    933577709  8  6 f   -     -     -         1662    0    0 
+pasmoi    933577747  8  4 c   c     r     r         1662  100  365 4h 6h
+pasmoi    933577799  8  3 c   k     k     k         1927   10    0 6s 2s
+pasmoi    933577831  9  2 Bf  -     -     -         1917   10    0 
+pasmoi    933577911  9  1 Bf  -     -     -         1907    5    0 
+pasmoi    933577958  9  9 c   c     f     -         1902   20    0 
+pasmoi    933578003 10  9 c   f     -     -         1882   10    0 
+pasmoi    933578045 10  8 f   -     -     -         1872    0    0 
+pasmoi    933578075  9  7 f   -     -     -         1872    0    0 
+pasmoi    933578132 10  6 c   f     -     -         1872   10    0 
+pasmoi    933578196 10  5 f   -     -     -         1862    0    0 
+pasmoi    933578235  8  4 f   -     -     -         1862    0    0 
+pasmoi    933578285  9  3 c   f     -     -         1862   10    0 
+pasmoi    933578331 10  2 Bk  kf    -     -         1852   10    0 
+pasmoi    933578383 10  1 Bf  -     -     -         1842    5    0 
+pasmoi    933578410  9  9 c   k     f     -         1837   10    0 
+pasmoi    933578452  9  8 f   -     -     -         1827    0    0 
+pasmoi    933578509 10  8 f   -     -     -         1827    0    0 
+pasmoi    933578550 10  7 f   -     -     -         1827    0    0 
+pasmoi    933578584  9  6 f   -     -     -         1827    0    0 
+pasmoi    933578624  9  5 f   -     -     -         1827    0    0 
+pasmoi    933578657  8  4 f   -     -     -         1827    0    0 
+pasmoi    933578681  8  3 c   k     c     c         1827   70  230 Ts Tc
+pasmoi    933578729  8  2 Bk  kc    kc    kc        1987   60    0 6h Qs
+pasmoi    933578785  8  1 Bf  -     -     -         1927    5    0 
+pasmoi    933578821  9  9 f   -     -     -         1922    0    0 
+pasmoi    933578877 10  9 f   -     -     -         1922    0    0 
+pasmoi    933578933 10  8 c   c     f     -         1922   20    0 
+pasmoi    933578974  9  7 f   -     -     -         1902    0    0 
+pasmoi    933579017 10  6 f   -     -     -         1902    0    0 
+pasmoi    933579089  9  4 cc  c     f     -         1902   30    0 
+pasmoi    933579153  9  3 f   -     -     -         1872    0    0 
+pasmoi    933579208  9  2 Bk  kf    -     -         1872   10    0 
+pasmoi    933579256  9  1 Bf  -     -     -         1862    5    0 
+pasmoi    933579305  8  8 f   -     -     -         1857    0    0 
+pasmoi    933579353  8  7 f   -     -     -         1857    0    0 
+pasmoi    933579403  9  7 f   -     -     -         1857    0    0 
+pasmoi    933579479  8  5 f   -     -     -         1857    0    0 
+pasmoi    933579506  9  5 f   -     -     -         1857    0    0 
+pasmoi    933579599  8  4 f   -     -     -         1857    0    0 
+pasmoi    933579650  7  2 Bk  kc    kf    -         1857   20    0 
+pasmoi    933579697  7  1 Bc  kc    kc    kf        1837   50    0 
+pasmoi    933579729  7  7 f   -     -     -         1787    0    0 
+pasmoi    933579759  7  6 f   -     -     -         1787    0    0 
+pasmoi    933579781  7  5 c   kc    kc    b         1787   60  250 Qs Tc
+pasmoi    933579846  8  5 c   k     k     k         1977   10   30 As Td
+pasmoi    933579892  9  4 f   -     -     -         1997    0    0 
+pasmoi    933579954  9  3 f   -     -     -         1997    0    0 
+pasmoi    933579988  9  2 Bc  kc    kf    -         1997   30    0 
+pasmoi    933580029  9  1 Bf  -     -     -         1967    5    0 
+pasmoi    933580099  8  8 c   f     -     -         1962   10    0 
+pasmoi    933580157 10  7 f   -     -     -         1952    0    0 
+pasmoi    933580212  9  6 f   -     -     -         1952    0    0 
+pasmoi    933580286  9  5 c   f     -     -         1952   10    0 
+pasmoi    933580337  8  3 f   -     -     -         1942    0    0 
+pasmoi    933580361  8  3 c   bc    kc    bc        1942   90    0 6s 5s
+pasmoi    933580414  8  2 Bc  kc    kf    -         1852   30    0 
+pasmoi    933580442  8  1 Bf  -     -     -         1822    5    0 
+pasmoi    933580487  8  8 f   -     -     -         1817    0    0 
+pasmoi    933580528  8  7 c   k     k     f         1817   10    0 
+pasmoi    933580570  8  6 f   -     -     -         1807    0    0 
+pasmoi    933580590  7  4 f   -     -     -         1807    0    0 
+pasmoi    933580633  7  3 f   -     -     -         1807    0    0 
+pasmoi    933580669  7  2 Bk  kf    -     -         1807   10    0 
+pasmoi    933580692  7  1 Bf  -     -     -         1797    5    0 
+pasmoi    933580725  7  7 c   f     -     -         1792   20    0 
+pasmoi    933580774  7  6 f   -     -     -         1772    0    0 
+pasmoi    933580803  7  5 f   -     -     -         1772    0    0 
+pasmoi    933580839  7  4 c   c     f     -         1772   20    0 
+pasmoi    933580875  7  3 f   -     -     -         1752    0    0 
+pasmoi    933580907  7  2 Bk  k     k     k         1752   10    0 Qc 2c
+pasmoi    933580928  7  1 Bc  k     b     -         1742   30   40 
+pasmoi    933580942  7  7 r   k     r     -         1752   60  135 
+pasmoi    933580973  8  7 f   -     -     -         1827    0    0 
+pasmoi    933581021  8  6 c   f     -     -         1827   10    0 
+pasmoi    933581053  8  5 c   f     -     -         1817   10    0 
+pasmoi    933581078  8  4 f   -     -     -         1807    0    0 
+pasmoi    933581096  8  3 c   c     f     -         1807   20    0 
+pasmoi    933581130  9  2 Bk  k     k     b         1787   30   45 
+pasmoi    933581176  9  1 Bf  -     -     -         1802    5    0 
+pasmoi    933581225  9  9 c   f     -     -         1797   20    0 
+pasmoi    933581258  9  8 f   -     -     -         1777    0    0 
+pasmoi    933581309  9  7 f   -     -     -         1777    0    0 
+pasmoi    933581326  9  6 c   cc    k     f         1777   50    0 
+pasmoi    933581386  9  5 f   -     -     -         1727    0    0 
+pasmoi    933581421  9  4 c   kf    -     -         1727   10    0 
+pasmoi    933581449  8  3 cc  c     r     b         1717   90  205 
+pasmoi    933581495  7  2 Bk  k     f     -         1832   10    0 
+pasmoi    933581512  7  1 Bf  -     -     -         1822    5    0 
+pasmoi    933581526  7  7 f   -     -     -         1817    0    0 
+pasmoi    933581543  7  6 f   -     -     -         1817    0    0 
+pasmoi    933581548  7  5 c   f     -     -         1817   10    0 
+pasmoi    933581567  7  4 f   -     -     -         1807    0    0 
+pasmoi    933581591  7  3 c   kc    b     bc        1807   80    0 Th Jh
+pasmoi    933581628  7  2 Bk  kc    kf    -         1727   20    0 
+pasmoi    933581662  6  1 Bc  k     k     kf        1707   10    0 
+pasmoi    933581682  6  6 f   -     -     -         1697    0    0 
+pasmoi    933581707  6  5 f   -     -     -         1697    0    0 
+pasmoi    933581724  6  4 f   -     -     -         1697    0    0 
+pasmoi    933581749  6  3 r   r     -     -         1697   40   75 
+pasmoi    933581764  6  2 Bk  c     b     b         1732   60  170 8s 7s
+pasmoi    933581789  6  1 Bc  kc    bc    kc        1842   80    0 Tc 3c
+pasmoi    933581816  7  7 c   f     -     -         1762   10    0 
+pasmoi    933581845  7  6 f   -     -     -         1752    0    0 
+pasmoi    933581891  7  5 c   k     kc    kf        1752   30    0 
+pasmoi    933581939  7  4 f   -     -     -         1722    0    0 
+pasmoi    933581954  7  3 f   -     -     -         1722    0    0 
+pasmoi    933581990  7  2 Bk  kf    -     -         1722   10    0 
+pasmoi    933582014  7  1 Bc  kc    kc    kc        1712   70  180 8h Ad
+pasmoi    933582037  7  7 c   k     f     -         1822   10    0 
+pasmoi    933582076  8  7 f   -     -     -         1812    0    0 
+pasmoi    933582117  8  6 f   -     -     -         1812    0    0 
+pasmoi    933582155  8  5 c   c     f     -         1812   20    0 
+pasmoi    933582209  8  4 f   -     -     -         1792    0    0 
+pasmoi    933582227  8  3 c   b     kc    kc        1792   60    0 3c Jc
+pasmoi    933582257  8  2 Bk  c     k     k         1732   20    0 Qh Th
+pasmoi    933582291  8  1 Bc  kc    kc    kc        1712   60    0 Kh Jd
+pasmoi    933582327  7  7 c   k     k     f         1652   10    0 
+pasmoi    933582365  7  6 f   -     -     -         1642    0    0 
+pasmoi    933582371  7  5 f   -     -     -         1642    0    0 
+pasmoi    933582383  7  4 c   b     -     -         1642   20   50 
+pasmoi    933582481  6  3 f   -     -     -         1672    0    0 
+pasmoi    933582517  6  2 Bc  c     c     c         1672   70    0 2h 2s
+pasmoi    933582541  6  1 Bf  -     -     -         1602    5    0 
+pasmoi    933582558  6  6 c   k     k     b         1597   30    0 2s 6s
+pasmoi    933582577  6  5 c   f     -     -         1567   20    0 
+pasmoi    933582606  5  4 c   f     -     -         1547   20    0 
+pasmoi    933582624  5  3 c   k     f     -         1527   10    0 
+pasmoi    933582639  5  2 Bc  r     brc   c         1517  140    0 Qc 6c
+pasmoi    933582667  5  1 Bc  kc    kc    kf        1377   50    0 
+pasmoi    933582694  5  5 c   c     c     c         1327   70    0 Js Ks
+pasmoi    933582718  5  4 cc  f     -     -         1257   40    0 
+pasmoi    933582749  5  3 f   -     -     -         1217    0    0 
+pasmoi    933582769  5  2 Bk  kc    k     b         1217   40   65 
+pasmoi    933582783  5  1 Bc  kf    -     -         1242   10    0 
+pasmoi    933582805  5  5 c   c     r     b         1232   90  195 Kd 9c
+pasmoi    933582834  5  4 c   cf    -     -         1337   20    0 
+pasmoi    933582862  5  3 ccc k     f     -         1317   30    0 
+pasmoi    933582896  5  2 Bk  kc    kc    kc        1287   60  145 9s As
+pasmoi    933582919  5  1 Bc  kf    -     -         1372   10    0 
+pasmoi    933582936  5  5 c   f     -     -         1362   10    0 
+pasmoi    933582961  5  4 c   k     b     b         1352   50    0 6s 7d
+pasmoi    933582984  6  3 c   k     f     -         1302   10    0 
+pasmoi    933583028  6  2 Bf  -     -     -         1292   10    0 
+pasmoi    933583055  6  1 Bc  kc    kc    b         1282   70  200 
+pasmoi    933583092  6  6 c   f     -     -         1412   20    0 
+pasmoi    933583167  6  5 c   k     b     b         1392   60  165 7h 7s
+pasmoi    933583198  6  4 f   -     -     -         1497    0    0 
+pasmoi    933583218  6  3 cc  c     c     c         1497   70  145 Ks 7s
+pasmoi    933583245  6  2 Bc  brc   bc    b         1572  120  360 Ad 4c
+pasmoi    933583315  6  1 Bf  -     -     -         1812    5    0 
+pasmoi    933583355  6  6 c   k     k     k         1807   10    0 Ts 5s
+pasmoi    933583426  6  5 f   -     -     -         1797    0    0 
+pasmoi    933583440  6  4 c   c     c     c         1797   60  125 4h 8h
+pasmoi    933583464  5  3 cc  f     -     -         1862   30    0 
+pasmoi    933583502  5  2 Bc  c     k     c         1832   50  130 Ac Ts
+pasmoi    933583528  5  1 Bf  -     -     -         1912    5    0 
+pasmoi    933583544  5  5 f   -     -     -         1907    0    0 
+pasmoi    933583558  5  4 c   k     k     f         1907   10    0 
+pasmoi    933583593  5  3 f   -     -     -         1897    0    0 
+pasmoi    933583596  5  2 Bk  k     k     b         1897   30   45 
+pasmoi    933583626  5  1 Bc  kc    kc    kc        1912   70    0 8d 8s
+pasmoi    933583675  5  5 c   c     c     k         1842   50  155 Jd Ah
+pasmoi    933583702  6  4 cc  f     -     -         1947   20    0 
+pasmoi    933583747  6  3 c   c     c     c         1927   60  165 4d Jd
+pasmoi    933583778  7  2 Bk  k     b     -         2032   30   45 
+pasmoi    933583818  8  1 BQ  -     -     -         2047    5    0 

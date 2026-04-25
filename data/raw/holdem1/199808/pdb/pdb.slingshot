@@ -1,0 +1,919 @@
+slingshot 902716201 10  8 cc  br    b     b          255  100    0 6d 2d
+slingshot 902716249 10  7 cc  kf    -     -          155   40    0 
+slingshot 902716283 10  6 cc  k     f     -          115   20    0 
+slingshot 902716320 10  5 f   -     -     -           95    0    0 
+slingshot 902716363 10  4 c   f     -     -           95   10    0 
+slingshot 902716455  9  2 Bk  kc    kf    -           85   30    0 
+slingshot 902716514  9  1 Bc  kc    kf    -           55   20    0 
+slingshot 902716552  9  9 f   -     -     -           35    0    0 
+slingshot 902716585 10  9 c   f     -     -           35   10    0 
+slingshot 902716644 10  8 c   cA    -     -           25   25    0 Qh 2h
+slingshot 902762178 10  1 Bf  -     -     -         1000    5    0 
+slingshot 902762211 10 10 cc  f     -     -          995   20    0 
+slingshot 902762276 10  9 f   -     -     -          975    0    0 
+slingshot 902762315 10  8 f   -     -     -          975    0    0 
+slingshot 902762355 10  7 cc  kf    -     -          975   20    0 
+slingshot 902762386 10  6 cc  c     c     c          955   90    0 2s Ac
+slingshot 902762425 10  5 f   -     -     -          865    0    0 
+slingshot 902762456 10  4 c   kc    kc    kc         865   70  185 Ah 5s
+slingshot 902762506 10  3 f   -     -     -          980    0    0 
+slingshot 902762558 10  2 Bk  k     kf    -          980   10    0 
+slingshot 902762592  9  1 Bf  -     -     -          970    5    0 
+slingshot 902762618 10 10 f   -     -     -          965    0    0 
+slingshot 902762654 10  9 cc  r     b     b          965   80  250 Th Qh
+slingshot 902762695 10  8 c   k     kf    -         1135   10    0 
+slingshot 902762744 10  7 f   -     -     -         1125    0    0 
+slingshot 902762765 10  6 f   -     -     -         1125    0    0 
+slingshot 902762806 10  5 c   kc    k     b         1125   40  100 
+slingshot 902762847 10  4 f   -     -     -         1185    0    0 
+slingshot 902762891 10  3 f   -     -     -         1185    0    0 
+slingshot 902762953 10  2 Bk  kc    b     b         1185   70    0 4d 5d
+slingshot 902762985  9  1 Bc  kf    -     -         1115   20    0 
+slingshot 902763026  9  9 f   -     -     -         1095    0    0 
+slingshot 902763061  9  9 cc  f     -     -         1095   20    0 
+slingshot 902763101  7  6 cc  cc    r     r         1075  150  480 9h 9c
+slingshot 902763138  8  6 cc  k     kc    k         1405   40  135 8s 7s
+slingshot 902763192  8  5 cc  k     b     b         1500   60  125 
+slingshot 902763239  7  4 c   k     b     -         1565   30   60 
+slingshot 902763274  8  3 f   -     -     -         1595    0    0 
+slingshot 902763292  8  2 Bc  kc    kc    k         1595   50  155 
+slingshot 902763342  8  1 Bf  -     -     -         1700    5    0 
+slingshot 902763387  8  8 c   f     -     -         1695   20    0 
+slingshot 902763424  7  6 c   k     c     b         1675   50  100 
+slingshot 902763511  5  4 c   f     -     -         1725   10    0 
+slingshot 902763527  5  3 f   -     -     -         1715    0    0 
+slingshot 902763549  5  2 Bc  kc    k     bc        1715   70    0 Ac Kh
+slingshot 902763592  6  1 Bc  k     b     kf        1645   40    0 
+slingshot 902763623  6  6 f   -     -     -         1605    0    0 
+slingshot 902763647  5  4 c   kc    kc    kf        1605   40    0 
+slingshot 902763680  4  3 f   Q     -     -         1565    0    0 
+slingshot 902766577  7  4 c   k     kf    -         1565   10    0 
+slingshot 902766649  7  3 c   kf    -     -         1555   10    0 
+slingshot 902766673  6  2 Bk  k     f     -         1545   10    0 
+slingshot 902766713  7  1 Bc  kf    -     -         1535   10    0 
+slingshot 902766761  7  7 c   f     -     -         1525   10    0 
+slingshot 902766821  7  6 f   -     -     -         1515    0    0 
+slingshot 902766884  7  5 cc  k     k     b         1515   50  135 4h Ad
+slingshot 902766989  5  4 c   k     b     -         1600   30   45 
+slingshot 902767015  5  2 Bk  c     k     b         1615   40   80 
+slingshot 902767057  6  1 Bc  k     b     kc        1655   50  160 8d Kd
+slingshot 902767142  6  6 c   k     k     k         1765   10    0 4c Kc
+slingshot 902767187  6  5 c   b     b     k         1755   40  140 Jc Ah
+slingshot 902767248  6  4 f   -     -     -         1855    0    0 
+slingshot 902767290  6  3 f   -     -     -         1855    0    0 
+slingshot 902767318  6  2 Bk  kf    -     -         1855   10    0 
+slingshot 902767380  6  1 Bcc kc    b     -         1845   50   80 
+slingshot 902767423  6  6 f   -     -     -         1875    0    0 
+slingshot 902767470  6  5 c   k     k     k         1875   10   30 Th As
+slingshot 902767496  6  4 cc  f     -     -         1895   20    0 
+slingshot 902767532  6  3 f   -     -     -         1875    0    0 
+slingshot 902767567  6  2 Bk  k     k     k         1875   10    0 4d 2c
+slingshot 902767599  6  1 Bf  -     -     -         1865    5    0 
+slingshot 902767655  6  6 f   -     -     -         1860    0    0 
+slingshot 902767715  6  5 c   b     b     b         1860   60  130 Ad 9h
+slingshot 902767745  6  4 f   -     -     -         1930    0    0 
+slingshot 902767773  6  3 f   -     -     -         1930    0    0 
+slingshot 902767797  6  2 Bc  kf    -     -         1930   20    0 
+slingshot 902767840  7  1 Bf  -     -     -         1910    5    0 
+slingshot 902767891  7  7 f   -     -     -         1905    0    0 
+slingshot 902767945  7  6 cc  r     b     kf        1905   60    0 
+slingshot 902768004  6  6 c   k     k     k         1845   10   11 4c 5c
+slingshot 902768116  5  3 f   -     -     -         1846    0    0 
+slingshot 902768148  6  2 Bcc kf    -     -         1846   40    0 
+slingshot 902768193  8  1 Bc  kf    -     -         1806   10    0 
+slingshot 902768247  8  8 c   k     f     -         1796   10    0 
+slingshot 902768331  8  7 f   -     -     -         1786    0    0 
+slingshot 902768376  8  6 c   c     c     f         1786   50    0 
+slingshot 902768404  9  6 cc  f     -     -         1736   20    0 
+slingshot 902768461  8  4 f   -     -     -         1716    0    0 
+slingshot 902768490  8  3 f   -     -     -         1716    0    0 
+slingshot 902768546  7  2 Bc  kf    -     -         1716   30    0 
+slingshot 902768578  7  1 Bc  kc    b     b         1686   60  130 9c 5c
+slingshot 902768617  8  8 c   c     c     f         1756   40    0 
+slingshot 902768654  7  6 c   c     c     k         1716   50    0 7c Ah
+slingshot 902768685  7  6 f   -     -     -         1666    0    0 
+slingshot 902768711  7  5 f   -     -     -         1666    0    0 
+slingshot 902768723  7  4 cc  f     -     -         1666   20    0 
+slingshot 902768792  7  2 Bk  k     kf    -         1646   10    0 
+slingshot 902768824  7  1 Bf  -     -     -         1636    5    0 
+slingshot 902768845  7  7 c   b     -     -         1631   30   95 
+slingshot 902768870  7  6 c   k     k     k         1696   10   17 8s Ad
+slingshot 902768891  7  5 cc  r     r     r         1703  120  260 5d 5c
+slingshot 902768928  7  4 f   -     -     -         1843    0    0 
+slingshot 902768949  7  3 f   -     -     -         1843    0    0 
+slingshot 902769005  7  2 Bk  br    br    b         1843  120  250 9h 6h
+slingshot 902769047  7  1 Bf  -     -     -         1973    5    0 
+slingshot 902769080  6  6 f   -     -     -         1968    0    0 
+slingshot 902769108  6  5 cc  f     -     -         1968   30    0 
+slingshot 902769153  5  4 f   -     -     -         1938    0    0 
+slingshot 902769162  5  3 c   kf    -     -         1938   10    0 
+slingshot 902769247  4  2 BQ  -     -     -         1928   10    0 
+slingshot 902804015  6  3 cc  kf    -     -         1918   20    0 
+slingshot 902804048  6  2 Bc  c     f     -         1898   30    0 
+slingshot 902804076  6  1 Bc  kc    kc    k         1868   50    0 6d Td
+slingshot 902804124  7  7 c   f     -     -         1818   10    0 
+slingshot 902804186  7  6 f   -     -     -         1808    0    0 
+slingshot 902804210  7  5 c   c     f     -         1808   20    0 
+slingshot 902804265  6  3 f   -     -     -         1788    0    0 
+slingshot 902804294  6  3 cc  f     -     -         1788   20    0 
+slingshot 902804318  6  2 Bc  kf    -     -         1768   20    0 
+slingshot 902804335  6  1 Bf  -     -     -         1748    5    0 
+slingshot 902804366  6  6 f   -     -     -         1743    0    0 
+slingshot 902804385  6  5 c   f     -     -         1743   10    0 
+slingshot 902804414  6  4 f   -     -     -         1733    0    0 
+slingshot 902804454  7  3 f   -     -     -         1733    0    0 
+slingshot 902804489  7  2 Bk  kf    -     -         1733   10    0 
+slingshot 902804526  7  1 Bc  kf    -     -         1723   10    0 
+slingshot 902804562  7  7 f   -     -     -         1713    0    0 
+slingshot 902804602  7  6 cc  b     b     rc        1713  110    0 Td 2d
+slingshot 902804642  7  5 f   -     -     -         1603    0    0 
+slingshot 902804668  8  5 c   f     -     -         1603   10    0 
+slingshot 902804696  8  4 c   f     -     -         1593   10    0 
+slingshot 902804742  8  3 f   -     -     -         1583    0    0 
+slingshot 902804784  8  2 Bf  -     -     -         1583   10    0 
+slingshot 902804808  8  1 Bf  -     -     -         1573    5    0 
+slingshot 902804877  8  8 f   -     -     -         1568    0    0 
+slingshot 902804908  8  7 f   -     -     -         1568    0    0 
+slingshot 902804939  8  6 f   -     -     -         1568    0    0 
+slingshot 902804973  8  5 f   -     -     -         1568    0    0 
+slingshot 902805046  8  4 ccc c     c     rc        1568  130    0 Jh Ac
+slingshot 902805094  8  4 f   -     -     -         1438    0    0 
+slingshot 902805138  6  1 Bc  kf    -     -         1438   20    0 
+slingshot 902805161  6  1 Bf  -     -     -         1418    5    0 
+slingshot 902805222  6  6 c   f     -     -         1413   10    0 
+slingshot 902805269  6  5 c   c     f     -         1403   30    0 
+slingshot 902805300  6  4 f   -     -     -         1373    0    0 
+slingshot 902805335  6  3 c   b     r     b         1373   80  190 5d 5h
+slingshot 902805371  6  2 Bc  f     -     -         1483   20    0 
+slingshot 902805411  6  1 Bc  k     kf    -         1463   10    0 
+slingshot 902805455  6  6 f   -     -     -         1453    0    0 
+slingshot 902805497  6  5 f   -     -     -         1453    0    0 
+slingshot 902805536  5  4 f   -     -     -         1453    0    0 
+slingshot 902805592  5  3 cc  c     cc    kc        1453   90  255 Th As
+slingshot 902805635  5  2 Bf  -     -     -         1618   10    0 
+slingshot 902805672  5  1 Bc  kc    kc    kf        1608   60    0 
+slingshot 902805712  5  5 f   -     -     -         1548    0    0 
+slingshot 902805722  5  4 f   -     -     -         1548    0    0 
+slingshot 902805739  5  3 f   -     -     -         1548    0    0 
+slingshot 902805750  5  2 Bc  kf    -     -         1548   20    0 
+slingshot 902805788  5  1 Bf  -     -     -         1528    5    0 
+slingshot 902805824  5  5 f   -     -     -         1523    0    0 
+slingshot 902805875  5  4 cc  c     br    rc        1523  190    0 5s 5h
+slingshot 902805946  6  4 f   -     -     -         1333    0    0 
+slingshot 902805997  6  3 cc  cc    kc    kf        1333   60    0 
+slingshot 902806051  6  2 Bk  kf    -     -         1273   10    0 
+slingshot 902806107  7  1 Bc  kf    -     -         1263   20    0 
+slingshot 902806148  7  7 c   f     -     -         1243   10    0 
+slingshot 902806176  7  6 c   c     r     r         1233  110  265 Ah 9d
+slingshot 902806212  6  5 f   -     -     -         1388    0    0 
+slingshot 902806253  6  4 c   c     bc    c         1388   90    0 2h Th
+slingshot 902806304  6  3 cc  kc    kf    -         1298   30    0 
+slingshot 902806364  6  2 Bf  -     -     -         1268   10    0 
+slingshot 902806413  7  1 Bf  -     -     -         1258    5    0 
+slingshot 902806449  7  7 f   -     -     -         1253    0    0 
+slingshot 902806483  7  6 f   -     -     -         1253    0    0 
+slingshot 902806514  7  5 cc  c     c     cc        1253   90    0 Ad 3c
+slingshot 902806552  7  4 cc  fQ    -     -         1163   20    0 
+slingshot 902846727  8  1 Bk  kc    kc    bc        1143  100    0 3h 4h
+slingshot 902846782  8  1 Bc  k     kf    -         1043   20    0 
+slingshot 902846836  9  9 c   r     b     b         1023   80  255 Qc As
+slingshot 902846895  7  6 f   -     -     -         1198    0    0 
+slingshot 902846922  6  4 f   -     -     -         1198    0    0 
+slingshot 902846960  7  3 f   -     -     -         1198    0    0 
+slingshot 902846981  6  2 Bk  kf    -     -         1198   10    0 
+slingshot 902847012  6  1 Bf  -     -     -         1188    5    0 
+slingshot 902847031  6  6 c   f     -     -         1183   20    0 
+slingshot 902847060  6  5 c   k     b     k         1163   30    0 Ts 7s
+slingshot 902847081  6  4 f   -     -     -         1133    0    0 
+slingshot 902847088  6  3 f   -     -     -         1133    0    0 
+slingshot 902847111  6  2 Bc  k     b     kf        1133   40    0 
+slingshot 902847143  6  1 Bcc kc    kc    bc        1093   90    0 Ah 8h
+slingshot 902847175  6  6 c   k     f     -         1003   10    0 
+slingshot 902847200  6  5 f   -     -     -          993    0    0 
+slingshot 902847208  7  5 f   -     -     -          993    0    0 
+slingshot 902847252  7  4 cc  kf    -     -          993   20    0 
+slingshot 902847278  7  3 f   -     -     -          973    0    0 
+slingshot 902847321  8  2 Bk  kc    kf    -          973   20    0 
+slingshot 902847353  8  1 Bf  -     -     -          953    5    0 
+slingshot 902847377  8  8 f   -     -     -          948    0    0 
+slingshot 902847404  8  7 f   -     -     -          948    0    0 
+slingshot 902847431  8  6 f   -     -     -          948    0    0 
+slingshot 902847461  8  5 f   -     -     -          948    0    0 
+slingshot 902847488  8  4 f   -     -     -          948    0    0 
+slingshot 902847517  8  3 f   -     -     -          948    0    0 
+slingshot 902847540  8  2 Bf  -     -     -          948   10    0 
+slingshot 902847553  8  1 Bc  k     kf    -          938   20    0 
+slingshot 902847595  8  8 c   r     c     f          918   60    0 
+slingshot 902847637  8  7 c   f     -     -          858   10    0 
+slingshot 902847666  8  6 f   -     -     -          848    0    0 
+slingshot 902847702  8  5 f   -     -     -          848    0    0 
+slingshot 902847726  8  4 c   k     b     -          848   30   50 
+slingshot 902847743  8  3 c   f     -     -          868   10    0 
+slingshot 902847793  8  2 Bc  kc    kc    k          858   50    0 9s Js
+slingshot 902847821  8  1 Bc  kc    kc    kf         808   40    0 
+slingshot 902847859  8  8 f   -     -     -          768    0    0 
+slingshot 902847916  8  7 c   k     b     b          768   50  100 
+slingshot 902847955  8  6 r   b     b     -          818   50  100 
+slingshot 902847983  9  6 f   -     -     -          868    0    0 
+slingshot 902848001  9  5 f   -     -     -          868    0    0 
+slingshot 902848039  9  4 f   -     -     -          868    0    0 
+slingshot 902848086 10  3 f   -     -     -          868    0    0 
+slingshot 902848163 10  2 Bf  -     -     -          868   10    0 
+slingshot 902848214 10  1 Bf  -     -     -          858    5    0 
+slingshot 902848277 10 10 c   k     k     f          853   10    0 
+slingshot 902848317 10  9 c   f     -     -          843   10    0 
+slingshot 902848356 10  8 c   rc    c     f          833   80    0 
+slingshot 902848411 10  7 f   -     -     -          753    0    0 
+slingshot 902848436 10  6 c   cf    -     -          753   20    0 
+slingshot 902848512 10  5 c   k     k     b          733   30   55 
+slingshot 902848547 10  4 cc  k     k     k          758   20    0 4c 7c
+slingshot 902848617 10  3 f   -     -     -          738    0    0 
+slingshot 902848682 10  2 Bc  f     -     -          738   20    0 
+slingshot 902848743 10  1 Bc  kc    kc    kf         718   40    0 
+slingshot 902848816 10 10 f   -     -     -          678    0    0 
+slingshot 902848855 10  9 f   -     -     -          678    0    0 
+slingshot 902848893 10  8 f   -     -     -          678    0    0 
+slingshot 902848934 10  7 f   -     -     -          678    0    0 
+slingshot 902848975 10  6 f   -     -     -          678    0    0 
+slingshot 902848999 10  5 c   c     c     kf         678   40    0 
+slingshot 902849045 10  4 f   Q     -     -          638    0    0 
+slingshot 902936742  7  7 f   -     -     -          343    0    0 
+slingshot 902936781  7  6 c   f     -     -          343   10    0 
+slingshot 902936826  8  5 c   kc    b     -          333   40   90 
+slingshot 902936915  8  4 cc  kc    b     rc         383  110    0 9s Qs
+slingshot 902936983  9  3 cc  c     f     -          273   30    0 
+slingshot 902937035 10  2 Bk  kf    -     -          243   10    0 
+slingshot 902937096 10  1 Bc  kf    -     -          233   20    0 
+slingshot 902937173 10 10 f   -     -     -          213    0    0 
+slingshot 902937213 10  9 f   -     -     -          213    0    0 
+slingshot 902937246 10  8 f   -     -     -          213    0    0 
+slingshot 902937312 10  7 r   r     b     b          213   80  265 Ad Ah
+slingshot 902937369 10  6 f   -     -     -          398    0    0 
+slingshot 902937426 10  5 f   -     -     -          398    0    0 
+slingshot 902937459 10  4 f   -     -     -          398    0    0 
+slingshot 902937529 10  3 cc  k     kc    kf         398   40    0 
+slingshot 902937704  8  1 Bc  kf    -     -          358   20    0 
+slingshot 902937764  8  1 Bf  -     -     Q          338    5    0 
+slingshot 902976330  5  5 cc  k     b     -          333   40   90 
+slingshot 902976357  5  4 cc  k     f     -          383   20    0 
+slingshot 902976408  7  3 f   -     -     -          363    0    0 
+slingshot 902976487  7  2 Bk  k     kf    -          363   10    0 
+slingshot 902976534  7  1 Bc  k     k     k          353   20    0 2c 2h
+slingshot 902976565  7  7 f   -     -     -          333    0    0 
+slingshot 902976604  6  5 f   -     -     -          333    0    0 
+slingshot 902976627  6  4 f   -     -     -          333    0    0 
+slingshot 902976665  6  3 f   -     -     -          333    0    0 
+slingshot 902976705  6  2 Bc  kf    -     -          333   20    0 
+slingshot 902976747  6  1 Bc  kc    kf    -          313   20    0 
+slingshot 902976774  6  6 c   f     -     -          293   10    0 
+slingshot 902976788  6  5 c   cc    c     c          283   80  170 Qs Kc
+slingshot 902976820  6  4 r   -     -     -          373   20   35 
+slingshot 902976838  6  3 c   k     rc    c          388   90    0 5h 7c
+slingshot 902976873  6  2 Bc  kc    kf    -          298   40    0 
+slingshot 902976904  6  1 Bf  -     -     -          258    5    0 
+slingshot 902976939  6  6 c   f     -     -          253   20    0 
+slingshot 902976977  7  6 f   -     -     -          233    0    0 
+slingshot 902977002  7  5 f   -     -     -          233    0    0 
+slingshot 902977057  8  5 f   -     -     -          233    0    0 
+slingshot 902977096  8  4 f   -     -     -          233    0    0 
+slingshot 902977121  8  4 c   k     k     f          233   10    0 
+slingshot 902977160  9  3 c   cc    kc    kf         223   50    0 
+slingshot 902977267  9  2 Bf  -     -     -          173   10    0 
+slingshot 902977327  9  1 Bf  -     -     -          163    5    0 
+slingshot 902977389  8  8 c   r     r     b          158   90  190 
+slingshot 902977414  7  6 c   f     -     -          258   10    0 
+slingshot 902977467  7  5 cc  r     b     k          248   60  240 Ad Th
+slingshot 902977513  9  5 f   -     -     -          428    0    0 
+slingshot 902977573 10  5 cc  ccc   bc    b          428  120  585 2d Ad
+slingshot 902977664 10  4 f   -     -     -          893    0    0 
+slingshot 902977719 10  3 f   -     -     -          893    0    0 
+slingshot 902977794  9  2 Bc  b     b     k          893   50    0 7s 6s
+slingshot 902977846  9  1 Bf  -     -     -          843    5    0 
+slingshot 902977911 10 10 f   -     -     -          838    0    0 
+slingshot 902977994 10  9 f   -     -     -          838    0    0 
+slingshot 902978056 10  8 f   -     -     -          838    0    0 
+slingshot 902978119 10  7 cc  kf    -     -          838   20    0 
+slingshot 902978262 10  6 cc  f     -     -          818   20    0 
+slingshot 902978355 10  5 f   -     -     -          798    0    0 
+slingshot 902978439 10  4 ccc k     k     f          798   40    0 
+slingshot 902978512 10  3 f   -     -     -          758    0    0 
+slingshot 902978611 10  2 Bf  -     -     -          758   10    0 
+slingshot 902978648  8  1 Bc  kf    -     -          748   20    0 
+slingshot 902978692  8  8 f   -     -     -          728    0    0 
+slingshot 902978706  8  7 cc  c     c     c          728   70  290 9s Ks
+slingshot 902978759  9  8 c   f     -     -          948   20    0 
+slingshot 902978826  8  6 f   -     -     -          928    0    0 
+slingshot 902978862  9  5 ccc cc    c     c          928  120    0 Ad Ac
+slingshot 902978910  9  4 cc  kf    -     -          808   20    0 
+slingshot 902978939  8  3 f   -     -     -          788    0    0 
+slingshot 902979010  8  2 Bf  -     -     -          788   10    0 
+slingshot 902979071  8  1 Bf  -     -     -          778    5    0 
+slingshot 902979108  8  8 cc  c     cc    k          773   80    0 Qd Qc
+slingshot 902979165  9  7 f   -     -     -          693    0    0 
+slingshot 902979216  9  6 cc  kcc   kc    kc         693  120    0 9s 9c
+slingshot 902979282  8  4 c   c     c     r          573   80    0 Qc Ac
+slingshot 902979327  8  4 f   -     -     -          493    0    0 
+slingshot 902979379  8  3 f   -     -     -          493    0    0 
+slingshot 902979417  9  2 Bc  brc   kc    kf         493  100    0 
+slingshot 902979462  9  1 Bf  -     -     -          393    5    0 
+slingshot 902979530  9  9 f   -     -     -          388    0    0 
+slingshot 902979583 10  9 f   -     -     -          388    0    0 
+slingshot 902979617 10  8 f   -     -     -          388    0    0 
+slingshot 902979734  8  6 f   -     -     -          388    0    0 
+slingshot 902979789  9  5 f   -     -     -          388    0    0 
+slingshot 902979825  9  4 f   -     -     -          388    0    0 
+slingshot 902979887  9  3 ccc kf    Q     -          388   40    0 
+slingshot 903064753  8  7 cc  kf    -     -          718   40    0 
+slingshot 903064888  6  4 f   -     -     -          678    0    0 
+slingshot 903064963  6  4 ccc b     c     rc         678  150    0 5c 7c
+slingshot 903065031  6  3 f   -     -     -          528    0    0 
+slingshot 903065110  8  2 Bk  k     k     k          528   10   35 Tc 8s
+slingshot 903065196  8  1 Bf  -     -     -          553    5    0 
+slingshot 903065249  8  8 f   -     -     -          548    0    0 
+slingshot 903065320  8  7 f   -     -     -          548    0    0 
+slingshot 903065363  8  6 f   -     -     -          548    0    0 
+slingshot 903065402  8  5 f   -     -     -          548    0    0 
+slingshot 903065470  9  4 f   -     -     -          548    0    0 
+slingshot 903065507  9  3 cc  b     b     r          548   90  210 8s 6s
+slingshot 903065614  9  2 Bc  k     k     kfQ        668   30    0 
+slingshot 903147342 10  6 cc  f     -     -         1000   20    0 
+slingshot 903147393 10  5 cc  kc    cc    f          980   90    0 
+slingshot 903147482  9  4 f   -     -     -          890    0    0 
+slingshot 903147546  8  3 f   -     -     -          890    0    0 
+slingshot 903147628  7  2 Bk  k     kf    -          890   10    0 
+slingshot 903147693  7  1 Bf  -     -     -          880    5    0 
+slingshot 903147760  7  7 f   -     -     -          875    0    0 
+slingshot 903147798  8  7 f   -     -     -          875    0    0 
+slingshot 903147858 10  6 f   -     -     -          875    0    0 
+slingshot 903147899 10  5 f   -     -     -          875    0    0 
+slingshot 903147949 10  4 f   -     -     -          875    0    0 
+slingshot 903148041 10  3 f   -     -     -          875    0    0 
+slingshot 903148119 10  2 Bf  -     -     -          875   10    0 
+slingshot 903148174 10  1 Bf  -     -     -          865    5    0 
+slingshot 903148204 10 10 c   k     r     b          860   80  255 Ks Kh
+slingshot 903148269 10  9 cc  f     -     -         1035   20    0 
+slingshot 903148312 10  8 c   c     f     -         1015   20    0 
+slingshot 903148376 10  7 cc  f     -     -          995   20    0 
+slingshot 903148481 10  6 f   -     -     -          975    0    0 
+slingshot 903148566 10  5 f   -     -     -          975    0    0 
+slingshot 903148645 10  4 c   c     cc    kf         975   80    0 
+slingshot 903148731 10  3 f   -     -     -          895    0    0 
+slingshot 903148785 10  2 Bf  -     -     -          895   10    0 
+slingshot 903148835 10  1 Bf  -     -     -          885    5    0 
+slingshot 903148885  9  9 c   k     f     -          880   10    0 
+slingshot 903148916  9  8 c   k     f     -          870   10    0 
+slingshot 903148964  9  7 c   f     -     -          860   10    0 
+slingshot 903149008  9  6 f   -     -     -          850    0    0 
+slingshot 903149050  9  5 f   -     -     -          850    0    0 
+slingshot 903149144 10  5 f   -     -     -          850    0    0 
+slingshot 903149222 10  4 cc  k     k     k          850   20    0 7d Kc
+slingshot 903149264 10  3 cc  kc    kf    -          830   30    0 
+slingshot 903149300 10  2 Bf  -     -     -          800   10    0 
+slingshot 903149364 10  1 Bf  -     -     -          790    5    0 
+slingshot 903149443 10 10 c   k     f     -          785   10    0 
+slingshot 903149508 10  9 f   -     -     -          775    0    0 
+slingshot 903149581 10  8 c   k     k     k          775   10    0 Td Kc
+slingshot 903149665 10  7 c   k     kf    -          765   10    0 
+slingshot 903149706 10  6 f   -     -     -          755    0    0 
+slingshot 903149759 10  5 cc  f     -     -          755   20    0 
+slingshot 903149816 10  4 cc  k     k     k          735   20    0 2d 2s
+slingshot 903149851 10  3 f   -     -     -          715    0    0 
+slingshot 903149877 10  2 Bc  k     k     k          715   20    0 Kc 9d
+slingshot 903149923 10  1 Bf  -     -     -          695    5    0 
+slingshot 903149985 10 10 f   -     -     -          690    0    0 
+slingshot 903150099  9  8 f   -     -     -          690    0    0 
+slingshot 903150177  9  7 c   k     f     -          690   10    0 
+slingshot 903150211  9  6 c   k     k     k          680   10    0 6c 2c
+slingshot 903150265  9  5 f   -     -     -          670    0    0 
+slingshot 903150337 10  5 f   -     -     -          670    0    0 
+slingshot 903150404 10  4 cc  f     -     -          670   30    0 
+slingshot 903150468 10  3 f   -     -     -          640    0    0 
+slingshot 903150543 10  2 Bk  kc    kf    -          640   20    0 
+slingshot 903150598 10  1 Bf  -     -     -          620    5    0 
+slingshot 903150657  9  9 f   -     -     -          615    0    0 
+slingshot 903150705 10  9 c   c     c     f          615   40    0 
+slingshot 903150787 10  3 Q   -     -     -          575    0    0 
+slingshot 903192406  9  8 cc  ccc   f     -          575   80    0 
+slingshot 903192484 10  8 f   -     -     -          495    0    0 
+slingshot 903192541 10  7 f   -     -     -          495    0    0 
+slingshot 903192615 10  6 f   -     -     -          495    0    0 
+slingshot 903192693  9  4 f   -     -     -          495    0    0 
+slingshot 903192723 10  4 f   -     -     -          495    0    0 
+slingshot 903192758 10  3 f   -     -     -          495    0    0 
+slingshot 903192790  9  1 Bf  -     -     -          495   10    0 
+slingshot 903192870 10  1 Bf  -     -     -          485    5    0 
+slingshot 903192930 10 10 f   -     -     -          480    0    0 
+slingshot 903192986  9  8 f   -     -     -          480    0    0 
+slingshot 903193067 10  8 f   -     -     -          480    0    0 
+slingshot 903193116 10  7 cc  kf    -     -          480   20    0 
+slingshot 903193183  9  5 f   -     -     -          460    0    0 
+slingshot 903193234 10  5 cc  rr    rr    brc        460  220    0 Ac Js
+slingshot 903193306 10  4 cc  kc    kc    brc        240  130  315 5h 4h
+slingshot 903193346  9  2 Bf  -     -     -          425   10    0 
+slingshot 903193437 10  1 Bf  -     -     -          415    5    0 
+slingshot 903193490 10 10 f   -     -     -          410    0    0 
+slingshot 903193582  9  8 cc  brc   brc   brc        410  220  670 Ah 2d
+slingshot 903193645 10  8 cc  kf    -     -          860   30    0 
+slingshot 903193697 10  7 c   f     -     -          830   10    0 
+slingshot 903193740  9  5 f   -     -     -          820    0    0 
+slingshot 903193794 10  5 c   kc    b     b          820   70  310 9h 5h
+slingshot 903193861 10  4 f   -     -     -         1060    0    0 
+slingshot 903193935  9  2 Bk  rc    c     r         1060  100  220 Jc 3c
+slingshot 903193984  9  1 Bf  -     -     -         1180    5    0 
+slingshot 903194025  9  9 f   -     -     -         1175    0    0 
+slingshot 903194063  9  8 f   -     -     -         1175    0    0 
+slingshot 903194121  9  7 c   k     k     k         1175   10    0 Kc Jh
+slingshot 903194159  9  6 f   -     -     -         1165    0    0 
+slingshot 903194187  9  5 c   k     r     -         1165   50  100 
+slingshot 903194225  9  4 f   -     -     -         1215    0    0 
+slingshot 903194283  9  3 f   -     -     -         1215    0    0 
+slingshot 903194329  9  2 Bc  kf    -     -         1215   20    0 
+slingshot 903194373  9  1 Bc  br    b     b         1195   90    0 8s 8h
+slingshot 903194432  9  9 c   k     f     -         1105   10    0 
+slingshot 903194474  8  7 cc  f     -     -         1095   20    0 
+slingshot 903194506  8  6 f   -     -     -         1075    0    0 
+slingshot 903194542  8  5 f   -     -     -         1075    0    0 
+slingshot 903194570  8  4 f   -     -     -         1075    0    0 
+slingshot 903194590  8  3 f   -     -     -         1075    0    0 
+slingshot 903194606  9  2 Bk  kc    k     kc        1075   40    0 Jc Th
+slingshot 903194647 10  1 Bc  kfQ   -     -         1035   10    0 
+slingshot 903234551  9  8 f   -     -     -         1025    0    0 
+slingshot 903234599  9  7 f   -     -     -         1025    0    0 
+slingshot 903234680  9  6 f   -     -     -         1025    0    0 
+slingshot 903234779 10  6 c   r     k     k         1025   30    0 Ts 7s
+slingshot 903234843 10  5 c   c     c     k          995   40    0 3s 9s
+slingshot 903234922 10  4 f   -     -     -          955    0    0 
+slingshot 903234958 10  3 f   -     -     -          955    0    0 
+slingshot 903235025  9  2 Bk  kf    -     -          955   10    0 
+slingshot 903235078  9  1 Bf  -     -     -          945    5    0 
+slingshot 903235158 10 10 c   k     bc    c          940  100    0 2d 2s
+slingshot 903235232 10  9 c   b     k     k          840   30    0 Tc Jc
+slingshot 903235272 10  8 f   -     -     -          810    0    0 
+slingshot 903235323 10  7 f   -     -     -          810    0    0 
+slingshot 903235432 10  6 f   -     -     -          810    0    0 
+slingshot 903235515 10  5 f   -     -     -          810    0    0 
+slingshot 903235566 10  4 c   cc    b     b          810   70  210 4d 5d
+slingshot 903235655 10  3 c   kf    -     -          950   10    0 
+slingshot 903235763 10  2 Bk  k     k     k          940   10    0 Th 7d
+slingshot 903235814  9  1 Bcc br    b     b          930   90    0 2s 2d
+slingshot 903235876  9  9 f   -     -     -          840    0    0 
+slingshot 903235921  8  8 f   -     -     -          840    0    0 
+slingshot 903235996  8  7 c   c     c     f          840   50    0 
+slingshot 903236081  8  6 f   -     -     -          790    0    0 
+slingshot 903236148  7  5 f   -     -     -          790    0    0 
+slingshot 903236161  7  4 cc  kf    -     -          790   20    0 
+slingshot 903236206  7  3 cc  c     r     r          770  110  270 9h 4h
+slingshot 903236255  7  2 B   -     -     -          930   10   15 
+slingshot 903236266  7  1 Bf  -     -     -          935    5    0 
+slingshot 903236304  6  6 c   c     f     -          930   20    0 
+slingshot 903236333  6  5 f   -     -     -          910    0    0 
+slingshot 903236340  6  4 cc  c     c     f          910   50    0 
+slingshot 903236365  5  2 Bf  -     -     -          860   10    0 
+slingshot 903236372  5  1 Bc  b     b     b          850   70  150 Kh As
+slingshot 903236388  4  4 f   -     -     -          930    0    0 
+slingshot 903236393  4  4 f   -     -     -          930    0    0 
+slingshot 903321156  5  3 c   f     -     -         1015   10    0 
+slingshot 903321182  5  2 Bf  -     -     -         1005   10    0 
+slingshot 903321204  5  1 Bf  -     -     -          995    5    0 
+slingshot 903321227  5  5 f   -     -     -          990    0    0 
+slingshot 903321271  5  4 f   -     -     -          990    0    0 
+slingshot 903321292  5  3 f   -     -     -          990    0    0 
+slingshot 903321310  5  2 Br  b     brc   kc         990  130    0 Jh Jd
+slingshot 903321371  4  1 BfQ -     -     -          860    5    0 
+slingshot 903387145  9  9 f   -     -     -          450    0    0 
+slingshot 903387194  6  5 f   -     -     -          450    0    0 
+slingshot 903387238  6  5 ccc kc    kr    k          450   80  200 8h Kh
+slingshot 903387283  7  5 c   k     rc    c          570   90    0 7s 7d
+slingshot 903387383  9  5 c   c     c     bc         480   90    0 Kd 6d
+slingshot 903387432  9  4 f   -     -     -          390    0    0 
+slingshot 903387566  8  3 f   -     -     -          390    0    0 
+slingshot 903387649  7  2 Bc  c     f     -          390   30    0 
+slingshot 903387698  8  1 Bf  -     -     -          360    5    0 
+slingshot 903387807  9  9 c   k     k     k          355   10    0 4s 9s
+slingshot 903387885  5  5 f   -     Q     -          345    0    0 
+slingshot 903407339 10 10 f   -     -     -          345    0    0 
+slingshot 903407391 10  9 c   c     rc    rc         345  180    0 7c Kc
+slingshot 903407465  9  7 c   k     c     k          165   30    0 As 7h
+slingshot 903407522 10  7 f   -     -     -          135    0    0 
+slingshot 903407625  9  6 c   b     b     b          135   60  185 
+slingshot 903407673 10  5 f   -     -     -          260    0    0 
+slingshot 903407730 10  4 c   kc    kc    k          260   40    0 Th As
+slingshot 903407841  9  3 f   -     -     -          220    0    0 
+slingshot 903407919 10  2 Bk  kc    k     b          220   40    0 4d Ad
+slingshot 903407981 10  1 Bc  kc    kc    kf         180   50    0 
+slingshot 903408031  9  9 f   -     -     -          130    0    0 
+slingshot 903408057 10  9 f   -     -     -          130    0    0 
+slingshot 903408161 10  8 f   -     -     -          130    0    0 
+slingshot 903408194 10  7 c   f     -     -          130   20    0 
+slingshot 903408209 10  6 f   -     -     -          110    0    0 
+slingshot 903408239 10  5 f   -     -     -          110    0    0 
+slingshot 903408288 10  4 c   kc    b     k          110   40  125 7c 8c
+slingshot 903408344  9  3 f   -     -     -          195    0    0 
+slingshot 903408355 10  2 Bk  c     c     c          195   60    0 6c 7s
+slingshot 903408393 10  1 Bc  k     br    b          135  100  320 Ad 5s
+slingshot 903408431  9  9 c   k     k     r          355   50  130 3d Jd
+slingshot 903408486 10  9 f   -     -     -          435    0    0 
+slingshot 903408505 10  8 f   -     -     -          435    0    0 
+slingshot 903408534  9  7 c   r     r     b          435   90  195 Td 7d
+slingshot 903408562 10  6 ccc kc    k     b          540   70    0 3s 3d
+slingshot 903408612 10  5 c   k     f     -          470   10    0 
+slingshot 903408632  8  3 cc  kc    rc    k          460   90  120 Ah 2h
+slingshot 903408685  9  3 c   bc    k     k          490   30   85 Ts Ac
+slingshot 903408718  9  2 Bk  kf    -     -          545   10    0 
+slingshot 903408743  9  1 Bf  -     -     -          535    5    0 
+slingshot 903408769  9  9 f   -     -     -          530    0    0 
+slingshot 903408795  9  8 f   -     -     -          530    0    0 
+slingshot 903408847  9  7 f   -     -     -          530    0    0 
+slingshot 903408876  9  6 f   -     -     -          530    0    0 
+slingshot 903408897  9  5 f   -     -     -          530    0    0 
+slingshot 903408925  9  4 f   -     -     -          530    0    0 
+slingshot 903409002  9  3 f   -     -     -          530    0    0 
+slingshot 903409040  9  2 Bk  k     k     k          530   10    0 8c 7s
+slingshot 903409062  9  1 Bc  kf    -     -          520   20    0 
+slingshot 903409111  9  9 c   f     -     -          500   20    0 
+slingshot 903409150 10  8 f   -     -     -          480    0    0 
+slingshot 903409195  9  6 c   k     b     b          480   50  115 Qh 5h
+slingshot 903409239  9  5 c   f     -     -          545   20    0 
+slingshot 903409257  9  4 f   -     -     -          525    0    0 
+slingshot 903409268  9  3 ccc bc    k     kf         525   60    0 
+slingshot 903409312 10  2 Bc  k     k     kf         465   20    0 
+slingshot 903409363 10  1 Bf  -     -     -          445    5    0 
+slingshot 903409402  9  9 c   c     b     k          440   50    0 8h Th
+slingshot 903409442 10  9 c   f     -     -          390   20    0 
+slingshot 903409476 10  8 f   -     -     -          370    0    0 
+slingshot 903409509  9  6 f   -     -     -          370    0    0 
+slingshot 903409541 10  6 f   -     -     -          370    0    0 
+slingshot 903409564 10  5 c   k     b     rc         370   90    0 Kc 3c
+slingshot 903409614  9  3 cc  kf    -     -          280   20    0 
+slingshot 903409682 10  3 c   kf    -     -          260   10    0 
+slingshot 903409717 10  2 Bc  b     b     b          250   70  215 8s Ks
+slingshot 903409759  9  1 Bf  -     -     -          395    5    0 
+slingshot 903409783 10 10 f   -     -     -          390    0    0 
+slingshot 903409810 10  9 f   -     -     -          390    0    0 
+slingshot 903409829  9  7 c   k     k     bc         390   50    0 9s Ah
+slingshot 903409863  9  6 c   k     b     -          340   30   60 
+slingshot 903409886  9  5 c   k     k     f          370   10    0 
+slingshot 903409924  9  4 f   -     -     -          360    0    0 
+slingshot 903409952 10  3 c   kc    kc    k          360   40  120 Qh 3h
+slingshot 903410016 10  2 Bc  kf    -     -          440   20    0 
+slingshot 903410046  9  1 Bf  -     -     -          420    5    0 
+slingshot 903410075 10 10 f   -     -     -          415    0    0 
+slingshot 903410100 10  9 f   -     -     -          415    0    0 
+slingshot 903410134 10  8 f   -     -     -          415    0    0 
+slingshot 903410151 10  7 f   -     -     -          415    0    0 
+slingshot 903410218 10  6 f   -     -     -          415    0    0 
+slingshot 903410262  9  4 f   -     -     -          415    0    0 
+slingshot 903410291 10  4 f   -     -     -          415    0    0 
+slingshot 903410333 10  3 f   -     -     -          415    0    0 
+slingshot 903410365 10  2 Bk  k     k     k          415   10   25 Kh As
+slingshot 903410388  9  1 Bc  k     k     k          430   20    0 8d 9d
+slingshot 903410421 10 10 c   cc    c     c          410   90  142 Ks As
+slingshot 903410468 10  9 c   c     k     c          462   40  125 Ad 2s
+slingshot 903410493  9  7 f   -     -     -          547    0    0 
+slingshot 903410529 10  7 f   -     -     -          547    0    0 
+slingshot 903410560 10  6 f   -     -     -          547    0    0 
+slingshot 903410583  9  4 f   -     -     -          547    0    0 
+slingshot 903410612 10  4 f   -     -     -          547    0    0 
+slingshot 903410654 10  3 c   kf    -     -          547   10    0 
+slingshot 903410699  9  1 Bf  -     -     -          537   10    0 
+slingshot 903410734 10  1 Bf  -     -     -          527    5    0 
+slingshot 903410776 10 10 f   -     -     -          522    0    0 
+slingshot 903410806  9  8 f   -     -     -          522    0    0 
+slingshot 903410857  9  7 f   -     -     -          522    0    0 
+slingshot 903410880  9  6 f   -     -     -          522    0    0 
+slingshot 903410907  9  5 cc  rc    c     c          522  130  225 Qh 2h
+slingshot 903410946  9  4 cc  f     -     -          617   20    0 
+slingshot 903410975  9  3 f   -     -     -          597    0    0 
+slingshot 903410991  9  2 Bk  kf    -     -          597   10    0 
+slingshot 903411061  9  1 Bf  -     -     -          587    5    0 
+slingshot 903411155  8  8 c   c     f     -          582   20    0 
+slingshot 903411186  8  7 f   -     -     -          562    0    0 
+slingshot 903411200  7  5 f   -     -     -          562    0    0 
+slingshot 903411234  7  4 cc  kc    kc    k          562   50  115 7d As
+slingshot 903411264  8  3 f   -     -     -          627    0    0 
+slingshot 903411291  8  2 Bk  kf    -     -          627   10    0 
+slingshot 903411326  7  1 Bc  kf    -     -          617   20    0 
+slingshot 903411355  7  7 f   -     -     -          597    0    0 
+slingshot 903411373  7  6 c   rr    b     b          597  100  215 Ac Kc
+slingshot 903411404  7  5 cc  c     b     b          712   70  125 
+slingshot 903411432  7  4 f   -     -     -          767    0    0 
+slingshot 903411443  7  3 f   -     -     -          767    0    0 
+slingshot 903411456  7  2 Bk  b     b     -          767   40   70 
+slingshot 903411484  7  1 Bf  -     -     -          797    5    0 
+slingshot 903411521  8  8 c   f     -     -          792   20    0 
+slingshot 903411543  8  7 f   -     -     -          772    0    0 
+slingshot 903411563  8  6 f   -     -     -          772    0    0 
+slingshot 903411578  8  5 f   -     -     -          772    0    0 
+slingshot 903411585  8  4 cc  f     -     -          772   30    0 
+slingshot 903411627  8  3 f   -     -     -          742    0    0 
+slingshot 903411652  8  2 Bc  kc    kc    kc         742   70  160 4s 4c
+slingshot 903411685  8  1 Bc  kf    -     -          832   20    0 
+slingshot 903411726  8  8 f   -     -     -          812    0    0 
+slingshot 903411773  8  7 f   -     -     -          812    0    0 
+slingshot 903411822  8  6 f   -     -     -          812    0    0 
+slingshot 903411878  8  5 f   -     -     -          812    0    0 
+slingshot 903411901  8  4 c   kf    -     -          812   10    0 
+slingshot 903411980  8  3 c   kf    -     -          802   10    0 
+slingshot 903412003  8  2 Bk  k     kc    kc         792   50  120 Js 2h
+slingshot 903412044  8  1 Bc  kf    -     -          862   10    0 
+slingshot 903412106  9  9 c   f     -     -          852   10    0 
+slingshot 903412241 10  9 f   -     -     -          842    0    0 
+slingshot 903412258 10  8 f   -     -     -          842    0    0 
+slingshot 903412267 10  7 f   -     -     -          842    0    0 
+slingshot 903412325  9  5 c   kf    -     -          842   10    0 
+slingshot 903412369  9  4 f   -     -     -          832    0    0 
+slingshot 903412482  9  3 fQ  -     -     -          832    0    0 
+slingshot 903711351  6  6 f   -     -     -         2150    0    0 
+slingshot 903711387  6  5 f   -     -     -         2150    0    0 
+slingshot 903711409  7  4 f   -     -     -         2150    0    0 
+slingshot 903711444  7  3 f   -     -     -         2150    0    0 
+slingshot 903711463  7  2 Bf  -     -     -         2150   10    0 
+slingshot 903711471  7  1 Bc  kc    k     k         2140   30   90 Ad 5c
+slingshot 903711506  7  7 f   -     -     -         2200    0    0 
+slingshot 903711530  6  5 f   -     -     -         2200    0    0 
+slingshot 903711547  6  4 f   -     -     -         2200    0    0 
+slingshot 903711581  6  3 f   -     -     -         2200    0    0 
+slingshot 903711613  5  1 Bc  kf    -     -         2200   20    0 
+slingshot 903711626  5  1 Bf  -     -     -         2180    5    0 
+slingshot 903711649  5  5 c   c     c     k         2175   40    0 9s 7s
+slingshot 903711681  5  4 f   -     -     -         2135    0    0 
+slingshot 903711711  5  3 f   -     -     -         2135    0    0 
+slingshot 903711734  5  2 Bk  k     k     k         2135   10   25 5h 3s
+slingshot 903711753  6  1 Bc  kf    -     -         2150   10    0 
+slingshot 903711778  6  6 f   -     -     -         2140    0    0 
+slingshot 903711796  6  5 f   -     -     -         2140    0    0 
+slingshot 903711826  6  5 f   -     -     -         2140    0    0 
+slingshot 903711842  5  3 c   c     b     b         2140   60  150 
+slingshot 903711884  6  3 cc  br    kc    kf        2230   90    0 
+slingshot 903711935  7  2 Bk  kc    kf    -         2140   20    0 
+slingshot 903711965  7  1 Bf  -     -     -         2120    5    0 
+slingshot 903711995  7  7 c   f     -     -         2115   20    0 
+slingshot 903712028  7  6 f   -     -     -         2095    0    0 
+slingshot 903712085  8  5 c   k     k     f         2095   10    0 
+slingshot 903712144  8  4 c   f     -     -         2085   10    0 
+slingshot 903712188  7  2 B   -     -     -         2075   10   15 
+slingshot 903712196  7  1 Bf  -     -     -         2080    5    0 
+slingshot 903712217  8  8 f   -     -     -         2075    0    0 
+slingshot 903712251  8  7 f   -     -     -         2075    0    0 
+slingshot 903712282  8  6 c   cc    cc    c         2075  160    0 Jh Kh
+slingshot 903712327 10  5 c   c     cc    f         1915  100    0 
+slingshot 903712424 10  4 f   -     -     -         1815    0    0 
+slingshot 903712465 10  3 fQ  -     -     -         1815    0    0 
+slingshot 903749521 10  2 Bf  -     -     -         1815   10    0 
+slingshot 903749554 10  1 Bc  kf    -     -         1805   10    0 
+slingshot 903749613 10 10 f   -     -     -         1795    0    0 
+slingshot 903749722 10  9 cc  rc    kc    kf        1795   80    0 
+slingshot 903749791 10  8 f   -     -     -         1715    0    0 
+slingshot 903749831 10  7 f   -     -     -         1715    0    0 
+slingshot 903749892 10  6 f   -     -     -         1715    0    0 
+slingshot 903749958  9  5 cc  cc    kf    -         1715   40    0 
+slingshot 903750012 10  4 c   f     -     -         1675   10    0 
+slingshot 903750058  9  3 f   -     -     -         1665    0    0 
+slingshot 903750104  9  2 Bk  kf    -     -         1665   10    0 
+slingshot 903750129  9  1 Bc  kf    -     -         1655   10    0 
+slingshot 903750160 10 10 f   -     -     -         1645    0    0 
+slingshot 903750195 10  9 c   c     f     -         1645   30    0 
+slingshot 903750222 10  8 f   -     -     -         1615    0    0 
+slingshot 903750268 10  7 c   kc    cc    f         1615   60    0 
+slingshot 903750357 10  6 c   r     r     b         1555   90  390 Qh Ad
+slingshot 903750436 10  5 f   -     -     -         1855    0    0 
+slingshot 903750476  9  3 cc  k     b     k         1855   40    0 2d Td
+slingshot 903750535  9  2 Bk  kf    -     -         1815   10    0 
+slingshot 903750567  9  1 Bc  kf    -     -         1805   10    0 
+slingshot 903750611  9  9 f   -     -     -         1795    0    0 
+slingshot 903750683 10  9 f   -     -     -         1795    0    0 
+slingshot 903750710 10  8 f   -     -     -         1795    0    0 
+slingshot 903750807 10  7 f   -     -     -         1795    0    0 
+slingshot 903750913 10  6 f   -     -     -         1795    0    0 
+slingshot 903750979 10  5 f   -     -     -         1795    0    0 
+slingshot 903751035 10  4 cc  kf    -     -         1795   20    0 
+slingshot 903751088 10  3 f   -     -     -         1775    0    0 
+slingshot 903751136 10  2 Bc  kf    -     -         1775   20    0 
+slingshot 903751177 10  1 Bf  -     -     -         1755    5    0 
+slingshot 903751221 10 10 c   k     r     b         1750   80  175 
+slingshot 903751260 10  9 f   -     -     -         1845    0    0 
+slingshot 903751320 10  8 f   -     -     -         1845    0    0 
+slingshot 903751389 10  7 f   -     -     -         1845    0    0 
+slingshot 903751427 10  6 cc  cc    cc    kc        1845  100    0 Ts Td
+slingshot 903751555 10  5 cc  rc    b     b         1745  100  490 4s 4c
+slingshot 903751619 10  4 cc  br    b     b         2135   90  300 Qd 7d
+slingshot 903751703 10  3 f   -     -     -         2345    0    0 
+slingshot 903751792 10  2 Bc  kf    -     -         2345   40    0 
+slingshot 903751891  9  1 Bf  -     -     -         2305    5    0 
+slingshot 903751918 10 10 f   -     -     -         2300    0    0 
+slingshot 903751967 10  9 c   r     b     -         2300   50  125 
+slingshot 903752001 10  8 c   f     -     -         2375   20    0 
+slingshot 903752029 10  7 f   -     -     -         2355    0    0 
+slingshot 903752098 10  6 f   -     -     -         2355    0    0 
+slingshot 903752141 10  5 c   f     -     -         2355   10    0 
+slingshot 903752184 10  4 c   k     b     -         2345   30   45 
+slingshot 903752215 10  3 f   -     -     -         2360    0    0 
+slingshot 903752323  9  2 Bk  kf    -     -         2360   10    0 
+slingshot 903752377 10  1 Bf  -     -     -         2350    5    0 
+slingshot 903752429 10 10 f   -     -     -         2345    0    0 
+slingshot 903752495 10  9 f   -     -     -         2345    0    0 
+slingshot 903752559 10  8 c   c     k     f         2345   20    0 
+slingshot 903752598 10  7 f   -     -     -         2325    0    0 
+slingshot 903752627 10  6 f   -     -     -         2325    0    0 
+slingshot 903752665 10  5 c   kc    b     b         2325   70   84 Ad Qc
+slingshot 903752703 10  4 f   -     -     -         2339    0    0 
+slingshot 903752765 10  3 f   -     -     -         2339    0    0 
+slingshot 903752820 10  2 Bc  kf    -     -         2339   20    0 
+slingshot 903752848 10  1 Bf  -     -     -         2319    5    0 
+slingshot 903752913 10 10 f   -     -     -         2314    0    0 
+slingshot 903752968 10  9 cc  f     -     -         2314   20    0 
+slingshot 903753018 10  8 f   -     -     -         2294    0    0 
+slingshot 903753047  8  6 cc  kf    -     -         2294   20    0 
+slingshot 903753075  8  5 c   c     kf    -         2274   20    0 
+slingshot 903753121  8  4 f   -     -     -         2254    0    0 
+slingshot 903753178  8  3 f   -     -     -         2254    0    0 
+slingshot 903753226  8  2 Bc  bc    kc    kf        2254   60    0 
+slingshot 903753267  8  1 Bf  -     -     -         2194    5    0 
+slingshot 903753307  8  8 cc  f     -     -         2189   20    0 
+slingshot 903753409  7  6 c   k     c     r         2169   70  180 2s Ah
+slingshot 903753469  7  5 f   -     -     -         2279    0    0 
+slingshot 903753507  8  4 f   -     -     -         2279    0    0 
+slingshot 903753532  8  3 cc  b     b     b         2279   70  170 
+slingshot 903753558  8  2 Bf  -     -     -         2379   10    0 
+slingshot 903753655  7  1 Bc  kf    -     -         2369   10    0 
+slingshot 903753689  7  7 cc  k     c     f         2359   40    0 
+slingshot 903753737  7  6 c   k     f     -         2319   10    0 
+slingshot 903753771  7  5 f   -     -     -         2309    0    0 
+slingshot 903753834  7  4 c   c     c     b         2309   80    0 5c Ac
+slingshot 903753900  8  3 r   b     bc    b         2229   90  195 Qs Qh
+slingshot 903753933  9  3 f   -     -     -         2334    0    0 
+slingshot 903753979  9  2 Bf  -     -     -         2334   10    0 
+slingshot 903754025  9  1 Bcc kc    kc    kf        2324   70    0 
+slingshot 903754080  9  9 rc  c     c     c         2254   90    0 Js Jc
+slingshot 903754120  9  8 cc  cc    cr    rc        2164  180    0 8h 9h
+slingshot 903754200  9  7 c   cf    -     -         1984   50    0 
+slingshot 903754242  9  6 f   -     -     -         1934    0    0 
+slingshot 903754277  9  5 f   -     -     -         1934    0    0 
+slingshot 903754383  9  4 c   f     -     -         1934   10    0 
+slingshot 903754430  9  3 fQ  -     -     -         1924    0    0 
+slingshot 904053278 10  4 f   -     -     -         1075    0    0 
+slingshot 904053330 10  3 f   -     -     -         1075    0    0 
+slingshot 904053376 10  2 Bf  -     -     -         1075   10    0 
+slingshot 904053457 10  1 Bf  -     -     -         1065    5    0 
+slingshot 904053491 10 10 c   f     -     -         1060   30    0 
+slingshot 904053535 10  9 f   -     -     -         1030    0    0 
+slingshot 904053563 10  8 f   -     -     -         1030    0    0 
+slingshot 904053614 10  7 f   -     -     -         1030    0    0 
+slingshot 904053650 10  6 f   -     -     -         1030    0    0 
+slingshot 904053672 10  5 f   -     -     -         1030    0    0 
+slingshot 904053733 10  4 f   -     -     -         1030    0    0 
+slingshot 904053781 10  3 cc  kc    kc    kc        1030   90  295 Kh Th
+slingshot 904053843 10  2 BfQ -     -     -         1235   10    0 
+slingshot 904184847  8  4 f   -     -     -          798    0    0 
+slingshot 904184933 10  3 f   -     -     -          798    0    0 
+slingshot 904184985  9  2 Bk  f     -     -          798   10    0 
+slingshot 904185044 10  1 Bf  -     -     -          788    5    0 
+slingshot 904185106 10 10 cc  f     -     -          783   40    0 
+slingshot 904185271  8  7 f   -     -     -          743    0    0 
+slingshot 904185327  8  6 f   -     -     -          743    0    0 
+slingshot 904185384  8  5 c   k     b     -          743   40   75 
+slingshot 904185403  8  4 ccc k     r     b          778  100    0 5h 5d
+slingshot 904185463  8  3 f   -     -     -          678    0    0 
+slingshot 904185526  8  2 Bk  kf    -     -          678   10    0 
+slingshot 904185621  8  1 Bf  -     -     -          668    5    0 
+slingshot 904185667  9  9 cc  cc    c     c          663  110    0 3s Ad
+slingshot 904185794 10  9 c   f     -     -          553   10    0 
+slingshot 904185867  9  7 c   f     -     -          543   20    0 
+slingshot 904185935  9  6 f   -     -     -          523    0    0 
+slingshot 904185995  8  5 f   -     -     -          523    0    0 
+slingshot 904186047  8  4 cc  kfQ   -     -          523   20    0 
+slingshot 904228968 10  3 f   -     -     -          503    0    0 
+slingshot 904229011 10  2 Bf  -     -     -          503   10    0 
+slingshot 904229068  9  1 Bf  -     -     -          493    5    0 
+slingshot 904229166  9  9 c   f     -     -          488   10    0 
+slingshot 904229221  9  8 f   -     -     -          478    0    0 
+slingshot 904229268  9  7 c   f     -     -          478   10    0 
+slingshot 904229302  9  6 cc  f     -     -          468   20    0 
+slingshot 904229344  9  5 c   k     bc    kc         448   70    0 7h Ad
+slingshot 904229380  9  4 cc  f     -     -          378   20    0 
+slingshot 904229444  9  3 f   -     -     -          358    0    0 
+slingshot 904229541  8  2 Bc  k     k     k          358   20    0 7c Tc
+slingshot 904229569  8  1 Bf  -     -     -          338    5    0 
+slingshot 904229630  8  8 cc  r     b     c          333   80  277 8c 8s
+slingshot 904229727  7  6 f   -     -     -          530    0    0 
+slingshot 904229810  4  3 f   -     -     -          530    0    0 
+slingshot 904229817  3  1 B   -     -     -          530   10   10 
+slingshot 904229818  3  1 Bf  -     -     -          530    5    0 
+slingshot 904229820  3  3 f   -     -     -          525    0    0 
+slingshot 904229823  3  2 B   -     -     -          525   10   15 
+slingshot 904229824  3  1 BQ  -     -     -          530    5    0 
+slingshot 904358806 10  5 cc  k     k     kf        1000   20    0 
+slingshot 904358905 10  4 f   -     -     -          980    0    0 
+slingshot 904359003 10  3 f   -     -     -          980    0    0 
+slingshot 904359060  9  2 Bc  kf    -     -          980   20    0 
+slingshot 904359077  9  1 Bc  br    brc   brc        960  200    0 Ac 3c
+slingshot 904359165  8  8 f   -     -     -          760    0    0 
+slingshot 904359246 10  9 f   -     -     -          760    0    0 
+slingshot 904359311 10  8 r   b     c     cc         760   90    0 Qd Qc
+slingshot 904359383  9  6 c   f     -     -          670   20    0 
+slingshot 904359431 10  5 cc  f     -     -          650   20    0 
+slingshot 904359610 10  4 c   kf    -     -          630   10    0 
+slingshot 904359674 10  3 f   -     -     -          620    0    0 
+slingshot 904359752 10  2 Bk  kf    -     -          620   10    0 
+slingshot 904359833 10  1 Bf  -     -     -          610    5    0 
+slingshot 904359948  9  9 c   f     -     -          605   10    0 
+slingshot 904360036 10  9 f   -     -     -          595    0    0 
+slingshot 904360101 10  8 f   -     -     -          595    0    0 
+slingshot 904360165  9  6 f   -     -     -          595    0    0 
+slingshot 904360210 10  6 cc  k     kf    -          595   40    0 
+slingshot 904360315  9  4 f   -     -     -          555    0    0 
+slingshot 904360380 10  4 f   -     -     -          555    0    0 
+slingshot 904360412  9  2 Bc  kf    -     -          555   30    0 
+slingshot 904360513  9  1 Bf  -     -     -          525    5    0 
+slingshot 904360659  9  9 f   -     -     -          520    0    0 
+slingshot 904360784  9  8 f   -     -     -          520    0    0 
+slingshot 904360934  9  7 cc  k     k     k          520   20   55 Ac 8c
+slingshot 904360982 10  7 f   -     -     -          555    0    0 
+slingshot 904361101 10  6 f   -     -     -          555    0    0 
+slingshot 904361157  9  5 f   -     -     -          555    0    0 
+slingshot 904361260 10  4 f   -     -     -          555    0    0 
+slingshot 904361326 10  3 cc  fQ    -     -          555   30    0 
+slingshot 904510428  7  7 f   -     -     -         2155    0    0 
+slingshot 904510481  8  7 c   kf    -     -         2155   10    0 
+slingshot 904510505  8  6 c   c     f     -         2145   20    0 
+slingshot 904510528  8  5 c   f     -     -         2125   10    0 
+slingshot 904510555  8  4 cc  kc    kf    -         2115   30    0 
+slingshot 904510600  8  4 f   -     -     -         2085    0    0 
+slingshot 904510620  8  2 Bf  -     -     -         2085   10    0 
+slingshot 904510654  8  1 Bf  -     -     -         2075    5    0 
+slingshot 904510684  8  8 c   f     -     -         2070   20    0 
+slingshot 904510733  8  7 f   -     -     -         2050    0    0 
+slingshot 904510776  8  6 f   -     -     -         2050    0    0 
+slingshot 904510799  8  5 f   -     -     -         2050    0    0 
+slingshot 904510825  8  4 cc  k     b     b         2050   60  160 Jh Ad
+slingshot 904510862  8  3 c   k     k     k         2150   10   45 Kc 8c
+slingshot 904510897  8  2 Bc  kf    -     -         2185   20    0 
+slingshot 904510946  8  1 Bc  kf    -     -         2165   20    0 
+slingshot 904510985  8  8 c   f     -     -         2145   10    0 
+slingshot 904511010  8  7 c   c     f     -         2135   20    0 
+slingshot 904511056  8  6 c   f     -     -         2115   10    0 
+slingshot 904511099  8  5 f   -     -     -         2105    0    0 
+slingshot 904511123  8  4 f   -     -     -         2105    0    0 
+slingshot 904511142  8  3 cc  cc    c     r         2105  100    0 Kd Ah
+slingshot 904511193  9  2 Bf  -     -     -         2005   10    0 
+slingshot 904511224  9  1 Bf  -     -     -         1995    5    0 
+slingshot 904511259  9  9 cc  f     -     -         1990   20    0 
+slingshot 904511312  9  8 f   -     -     -         1970    0    0 
+slingshot 904511355  9  7 f   -     -     -         1970    0    0 
+slingshot 904511385  9  6 c   c     f     -         1970   20    0 
+slingshot 904511440  9  5 f   -     -     -         1950    0    0 
+slingshot 904511496  8  4 f   -     -     -         1950    0    0 
+slingshot 904511529  8  3 f   -     -     -         1950    0    0 
+slingshot 904511560  8  2 Br  bc    k     k         1950   40  125 9d 9s
+slingshot 904511605  8  1 Bf  -     -     -         2035    5    0 
+slingshot 904511670  9  9 f   -     -     -         2030    0    0 
+slingshot 904511716 10  9 cc  f     -     -         2030   30    0 
+slingshot 904511775  9  7 f   -     -     -         2000    0    0 
+slingshot 904511867  9  6 cc  kc    kr    kf        2000   80    0 
+slingshot 904511933 10  5 f   -     -     -         1920    0    0 
+slingshot 904512049 10  4 f   -     -     -         1920    0    0 
+slingshot 904512117 10  3 f   -     -     -         1920    0    0 
+slingshot 904512164 10  2 Bk  kc    brc   k         1920  110    0 Jc Kh
+slingshot 904512249 10  1 Bf  -     -     -         1810    5    0 
+slingshot 904512289 10 10 f   -     -     -         1805    0    0 
+slingshot 904512312 10  9 f   -     -     -         1805    0    0 
+slingshot 904512379  9  7 f   -     -     -         1805    0    0 
+slingshot 904512452 10  7 cc  kc    kc    kc        1805   70    0 Ah 7d
+slingshot 904512552 10  6 f   -     -     -         1735    0    0 
+slingshot 904512629 10  5 cc  ccc   fQ    -         1735   70    0 
+slingshot 904578743  7  5 c   rr    b     b         1205   90  340 9h Qh
+slingshot 904578802  7  4 f   -     -     -         1455    0    0 
+slingshot 904578855  7  3 f   -     -     -         1455    0    0 
+slingshot 904578885  6  2 Bf  -     -     -         1455   10    0 
+slingshot 904578912  6  1 Bf  -     -     -         1445    5    0 
+slingshot 904578941  6  6 cc  r     r     b         1440  100  390 As 4c
+slingshot 904578982  6  5 f   -     -     -         1730    0    0 
+slingshot 904579016  6  4 f   -     -     -         1730    0    0 
+slingshot 904579050  6  3 cc  k     kf    -         1730   20    0 
+slingshot 904579087  6  2 Bf  -     -     -         1710   10    0 
+slingshot 904579138  6  1 Bf  -     -     -         1700    5    0 
+slingshot 904579172  5  5 f   -     Q     -         1695    0    0 
+slingshot 904579301  6  4 cc  brc   b     brc       1695  160  335 Th Ts
+slingshot 904579339  6  3 cc  kc    br    f         1870  110    0 
+slingshot 904579432  6  2 Bf  -     -     -         1760   10    0 
+slingshot 904579462  6  1 Bf  -     -     -         1750    5    0 
+slingshot 904579485  6  6 f   -     -     -         1745    0    0 
+slingshot 904579547  7  5 ccc c     f     -         1745   60    0 
+slingshot 904579601  7  4 cc  k     b     rr        1685  130  160 Kc Qh
+slingshot 904579639  7  3 cc  k     b     b         1715   60  185 9c 3c
+slingshot 904579711  6  2 Bc  kf    -     -         1840   20    0 
+slingshot 904579741  5  1 Bf  -     -     -         1820    5    0 
+slingshot 904579749  5  5 cc  f     -     -         1815   40    0 
+slingshot 904579790  5  4 f   -     -     -         1775    0    0 
+slingshot 904579821  5  3 f   -     -     -         1775    0    0 
+slingshot 904579853  5  2 Bc  f     -     -         1775   30    0 
+slingshot 904579886  4  1 Bcc kc    kc    k         1745   50    0 2s Js
+slingshot 904579911  4  3 Q   -     -     -         1695    0    0 
+slingshot 904615992  9  6 f   -     -     -         1408    0    0 
+slingshot 904616065  7  3 cc  bcc   kc    kc        1408  100    0 7d Ac
+slingshot 904616120  7  1 Bf  -     -     -         1308   10    0 
+slingshot 904616159  7  1 Bf  -     -     -         1298    5    0 
+slingshot 904616225  6  6 f   -     -     -         1293    0    0 
+slingshot 904616258  6  5 cc  f     -     -         1293   40    0 
+slingshot 904616337  6  4 f   -     -     -         1253    0    0 
+slingshot 904616366  6  3 fQ  -     -     -         1253    0    0 

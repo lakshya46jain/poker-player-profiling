@@ -1,0 +1,472 @@
+sonofsam  852508089  2  2 Br  r     rr    rr        1250  210  420 Tc 8s
+sonofsam  852508120  2  1 Brr bc    brr   b         1460  180  360 Qs Jc
+sonofsam  852508157  2  2 Br  b     b     b         1640   70  140 Ad 8d
+sonofsam  852508185  2  1 Bc  b     b     b         1710   60  120 5d 6s
+sonofsam  852508216  2  2 Br  r     -     -         1770   50   90 
+sonofsam  852508234  2  1 Br  b     b     b         1810   70  120 
+sonofsam  852508257  2  2 Br  r     k     b         1860   60    0 4d Th
+sonofsam  852508287  2  1 Br  b     bc    b         1800   90  180 2d 7c
+sonofsam  852508328  2  2 Br  b     b     b         1890   70    0 4d As
+sonofsam  852508378  2  1 Brc bc    brc   br        1820  190  380 6s Tc
+sonofsam  852508427  2  2 Brr rc    rc    b         2010  150  300 9h Jc
+sonofsam  852508466  2  1 Br  b     bc    b         2160   90  180 9h 3h
+sonofsam  852508545  2  2 Br  c     b     k         2250   50    0 3d 4d
+sonofsam  852508589  2  1 Br  b     k     k         2200   30    0 Tc Qc
+sonofsam  852508610  2  2 Bc  f     -     -         2170   20    0 
+sonofsam  852508619  2  1 Bf  -     -     -         2150    5    0 
+sonofsam  852508623  2  2 Bc  k     k     f         2145   20    0 
+sonofsam  852508641  2  1 Bc  k     b     b         2125   50  100 Kd 2h
+sonofsam  852508670  3  2 Bc  r     b     b         2175   90  230 
+sonofsam  852508707  3  1 Bc  kf    -     -         2315   10    0 
+sonofsam  852508726  3  3 f   -     -     -         2305    0    0 
+sonofsam  852508750  3  2 Bc  b     f     -         2305   30    0 
+sonofsam  852508786  3  1 Bc  bf    -     -         2275   20    0 
+sonofsam  852508833  3  3 f   -     -     -         2255    0    0 
+sonofsam  852508844  3  2 Bf  -     -     -         2255   10    0 
+sonofsam  852508883  3  1 Bc  bc    bc    kc        2245  100    0 2s 9s
+sonofsam  852508918  3  3 c   bf    -     -         2145   20    0 
+sonofsam  852508981  3  2 Bc  f     -     -         2125   30    0 
+sonofsam  852509004  3  1 Bf  -     -     -         2095    5    0 
+sonofsam  852509032  3  3 r   c     r     b         2090   90  165 
+sonofsam  852509064  3  2 Bf  -     -     -         2165   10    0 
+sonofsam  852509091  3  1 Bf  -     -     -         2155    5    0 
+sonofsam  852509107  3  3 c   b     b     c         2150   60   62 Jh 6h
+sonofsam  852509152  3  2 Bc  c     k     k         2152   30   60 Js 6c
+sonofsam  852509197  3  1 Bc  k     kf    -         2182   20    0 
+sonofsam  852509223  3  3 cc  k     r     rrc       2162  160  325 3h 6s
+sonofsam  852509307  3  2 Bc  r     c     c         2327   80    0 Kc 3d
+sonofsam  852509365  3  1 Bc  kf    -     -         2247   10    0 
+sonofsam  852509424  3  3 rc  c     f     -         2237   40    0 
+sonofsam  852509470  3  2 Br  c     rr    b         2197  140  290 
+sonofsam  852509523  3  1 Bf  -     -     -         2347    5    0 
+sonofsam  852509555  3  3 r   f     -     -         2342   20    0 
+sonofsam  852509580  3  2 Brr r     c     c         2322  100    0 Td Ks
+sonofsam  852509615  4  1 Bf  -     -     -         2222    5    0 
+sonofsam  852509694  5  5 f   -     -     -         2217    0    0 
+sonofsam  852509754  5  4 c   f     -     -         2217   20    0 
+sonofsam  852509808  5  3 cf  -     -     -         2197   10    0 
+sonofsam  852509853  5  2 Bk  k     b     b         2187   50  120 Ah 7c
+sonofsam  852509911  5  1 Br  b     b     b         2257   70  150 9h 7c
+sonofsam  852509954  5  5 cc  c     f     -         2337   30    0 
+sonofsam  852510017  5  4 rr  c     c     b         2307   90  175 
+sonofsam  852510063  5  3 r   c     f     -         2392   30    0 
+sonofsam  852510118  5  2 Br  k     b     b         2362   60  160 4d Ad
+sonofsam  852510192  6  1 Bc  bc    kf    -         2462   40    0 
+sonofsam  852510257  6  6 c   c     f     -         2422   20    0 
+sonofsam  852510299  6  5 r   br    b     b         2402   90  280 Ad Kc
+sonofsam  852510374  5  3 rc  f     -     -         2592   40    0 
+sonofsam  852510436  6  2 Bk  k     kf    -         2552   10    0 
+sonofsam  852510509  6  1 Br  b     b     b         2542   70  160 Tc Jd
+sonofsam  852510555  6  6 c   k     f     -         2632   20    0 
+sonofsam  852510628  6  5 r   rc    c     f         2612   70    0 
+sonofsam  852510690  6  4 c   k     c     b         2542   60  145 
+sonofsam  852510760  7  4 c   b     b     b         2627   60  140 3s Th
+sonofsam  852510822  7  3 r   k     c     r         2707   73  146 9d Qd
+sonofsam  852510901  6  1 Bc  kf    -     -         2780   20    0 
+sonofsam  852510963  6  1 Br  k     k     b         2760   40   90 
+sonofsam  852511133  3  3 c   k     f     -         2810   10    0 
+sonofsam  852511174  3  3 rr  b     b     rc        2800  130    0 Qc Qd
+sonofsam  852511239  2  1 Bk  k     k     k         2670   10   20 3s Qh
+sonofsam  852511270  2  1 Bcc bc    b     kc        2680   80    0 5c 2s
+sonofsam  852511302  2  2 Bk  k     c     c         2600   50  100 Qd 2s
+sonofsam  852511330  2  1 Bc  bc    b     k         2650   50  100 Kc 5h
+sonofsam  852511365  2  2 Br  b     b     -         2700   50   80 
+sonofsam  852511397  2  1 Br  k     kc    kf        2730   40    0 
+sonofsam  852511432  2  2 Br  b     -     -         2690   30   50 
+sonofsam  852511450  2  1 Br  b     b     -         2710   50   80 
+sonofsam  852511471  2  2 Bc  f     -     -         2740   20    0 
+sonofsam  852511491  2  1 Bc  k     kc    kf        2720   30    0 
+sonofsam  852511521  2  2 Bk  b     r     -         2690   60  100 
+sonofsam  852511543  2  1 Bc  b     -     -         2730   20   30 
+sonofsam  852511557  2  2 Bk  f     -     -         2740   10    0 
+sonofsam  852511571  2  1 Bc  b     b     -         2730   40   60 
+sonofsam  852511593  2  2 Bk  b     b     -         2750   40   60 
+sonofsam  852511615  2  1 Bc  b     -     -         2770   20   30 
+sonofsam  852511631  2  2 Bc  f     -     -         2780   20    0 
+sonofsam  852511645  2  1 Bcc kc    kc    kf        2760   50    0 
+sonofsam  852511681  2  2 Br  k     k     b         2710   40   60 
+sonofsam  852511713  2  1 Bcc kf    -     -         2730   20    0 
+sonofsam  852511736  2  2 Bk  f     -     -         2710   10    0 
+sonofsam  852511751  2  1 Br  bc    k     kr        2700   80  140 
+sonofsam  852511784  2  2 Bk  b     r     b         2760   80  160 7c Th
+sonofsam  852511809  2  1 Bc  k     b     -         2840   30   40 
+sonofsam  852511835  2  2 Bc  f     -     -         2850   20    0 
+sonofsam  852511851  3  1 Bc  kf    -     -         2830   20    0 
+sonofsam  852511884  3  3 rc  rr    b     b         2810  110  310 Jd Kh
+sonofsam  852511932  3  2 Brc bc    kc    b         3010  100  280 Qs Jh
+sonofsam  852511975  3  1 B   -     -     -         3190    5   15 
+sonofsam  852511983  2  2 c   k     k     k         3200   10    0 4c Qc
+sonofsam  852512018  2  2 Bc  f     -     -         3190   20    0 
+sonofsam  852512030  2  1 Bc  kc    kr    b         3170   80  140 
+sonofsam  852512061  2  2 Bc  b     b     -         3230   50   80 
+sonofsam  852512079  2  1 Bc  b     b     b         3260   60  100 
+sonofsam  852512103  3  2 B   -     -     -         3300   10   15 
+sonofsam  852512108  3  1 Bcc bcc   krrc  kc        3305  180    0 4h 3d
+sonofsam  852512161  6  6 r   f     -     -         3125   20    0 
+sonofsam  852512216  6  5 f   -     -     -         3105    0    0 
+sonofsam  852512277  6  4 f   -     -     -         3105    0    0 
+sonofsam  852512305  6  3 c   kc    kc    kQ        3105   40    0 
+sonofsam  852512464  7  6 c   kf    -     -         3065   10    0 
+sonofsam  852512528  8  6 cc  f     -     -         3055   20    0 
+sonofsam  852512602  8  5 c   c     k     k         3035   20    0 9d Td
+sonofsam  852512695 10  6 r   bc    kc    f         3015   60    0 
+sonofsam  852512832 10  6 c   b     b     bc        2955   80    0 4h 5d
+sonofsam  852512924  7  5 rc  rc    c     f         2875   80    0 
+sonofsam  852512965  7  4 rc  r     b     b         2795   90    0 7h 7d
+sonofsam  852513027  7  3 cc  bc    b     k         2705   60    0 3h Ac
+sonofsam  852513086  8  2 Bk  kf    -     -         2645   10    0 
+sonofsam  852513237  8  1 Bc  b     b     b         2635   60    0 4s Td
+sonofsam  852513399  7  7 r   r     r     b         2575  110  255 8s As
+sonofsam  852513473  6  5 r   b     b     b         2720   70  185 Qd 2d
+sonofsam  852513547  6  4 c   c     r     b         2835   90  200 
+sonofsam  852513610  6  3 cc  kf    -     -         2945   20    0 
+sonofsam  853026077  2  2 Bc  r     b     k         1862   60  120 7d 9d
+sonofsam  853026100  2  1 Bcc kc    kf    -         1922   30    0 
+sonofsam  853026126  2  2 B   -     -     -         1892   10   15 
+sonofsam  853026129  2  1 Bc  b     -     -         1897   20   30 
+sonofsam  853026151  2  2 Br  b     -     -         1907   30   50 
+sonofsam  853026168  2  1 Bc  b     b     -         1927   40   60 
+sonofsam  853026187  2  2 Bc  r     -     -         1947   40   70 
+sonofsam  853026198  3  1 Brc kc    kr    b         1977  110    0 Ah Tc
+sonofsam  853026239  3  3 c   r     b     b         1867   70  145 Td 6c
+sonofsam  853026276  3  2 Bc  rc    c     c         1942   90    0 8d Jc
+sonofsam  853026313  2  1 Bc  kc    k     k         1852   20    0 Ah 9s
+sonofsam  853026334  2  2 Brc b     b     k         1832   70  140 9h 9c
+sonofsam  853026358  2  1 Bc  k     k     k         1902   10   10 6h Qh
+sonofsam  853026379  2  2 Br  c     c     k         1902   60    0 2s 2h
+sonofsam  853026402  2  1 Br  br    b     b         1842   90   90 8h 9h
+sonofsam  853026447  2  2 Br  b     -     -         1842   30   50 
+sonofsam  853026464  2  1 Br  -     -     -         1862   20   30 
+sonofsam  853026468  2  2 Br  k     b     -         1872   40   60 
+sonofsam  853026502  2  1 Bcc b     bc    bf        1892   90    0 
+sonofsam  853026535  2  2 Bk  b     -     -         1802   20   30 
+sonofsam  853026551  2  1 Bc  k     kr    -         1812   50   80 
+sonofsam  853026571  2  2 Bc  rr    b     -         1842   80  140 
+sonofsam  853026591  2  1 Brc kc    kf    -         1902   40    0 
+sonofsam  853026611  2  2 B   -     -     -         1862   10   15 
+sonofsam  853026616  2  1 Bcc b     bc    bc        1867  110    0 5c 6h
+sonofsam  853026637  2  2 Br  -     -     -         1757   20   30 
+sonofsam  853026645  2  1 Bcc kc    kf    -         1767   30    0 
+sonofsam  853026660  2  2 Br  b     b     b         1737   80  160 6s 3h
+sonofsam  853026679  2  1 Bc  b     -     -         1817   20   30 
+sonofsam  853026689  2  2 B   -     -     -         1827   10   15 
+sonofsam  853026693  2  1 Bcc kc    kf    -         1832   30    0 
+sonofsam  853026709  2  2 Bk  c     f     -         1802   20    0 
+sonofsam  853026726  2  1 Bc  k     k     b         1782   30   40 
+sonofsam  853026744  2  2 Bk  k     b     -         1792   30   40 
+sonofsam  853026769  2  1 Bc  br    b     b         1802   80    0 7h 2h
+sonofsam  853026786  2  2 Br  b     -     -         1722   30   50 
+sonofsam  853026802  2  1 Br  b     b     b         1742   70    0 9h Qs
+sonofsam  853026817  2  2 Bk  k     k     k         1672   10   20 5h 4s
+sonofsam  853026834  2  1 Bc  kf    -     -         1682   10    0 
+sonofsam  853026847  2  2 Bc  f     -     -         1672   20    0 
+sonofsam  853026857  2  1 Bc  k     k     b         1652   30   40 
+sonofsam  853026871  2  2 Bk  b     -     -         1662   20   30 
+sonofsam  853026885  2  1 Bcc kr    brrc  kc        1672  180    0 8s 7d
+sonofsam  853026913  2  2 B   -     -     -         1492   10   15 
+sonofsam  853026918  2  1 Bcc kf    -     -         1497   20    0 
+sonofsam  853026929  2  2 Bk  c     c     rc        1477  100    0 Tc 3h
+sonofsam  853026951  2  1 Br  b     -     -         1377   30   50 
+sonofsam  853026964  2  2 B   -     -     -         1397   10   15 
+sonofsam  853026968  2  1 Br  b     b     -         1402   50   80 
+sonofsam  853026983  2  2 Bk  r     br    k         1432   90    0 Qh Jd
+sonofsam  853027009  2  1 Bc  k     k     k         1342   10    0 3h 6c
+sonofsam  853027021  2  2 Bk  r     -     -         1332   30   50 
+sonofsam  853027036  2  1 Br  b     b     b         1352   70  120 
+sonofsam  853027049  2  2 B   -     -     -         1402   10   15 
+sonofsam  853027053  2  1 Bc  b     -     -         1407   20   30 
+sonofsam  853027061  2  2 Bc  c     c     k         1417   50    0 Qs 2d
+sonofsam  853027082  2  1 Bc  k     k     k         1367   10    0 6c 7s
+sonofsam  853027104  2  2 Bk  k     k     k         1357   10    0 9h 4h
+sonofsam  853027119  2  1 Bcc br    b     b         1347   90  160 
+sonofsam  853027143  2  2 Bc  c     r     b         1417   90  160 
+sonofsam  853027166  2  1 Bc  k     k     k         1487   10    0 4h 2d
+sonofsam  853027183  2  2 Bc  r     b     -         1477   60  100 
+sonofsam  853027199  2  1 Bc  k     k     k         1517   10   20 As 5d
+sonofsam  853027212  2  2 Bk  k     b     -         1527   30   40 
+sonofsam  853027228  2  1 Bc  bc    kc    b         1537   70    0 5c Td
+sonofsam  853027247  2  2 Bk  k     c     k         1467   30   60 2c 7h
+sonofsam  853027278  2  1 Bc  kc    kc    k         1497   40    0 Ks 6s
+sonofsam  853027297  2  2 Bk  b     -     -         1457   20   30 
+sonofsam  853027313  2  1 Bc  k     bc    bc        1467   90    0 7d Ks
+sonofsam  853027333  2  2 Br  b     -     -         1377   30   50 
+sonofsam  853027347  2  1 Br  b     br    b         1397  110  200 
+sonofsam  853027373  2  2 Bk  k     b     -         1487   30   40 
+sonofsam  853027393  2  1 Bc  b     b     bc        1497   80    0 Jd 2c
+sonofsam  853027417  2  2 Bk  c     c     k         1417   40    0 5c Tc
+sonofsam  853027438  2  1 Bc  b     -     -         1377   20   30 
+sonofsam  853027448  2  2 Bk  b     -     -         1387   20   30 
+sonofsam  853027459  2  1 Bc  b     b     -         1397   40   60 
+sonofsam  853027471  2  2 Bc  f     -     -         1417   20    0 
+sonofsam  853027480  2  1 Bc  kc    kc    k         1397   40    0 Ad 4c
+sonofsam  853027504  2  2 Br  b     b     b         1357   80  140 
+sonofsam  853027529  2  1 Br  -     -     -         1417   20   30 
+sonofsam  853027534  2  2 Bk  c     c     b         1427   60    0 2d 9d
+sonofsam  853027554  2  1 Br  -     -     -         1367   20   30 
+sonofsam  853027559  2  2 Bk  k     c     b         1377   50  100 Kc Ks
+sonofsam  853027582  2  1 Br  -     -     -         1427   20   30 
+sonofsam  853027588  2  2 Br  b     -     -         1437   30   50 
+sonofsam  853027652  2  1 Bc  k     kf    -         1457   10    0 
+sonofsam  853027674  2  2 Bk  c     c     f         1447   40    0 
+sonofsam  853027705  2  1 Bc  b     -     -         1407   20   30 
+sonofsam  853027716  2  2 Br  b     -     -         1417   30   50 
+sonofsam  853027734  2  1 Bc  k     kf    -         1437   10    0 
+sonofsam  853027755  2  2 Br  b     -     -         1427   30   50 
+sonofsam  853027769  2  1 Bc  kf    -     -         1447   10    0 
+sonofsam  853027781  2  2 Bk  r     -     -         1437   30   50 
+sonofsam  853027794  2  1 Bc  kf    -     -         1457   10    0 
+sonofsam  853027804  2  2 Bk  c     c     r         1447   80  160 5c 7c
+sonofsam  853027826  2  1 Br  b     -     -         1527   30   50 
+sonofsam  853027839  2  2 Bc  k     k     k         1547   20    0 Qd Jc
+sonofsam  853027856  2  1 Bcc b     -     -         1527   30   50 
+sonofsam  853027869  2  2 Br  b     -     -         1547   30   50 
+sonofsam  853027880  2  1 Bc  k     kc    k         1567   30   60 4s Ts
+sonofsam  853027904  2  2 Bk  c     c     c         1597   60    0 7c 2d
+sonofsam  853027925  2  1 Bcc b     b     b         1537   70  140 9h 2s
+sonofsam  853027948  2  2 Bc  c     b     -         1607   50   80 
+sonofsam  853027967  2  1 Bc  bc    bc    k         1637   70    0 7d 3h
+sonofsam  853027990  2  2 B   -     -     -         1567   10   15 
+sonofsam  853027993  2  1 Bc  k     k     k         1572   10    0 8c 9h
+sonofsam  853028017  2  2 B   -     -     -         1562   10   15 
+sonofsam  853028023  2  1 Bc  kc    bc    k         1567   60    0 4s 6s
+sonofsam  853028051  3  2 Bc  kc    kc    kf        1507   50    0 
+sonofsam  853028079  3  1 Bc  k     kf    -         1457   10    0 
+sonofsam  853028094  3  3 r   b     b     -         1447   50   90 
+sonofsam  853028111  3  2 Brc kc    kf    -         1487   50    0 
+sonofsam  853028138  3  1 Bc  br    b     b         1437   80  180 
+sonofsam  853028174  3  3 cc  c     r     b         1537   90  180 
+sonofsam  853028202  3  2 Bk  f     -     -         1627   10    0 
+sonofsam  853028220  3  1 Bcc kf    -     -         1617   30    0 
+sonofsam  853028247  3  3 cc  f     -     -         1587   20    0 
+sonofsam  853028266  3  2 Bc  r     b     -         1567   60  100 
+sonofsam  853028282  3  1 Bc  k     kc    kf        1607   30    0 
+sonofsam  853028305  3  3 c   k     k     k         1577   10    0 3h 5h
+sonofsam  853028329  3  2 B   -     -     -         1567   10   15 
+sonofsam  853028334  3  1 Bc  kc    kf    -         1572   20    0 
+sonofsam  853028381  3  3 c   f     -     -         1552   10    0 
+sonofsam  853028404  3  2 Bc  k     f     -         1542   20    0 
+sonofsam  853028425  3  1 Bc  kf    -     -         1522   20    0 
+sonofsam  853028444  3  3 c   c     k     b         1502   40    0 Jd 5h
+sonofsam  853028466  3  2 Bcc cc    brc   kf        1462  140    0 
+sonofsam  853028504  3  1 Bc  k     k     k         1322   10   30 Jc 2h
+sonofsam  853028530  3  3 cc  r     b     b         1342   80  160 
+sonofsam  853028564  3  2 Bc  k     f     -         1422   20    0 
+sonofsam  853028589  3  1 Bc  kcc   kf    -         1402   40    0 
+sonofsam  853028624  3  3 c   k     r     b         1362   70  130 
+sonofsam  853028650  3  2 Bcc rc    kc    k         1422   90    0 9c 3s
+sonofsam  853028684  3  1 Bc  brc   b     b         1332   90  250 9s Kh
+sonofsam  853028719  3  3 cc  c     f     -         1492   30    0 
+sonofsam  853028741  3  2 Bk  k     f     -         1462   10    0 
+sonofsam  853028760  3  1 Bc  b     -     -         1452   20   40 
+sonofsam  853028772  3  3 r   b     -     -         1472   30   55 
+sonofsam  853028782  3  2 Bc  k     cf    -         1497   40    0 
+sonofsam  853028804  3  1 Bc  b     b     b         1457   60  120 
+sonofsam  853028830  3  3 c   f     -     -         1517   10    0 
+sonofsam  853028840  3  2 Bk  r     b     b         1507   70  150 
+sonofsam  853028863  3  1 Bc  kc    kc    k         1587   50  110 Ah 5h
+sonofsam  853028892  3  3 c   c     c     c         1647   60    0 8d Td
+sonofsam  853028916  3  2 Bcc b     b     b         1587   90  200 
+sonofsam  853028943  3  1 Bcc kf    -     -         1697   20    0 
+sonofsam  853028963  3  3 cc  c     r     k         1677   70    0 6h Qc
+sonofsam  853028988  3  2 B   -     -     -         1607   10   15 
+sonofsam  853028995  3  1 Bcc bcc   k     k         1612   70  210 Js 3h
+sonofsam  853029028  3  3 c   b     -     -         1752   20   35 
+sonofsam  853029042  3  2 Bk  b     r     b         1767   80  180 7d 9h
+sonofsam  853029077  3  1 Bcc bc    kc    kf        1867   60    0 
+sonofsam  853029117  3  3 f   -     -     -         1807    0    0 
+sonofsam  853029136  3  2 Bc  r     -     -         1807   40   70 
+sonofsam  853029150  3  1 Brc b     b     b         1837   80  160 8c Ac
+sonofsam  853029175  3  3 cc  b     -     -         1917   30   70 
+sonofsam  853029196  3  2 Bcc cc    kc    k         1957   80    0 Js 4c
+sonofsam  853029267  3  1 Brr b     b     b         1877   90  200 Jc Js
+sonofsam  853029297  3  3 cc  f     -     -         1987   20    0 
+sonofsam  853029325  3  2 Bc  kf    -     -         1967   20    0 
+sonofsam  853029344  3  1 Bc  kf    -     -         1947   10    0 
+sonofsam  853029362  3  3 c   b     k     b         1937   40   65 
+sonofsam  853029381  3  2 Bk  k     k     f         1962   10    0 
+sonofsam  853029398  3  1 Bcc kf    -     -         1952   30    0 
+sonofsam  853029436  3  3 c   k     k     k         1922   10    0 2s Kc
+sonofsam  853029453  3  2 Br  b     b     b         1912   70    0 Jc Kh
+sonofsam  853029474  3  1 Bc  b     -     -         1842   20   40 
+sonofsam  853029495  3  3 f   -     -     -         1862    0    0 
+sonofsam  853029523  3  2 Br  b     b     -         1862   50   85 
+sonofsam  853029543  3  1 Bc  k     k     k         1897   10   20 7s Ah
+sonofsam  853029563  3  3 cc  c     c     rr        1907  130  145 4c 7d
+sonofsam  853029604  3  2 Bc  b     -     -         1922   30   70 
+sonofsam  853029617  3  1 Bcc brc   b     b         1962  110  270 
+sonofsam  853029664  3  3 c   c     cc    f         2122   60    0 
+sonofsam  853029697  3  2 Bk  b     -     -         2062   20   35 
+sonofsam  853029716  3  1 Br  bc    br    b         2077  120  120 6s 6h
+sonofsam  853029756  3  3 c   b     b     b         2077   60  110 
+sonofsam  853029794  3  2 Br  b     -     -         2127   30   60 
+sonofsam  853029811  3  1 Bc  kc    kf    -         2157   20    0 
+sonofsam  853029836  3  3 c   b     -     -         2137   20   35 
+sonofsam  853029851  3  2 Bk  b     -     -         2152   20   30 
+sonofsam  853029865  3  1 Bc  b     b     b         2162   60  110 
+sonofsam  853029888  3  3 r   b     b     b         2212   70    0 5d Qd
+sonofsam  853029913  3  2 Bc  k     b     -         2142   40   80 
+sonofsam  853029941  3  1 Bc  kc    k     b         2182   50  110 7h 3c
+sonofsam  853029973  3  3 cc  f     -     -         2242   20    0 
+sonofsam  853029992  3  2 Bk  r     b     -         2222   50   90 
+sonofsam  853030023  3  1 Bc  k     k     b         2262   30   40 
+sonofsam  853030048  3  3 cc  k     f     -         2272   20    0 
+sonofsam  853030068  3  2 Brc b     b     b         2252   90  180 4h 4c
+sonofsam  853030094  3  1 Br  b     b     b         2342   70  140 Th Qs
+sonofsam  853030114  3  3 cc  b     -     -         2412   30   70 
+sonofsam  853030131  3  2 B   -     -     -         2452   10   15 
+sonofsam  853030135  3  1 Br  b     bc    kc        2457   90    0 Jc Ac
+sonofsam  853030156  3  3 cc  b     b     -         2367   50  100 
+sonofsam  853030183  3  2 Bk  c     bc    kf        2417   60    0 
+sonofsam  853030208  3  1 Brc bc    kf    -         2357   60    0 
+sonofsam  853030230  3  3 c   k     k     k         2297   10    0 3c 4s
+sonofsam  853030253  3  2 Bk  b     -     -         2287   20   30 
+sonofsam  853030267  3  1 Bc  b     b     b         2297   60  120 Js 6h
+sonofsam  853030284  2  2 Bc  c     c     c         2357   70    0 8s Qs
+sonofsam  853030305  2  1 Bcc kf    -     -         2287   20    0 
+sonofsam  853030319  2  2 B   -     -     -         2267   10   15 
+sonofsam  853030321  2  1 Bc  b     -     -         2272   20   30 
+sonofsam  853030329  2  2 B   -     -     -         2282   10   15 
+sonofsam  853030332  2  1 Bcc brc   kc    kc        2287  100  200 5d 6s
+sonofsam  853030366  3  3 r   k     k     b         2387   40   85 Qh Td
+sonofsam  853030388  3  2 Bk  k     kc    k         2432   30   65 9s 2s
+sonofsam  853030407  3  1 Bc  k     k     b         2467   30   50 
+sonofsam  853030436  3  3 c   b     b     -         2487   40   70 
+sonofsam  853030456  3  2 Bk  r     b     br        2517  110  145 6s 8d
+sonofsam  853030486  3  1 Bc  k     k     k         2552   10    0 8c Qd
+sonofsam  853030519  3  3 f   -     -     -         2542    0    0 
+sonofsam  853030535  3  2 Bc  f     -     -         2542   20    0 
+sonofsam  853030550  4  1 Bc  brc   k     bf        2522   80    0 
+sonofsam  853030653  4  4 c   b     -     -         2442   20   45 
+sonofsam  853030684  3  2 f   -     -     -         2467    0    0 
+sonofsam  853030695  3  2 Bc  k     k     k         2467   20    0 8d Ks
+sonofsam  853030740  3  1 Bc  b     b     b         2447   70  170 3c 4s
+sonofsam  853030775  3  3 r   c     c     b         2547   70  150 
+sonofsam  853030829  3  2 Br  b     b     -         2627   50  100 
+sonofsam  853030869  3  1 Bf  -     -     -         2677    5    0 
+sonofsam  853030887  3  3 r   -     -     -         2672   20   35 
+sonofsam  853030896  3  2 Brc rc    f     -         2687   70    0 
+sonofsam  853030926  3  1 Bc  k     k     k         2617   10   20 9s Qd
+sonofsam  853030947  3  3 c   b     b     b         2627   60    0 7s Ts
+sonofsam  853030977  3  2 Br  b     -     -         2567   30   50 
+sonofsam  853030993  3  1 Bcc kf    -     -         2587   20    0 
+sonofsam  853031007  3  3 cc  c     c     c         2567   70    0 Qd 9h
+sonofsam  853031025  3  2 Bc  b     br    kc        2497  110    0 Jc Ad
+sonofsam  853031059  3  1 Bc  b     -     -         2387   20   40 
+sonofsam  853031075  3  3 c   r     r     k         2407   70    0 9d 6s
+sonofsam  853031105  3  2 Brc b     b     b         2337   90    0 5h 5s
+sonofsam  853031127  3  1 Bc  br    bc    kc        2247  100    0 3s 5c
+sonofsam  853031164  3  3 c   f     -     -         2147   10    0 
+sonofsam  853031181  3  2 Br  b     bc    kc        2137   90    0 Qd Jc
+sonofsam  853031211  3  1 Bc  b     b     b         2047   60  100 
+sonofsam  853031232  3  3 cc  c     r     b         2087   90    0 7h Qd
+sonofsam  853031255  3  2 Bk  c     k     k         1997   20    0 Tc 9d
+sonofsam  853031273  3  1 Bc  kf    -     -         1977   20    0 
+sonofsam  853031289  4  3 cc  k     kf    -         1957   20    0 
+sonofsam  853031335  5  2 Bc  kf    -     -         1937   20    0 
+sonofsam  853031354  5  1 Bc  kf    -     -         1917   20    0 
+sonofsam  853031387  5  5 f   -     -     -         1897    0    0 
+sonofsam  853031400  5  4 f   -     -     -         1897    0    0 
+sonofsam  853031425  5  3 cc  rc    r     b         1897  110  290 Ac 5h
+sonofsam  853031460  5  2 Bc  r     bc    c         2077  120    0 7c Ts
+sonofsam  853031513  5  1 Bc  k     k     k         1957   10    0 4s 8d
+sonofsam  853031551  5  5 c   r     b     b         1947   70    0 Kd 5h
+sonofsam  853031584  5  4 c   rc    c     c         1877   90  145 Qh 9h
+sonofsam  853031620  5  3 cc  Q     -     -         1932   20    0 
+sonofsam  853031940  4  2 r   r     b     b         1912   80  140 
+sonofsam  853031967  4  2 Bcc rc    kc    kf        1972   90    0 
+sonofsam  853032022  4  1 Bc  kf    -     -         1882   10    0 
+sonofsam  853032055  4  4 c   c     c     c         1872   80    0 Qd 3c
+sonofsam  853032109  5  4 fQ  -     -     -         1792    0    0 
+sonofsam  853044160  2  1 Bcc kf    -     -         1792   20    0 
+sonofsam  853044194  2  2 Br  c     f     -         1772   30    0 
+sonofsam  853044287  3  1 Bc  b     b     -         1742   40   70 
+sonofsam  853044339  4  4 r   -     -     -         1772   20   50 
+sonofsam  853044372  4  3 r   r     -     -         1802   40   95 
+sonofsam  853044406  4  2 Bk  b     b     bf        1857   60    0 
+sonofsam  853044455  4  1 Bc  k     k     k         1797   10   30 Jh 2h
+sonofsam  853044490  4  4 f   -     -     -         1817    0    0 
+sonofsam  853044561  4  3 c   c     f     -         1817   20    0 
+sonofsam  853044609  4  2 Bk  k     k     k         1797   10    0 9d 3d
+sonofsam  853044662  3  1 Bc  k     k     k         1787   10    0 2h 3s
+sonofsam  853044785  3  3 c   b     -     -         1777   20   40 
+sonofsam  853044817  3  2 Br  b     b     b         1797   80  145 
+sonofsam  853044857  3  1 Br  b     bc    k         1862   70    0 5c 5d
+sonofsam  853044925  3  3 c   f     -     -         1792   10    0 
+sonofsam  853044945  3  2 Bc  f     -     -         1782   20    0 
+sonofsam  853044994  3  1 Brc b     br    b         1762  120  280 8d 8c
+sonofsam  853045056  3  3 cc  f     -     -         1922   20    0 
+sonofsam  853045134  3  2 Bk  b     -     -         1902   20   30 
+sonofsam  853045149  3  1 Bc  k     kf    -         1912   10    0 
+sonofsam  853045181  3  3 cc  f     -     -         1902   20    0 
+sonofsam  853045206  3  2 Bk  rr    -     -         1882   50   90 
+sonofsam  853045236  3  1 Bc  b     kf    -         1922   20    0 
+sonofsam  853045280  4  3 f   -     -     -         1902    0    0 
+sonofsam  853045289  4  2 Bcc f     -     -         1902   30    0 
+sonofsam  853045329  4  1 Br  b     b     bf        1872   70    0 
+sonofsam  853045386  4  4 f   -     -     -         1802    0    0 
+sonofsam  853045429  4  3 f   -     -     -         1802    0    0 
+sonofsam  853045471  4  2 Bk  r     KQ    -         1802   30    0 
+sonofsam  853045926  7  4 cc  f     -     -         1772   20    0 
+sonofsam  853046027  7  3 r   b     b     b         1752   70  125 
+sonofsam  853046104  8  2 Bk  k     k     k         1807   10   25 Ac Jh
+sonofsam  853046169  8  1 Bc  bf    -     -         1822   30    0 
+sonofsam  853046302  7  7 c   c     rr    b         1792  120  245 
+sonofsam  853046379  7  6 c   f     -     -         1917   10    0 
+sonofsam  853046435  6  4 cc  f     -     -         1907   20    0 
+sonofsam  853046510  6  3 cc  c     f     -         1887   40    0 
+sonofsam  853046576  6  2 Bc  b     brc   kf        1847  110    0 
+sonofsam  853046660  7  1 Bc  b     -     -         1737   20   40 
+sonofsam  853046696  7  7 c   f     -     -         1757   10    0 
+sonofsam  853046741  7  6 f   -     -     -         1747    0    0 
+sonofsam  853046813  7  5 c   b     -     -         1747   20   45 
+sonofsam  853046860  7  4 cc  kf    -     -         1772   20    0 
+sonofsam  853046897  8  3 cc  cc    b     r         1752  130    0 8d Qd
+sonofsam  853047030  9  2 Bc  kf    -     -         1622   40    0 
+sonofsam  853047127 10  1 Bc  k     kf    -         1582   10    0 
+sonofsam  853047198 10 10 c   f     -     -         1572   10    0 
+sonofsam  853047290 10  9 c   f     -     -         1562   10    0 
+sonofsam  853047378 10  8 cc  br    b     b         1552   90  310 
+sonofsam  853047497  8  6 c   ccc   kcc   kf        1772  110    0 
+sonofsam  853047627  7  4 f   -     -     -         1662    0    0 
+sonofsam  853047721  6  3 rc  br    b     b         1662  120  405 5h 5s
+sonofsam  853047803  6  2 Bcc kf    -     -         1947   40    0 
+sonofsam  853047862  6  1 Bc  kf    -     -         1907   20    0 
+sonofsam  853047898  6  6 c   c     f     -         1887   30    0 
+sonofsam  853047965  6  5 rc  r     r     b         1857  110  260 7c 7h
+sonofsam  853048018  6  4 f   -     -     -         2007    0    0 
+sonofsam  853048087  6  3 cc  f     -     -         2007   20    0 
+sonofsam  853048128  6  2 Bc  kc    b     -         1987   50  130 
+sonofsam  853048177  6  1 Bc  bc    bc    kf        2067   70    0 
+sonofsam  853048283  5  5 rc  c     r     c         1997  110  135 9s 9h
+sonofsam  853048382  5  4 c   k     k     k         2022   10   25 Ac 8c
+sonofsam  853048430  5  3 c   b     b     b         2037   60  135 2c As
+sonofsam  853048471  5  2 Bk  k     b     -         2112   30   60 
+sonofsam  853048526  5  1 Bc  bf    -     -         2142   30    0 
+sonofsam  853048563  5  5 f   -     -     -         2112    0    0 
+sonofsam  853048584  5  4 ccc brc   br    b         2112  160  510 9h 3h
+sonofsam  853048704  6  3 cc  bc    bc    k         2462   90    0 4c 7c
+sonofsam  853048784  5  2 Bc  kcc   bc    kc        2372  140  420 Ac 2s
+sonofsam  853048885  6  1 Bc  b     b     b         2652   60  110 
+sonofsam  853048926  6  6 rc  rc    c     k         2702  100    0 Js Jc
+sonofsam  853049000  7  6 c   b     b     -         2602   40   80 
+sonofsam  853049062  6  4 cc  kf    -     -         2642   20    0 
+sonofsam  853049121  6  3 cc  kf    -     -         2622   20    0 
+sonofsam  853049179  6  2 Bcc kf    -     -         2602   40    0 
+sonofsam  853049244  6  1 Bcc kf    -     -         2562   40    0 
+sonofsam  853049307  6  6 f   -     -     -         2522    0    0 
+sonofsam  853049372  6  5 cc  b     -     -         2522   30  100 
+sonofsam  853049442  6  4 cc  cc    c     c         2592  110    0 6h 3d
+sonofsam  853049543  6  3 cc  bc    krc   krr       2482  240   10 4h 6s
+sonofsam  853049689  6  2 Bc  kf    -     -         2252   30    0 
+sonofsam  853049827  6  1 Bc  bcc   kf    -         2222   60    0 
+sonofsam  853049920  6  6 rc  rc    b     -         2162  100  310 
+sonofsam  853050029  6  5 ccc rc    c     rr        2372  180  560 3h 4d
+sonofsam  853050151  6  4 ccc b     rr    b         2752  150    0 6h Qd
+sonofsam  853050241  7  3 cc  f     -     -         2602   40    0 
+sonofsam  853050344  6  2 Bc  kf    -     -         2562   40    0 
+sonofsam  853050442  6  1 Bc  bc    k     kr        2522   80  180 
+sonofsam  853050512  6  6 c   k     bf    -         2622   30    0 
+sonofsam  853050603  5  4 cc  br    b     b         2592   90  215 
+sonofsam  853050660  5  3 cc  kf    -     -         2717   20    0 
+sonofsam  853050746  5  2 Bcc br    bc    brc       2697  200  545 Tc 4s
+sonofsam  853050876  5  1 BQ  -     -     -         3042    5    0 

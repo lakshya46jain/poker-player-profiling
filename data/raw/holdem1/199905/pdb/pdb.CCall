@@ -1,0 +1,428 @@
+CCall     926454355  5  5 r   f     -     -          920   30    0 
+CCall     926454382  6  4 r   b     f     -          890   30    0 
+CCall     926454426  7  3 r   bcc   kf    -          860   50    0 
+CCall     926454468  7  1 Br  bc    kf    -          810   40    0 
+CCall     926454527  7  1 Br  bc    kf    -          770   40    0 
+CCall     926454565  7  7 r   -     -     -          730   20   35 
+CCall     926454583  7  6 r   b     r     b          745   90  295 Kd Ks
+CCall     926454631  7  5 c   rc    c     r          950  110  255 8c 4s
+CCall     926454668  7  4 r   b     bc    c         1095   90    0 Qd Qh
+CCall     926454726  8  4 r   kf    -     -         1005   20    0 
+CCall     926454767  8  3 r   b     br    b          985  110  255 Ah Qc
+CCall     926454814  8  2 Br  bc    b     kcc       1130  100    0 2d 7d
+CCall     926454888  5  1 Br  b     -     -         1030   30   90 
+CCall     926454911  4  4 r   b     bc    c         1090  100    0 Kc 7h
+CCall     926454939  3  3 r   r     b     b          990   80  180 Ts Td
+CCall     926454962  3  2 B   -     -     -         1090   10   15 
+CCall     926454969  3  1 Bc  kc    kc    k         1095   50    0 9h 2h
+CCall     926454997  3  3 r   b     b     -         1045   50   90 
+CCall     926455023  3  2 Br  k     f     -         1085   20    0 
+CCall     926455047  3  1 Br  -     -     -         1065   30   60 
+CCall     926455067  3  3 rc  c     c     c         1095   80    0 Ad 6c
+CCall     926455093  3  2 B   -     -     -         1015   10   15 
+CCall     926455102  3  1 Bcc kf    -     -         1020   30    0 
+CCall     926455123  3  3 rc  c     c     r          990  100  230 3h 4s
+CCall     926455149  4  2 Bc  b     b     k         1120   50  120 8h As
+CCall     926455181  4  1 Bc  kf    -     -         1190   20    0 
+CCall     926455198  4  4 r   f     -     -         1170   30    0 
+CCall     926455213  4  3 r   b     bc    c         1140   90  185 3d 6h
+CCall     926455241  4  2 Br  b     b     c         1235   70  180 8d Kc
+CCall     926455318  4  1 Brc b     b     b         1345   90  200 
+CCall     926455391  4  4 c   c     k     b         1455   50  115 9s Kd
+CCall     926455420  4  3 r   bc    kf    -         1520   40    0 
+CCall     926455455  4  2 Br  k     f     -         1480   40    0 
+CCall     926455479  4  1 Bc  kcc   kc    kf        1440   70    0 
+CCall     926455545  4  4 r   b     -     -         1370   30   65 
+CCall     926455562  4  3 r   b     -     -         1405   30   55 
+CCall     926455583  4  2 Bc  k     b     -         1430   40   65 
+CCall     926455608  4  1 Br  b     b     b         1455   70  130 
+CCall     926455635  4  4 c   b     k     k         1515   30    0 8c 5h
+CCall     926455659  4  3 c   f     -     -         1485   10    0 
+CCall     926455674  4  2 Br  bc    kc    k         1475   60    0 Ah Qs
+CCall     926455701  4  1 Bf  -     -     -         1415    5    0 
+CCall     926455708  4  4 r   b     b     b         1410   70  160 
+CCall     926455747  4  3 c   b     -     -         1500   20   40 
+CCall     926455766  4  2 B   -     -     -         1520   10   15 
+CCall     926455768  4  1 Br  b     k     k         1525   30   60 4s Ks
+CCall     926455785  4  4 rc  r     r     b         1555  130  480 5h 6c
+CCall     926455837  4  3 r   b     k     c         1905   50    0 5d 8h
+CCall     926455865  4  2 Br  k     f     -         1855   30    0 
+CCall     926455890  6  1 Brc kf    -     -         1825   30    0 
+CCall     926455921  6  6 r   r     bc    c         1795  100    0 Js 4h
+CCall     926455958  8  5 rc  bc    b     b         1695   90  395 2s 7d
+CCall     926456037  9  4 fQ  -     -     -         2000    0    0 
+CCall     926906958 10  3 f   -     -     -         1000    0    0 
+CCall     926907020 10  2 Bf  -     -     -         1000   10    0 
+CCall     926907074 10  1 Bf  -     -     -          990    5    0 
+CCall     926907120 10 10 c   rc    c     k          985   60    0 6c Kc
+CCall     926907178 10  9 f   -     -     -          925    0    0 
+CCall     926907219 10  8 r   r     c     c          925   80    0 Kc 2c
+CCall     926907291 10  7 c   cc    kf    -          845   40    0 
+CCall     926907360 10  6 f   -     -     -          805    0    0 
+CCall     926907482 10  5 r   b     b     k          805   50    0 Ts 9c
+CCall     926907549 10  4 f   -     -     -          755    0    0 
+CCall     926907605 10  3 r   bc    b     b          755   80  115 Ks Qh
+CCall     926907660 10  2 Bk  k     k     kf         790   10    0 
+CCall     926907698 10  1 Bf  -     -     -          780    5    0 
+CCall     926907750 10 10 f   -     -     -          775    0    0 
+CCall     926907803 10  9 rc  f     -     -          775   30    0 
+CCall     926907865 10  9 c   f     -     -          745   10    0 
+CCall     926907946  9  3 Q   -     -     -          735    0    0 
+CCall     926966126  3  1 Brc brc   kc    kc         820  120    0 8c 8h
+CCall     926966170  2  1 Br  k     b     b          700   60  120 8d Qd
+CCall     926966200  3  3 c   b     c     k          760   40    0 9d 5h
+CCall     926966223  2  2 Br  b     -     -          720   30   50 
+CCall     926966238  2  1 Bc  bc    b     kc         740   70    0 4s 6s
+CCall     926966257  2  2 Bc  c     k     k          670   30    0 5d Js
+CCall     926966275  2  1 Bf  -     -     -          640    5    0 
+CCall     926966280  2  2 Br  -     -     -          635   20   30 
+CCall     926966284  2  1 Bcc kf    -     -          645   20    0 
+CCall     926966299  2  2 B   -     -     -          625   10   15 
+CCall     926966301  2  1 Br  bc    kc    k          630   60    0 6h 2s
+CCall     926966327  2  2 B   -     -     -          570   10   15 
+CCall     926966331  2  1 BQ  -     -     -          575    5    0 
+CCall     927175056 10  3 f   -     -     -          890    0    0 
+CCall     927175084 10  2 Br  bc    kc    k          890   70    0 As 8d
+CCall     927175130 10  1 Bf  -     -     -          820    5    0 
+CCall     927175149 10 10 r   b     c     k          815   60    0 9s Th
+CCall     927175196 10  9 r   b     b     b          755   80    0 3s Js
+CCall     927175231 10  8 rc  f     -     -          675   40    0 
+CCall     927175252 10  7 r   b     -     -          635   30   75 
+CCall     927175267 10  6 rr  c     rc    f          680  120    0 
+CCall     927175357  9  5 f   -     -     -          560    0    0 
+CCall     927175368  9  4 rc  b     b     b          560   80  285 
+CCall     927175431  9  3 rr  b     k     bf         765   70    0 
+CCall     927175503  9  2 Br  b     b     b          695   70  180 Th Td
+CCall     927175550 10  1 Br  b     brc   bf         805  130    0 
+CCall     927175632 10 10 f   -     -     -          675    0    0 
+CCall     927175662 10  9 rr  c     c     f          675   70    0 
+CCall     927175701 10  8 rc  f     -     -          605   40    0 
+CCall     927175775 10  7 r   c     k     c          565   50    0 9s Ah
+CCall     927175827 10  6 f   -     -     -          515    0    0 
+CCall     927175884 10  5 r   b     b     b          515   70  190 
+CCall     927175936 10  4 rc  kf    -     -          635   40    0 
+CCall     927176013  9  3 f   -     -     -          595    0    0 
+CCall     927176048  9  2 Br  b     kc    k          595   60  250 Kc Th
+CCall     927176120  9  1 Br  bf    -     -          785   30    0 
+CCall     927176160  8  8 r   r     -     -          755   40  130 
+CCall     927176187  8  7 r   b     b     b          845   70  185 
+CCall     927176250  8  6 c   f     -     -          960   20    0 
+CCall     927176280  7  5 rc  c     rc    f          940  110    0 
+CCall     927176352  7  4 Q   -     -     -          830    0    0 
+CCall     927181890  9  6 f   -     -     -          830    0    0 
+CCall     927181955  9  5 f   -     -     -          830    0    0 
+CCall     927181998  8  4 f   -     -     -          830    0    0 
+CCall     927182054  8  3 f   -     -     -          830    0    0 
+CCall     927182116  8  2 Bc  kf    -     -          830   20    0 
+CCall     927182157  8  1 Brc b     b     b          810   90  220 
+CCall     927182195  8  8 f   -     -     -          940    0    0 
+CCall     927182235  8  7 f   -     -     -          940    0    0 
+CCall     927182271  9  6 f   -     -     -          940    0    0 
+CCall     927182319  9  5 Q   -     -     -          940    0    0 
+CCall     927183033 10  6 rc  kc    kc    kf         940   60    0 
+CCall     927183073 10  5 c   f     -     -          880   10    0 
+CCall     927183117 10  4 f   -     -     -          870    0    0 
+CCall     927183205 10  3 f   -     -     -          870    0    0 
+CCall     927183254 10  2 Bk  kf    -     -          870   10    0 
+CCall     927183318 10  1 Bc  b     kf    -          860   20    0 
+CCall     927183386 10 10 f   Q     -     -          840    0    0 
+CCall     927254530 10  2 Bc  kf    -     -         1540   20    0 
+CCall     927254626 10  1 Bf  -     -     -         1520    5    0 
+CCall     927254681 10 10 f   -     -     -         1515    0    0 
+CCall     927254739 10  9 f   -     -     -         1515    0    0 
+CCall     927254826 10  8 f   -     -     -         1515    0    0 
+CCall     927254876 10  7 f   -     -     -         1515    0    0 
+CCall     927254934 10  6 f   -     -     -         1515    0    0 
+CCall     927255007 10  5 cc  k     kf    -         1515   20    0 
+CCall     927255088  9  4 f   -     -     -         1495    0    0 
+CCall     927255156 10  3 ccc f     -     -         1495   40    0 
+CCall     927255253 10  2 Brc kc    kcc   kc        1455  130    0 Th Tc
+CCall     927255321 10  1 Br  kf    -     -         1325   20    0 
+CCall     927255415 10 10 f   -     -     -         1305    0    0 
+CCall     927255486 10  9 f   -     -     -         1305    0    0 
+CCall     927255559  9  5 Q   -     -     -         1305    0    0 
+CCall     927266608  9  4 f   -     -     -         1305    0    0 
+CCall     927266648  9  3 f   -     -     -         1305    0    0 
+CCall     927266702  9  2 Bf  -     -     -         1305   10    0 
+CCall     927266731  9  1 Bf  -     -     -         1295    5    0 
+CCall     927266792 10 10 f   -     -     -         1290    0    0 
+CCall     927266868 10  9 r   c     f     -         1290   40    0 
+CCall     927266906  9  7 f   -     -     -         1250    0    0 
+CCall     927266939 10  7 f   -     -     -         1250    0    0 
+CCall     927266982 10  6 f   -     -     -         1250    0    0 
+CCall     927267050 10  5 crc k     k     k         1250   40    0 Qc Ad
+CCall     927267127  9  4 cc  r     b     b         1210   80  265 9d Ac
+CCall     927267220  9  3 f   -     -     -         1395    0    0 
+CCall     927267266  9  2 Bk  kc    kc    kf        1395   40    0 
+CCall     927267316  9  1 Bf  -     -     -         1355    5    0 
+CCall     927267344  9  9 c   f     -     -         1350   20    0 
+CCall     927267383  9  8 c   r     c     c         1330   80    0 Jh Kd
+CCall     927267419  9  7 f   Q     -     -         1250    0    0 
+CCall     927500162  8  5 f   -     -     -         1432    0    0 
+CCall     927500245  9  5 f   -     -     -         1432    0    0 
+CCall     927500320  9  4 KQ  -     -     -         1432    0    0 
+CCall     927500781  9  6 c   bc    c     c         1432   70    0 7s 8c
+CCall     927500836  9  5 c   bc    kr    b         1362  100  275 Js 3h
+CCall     927500886  9  4 c   rc    b     b         1537   80  300 Ks 8d
+CCall     927500941  9  3 cc  kc    kf    -         1757   40    0 
+CCall     927500986  9  2 Bf  -     -     -         1717   10    0 
+CCall     927501018  9  1 Bc  kf    -     -         1707   10    0 
+CCall     927501050  9  9 f   -     -     -         1697    0    0 
+CCall     927501114 10  8 r   rf    -     -         1697   50    0 
+CCall     927501207 10  7 f   -     -     -         1647    0    0 
+CCall     927501266  9  5 cc  kf    -     -         1647   20    0 
+CCall     927501306  9  4 r   bc    kf    -         1627   40    0 
+CCall     927501368  8  3 f   -     -     -         1587    0    0 
+CCall     927501410  8  2 Bf  -     -     -         1587   10    0 
+CCall     927501451  9  1 Bf  -     -     -         1577    5    0 
+CCall     927501581  8  8 f   -     -     -         1572    0    0 
+CCall     927501627  7  6 r   b     b     -         1572   50  140 
+CCall     927501658  6  4 c   kf    -     -         1662   10    0 
+CCall     927501687  6  3 c   kc    kf    -         1652   20    0 
+CCall     927501728  7  2 Bf  -     -     -         1632   10    0 
+CCall     927501737  7  1 Bcc kc    kf    -         1622   30    0 
+CCall     927501770  7  7 c   rc    c     f         1592   60    0 
+CCall     927501809  7  6 f   -     -     -         1532    0    0 
+CCall     927501844  9  7 f   -     -     -         1532    0    0 
+CCall     927501901  9  6 f   -     -     -         1532    0    0 
+CCall     927501960  9  5 r   bc    k     c         1532   60    0 Jd Ad
+CCall     927502029  9  4 f   -     -     -         1472    0    0 
+CCall     927502079  9  3 cc  b     b     b         1472   70    0 5d 4d
+CCall     927502117  9  2 Bk  k     kc    k         1402   30    0 7c Td
+CCall     927502178  9  1 Br  b     b     b         1372   70  250 Ks Js
+CCall     927502239  8  8 f   -     -     -         1552    0    0 
+CCall     927502269  8  7 c   k     k     b         1552   30   55 
+CCall     927502300  7  5 f   -     -     -         1577    0    0 
+CCall     927502360  7  4 f   -     -     -         1577    0    0 
+CCall     927502387  8  3 f   -     -     -         1577    0    0 
+CCall     927502421  8  2 Br  b     b     b         1577   70  290 Ts Qs
+CCall     927502494  8  1 Br  k     b     k         1797   40  120 7d 7h
+CCall     927502530  8  8 rc  b     b     k         1877   60  180 Qd 7d
+CCall     927502580  8  7 f   -     -     -         1997    0    0 
+CCall     927502609  8  6 cc  c     f     -         1997   40    0 
+CCall     927502667  9  6 f   -     -     -         1957    0    0 
+CCall     927502719  8  4 c   k     bc    kf        1957   50    0 
+CCall     927502761  8  4 f   -     -     -         1907    0    0 
+CCall     927502780  7  3 rc  kr    kf    -         1907   50    0 
+CCall     927502836  7  2 Bf  -     -     -         1857   10    0 
+CCall     927502885  8  1 Bf  -     -     -         1847    5    0 
+CCall     927502927  8  8 c   c     c     c         1842   80    0 Jd Ks
+CCall     927502971  8  7 f   -     -     -         1762    0    0 
+CCall     927503010  8  6 rr  b     -     -         1762   50  185 
+CCall     927503046  8  5 f   -     -     -         1897    0    0 
+CCall     927503112  8  4 c   cc    kc    k         1897   50    0 7d Kd
+CCall     927503154  8  3 rc  c     f     -         1847   40    0 
+CCall     927503192  8  2 Bf  -     -     -         1807   10    0 
+CCall     927503225  8  1 Bc  kc    k     b         1797   50   90 
+CCall     927503263  8  8 c   b     k     k         1837   20   80 Kc 8h
+CCall     927503308  7  6 f   -     -     -         1897    0    0 
+CCall     927503345  7  6 f   -     -     -         1897    0    0 
+CCall     927503364  7  5 f   -     -     -         1897    0    0 
+CCall     927503394  7  4 r   b     k     b         1897   50  125 5s 5d
+CCall     927503426  7  3 r   b     b     -         1972   50  105 Qd Ac
+CCall     927503484  5  1 Bc  k     kf    -         2027   20    0 
+CCall     927503516  5  1 Bf  -     -     -         2007    5    0 
+CCall     927503549  6  6 f   -     -     -         2002    0    0 
+CCall     927503574  6  5 f   -     -     -         2002    0    0 
+CCall     927503587  6  4 fQ  -     -     -         2002    0    0 
+CCall     927686786 10  1 Bf  -     -     -         1454    5    0 
+CCall     927686827 10 10 r   f     -     -         1449   20    0 
+CCall     927686908 10  9 f   -     -     -         1429    0    0 
+CCall     927686927 10  8 r   b     b     b         1429   70    0 Ac Kh
+CCall     927687045 10  7 f   -     -     -         1359    0    0 
+CCall     927687063 10  6 f   -     -     -         1359    0    0 
+CCall     927687090 10  5 c   k     cc    kf        1359   50    0 
+CCall     927687159 10  4 rc  k     kf    -         1309   30    0 
+CCall     927687203 10  3 f   -     -     -         1279    0    0 
+CCall     927687273 10  2 Bc  kf    -     -         1279   20    0 
+CCall     927687324 10  1 Bf  -     -     -         1259    5    0 
+CCall     927687364 10 10 c   k     f     -         1254   10    0 
+CCall     927687415 10  9 c   c     rc    f         1244  100    0 
+CCall     927687474 10  8 rc  kc    bc    b         1144  100  365 Ad 6d
+CCall     927687540 10  7 c   bc    c     c         1409   70    0 2s Kh
+CCall     927687593  8  6 c   c     f     -         1339   20    0 
+CCall     927687621  8  5 f   -     Q     -         1319    0    0 
+CCall     927688588  8  5 r   k     b     b         1319   70  185 Jc 8c
+CCall     927688624  8  4 cc  f     -     -         1434   20    0 
+CCall     927688657  8  3 f   -     -     -         1414    0    0 
+CCall     927688685  8  2 Bc  k     k     k         1414   30   95 7d 8h
+CCall     927688714  8  1 Bf  -     -     -         1479    5    0 
+CCall     927688767  8  8 f   -     -     -         1474    0    0 
+CCall     927688797  9  7 f   -     -     -         1474    0    0 
+CCall     927688858  9  6 cc  f     -     -         1474   20    0 
+CCall     927688906  8  5 c   f     -     -         1454   20    0 
+CCall     927688930  9  4 rc  k     f     -         1434   30    0 
+CCall     927688999  9  3 cc  c     k     k         1404   30   40 As 9d
+CCall     927689027  9  2 Br  bc    bc    k         1414  100  255 Qd Qh
+CCall     927689068  9  1 Bc  b     bc    b         1569   80  180 
+CCall     927689101  9  9 c   c     c     f         1669   50    0 
+CCall     927689136  8  7 rc  rc    c     c         1619  110    0 8d 7d
+CCall     927689199  8  6 c   f     -     -         1509   20    0 
+CCall     927689215  8  5 cc  f     -     -         1489   30    0 
+CCall     927689240  8  4 f   -     -     -         1459    0    0 
+CCall     927689288  8  3 f   -     -     -         1459    0    0 
+CCall     927689312  8  2 Bf  -     -     -         1459   10    0 
+CCall     927689339  8  1 Br  br    bc    kf        1449  110    0 
+CCall     927689413  8  8 f   -     -     -         1339    0    0 
+CCall     927689441  8  7 f   -     -     -         1339    0    0 
+CCall     927689477  8  6 f   -     -     -         1339    0    0 
+CCall     927689536  8  5 rc  r     k     b         1339   80    0 Qs Kh
+CCall     927689579  8  4 f   -     -     -         1259    0    0 
+CCall     927689623  8  3 cc  f     -     -         1259   20    0 
+CCall     927689650  8  2 Bcc kf    Q     -         1239   40    0 
+CCall     927787826  6  2 Bc  kc    kf    -          295   30    0 
+CCall     927787867  5  1 Bcc kc    kc    kf         265   60    0 
+CCall     927787906  6  6 r   rc    c     c          205  100    0 5d 8c
+CCall     927787950  6  6 cc  r     k     k          105   40    0 4c Kc
+CCall     927788002  5  4 rc  cc    cA    -           65   65    0 Kc Ac
+CCall     927939038 10  9 f   -     -     -         1020    0    0 
+CCall     927939085 10  8 f   -     -     -         1020    0    0 
+CCall     927939117 10  7 f   -     -     -         1020    0    0 
+CCall     927939166 10  6 f   -     -     -         1020    0    0 
+CCall     927939215  9  5 r   k     f     -         1020   20    0 
+CCall     927939260  8  4 f   -     -     -         1000    0    0 
+CCall     927939321  8  3 cc  kf    -     -         1000   20    0 
+CCall     927939357  8  2 Br  b     -     -          980   30   75 
+CCall     927939376 10  1 Bf  -     -     -         1025    5    0 
+CCall     927939418 10 10 r   f     -     -         1020   20    0 
+CCall     927939492  9  8 r   c     f     -         1000   40    0 
+CCall     927939597  9  7 r   f     -     -          960   40    0 
+CCall     927939654  8  6 r   -     -     -          920   20   35 
+CCall     927939663  8  5 rc  bc    c     f          935   70    0 
+CCall     927939700  8  4 rc  cc    cc    c          865  160    0 As 4s
+CCall     927939780  9  4 f   -     -     -          705    0    0 
+CCall     927939845  8  2 r   k     c     f          705   40    0 
+CCall     927939894  9  2 Br  b     b     bc         665   90  185 Ac 5c
+CCall     927939924  9  1 Br  br    br    b          760  140  410 Qd 9s
+CCall     927939966  9  9 r   k     rc    f         1030   90    0 
+CCall     927940016 10  9 r   f     -     -          940   20    0 
+CCall     927940073 10  8 f   -     -     -          920    0    0 
+CCall     927940089  9  7 rc  brc   kc    kc         920  120    0 5s 4h
+CCall     927940153  8  5 r   rc    c     c          800   90    0 3c Kc
+CCall     927940188  8  4 rc  rc    c     r          710  130  365 9c 7h
+CCall     927940233  8  3 rr  cf    -     -          945   50    0 
+CCall     927940273  8  2 Bk  k     kf    -          895   10    0 
+CCall     927940297  8  1 Bf  -     -     -          885    5    0 
+CCall     927940326  8  8 f   -     -     -          880    0    0 
+CCall     927940353  7  6 f   -     -     -          880    0    0 
+CCall     927940383  7  5 f   -     -     -          880    0    0 
+CCall     927940397  7  4 KQ  -     -     -          880    0    0 
+CCall     928012224  9  7 f   -     -     -          945    0    0 
+CCall     928012263  9  6 f   -     -     -          945    0    0 
+CCall     928012296  8  4 f   -     -     -          945    0    0 
+CCall     928012323  8  3 r   b     bc    r          945  110    0 6h Ah
+CCall     928012371  7  2 Bf  -     -     -          835   10    0 
+CCall     928012413  7  1 Bf  -     -     -          825    5    0 
+CCall     928012451  7  7 rc  k     c     f          820   60    0 
+CCall     928012497  7  6 r   b     b     b          760   80  215 Jd 9h
+CCall     928012534  7  5 rc  f     -     -          895   30    0 
+CCall     928012591  7  4 r   c     c     c          865   70    0 Qh 7h
+CCall     928012629  6  3 rc  f     -     -          795   40    0 
+CCall     928012660  7  2 Bk  k     f     -          755   10    0 
+CCall     928012703  8  1 Br  k     kf    -          745   20    0 
+CCall     928012757  9  9 f   -     -     -          725    0    0 
+CCall     928012817 10  9 r   rc    c     rc         725  130    0 Tc Jc
+CCall     928012895 10  9 r   b     r     b          595   90  285 Kd Ah
+CCall     928012969  8  6 r   kf    -     -          790   20    0 
+CCall     928013036  8  5 r   r     b     b          770   80    0 2h Ks
+CCall     928013075  7  3 r   b     bc    c          690   90    0 Th 4s
+CCall     928013125  7  2 Br  b     b     b          600   70  145 
+CCall     928013192 10  1 Br  b     b     bf         675   80    0 
+CCall     928013281  9  9 rc  cc    k     f          595   80    0 
+CCall     928013358  8  7 r   rc    bc    c          515  110  265 6d 5d
+CCall     928013424  8  6 r   c     f     -          670   30    0 
+CCall     928013465  8  5 r   c     f     -          640   30    0 
+CCall     928013525 10  5 rc  cc    kf    -          610   80    0 
+CCall     928013615  9  4 rc  c     c     c          530   80    0 4s Qh
+CCall     928013657  9  3 rc  c     f     -          450   40    0 
+CCall     928013716  8  2 Brc kc    kf    -          410   50    0 
+CCall     928013758  7  1 Bcc b     k     kf         360   50    0 
+CCall     928013819  8  8 r   c     cc    f          310  130    0 
+CCall     928013891  8  7 rc  bc    r     f          180   90    0 
+CCall     928013952  7  6 rc  c     c     cA          90   90    0 Qs 9d
+CCall     928029620 10  5 f   -     -     -         1000    0    0 
+CCall     928029673 10  4 f   -     -     -         1000    0    0 
+CCall     928029740 10  3 f   -     -     -         1000    0    0 
+CCall     928029834 10  2 Bf  -     -     -         1000   10    0 
+CCall     928029973 10  1 Bf  -     -     -          990    5    0 
+CCall     928030058  9  9 f   -     -     -          985    0    0 
+CCall     928030158 10  9 r   rc    f     -          985   70    0 
+CCall     928030213 10  8 cc  cc    rc    rc         915  240    0 9h Kd
+CCall     928030310 10  7 rc  cc    kf    -          675   70    0 
+CCall     928030380 10  6 rr  brc   brc   br         605  220  675 9s Js
+CCall     928030579  9  4 cf  -     -     -         1060   20    0 
+CCall     928030630 10  4 rc  cf    -     -         1040   50    0 
+CCall     928030709 10  3 rr  br    b     b          990  110  500 5s 5c
+CCall     928030804 10  2 Bk  kf    -     -         1380   10    0 
+CCall     928030848  9  1 Br  b     b     b         1370   70  220 Kh Ts
+CCall     928030909 10 10 r   r     rc    r         1520  140  530 
+CCall     928031027  9  8 r   cc    f     -         1910   60    0 
+CCall     928031094 10  8 f   -     -     -         1850    0    0 
+CCall     928031245  9  6 rc  rc    rc    c         1850  170    0 Ac As
+CCall     928031368 10  6 rc  c     c     b         1680   80  215 
+CCall     928031430 10  5 r   bcc   kc    kc        1815  100    0 Kd Kh
+CCall     928031514 10  4 rc  kf    -     -         1715   30    0 
+CCall     928031627  9  3 r   b     rr    b         1685  130  595 
+CCall     928031716  9  2 Bk  bc    kf    -         2150   30    0 
+CCall     928031803  8  1 Bc  kf    -     -         2120   10    0 
+CCall     928031893  8  8 r   b     k     Q         2110   30    0 
+CCall     928033621 10  6 f   -     -     -         1640    0    0 
+CCall     928033681 10  5 f   -     -     -         1640    0    0 
+CCall     928033775 10  4 f   -     -     -         1640    0    0 
+CCall     928033850 10  3 f   -     -     -         1640    0    0 
+CCall     928033921 10  2 Br  b     kc    kc        1640   90    0 8s 8c
+CCall     928034004 10  1 Br  k     bf    -         1550   40    0 
+CCall     928034076  9  9 f   -     -     -         1510    0    0 
+CCall     928034112 10  9 f   -     -     -         1510    0    0 
+CCall     928034188 10  8 f   -     -     -         1510    0    0 
+CCall     928034254 10  7 f   -     -     -         1510    0    0 
+CCall     928034338 10  6 rr  bc    b     b         1510  100  410 Kc Qc
+CCall     928034432  9  4 f   -     -     -         1820    0    0 
+CCall     928034527  9  3 f   -     -     -         1820    0    0 
+CCall     928034593 10  2 Bf  -     -     -         1820   10    0 
+CCall     928034671 10  1 Brc brc   kc    kc        1810  120    0 Kc Ac
+CCall     928034769 10 10 rc  rc    c     c         1690  110  465 8d Jc
+CCall     928034848 10  9 f   -     -     -         2045    0    0 
+CCall     928034887 10  8 f   -     -     -         2045    0    0 
+CCall     928034990  9  6 f   -     -     -         2045    0    0 
+CCall     928035097  9  5 cc  kf    -     -         2045   20    0 
+CCall     928035196  9  4 f   -     -     -         2025    0    0 
+CCall     928035305  9  3 f   -     -     -         2025    0    0 
+CCall     928035400  9  3 f   -     -     -         2025    0    0 
+CCall     928035500 10  2 Br  bc    kf    -         2025   50    0 
+CCall     928035579 10  1 Bc  kc    kc    kf        1975   50    0 
+CCall     928035680 10 10 f   -     -     -         1925    0    0 
+CCall     928035745 10  9 rc  rc    rc    rc        1925  220    0 Ks Ah
+CCall     928035809 10  8 r   b     b     b         1705   70  150 
+CCall     928035853 10  7 f   -     -     -         1785    0    0 
+CCall     928035925  9  6 rc  kf    -     -         1785   30    0 
+CCall     928035992 10  5 f   -     -     -         1755    0    0 
+CCall     928036069 10  4 cc  br    br    brc       1755  220  950 6s 4s
+CCall     928036188 10  3 cc  k     k     b         2485   40  155 6c Kh
+CCall     928036253 10  2 Bf  -     -     -         2600   10    0 
+CCall     928036348 10  1 Bf  -     -     -         2590    5    0 
+CCall     928036451 10 10 r   bc    f     -         2585   50    0 
+CCall     928036560 10  9 f   -     -     -         2535    0    0 
+CCall     928036789 10  8 f   -     -     -         2535    0    0 
+CCall     928036889 10  7 f   -     -     -         2535    0    0 
+CCall     928036937 10  6 f   -     -     -         2535    0    0 
+CCall     928037028 10  5 r   k     b     bc        2535   80    0 Td Qh
+CCall     928037160 10  4 rr  bc    kf    -         2455   60    0 
+CCall     928037232 10  3 f   -     -     -         2395    0    0 
+CCall     928037293  9  2 Bf  -     -     -         2395   10    0 
+CCall     928037375 10  1 Bc  kcc   kc    kc        2385   90    0 7s 6c
+CCall     928037457 10 10 rc  cc    c     c         2295  120    0 Js Jh
+CCall     928037549 10  9 f   -     -     -         2175    0    0 
+CCall     928037627 10  8 rc  kc    f     -         2175   50    0 
+CCall     928037674 10  7 f   -     -     -         2125    0    0 
+CCall     928037751 10  6 f   -     -     -         2125    0    0 
+CCall     928037818 10  5 f   -     -     -         2125    0    0 
+CCall     928037967 10  4 rc  bc    brc   bc        2125  170  560 4d 4s
+CCall     928038040  9  2 Bk  b     b     b         2515   60  180 
+CCall     928038086 10  1 Bcc b     b     b         2635   90  300 Kd Js
+CCall     928038145 10 10 r   cf    -     -         2845   30    0 
+CCall     928038197 10  9 f   -     -     -         2815    0    0 
+CCall     928038258 10  8 r   k     cc    k         2815   60  255 7d 8h
+CCall     928038311 10  7 f   -     -     -         3010    0    0 
+CCall     928038381 10  6 f   -     -     -         3010    0    0 
+CCall     928038466  9  4 fQ  -     -     -         3010    0    0 

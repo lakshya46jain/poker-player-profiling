@@ -1,0 +1,83 @@
+gslam     910464160  5  3 f   -     -     -          458    0    0 
+gslam     910464194  7  2 Bc  k     kf    -          458   20    0 
+gslam     910464219  7  1 Bf  -     -     -          438    5    0 
+gslam     910464246  8  8 f   -     -     -          433    0    0 
+gslam     910464280  8  7 f   -     -     -          433    0    0 
+gslam     910464322  8  6 cc  kc    k     f          433   30    0 
+gslam     910464364  8  5 f   -     -     -          403    0    0 
+gslam     910464403  8  4 f   -     -     -          403    0    0 
+gslam     910464429  9  4 f   -     -     -          403    0    0 
+gslam     910464463  9  3 c   k     c     k          403   30  110 Qc Ts
+gslam     910464497  9  2 Bk  k     k     k          483   10    0 6s 2c
+gslam     910464548  9  1 Bc  k     kf    Q          473   10    0 
+gslam     910828269  8  6 r   b     b     -          463   50   95 
+gslam     910828330  8  4 f   -     -     -          508    0    0 
+gslam     910828357  8  3 cc  f     -     -          508   30    0 
+gslam     910828428  9  3 f   -     -     -          478    0    0 
+gslam     910828530  9  2 Bc  k     b     b          478   60    0 Td 5d
+gslam     910828662  6  1 Bf  -     -     -          418    5    0 
+gslam     910828736  6  6 f   -     -     -          413    0    0 
+gslam     910828777  6  5 f   -     -     -          413    0    0 
+gslam     910828806  6  4 f   Q     -     -          413    0    0 
+gslam     910918517  5  4 c   f     -     -          413   10    0 
+gslam     910918577  6  3 f   -     -     -          403    0    0 
+gslam     910918626  8  2 Bk  kc    kf    -          403   20    0 
+gslam     910918697  8  1 Bc  kcc   kc    k          383   80    0 Qs 5s
+gslam     910918792 10 10 f   -     -     -          303    0    0 
+gslam     910918892  9  8 c   k     bc    k          303   50    0 4c Qc
+gslam     910918963  9  7 c   f     -     -          253   10    0 
+gslam     910919048  9  6 f   -     -     -          243    0    0 
+gslam     910919117  9  5 f   -     -     -          243    0    0 
+gslam     910919186  9  4 f   -     -     -          243    0    0 
+gslam     910919264  8  3 f   -     -     -          243    0    0 
+gslam     910919334  8  2 Bc  kc    kf    -          243   30    0 
+gslam     910919397  9  1 Br  kc    kc    kc         213   70    0 Qs Qc
+gslam     910919468  8  8 c   c     c     f          143   40    0 
+gslam     910919542  8  7 f   -     -     -          103    0    0 
+gslam     910919620  7  6 f   -     -     -          103    0    0 
+gslam     910919690  7  5 cc  kc    c     kc         103   70    0 Td Kc
+gslam     910919778  6  3 f   -     -     -           33    0    0 
+gslam     910919836  6  3 c   b     bA    -           33   33   88 
+gslam     910919885  7  2 Bk  k     k     k           88   10    0 7d Jh
+gslam     910919919  7  1 Br  b     b     b           78   70    0 8s Ks
+gslam     910919958  7  7 cA  -     -     -            8    8    0 9h Qc
+gslam     911010423  6  3 f   -     -     -         1000    0    0 
+gslam     911010451  6  2 Bc  kc    k     bc        1000   70    0 Qs Tc
+gslam     911010478  6  1 Brc kc    kc    krc        930  130    0 9d As
+gslam     911010515  6  6 f   -     -     -          800    0    0 
+gslam     911010526  6  5 r   c     c     r          800   90  185 As Ad
+gslam     911010552  6  4 f   -     -     -          895    0    0 
+gslam     911010609  6  3 r   k     b     -          895   40   75 
+gslam     911010626  6  2 B   -     -     -          930   10   15 
+gslam     911010638  6  1 Bf  -     -     -          935    5    0 
+gslam     911010653  6  6 f   -     -     -          930    0    0 
+gslam     911010678  6  5 f   -     -     -          930    0    0 
+gslam     911010700  5  3 f   -     -     -          930    0    0 
+gslam     911010704  5  2 Bc  k     k     kf         930   20    0 
+gslam     911010730  5  1 Bf  -     -     -          910    5    0 
+gslam     911010744  5  5 f   -     -     -          905    0    0 
+gslam     911010748  5  4 f   -     -     -          905    0    0 
+gslam     911010795  5  3 f   -     -     -          905    0    0 
+gslam     911010812  5  2 Bk  k     bc    kf         905   50    0 
+gslam     911010833  5  1 Br  b     -     -          855   30   70 
+gslam     911010849  4  4 c   k     f     -          895   10    0 
+gslam     911010873  4  3 cc  kc    f     -          885   30    0 
+gslam     911010902  4  2 Bk  kf    -     -          855   10    0 
+gslam     911010931  4  1 Bc  k     k     b          845   30   40 
+gslam     911010949  4  4 cc  f     -     -          855   20    0 
+gslam     911010964  4  3 c   k     f     -          835   10    0 
+gslam     911010990  4  2 Br  bc    k     b          825   60  125 Jc Js
+gslam     911011016  4  1 Bc  kf    -     -          890   10    0 
+gslam     911011042  4  4 f   -     -     -          880    0    0 
+gslam     911011078  5  4 f   -     -     -          880    0    0 
+gslam     911011092  5  3 f   -     -     -          880    0    0 
+gslam     911011113  5  2 Bf  -     -     -          880   10    0 
+gslam     911011140  6  1 Bc  kf    -     -          870   10    0 
+gslam     911011189  6  6 f   -     -     -          860    0    0 
+gslam     911011219  6  4 c   k     f     -          860   10    0 
+gslam     911011241  6  3 c   b     k     b          850   40  100 Jh Kd
+gslam     911011269  6  2 Bk  k     c     k          910   30   70 Jd Jc
+gslam     911011309  6  1 Bc  kc    k     k          950   30    0 Ah Qh
+gslam     911011359  6  6 f   -     -     -          920    0    0 
+gslam     911011412  6  5 f   -     -     -          920    0    0 
+gslam     911011443  7  5 f   Q     -     -          920    0    0 

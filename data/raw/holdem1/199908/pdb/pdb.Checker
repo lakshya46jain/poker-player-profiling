@@ -1,0 +1,396 @@
+Checker   933487746 10  9 f   -     -     -          445    0    0 
+Checker   933487782 10  8 f   -     -     -          445    0    0 
+Checker   933487820 10  7 c   f     -     -          445   10    0 
+Checker   933487873 10  6 c   k     c     f          435   30    0 
+Checker   933487926 10  5 f   -     -     -          405    0    0 
+Checker   933488020 10  4 ccc c     f     -          405   50    0 
+Checker   933488138 10  3 f   -     -     -          355    0    0 
+Checker   933488214 10  2 Bk  k     kf    -          355   10    0 
+Checker   933488327 10  1 Bc  kc    kc    kf         345   50    0 
+Checker   933488390 10 10 f   -     -     -          295    0    0 
+Checker   933488425 10  9 cc  kc    kf    -          295   30    0 
+Checker   933488540 10  8 f   -     -     -          265    0    0 
+Checker   933488615 10  7 f   -     -     -          265    0    0 
+Checker   933488696  9  5 c   c     f     -          265   20    0 
+Checker   933488747 10  5 r   c     c     c          245   90    0 Ts Tc
+Checker   933488822 10  4 cc  f     -     -          155   20    0 
+Checker   933488865  9  2 c   c     c     c          135   60  220 7d Qd
+Checker   933488904 10  2 Bc  brc   kc    brc        295  160  545 Kc Qd
+Checker   933488980 10  1 Bc  kc    k     kc         680   40    0 Qc 2c
+Checker   933489054  9  9 c   f     -     -          640   20    0 
+Checker   933489103 10  9 c   c     c     c          620   60    0 9s Ks
+Checker   933489163  9  7 cc  r     cc    f          560   90    0 
+Checker   933489230  8  6 c   k     r     rc         470  110    0 Tc Ah
+Checker   933489290  9  5 f   -     -     -          360    0    0 
+Checker   933489342 10  4 c   cc    k     k          360   30  125 8h Ah
+Checker   933489470  9  3 f   -     -     -          455    0    0 
+Checker   933489507  9  2 Br  k     kf    -          455   20    0 
+Checker   933489562  9  1 Bc  k     k     b          435   40  100 
+Checker   933489627  9  9 f   -     -     -          495    0    0 
+Checker   933489684  9  8 f   -     -     -          495    0    0 
+Checker   933489797  9  7 c   f     -     -          495   10    0 
+Checker   933489875  9  6 f   -     -     -          485    0    0 
+Checker   933489941  9  5 f   -     -     -          485    0    0 
+Checker   933489981  9  4 c   f     -     -          485   10    0 
+Checker   933490025  9  3 r   kf    -     -          475   20    0 
+Checker   933490088  9  2 Bk  c     cc    kf         455   60    0 
+Checker   933490148  9  1 Bf  -     -     -          395    5    0 
+Checker   933490205  9  9 c   r     b     r          390   90  240 Qh Ac
+Checker   933490255 10  9 c   c     r     r          540  100  220 Ts Kh
+Checker   933490334 10  8 c   c     k     b          660   40    0 6s 5d
+Checker   933490404 10  7 c   c     f     -          620   20    0 
+Checker   933490460 10  6 f   -     -     -          600    0    0 
+Checker   933490541 10  5 c   k     k     k          600   10    0 7s 6c
+Checker   933490598 10  4 c   k     kf    -          590   10    0 
+Checker   933490696 10  3 c   kc    k     k          580   30    0 3d 5d
+Checker   933490765 10  2 Bk  f     -     -          550   10    0 
+Checker   933490792 10  1 Bf  -     -     -          540    5    0 
+Checker   933490825  9  9 cc  f     -     -          535   20    0 
+Checker   933490872 10  9 r   b     b     b          515   70  185 
+Checker   933490956  9  7 c   c     c     crc        630  120    0 Ad 3s
+Checker   933491032  9  6 c   c     KQ    -          510   30    0 
+Checker   933491298  7  4 c   f     -     -          480   10    0 
+Checker   933491345  8  3 c   krr   kc    kf         470   70    0 
+Checker   933491422  8  2 Br  kc    kcc   kc         400  110    0 8d 8s
+Checker   933491538  9  1 Bc  kc    kc    kc         290   60    0 Qc Kh
+Checker   933491605 10 10 f   -     -     -          230    0    0 
+Checker   933491677 10  9 f   -     -     -          230    0    0 
+Checker   933491722  9  8 c   c     k     c          230   50  150 Kh Ks
+Checker   933491807 10  7 f   -     -     -          330    0    0 
+Checker   933491900 10  6 cc  k     k     c          330   40    0 Kd 2c
+Checker   933492023  8  5 c   c     c     c          290   60  170 9s 7s
+Checker   933492095 10  4 Q   -     -     -          400    0    0 
+Checker   933562241 10  8 Q   -     -     -          400    0    0 
+Checker   933619753  2  1 Brr k     k     br         985  100  200 7c 8c
+Checker   933619778  2  2 Bk  k     k     k         1085   10   20 6d 4d
+Checker   933619799  2  1 Bc  kr    k     b         1095   50    0 Ad 6c
+Checker   933619824  2  2 Bk  c     k     b         1045   40   80 7s 3s
+Checker   933619848  2  1 Bc  b     b     -         1085   40   60 
+Checker   933619862  2  2 B   -     -     -         1105   10   15 
+Checker   933619869  2  1 Br  k     kc    k         1110   40    0 4s 7c
+Checker   933619899  2  2 Brr k     b     rr        1070  140  280 3s 3h
+Checker   933619929  2  1 Bcc kc    k     b         1210   50  100 Tc Ah
+Checker   933619958  2  2 B   -     -     -         1260   10   15 
+Checker   933619964  2  1 Bf  -     -     -         1265    5    0 
+Checker   933619971  2  2 Bk  c     r     b         1260   80    0 9d Qs
+Checker   933619995  2  1 Bc  bc    b     b         1180   70  140 6h Ac
+Checker   933620038  2  2 Bc  b     b     br        1250  110  110 8h 9d
+Checker   933620071  2  1 Brr k     kc    kc        1250   80    0 5h Jh
+Checker   933620136  3  3 c   k     f     -         1170   10    0 
+Checker   933620162  3  2 Br  c     c     r         1160  100    0 Ac Qh
+Checker   933620191  3  1 Bc  k     k     k         1060   10   20 5s Ad
+Checker   933620211  3  3 c   f     -     -         1070   10    0 
+Checker   933620253  3  2 Bk  k     k     k         1060   10    0 9s 3s
+Checker   933620270  3  1 Bcc kf    -     -         1050   40    0 
+Checker   933620305  3  3 f   -     -     -         1010    0    0 
+Checker   933620314  3  2 Bk  k     k     k         1010   10    0 Jh 6c
+Checker   933620337  3  1 Bc  k     k     k         1000   10    0 2c Qc
+Checker   933620358  3  3 c   b     -     -          990   20   40 
+Checker   933620373  3  2 Br  b     b     r         1010   90  190 Tc 9d
+Checker   933620396  4  1 Bc  k     k     k         1110   10   30 4d 5h
+Checker   933620417  5  5 f   -     -     -         1130    0    0 
+Checker   933620421  5  4 c   f     -     -         1130   20    0 
+Checker   933620477  5  3 cc  k     c     rr        1110  120    0 4s 3h
+Checker   933620511  5  2 Bk  kc    k     kc         990   40    0 6d Qh
+Checker   933620573  5  1 Bf  -     -     -          950    5    0 
+Checker   933620609  5  5 cc  f     -     -          945   20    0 
+Checker   933620627  5  4 c   rc    f     -          925   40    0 
+Checker   933620657  5  3 cc  c     k     k          885   30    0 Ad 9d
+Checker   933620706  5  2 B   -     -     -          855   10   15 
+Checker   933620717  6  1 Bc  b     br    b          860  100  300 Ad 9c
+Checker   933620760  6  6 f   -     -     -         1060    0    0 
+Checker   933620811  8  7 c   cc    r     brc       1060  178    0 As Kh
+Checker   933620886  8  6 f   -     -     -          882    0    0 
+Checker   933620947  7  4 f   -     -     -          882    0    0 
+Checker   933620973  8  4 cc  kc    kc    rr         882  130    0 8s 9d
+Checker   933621061  8  4 f   -     -     -          752    0    0 
+Checker   933621182  8  4 f   -     -     -          752    0    0 
+Checker   933621290  8  2 Bc  kf    -     -          752   30    0 
+Checker   933621339  8  1 Bf  -     -     -          722    5    0 
+Checker   933621408  8  8 c   c     c     k          717   50    0 Jd 9d
+Checker   933621451 10  8 cc  f     -     -          667   40    0 
+Checker   933621499 10  7 cc  f     -     -          627   40    0 
+Checker   933621548 10  6 f   -     -     -          587    0    0 
+Checker   933621598 10  5 f   -     -     -          587    0    0 
+Checker   933621641 10  4 f   -     -     -          587    0    0 
+Checker   933621696 10  3 f   -     -     -          587    0    0 
+Checker   933621743 10  2 Bc  k     br    b          587  120    0 Ah Ts
+Checker   933621844  9  1 Bf  -     -     -          467    5    0 
+Checker   933621876  9  9 c   f     Q     -          462   20    0 
+Checker   933708182  5  5 f   -     -     -          442    0    0 
+Checker   933708204  5  4 f   -     -     -          442    0    0 
+Checker   933708243  6  3 cf  -     -     -          442   10    0 
+Checker   933708290  5  2 Bk  kf    -     -          432   10    0 
+Checker   933708319  5  1 Bcf -     -     -          422   10    0 
+Checker   933708347  5  5 c   c     r     b          412   90  195 5h Kc
+Checker   933708380  5  4 cc  r     k     f          517   40    0 
+Checker   933708420  6  3 f   -     -     -          477    0    0 
+Checker   933708449  5  2 Bk  k     k     k          477   10   25 Qs 6s
+Checker   933708481  5  1 Bc  kf    -     -          492   10    0 
+Checker   933708532  5  5 f   -     -     -          482    0    0 
+Checker   933708561  5  4 c   f     -     -          482   10    0 
+Checker   933708589  4  3 c   b     b     -          472   40   75 
+Checker   933708610  4  2 Bk  f     -     -          507   10    0 
+Checker   933708639  5  1 Bf  -     -     -          497    5    0 
+Checker   933708685  4  4 r   k     f     -          492   30    0 
+Checker   933708720  4  3 f   -     -     -          462    0    0 
+Checker   933708763  4  2 Bf  -     -     -          462   10    0 
+Checker   933708794  4  1 Bc  kf    -     -          452   20    0 
+Checker   933708822  4  4 f   -     -     -          432    0    0 
+Checker   933708855  4  3 cc  f     -     -          432   20    0 
+Checker   933708910  5  2 Bk  b     -     -          412   20   45 
+Checker   933708933  5  1 Bf  -     -     -          437    5    0 
+Checker   933708972  5  5 c   f     -     -          432   10    0 
+Checker   933709017  5  4 rc  c     r     b          422  110  275 Ac Kc
+Checker   933709078  5  3 f   -     -     -          587    0    0 
+Checker   933709125  5  2 Bc  f     -     -          587   20    0 
+Checker   933709143  5  1 Bf  -     -     -          567    5    0 
+Checker   933709170  5  5 c   rc    b     r          562  110  285 Ac 9h
+Checker   933709215  5  4 cc  r     rc    f          737  160    0 
+Checker   933709318  5  3 c   kc    kf    -          577   20    0 
+Checker   933709378  5  2 Bf  -     -     -          557   10    0 
+Checker   933709417  5  1 Bf  -     -     -          547    5    0 
+Checker   933709449  5  5 f   -     -     -          542    0    0 
+Checker   933709490  5  4 f   -     -     -          542    0    0 
+Checker   933709503  5  3 r   bc    b     b          542   80  210 2c Ac
+Checker   933709548  5  2 Bf  -     -     -          672   10    0 
+Checker   933709591  5  1 Bc  bc    br    b          662  120  300 Jh Kd
+Checker   933709634  4  4 r   k     c     c          842   70    0 3h As
+Checker   933709667  4  3 cc  c     f     -          772   30    0 
+Checker   933709711  4  2 Bc  kr    kc    k          742   60    0 As Th
+Checker   933709756  4  1 Bf  -     -     -          682    5    0 
+Checker   933709782  4  4 f   -     -     -          677    0    0 
+Checker   933709818  4  3 rr  rr    rr    rr         677  240    0 Kd Td
+Checker   933709869  4  2 Bc  kc    bc    b          437   90  230 Ad 2s
+Checker   933709936  4  1 Bf  -     -     -          577    5    0 
+Checker   933709984  4  4 c   f     -     -          572   10    0 
+Checker   933710032  4  3 f   -     -     -          562    0    0 
+Checker   933710081  3  2 Bf  -     -     -          562   10    0 
+Checker   933710099  4  1 Bc  kf    -     -          552   20    0 
+Checker   933710116  4  3 Q   -     -     -          532    0    0 
+Checker   933894705  6  6 f   -     -     -          975    0    0 
+Checker   933894745  6  5 c   k     k     b          975   30   85 6d 6c
+Checker   933894783  7  4 cc  f     -     -         1030   20    0 
+Checker   933894828  7  3 c   k     k     c         1010   30    0 9c Kd
+Checker   933894854  5  2 Bf  -     -     -          980   10    0 
+Checker   933894872  5  1 Br  b     kc    kf         970   60    0 
+Checker   933894914  5  5 r   f     -     -          910   30    0 
+Checker   933894943  5  4 ccf -     -     -          880   20    0 
+Checker   933895000  6  4 c   kf    -     -          860   10    0 
+Checker   933895036  6  3 c   k     k     b          850   30    0 5s 8s
+Checker   933895079  6  2 Bk  k     k     k          820   10    0 Qs 5h
+Checker   933895106  6  1 Br  b     -     -          810   30   80 
+Checker   933895125  6  6 rc  k     c     r          860  100  345 3s Js
+Checker   933895174  6  5 f   -     -     -         1105    0    0 
+Checker   933895213  6  4 f   -     -     -         1105    0    0 
+Checker   933895242  5  2 f   -     -     -         1105    0    0 
+Checker   933895298  5  2 Bc  k     k     b         1105   40    0 2s Ac
+Checker   933895326  5  1 Bc  kc    kc    kf        1065   50    0 
+Checker   933895361  5  5 c   b     -     -         1015   20   40 
+Checker   933895389  5  4 f   -     -     -         1035    0    0 
+Checker   933895404  5  3 cc  kf    -     -         1035   30    0 
+Checker   933895454  6  2 Bf  -     -     -         1005   10    0 
+Checker   933895484  5  1 Bc  kc    kf    -          995   20    0 
+Checker   933895532  7  7 f   -     -     -          975    0    0 
+Checker   933895577  7  6 c   k     f     -          975   10    0 
+Checker   933895617  7  5 r   kr    krc   krc        965  160    0 As Ad
+Checker   933895682  9  4 f   -     -     -          805    0    0 
+Checker   933895726 10  3 c   b     b     b          805   60  160 Kh 8d
+Checker   933895763 10  2 Bf  -     -     -          905   10    0 
+Checker   933895787 10  1 Bcc k     b     b          895   80    0 3h Kh
+Checker   933895839 10 10 c   f     -     -          815   20    0 
+Checker   933895905 10  9 rc  rr    rr    rr         795  240    0 Kc Kd
+Checker   933896054  8  3 Q   -     -     -          555    0    0 
+Checker   933907321  7  2 Bc  kc    kf    -          555   30    0 
+Checker   933907342  7  1 Bf  -     -     -          525    5    0 
+Checker   933907366  8  8 c   f     -     -          520   10    0 
+Checker   933907390  9  8 c   k     k     r          510   50    0 Kh 3d
+Checker   933907435  9  7 f   -     -     -          460    0    0 
+Checker   933907467  9  6 c   c     f     -          460   20    0 
+Checker   933907505  9  5 c   k     k     b          440   30   45 
+Checker   933907532  9  4 c   c     f     -          455   30    0 
+Checker   933907559  9  3 f   -     -     -          425    0    0 
+Checker   933907594 10  2 Bk  k     c     r          425   70  160 
+Checker   933907640 10  1 Bcc kf    -     -          515   40    0 
+Checker   933907695 10 10 f   -     -     -          475    0    0 
+Checker   933907715 10  9 c   f     -     -          475   20    0 
+Checker   933907738 10  8 c   k     f     -          455   20    0 
+Checker   933907774 10  7 f   -     -     -          435    0    0 
+Checker   933907795 10  6 f   -     -     -          435    0    0 
+Checker   933907829 10  5 f   -     -     -          435    0    0 
+Checker   933907877 10  4 rr  bc    kc    kc         435  100    0 As Qs
+Checker   933907942 10  3 f   -     -     -          335    0    0 
+Checker   933907996 10  2 Bk  f     -     -          335   10    0 
+Checker   933908044 10  1 Bc  brc   kf    -          325   80    0 
+Checker   933908111 10 10 c   f     -     -          245   10    0 
+Checker   933908162 10  9 f   -     -     -          235    0    0 
+Checker   933908196 10  8 c   c     c     c          235   90    0 Js Ac
+Checker   933908263 10  7 c   kf    -     -          145   10    0 
+Checker   933908305 10  6 cc  k     f     -          135   20    0 
+Checker   933908340 10  5 c   f     -     -          115   20    0 
+Checker   933908363 10  4 f   -     -     -           95    0    0 
+Checker   933908386 10  3 r   kc    b     b           95   70  315 7d 3c
+Checker   933908439 10  2 Br  k     k     rr         340  110  200 
+Checker   933908469 10  1 Bc  bc    brc   bc         430  160    0 4c Ad
+Checker   933908533 10 10 c   k     f     -          270   10    0 
+Checker   933908569 10  9 c   k     k     br         260   70    0 Ah 4s
+Checker   933908609 10  8 f   -     -     -          190    0    0 
+Checker   933908646 10  7 cc  rc    c     c          190  100    0 8d Ac
+Checker   933908712 10  6 c   b     b     b           90   70    0 Ts Jh
+Checker   933908751 10  6 c   cA    -     -           20   20    0 Qc Jc
+Checker   933908828  9  3 cc  k     k     b         1000   40  145 Tc 9s
+Checker   933908889  9  2 Bf  -     -     -         1105   10    0 
+Checker   933908906  8  1 Bf  -     -     -         1095    5    0 
+Checker   933908936  8  8 c   f     -     -         1090   10    0 
+Checker   933908959  8  7 cf  -     -     -         1080   10    0 
+Checker   933908994  8  6 c   f     -     -         1070   10    0 
+Checker   933909034  8  5 f   -     -     -         1060    0    0 
+Checker   933909060  8  4 cc  f     -     -         1060   30    0 
+Checker   933909105  8  3 cc  k     k     kc        1030   40    0 7d 9d
+Checker   933909147  8  2 Bk  kf    -     -          990   10    0 
+Checker   933909166  8  1 Bf  -     -     -          980    5    0 
+Checker   933909204  8  8 f   -     -     -          975    0    0 
+Checker   933909229  8  7 cc  c     f     -          975   30    0 
+Checker   933909262  8  6 f   -     -     -          945    0    0 
+Checker   933909279  8  5 cc  b     b     r          945   90  235 7d Qc
+Checker   933909316  8  4 cc  kf    -     -         1090   20    0 
+Checker   933909363  8  3 f   -     -     -         1070    0    0 
+Checker   933909400  8  2 Bk  k     b     -         1070   30   55 
+Checker   933909428  9  1 Bcc brc   b     brc       1095  170  370 9h Jh
+Checker   933909505  9  9 cf  -     -     -         1295   20    0 
+Checker   933909545  9  8 cc  f     -     -         1275   30    0 
+Checker   933909601 10  7 f   -     -     -         1245    0    0 
+Checker   933909631 10  6 f   -     -     -         1245    0    0 
+Checker   933909645 10  5 f   -     -     -         1245    0    0 
+Checker   933909708 10  4 f   -     -     -         1245    0    0 
+Checker   933909758  9  3 f   -     -     -         1245    0    0 
+Checker   933909798  9  2 Bf  -     -     -         1245   10    0 
+Checker   933909845  8  1 Bcc k     bc    bc        1235  140    0 Kh 3h
+Checker   933909895  8  8 cc  f     -     -         1095   20    0 
+Checker   933909938  9  8 r   k     k     c         1075   40    0 Ah Ks
+Checker   933909982 10  8 f   -     -     -         1035    0    0 
+Checker   933910020 10  7 c   r     r     r         1035  110  255 Kc Qh
+Checker   933910067 10  6 f   -     -     -         1180    0    0 
+Checker   933910126 10  5 f   -     -     -         1180    0    0 
+Checker   933910178 10  4 cc  kc    kf    -         1180   30    0 
+Checker   933910262  9  3 cc  kc    kc    kf        1150   50    0 
+Checker   933910299  9  2 Bc  kf    -     -         1100   20    0 
+Checker   933910335  9  1 Bc  kc    kf    -         1080   30    0 
+Checker   933910373  9  9 c   k     k     r         1050   50  145 7h 9h
+Checker   933910467  8  7 c   f     -     -         1145   30    0 
+Checker   933910530  8  6 f   -     -     -         1115    0    0 
+Checker   933910553  8  5 cc  kf    -     -         1115   20    0 
+Checker   933910615  8  4 ccc b     b     b         1095   90  270 8s 4c
+Checker   933910674  8  3 c   rr    k     br        1275  110  250 Ad 7d
+Checker   933910738  8  2 Bk  kc    kf    -         1415   20    0 
+Checker   933910783  9  1 Br  b     b     b         1395   80  210 
+Checker   933910817  8  8 c   k     f     -         1525   10    0 
+Checker   933910842  7  6 c   f     -     -         1515   10    0 
+Checker   933910893  7  5 c   r     b     b         1505   80    0 7d 7h
+Checker   933910939  7  4 c   c     k     cf        1425   50    0 
+Checker   933910996  7  3 f   -     -     -         1375    0    0 
+Checker   933911030  7  2 Bf  Q     -     -         1375   10    0 
+Checker   933911236  6  2 Bc  kc    kf    -         1365   30    0 
+Checker   933911264  6  1 Bc  k     kc    k         1335   30    0 4d 6d
+Checker   933911298  8  8 c   k     f     -         1305   10    0 
+Checker   933911338  8  7 f   -     -     -         1295    0    0 
+Checker   933911377  9  7 c   b     -     -         1295   20   55 
+Checker   933911402  9  6 cc  kf    -     -         1330   20    0 
+Checker   933911484 10  6 f   -     -     -         1310    0    0 
+Checker   933911554 10  5 f   -     -     -         1310    0    0 
+Checker   933911565 10  4 c   k     k     k         1310   10    0 4h 5s
+Checker   933911643  9  3 f   -     -     -         1300    0    0 
+Checker   933911706  9  2 Bc  kf    -     -         1300   20    0 
+Checker   933911801  9  1 Bc  kf    -     -         1280   10    0 
+Checker   933911842  9  9 f   -     -     -         1270    0    0 
+Checker   933911894  9  8 c   f     -     -         1270   10    0 
+Checker   933911934 10  8 c   b     -     -         1260   20   45 
+Checker   933911955 10  7 c   kf    -     -         1285   10    0 
+Checker   933911991 10  6 f   -     -     -         1275    0    0 
+Checker   933912042 10  5 f   -     -     -         1275    0    0 
+Checker   933912113 10  4 f   -     -     -         1275    0    0 
+Checker   933912188 10  3 f   -     -     -         1275    0    0 
+Checker   933912257  9  2 Bf  -     -     -         1275   10    0 
+Checker   933912288  9  1 Bc  k     kf    -         1265   10    0 
+Checker   933912348  9  9 cc  f     -     -         1255   40    0 
+Checker   933912421  9  3 Q   -     -     -         1215    0    0 
+Checker   933946771  7  6 f   -     -     -         1215    0    0 
+Checker   933946812  7  5 c   k     f     -         1215   10    0 
+Checker   933946842  7  4 r   r     b     b         1205   80    0 7c Ac
+Checker   933946868  7  3 f   -     -     -         1125    0    0 
+Checker   933946881  7  2 Bk  f     -     -         1125   10    0 
+Checker   933946906  7  1 Bf  -     -     -         1115    5    0 
+Checker   933946937  7  7 c   k     k     f         1110   10    0 
+Checker   933946970  7  6 f   -     -     -         1100    0    0 
+Checker   933946994  7  5 f   -     -     -         1100    0    0 
+Checker   933947034  7  4 r   b     b     b         1100   70    0 Ks Kc
+Checker   933947068  7  3 cc  kc    kr    k         1030   70    0 Kc Ts
+Checker   933947111  7  2 Bf  -     -     -          960   10    0 
+Checker   933947143  7  1 Bf  -     -     -          950    5    0 
+Checker   933947171  7  7 c   f     -     -          945   20    0 
+Checker   933947265  6  5 c   f     -     -          925   10    0 
+Checker   933947291  6  5 f   -     -     -          915    0    0 
+Checker   933947330  6  4 f   -     -     -          915    0    0 
+Checker   933947360  7  3 f   -     -     -          915    0    0 
+Checker   933947388  7  2 Bf  -     -     -          915   10    0 
+Checker   933947418  6  1 Bf  -     -     -          905    5    0 
+Checker   933947449  6  6 c   k     k     f          900   20    0 
+Checker   933947485  7  5 f   -     -     -          880    0    0 
+Checker   933947510  6  3 f   -     -     -          880    0    0 
+Checker   933947538  7  2 Bk  k     kf    -          880   10    0 
+Checker   933947577  8  1 Bf  -     -     -          870    5    0 
+Checker   933947618  8  8 cc  c     c     f          865   60    0 
+Checker   933947667  7  6 f   -     -     -          805    0    0 
+Checker   933947698  7  5 c   c     rr    b          805  120  375 Kd 2c
+Checker   933947741  7  4 cc  kc    kf    -         1060   30    0 
+Checker   933947782  7  3 c   k     k     b         1030   30    0 2c Ad
+Checker   933947820  7  2 Bf  -     -     -         1000   10    0 
+Checker   933947847  7  1 Bc  b     b     kf         990   40    0 
+Checker   933947899  8  8 f   -     -     -          950    0    0 
+Checker   933947906  8  7 f   -     -     -          950    0    0 
+Checker   933947963  8  6 c   c     f     -          950   20    0 
+Checker   933947992  8  5 f   -     -     -          930    0    0 
+Checker   933948050  9  5 f   -     -     -          930    0    0 
+Checker   933948103  8  3 cc  kf    -     -          930   20    0 
+Checker   933948141  8  3 f   -     -     -          910    0    0 
+Checker   933948170  9  2 Bc  kf    -     -          910   20    0 
+Checker   933948203  9  1 Bf  -     -     -          890    5    0 
+Checker   933948239 10 10 f   -     -     -          885    0    0 
+Checker   933948328 10 10 c   f     -     -          885   20    0 
+Checker   933948388  9  8 f   -     -     -          865    0    0 
+Checker   933948458  9  7 c   k     b     b          865   50    0 5d 4d
+Checker   933948525 10  6 c   r     b     b          815   70    0 Th Js
+Checker   933948627 10  5 f   -     -     -          745    0    0 
+Checker   933948692 10  4 c   kc    f     -          745   40    0 
+Checker   933948754 10  3 cc  k     bc    brc        705  140    0 3d Ah
+Checker   933948811 10  2 Bc  kf    -     -          565   20    0 
+Checker   933948872 10  1 Bc  b     b     k          545   40    0 6d 8s
+Checker   933948941 10 10 f   -     -     -          505    0    0 
+Checker   933948989 10  9 c   k     k     b          505   30    0 Tc Jh
+Checker   933949114 10  8 f   -     -     -          475    0    0 
+Checker   933949223 10  7 f   -     -     -          475    0    0 
+Checker   933949285 10  6 f   -     -     -          475    0    0 
+Checker   933949317 10  5 f   Q     -     -          475    0    0 
+Checker   934113076  7  5 c   k     f     -          930   10    0 
+Checker   934113134  7  4 c   f     -     -          920   10    0 
+Checker   934113203  7  3 f   -     -     -          910    0    0 
+Checker   934113295  7  2 Bk  k     k     bc         910   50    0 6s Ac
+Checker   934113344  7  1 Bc  krc   kc    kc         860  110    0 5h Kc
+Checker   934113437  8  8 f   -     -     -          750    0    0 
+Checker   934113475  8  7 c   r     b     -          750   50   95 
+Checker   934113531  8  6 f   -     -     -          795    0    0 
+Checker   934113573  8  5 c   bf    -     -          795   20    0 
+Checker   934113635  8  4 r   b     b     -          775   50  135 
+Checker   934113677  8  3 f   -     -     -          860    0    0 
+Checker   934113772  9  2 Bk  k     kc    kf         860   30    0 
+Checker   934113856  8  1 Bf  -     -     -          830    5    0 
+Checker   934113918  8  8 cc  f     -     -          825   30    0 
+Checker   934113984  8  7 f   -     -     -          795    0    0 
+Checker   934114077  8  6 c   b     b     b          795   60  145 
+Checker   934114144  7  5 c   kc    f     -          880   30    0 
+Checker   934114216  8  4 c   kf    -     -          850   10    0 
+Checker   934114279  7  3 c   r     b     b          840   70    0 Qs Kc
+Checker   934114346  7  2 Bc  kf    -     -          770   20    0 
+Checker   934114432  7  1 Bc  k     k     k          750   10    0 Ad 8c
+Checker   934114502  7  7 f   -     -     -          740    0    0 
+Checker   934114574  7  3 Q   -     -     -          740    0    0 
