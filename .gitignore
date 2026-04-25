@@ -1,0 +1,10 @@
+# Ignore Mac System Files
+.DS_Store
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+.vscode/settings.json
+
+# macOS Finder Custom Folder Icon
+Icon?
