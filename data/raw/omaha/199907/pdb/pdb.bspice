@@ -1,0 +1,8 @@
+bspice    931150384  5  4 c   k     k     k          863   10    0 7h Jc Th 5d
+bspice    931150443  5  3 c   k     k     k          853   10   45 Ac Qd 8c Tc
+bspice    931150489  5  2 BKQ -     -     -          888   10    0 
+bspice    932795303  9  6 cc  c     f     -          878   40    0 
+bspice    932795432  9  5 c   c     cc    k          838   60    0 2h Kd 8c Kc
+bspice    932795538 10  4 cc  kc    b     b          778   80    0 5h 9d 3h 9c
+bspice    932795640  9  3 c   kc    b     b          698   60    0 Kc Tc 4s Ks
+bspice    932795743  9  2 BQ  -     -     -          638   10    0 

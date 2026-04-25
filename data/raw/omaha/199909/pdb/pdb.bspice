@@ -1,0 +1,7 @@
+bspice    936587904  6  3 c   r     b     b         1000   70    0 Ac Kh As 9d
+bspice    936587966  7  2 Bk  kc    kf    -          930   20    0 
+bspice    936588042  7  1 Bc  kc    bc    b          910   90  255 6h 7s Qc 9h
+bspice    936588135 10 10 c   f     -     -         1075   20    0 
+bspice    936588225  9  9 c   c     c     c         1055   90    0 2h 3s 3h 7c
+bspice    936588291  9  7 c   ccc   f     -          965   70    0 
+bspice    936588404 10  7 KQ  -     -     -          895    0    0 

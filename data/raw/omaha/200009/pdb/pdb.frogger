@@ -1,0 +1,777 @@
+frogger   967847683  7  3 rc  rc    cc    f          647  170    0 
+frogger   967847729  8  2 Bc  rc    cc    cc         477  240    0 4s Tc Jc 5s
+frogger   967847784  8  1 Bc  kcc   bc    bcA        237  237 1158 8s Qh 9d 6s
+frogger   967847877  8  8 cc  cc    r     r         1158  250 1305 5d 7d Jd 6c
+frogger   967847976  8  7 c   c     c     f         2213  160    0 
+frogger   967848042  8  6 f   -     -     -         2053    0    0 
+frogger   967848109  8  5 cc  r     cc    r         2053  240  620 8c Ad Ac 3d
+frogger   967848166  8  4 rc  cc    cc    rc        2433  270    0 As 3c 7s 9d
+frogger   967848258  8  3 fQ  -     -     -         2163    0    0 
+frogger   967858567  7  6 cc  r     cc    f         2163  160    0 
+frogger   967858634  7  5 cc  cc    f     -         2003   80    0 
+frogger   967858671  6  4 cc  cc    cc    cc        1923  240    0 5h 8d 3d 4c
+frogger   967858718  6  3 f   -     -     -         1683    0    0 
+frogger   967858754  6  2 Bf  -     -     -         1683   10    0 
+frogger   967858801  6  1 Bcc kf    -     -         1673   40    0 
+frogger   967858863  6  6 cc  rc    rc    rc        1633  240    0 Ah Ac 5h Qd
+frogger   967858921  6  5 cc  cc    cc    cc        1393  240    0 3s 6s Qc 4d
+frogger   967858972  6  4 cc  f     -     -         1153   40    0 
+frogger   967859014  6  3 f   -     -     -         1113    0    0 
+frogger   967859049  6  2 Bf  -     -     -         1113   10    0 
+frogger   967859100  6  1 Bcc kcc   kcc   kcc       1103  240 1040 Qh 3h Qs 4h
+frogger   967859181  7  7 f   -     -     -         1903    0    0 
+frogger   967859243  6  5 cc  f     -     -         1903   40    0 
+frogger   967859290  6  5 cc  f     -     -         1863   40    0 
+frogger   967859339  6  4 f   -     -     -         1823    0    0 
+frogger   967859385  6  3 ccc f     -     -         1823   40    0 
+frogger   967859441  6  2 Bcc ccc   ccc   ccc       1783  240  480 9s Qc 6s Tc
+frogger   967859510  6  1 Brc bc    kc    kc        2023  100    0 Qh Ah Kh Ad
+frogger   967859551  5  5 c   c     c     c         1923   70  260 6s Kh Jd Jc
+frogger   967859593  7  5 cc  rc    rc    rc        2113  240  500 3s 4s 5s Jc
+frogger   967859650  7  4 rc  cc    cc    cc        2373  240  240 4h 5h Ac 2d
+frogger   967859707  7  3 ccc f     -     -         2373   40    0 
+frogger   967859787  7  2 Bk  k     kc    k         2333   30    0 5c 7d 6c 7s
+frogger   967859849  6  1 Bc  k     k     kc        2303   30    0 6c 4h Qh 5h
+frogger   967859904  6  6 c   c     c     f         2273   60    0 
+frogger   967859968  6  5 c   c     b     b         2213   60  135 
+frogger   967860021  5  3 c   bc    kc    bc        2288   90  165 Kc 4s Qd 5s
+frogger   967860078  5  2 Bk  kf    -     -         2363   10    0 
+frogger   967860155  5  1 Bc  k     kc    kf        2353   30    0 
+frogger   967860199  5  5 f   -     -     -         2323    0    0 
+frogger   967860240  5  4 f   -     -     -         2323    0    0 
+frogger   967860269  5  3 c   c     f     -         2323   20    0 
+frogger   967860310  5  2 Bk  c     rc    kc        2303  100  155 Tc 5c Ah Jd
+frogger   967860364  5  1 Bc  b     b     b         2358   60   65 9d Qs 6c Jh
+frogger   967860390  4  4 c   k     f     -         2363   10    0 
+frogger   967860427  4  3 f   -     -     -         2353    0    0 
+frogger   967860455  3  1 Bk  kc    b     b         2353   60   90 Ks 6c 8d Td
+frogger   967860484  3  1 Bf  -     -     -         2383    5    0 
+frogger   967860515  3  3 f   -     -     -         2378    0    0 
+frogger   967860541  4  3 c   c     r     c         2378   80  115 Qh 6d Kd 7h
+frogger   967860572  4  2 Bk  kf    -     -         2413   10    0 
+frogger   967860599  4  1 Bc  kc    kc    kc        2403   70    0 3c 7c Td 2h
+frogger   967860643  4  4 c   c     r     b         2333  100  190 Td 7s Qs Qd
+frogger   967860696  3  3 c   f     -     -         2423   10    0 
+frogger   967860731  3  2 Bc  c     c     f         2413   50    0 
+frogger   967860747  3  1 Bc  k     kf    -         2363   10    0 
+frogger   967860769  3  3 r   b     k     b         2353   50    0 Js 2d 3s Kc
+frogger   967860790  3  2 Bk  kf    -     -         2303   10    0 
+frogger   967860811  3  1 Bc  kf    -     -         2293   20    0 
+frogger   967860831  3  3 f   -     -     -         2273    0    0 
+frogger   967860848  3  2 Bk  f     -     -         2273   10    0 
+frogger   967860871  3  1 Bc  b     b     b         2263   60  120 5s Jc 4c 3c
+frogger   967860889  3  3 cc  c     b     b         2323   70  170 
+frogger   967860923  3  2 Bk  b     b     b         2423   60  125 3s As Kd 8h
+frogger   967860945  3  1 Bc  k     k     kc        2488   30    0 6c As Qc 3c
+frogger   967860978  3  3 c   c     c     k         2458   40   60 As Qd 2s 5d
+frogger   967861004  3  2 Bc  f     -     -         2478   20    0 
+frogger   967861019  3  1 Bf  -     -     -         2458    5    0 
+frogger   967861025  3  3 c   c     c     f         2453   40    0 
+frogger   967861055  3  2 Bc  f     -     -         2413   20    0 
+frogger   967861084  3  1 Bf  -     -     -         2393    5    0 
+frogger   967861092  3  3 f   -     -     -         2388    0    0 
+frogger   967861122  3  2 Br  f     -     -         2388   20    0 
+frogger   967861150  3  1 Bc  kf    -     -         2368   20    0 
+frogger   967861177  3  3 r   b     -     -         2348   30   70 
+frogger   967861195  3  2 Bk  k     k     k         2388   10    6 Ks 3h 2s Ts
+frogger   967861219  3  1 Bf  -     -     -         2384    5    0 
+frogger   967861244  3  3 f   -     -     -         2379    0    0 
+frogger   967861263  3  2 Bk  k     kf    -         2379   10    0 
+frogger   967861294  3  1 Bc  kf    -     -         2369   10    0 
+frogger   967861325  3  3 c   b     -     -         2359   20   40 
+frogger   967861357  3  2 Bk  c     f     -         2379   20    0 
+frogger   967861376  4  1 Bc  kc    kf    -         2359   30    0 
+frogger   967861415  4  4 c   k     f     -         2329   10    0 
+frogger   967861457  4  3 cc  f     -     -         2319   20    0 
+frogger   967861505  4  2 Bc  kc    kf    -         2299   30    0 
+frogger   967861571  5  1 Bc  kc    k     b         2269   50  160 
+frogger   967861617  5  5 f   -     -     -         2379    0    0 
+frogger   967861663  5  4 f   -     -     -         2379    0    0 
+frogger   967861696  5  3 f   -     -     -         2379    0    0 
+frogger   967861778  4  2 Br  b     b     b         2379   70  190 Ah Ks Qc 9s
+frogger   967861820  5  1 Bc  k     kc    kf        2499   40    0 
+frogger   967861883  5  5 c   k     c     k         2459   30   50 Kd 3s Js 4h
+frogger   967861922  5  4 c   c     f     -         2479   20    0 
+frogger   967861973  5  3 c   c     r     cc        2459  100  230 As 3s Kc 3c
+frogger   967862028  5  2 Bc  kc    kc    kc        2589   70    0 4s 2s Tc 2c
+frogger   967862090  4  1 Bc  kc    kf    -         2519   30    0 
+frogger   967862131  4  4 f   -     -     -         2489    0    0 
+frogger   967862170  5  3 c   bc    k     k         2489   30    0 Kd 5h Qs Qd
+frogger   967862225  5  2 Bc  kf    -     -         2459   20    0 
+frogger   967862283  5  1 Bc  kc    k     k         2439   30    0 2d 7d Ah Jd
+frogger   967862342  5  5 c   k     k     f         2409   10    0 
+frogger   967862393  5  4 c   f     -     -         2399   10    0 
+frogger   967862443  5  3 c   kf    -     -         2389   10    0 
+frogger   967862521  6  2 Bc  bc    bc    brc       2379  160  340 Ah 4s 9c Qs
+frogger   967862592  6  1 Bc  kc    bc    kcc       2559  140  290 6h 8s 2s 3h
+frogger   967862645  6  6 c   b     b     b         2709   70  165 3d Qc As 5s
+frogger   967862704  5  4 cc  f     -     -         2804   20    0 
+frogger   967862742  5  3 f   -     -     -         2784    0    0 
+frogger   967862770  5  2 Bk  kc    kr    b         2784   80  145 Ah 8h Th 8d
+frogger   967862826  5  1 Br  b     b     b         2849   70  210 Kc Ad 5s 2h
+frogger   967862880  6  6 cc  r     b     b         2989  100  183 9s 3c Jd Js
+frogger   967862942  6  5 c   k     f     -         3072   10    0 
+frogger   967862989  5  4 c   r     c     rc        3062  110  230 Ad Qs 3d 4s
+frogger   967863056  5  3 f   -     -     -         3182    0    0 
+frogger   967863106  5  2 Bk  k     b     b         3182   50    0 Ts 7s 3s Ac
+frogger   967863141  5  1 Bc  k     k     k         3132   20   20 8d 3h 5h 2c
+frogger   967863178  5  5 f   -     -     -         3132    0    0 
+frogger   967863203  5  4 f   -     -     -         3132    0    0 
+frogger   967863244  5  3 f   -     -     -         3132    0    0 
+frogger   967863297  5  2 Bk  k     b     k         3132   30   90 9s 3s 8d 9d
+frogger   967863343  5  1 Bc  kf    -     -         3192   10    0 
+frogger   967863394  5  5 f   -     -     -         3182    0    0 
+frogger   967863429  5  4 c   r     rc    c         3182  110   87 3c 7h 4c 5h
+frogger   967863487  5  3 c   k     b     b         3159   50   37 Jh 4c 5c Qc
+frogger   967863540  5  2 Bk  k     kf    -         3146   10    0 
+frogger   967863572  5  1 Bf  -     -     -         3136    5    0 
+frogger   967863624  6  6 f   -     -     -         3131    0    0 
+frogger   967863666  6  5 f   -     -     -         3131    0    0 
+frogger   967863722  5  3 c   b     b     KQ        3131   40    0 
+frogger   967863909  6  6 c   c     c     f         3091   40    0 
+frogger   967863977  6  5 c   k     b     b         3051   50  180 
+frogger   967864045  6  4 c   kc    kf    -         3181   20    0 
+frogger   967864131  6  3 c   k     kf    -         3161   10    0 
+frogger   967864245  7  2 Bc  b     b     b         3151   70    0 Kh 6d 9c Jd
+frogger   967864325  8  1 Bf  -     -     -         3081    5    0 
+frogger   967864388  8  8 c   c     f     -         3076   30    0 
+frogger   967864491  8  7 c   f     -     -         3046   20    0 
+frogger   967864579  8  6 rc  c     kc    k         3026   70    0 9c 9s Kh Ks
+frogger   967864671  8  5 c   kf    -     -         2956   10    0 
+frogger   967864801  8  4 c   kf    -     -         2946   10    0 
+frogger   967864891  7  3 crc k     bc    kc        2936  100  165 Ah Qs 4s Ad
+frogger   967864956  6  2 Bk  k     b     -         3001   30   70 
+frogger   967865013  5  1 Bc  kc    kf    -         3041   30    0 
+frogger   967865091  5  5 cc  k     k     b         3011   40  120 Kd Ks 2d Kh
+frogger   967865151  5  4 c   k     k     kf        3091   10    0 
+frogger   967865208  6  4 cc  b     b     b         3081   70  220 
+frogger   967865293  5  3 cc  b     k     f         3231   30    0 
+frogger   967865360  7  2 Bc  k     f     -         3201   20    0 
+frogger   967865425  7  1 Bf  -     -     -         3181    5    0 
+frogger   967865521  6  6 c   f     -     -         3176   10    0 
+frogger   967865586  6  5 c   c     cf    -         3166   40    0 
+frogger   967865652  5  3 c   k     c     c         3126   50   70 7s 7h 5s 6s
+frogger   967865702  5  2 Bc  kf    -     -         3146   20    0 
+frogger   967865750  5  1 Bc  b     b     bf        3126   60    0 
+frogger   967865799  5  5 c   c     c     c         3066   80  180 Ac 4c 6d Kc
+frogger   967865847  5  4 cc  kf    -     -         3166   20    0 
+frogger   967865894  5  3 c   k     kf    -         3146   10    0 
+frogger   967865952  5  2 Bcc kf    -     -         3136   40    0 
+frogger   967865987  5  1 Brc br    b     b         3096  100  310 9s Th 9h Tc
+frogger   967866048  5  5 cc  c     f     -         3306   30    0 
+frogger   967866098  5  4 f   -     -     -         3276    0    0 
+frogger   967866155  5  3 cc  kf    -     -         3276   20    0 
+frogger   967866203  4  2 Bf  -     -     -         3256   10    0 
+frogger   967866245  4  1 Bcc kc    k     bc        3246   70   85 Kc 7c Jd Th
+frogger   967866288  4  4 cc  r     b     b         3261   80    0 9d Jc Ad 3s
+frogger   967866335  4  3 cc  kc    kc    k         3181   60  110 7h 5d 3d Ks
+frogger   967866391  4  2 Bc  bc    kc    brc       3231  140  200 4d Ah 4h Kh
+frogger   967866449  4  1 Bcc b     b     b         3291   70  170 3h 7s Jh 4d
+frogger   967866487  4  4 cr  c     r     b         3391  100  340 
+frogger   967866571  5  4 cc  c     cc    k         3631   70    0 Qc 4d 6d 3h
+frogger   967866631  5  3 cc  b     b     k         3561   50    0 Ts 9d 6d Ks
+frogger   967866676  5  2 Bc  kf    -     -         3511   20    0 
+frogger   967866717  5  1 Bc  k     b     bc        3491   70  105 4d 4s 3c 8c
+frogger   967866758  5  5 cc  k     b     -         3526   40  100 
+frogger   967866799  5  4 cc  k     c     c         3586   80  170 3h 4c 2h Qs
+frogger   967866845  4  3 c   c     k     b         3676   40   80 
+frogger   967866886  4  2 Bc  f     -     -         3716   20    0 
+frogger   967866984  3  1 Bc  bc    kc    kf        3696   50    0 
+frogger   967867012  3  3 c   k     b     -         3646   30   50 
+frogger   967867038  3  2 Bk  kc    k     k         3666   20    0 Th 4c Jh Jd
+frogger   967867078  3  1 Br  b     k     b         3646   50  110 
+frogger   967867114  3  3 c   k     k     f         3706   10    0 
+frogger   967867140  3  2 Bc  k     k     k         3696   20    0 3d 9h Kd 9c
+frogger   967867176  3  1 Br  -     -     -         3676   20   30 
+frogger   967867187  3  3 c   c     c     c         3686   80  120 Td 6h 3h 4c
+frogger   967867222  3  2 Bk  b     k     k         3726   20    0 Jh 7d 7s 9c
+frogger   967867252  3  1 Bc  bc    kf    -         3706   30    0 
+frogger   967867291  3  3 c   f     -     -         3676   10    0 
+frogger   967867312  3  2 Bk  c     r     c         3666   80   80 Jh 5d 3d 6h
+frogger   967867338  3  1 Bc  kc    b     b         3666   60   80 Kh Tc 2h 9s
+frogger   967867374  3  3 c   c     f     -         3686   20    0 
+frogger   967867406  3  2 Bk  k     k     k         3666   10    0 Qh Td Kh 4h
+frogger   967867430  4  1 Bc  kf    -     -         3656   10    0 
+frogger   967867458  4  4 cc  f     -     -         3646   20    0 
+frogger   967867486  4  3 cc  k     kc    k         3626   40  105 3s 7h 6d Qs
+frogger   967867522  5  2 Bk  b     b     b         3691   60  130 Qd Kh 6d 5d
+frogger   967867550  5  1 Bcc kc    kc    k         3761   50    0 7s Ts 2c 7d
+frogger   967867598  5  5 c   k     k     f         3711   10    0 
+frogger   967867643  5  4 c   f     -     -         3701   10    0 
+frogger   967867701  5  3 c   b     b     k         3691   40  110 Kh Ks 2c 8h
+frogger   967867758  5  2 Bk  k     k     f         3761   10    0 
+frogger   967867802  5  1 Br  b     -     -         3751   30   60 
+frogger   967867816  5  5 c   b     k     b         3781   40   75 
+frogger   967867854  5  4 cc  c     k     k         3816   30    0 Ah 7s 8c Qc
+frogger   967867897  5  3 cc  k     f     -         3786   20    0 
+frogger   967867934  5  2 Bk  kf    -     -         3766   10    0 
+frogger   967867969  5  1 Bf  -     -     -         3756    5    0 
+frogger   967868007  5  5 f   -     -     -         3751    0    0 
+frogger   967868036  5  4 cc  kc    b     b         3751   70  220 7h 3h Ad Ac
+frogger   967868086  5  3 c   f     -     -         3901   10    0 
+frogger   967868146  4  2 Bk  k     kf    -         3891   10    0 
+frogger   967868201  4  1 Bcc kc    b     b         3881   70  190 5d 3h 8d Qh
+frogger   967868248  4  4 cc  c     f     -         4001   40    0 
+frogger   967868292  4  3 cc  bc    b     -         3961   60  125 
+frogger   967868340  4  2 Bc  b     b     c         4026   70   95 4d 7d 6c Ts
+frogger   967868384  4  1 Bcc kf    -     -         4051   20    0 
+frogger   967868411  4  4 c   f     -     -         4031   10    0 
+frogger   967868441  5  3 c   k     c     k         4021   30    0 4c 2h 7c Ts
+frogger   967868473  5  2 Bk  c     r     b         3991   80   95 5h 7h 4h 8c
+frogger   967868513  5  1 Brc kf    -     -         4006   40    0 
+frogger   967868552  5  5 cc  f     -     -         3966   20    0 
+frogger   967868594  6  5 cc  f     -     -         3946   20    0 
+frogger   967868692  7  5 c   brc   brc   brc       3926  210  155 3s 2h 4s 6h
+frogger   967868805  7  4 c   kf    -     -         3871   10    0 
+frogger   967868868  8  3 f   -     -     -         3861    0    0 
+frogger   967868965  7  2 Brr b     bc    kc        3861  110    0 7d Ah 2d 4c
+frogger   967869064  9  1 Bc  kcf   -     -         3751   30    0 
+frogger   967869156  9  9 c   k     b     b         3721   50  105 
+frogger   967869286  8  8 c   c     c     r         3776   80  175 2c 6s 8c 4c
+frogger   967869366  8  7 f   -     -     -         3871    0    0 
+frogger   967869425  8  6 c   k     k     b         3871   30    0 Qc Ts Qs 8s
+frogger   967869515  8  5 c   kf    -     -         3841   10    0 
+frogger   967869599  9  5 c   kc    kc    k         3831   40   41 8d 7c As 9h
+frogger   967869679 10  4 c   kc    br    b         3832  100  145 3d Kc 4s Ts
+frogger   967869771 10  3 cc  f     -     -         3877   20    0 
+frogger   967869864 10  2 Bf  -     -     -         3857   10    0 
+frogger   967870006 10  1 Bcc bc    kc    kc        3847  110    0 8c 7h Jh Qs
+frogger   967870120 10 10 r   c     c     rc        3737  140    0 6h 7h 8c 4s
+frogger   967870245 10  9 c   c     k     f         3597   20    0 
+frogger   967870327  8  6 cc  k     k     k         3577   20    0 7d Tc 3s Ts
+frogger   967870449  7  4 c   c     cc    c         3557   80    0 9d Td 4s Ad
+frogger   967870520  7  3 c   c     f     -         3477   20    0 
+frogger   967870585  7  2 Bk  f     -     -         3457   10    0 
+frogger   967870638  9  1 Bc  krc   kc    kf        3447   80    0 
+frogger   967870772  8  8 c   k     b     k         3367   30  170 Kh 2s Js 2c
+frogger   967870854  9  8 c   k     f     -         3507   10    0 
+frogger   967870956  7  5 c   c     cc    kc        3497   80    0 2s 6s 4h 6d
+frogger   967871059  8  4 c   b     bc    c         3417   80  360 As Kc 6h Ah
+frogger   967871155  8  4 c   k     k     k         3697   10   40 4c 7s 3c 2s
+frogger   967871199  7  2 Bk  c     c     f         3727   40    0 
+frogger   967871236  7  1 Bc  k     kf    -         3687   10    0 
+frogger   967871322  6  6 c   k     f     -         3677   10    0 
+frogger   967871382  6  6 c   k     b     c         3667   50   85 5s 6d 5h 2d
+frogger   967871462  7  6 c   kf    Q     -         3702   10    0 
+frogger   968101353  9  6 cc  cc    cc    cc        3692  240    0 9s Ah 7c 2h
+frogger   968101430  9  5 cc  kcc   kf    -         3502   80    0 
+frogger   968101534  9  4 f   -     -     -         3122    0    0 
+frogger   968101615  9  3 cc  kcc   kr    kcf       2922  220    0 
+frogger   968101702  9  2 Bc  kc    kf    -         2682   80    0 
+frogger   968101792  9  1 Bcc kc    kc    kcf       2802  220    0 
+frogger   968101890  9  9 cc  cc    f     -         2577   90    0 
+frogger   968101965  9  8 f   -     -     -         2427    0    0 
+frogger   968102027  9  7 cc  f     -     -         2437   40    0 
+frogger   968102090  9  6 cc  cc    cc    cc        2297  260  780 4c 9h 6s Ac
+frogger   968102191  9  5 cc  kcc   bc    kc        2967  240    0 8c Kd 9s 9d
+frogger   968102304  8  4 ccc cc    kf    -         2927   80    0 
+frogger   968102410 10  3 cc  kcc   kr    kcc       2967  240  623 7d Kd Js Qc
+frogger   968102506  9  1 Bc  kcc   kcc   kcc       3130  240    0 8d 9s Ks 2d
+frogger   968102624 10  1 Bcc kcc   kc    kf        2490  170    0 
+frogger   968102753 10 10 rc  r     f     -         2090  100    0 
+frogger   968102868 10  9 cc  kf    -     -         1970   40    0 
+frogger   968102987 10  8 cc  cc    cc    cc        2440  240    0 6s Tc 2s 2d
+frogger   968103093 10  7 cc  kc    kf    -         2160   50    0 
+frogger   968103187 10  6 f   -     -     -         2000    0    0 
+frogger   968103275 10  5 cc  ccc   ccc   cf        1880  180    0 
+frogger   968103438 10  4 cc  rc    rc    cc        1860  240    0 4c Td 3d 9c
+frogger   968103566  9  3 cc  f     -     -         1600   40    0 
+frogger   968103676  9  2 Bc  cc    cc    cc        1650  240    0 7h 3s 4s 5h
+frogger   968103772  9  1 Bcc kcc   kcc   kf        1310  160    0 
+frogger   968103885 10 10 cc  c     cc    r         1510  260  735 Qd 7s As Ah
+frogger   968103982 10  9 cc  f     -     -         1785   40    0 
+frogger   968104088 10  8 f   -     -     -         1645    0    0 
+frogger   968104196  9  6 cc  f     -     -         1845   40    0 
+frogger   968104310  9  6 cc  cc    cc    f         1645  170    0 
+frogger   968104439 10  5 cc  cc    cc    f         1395  160    0 
+frogger   968104553 10  4 cc  cc    cc    cc        1155  240    0 2h 5s Js 4c
+frogger   968104726  9  3 cc  cc    cc    f          885  160    0 
+frogger   968104829  9  2 Bc  f     -     -          665   40    0 
+frogger   968104914 10  1 Bcc bc    kc    kcc        750  250    0 8d As 4c 4s
+frogger   968105050  9  9 cc  f     -     -          320   40    0 
+frogger   968105168  9  8 f   -     -     -          280    0    0 
+frogger   968105272  9  7 cc  f     -     -          250   40    0 
+frogger   968105383  7  4 cc  ccc   ccc   ccc        245  240  920 7s 7h 6c 8h
+frogger   968105492  8  4 cc  f     -     -         1278   40    0 
+frogger   968105598  8  3 cc  rc    cc    cc        1718  240    0 8h Qd 8s Ks
+frogger   968105709  8  2 Bc  cc    cc    cc        1438  240    0 Ac Qd 7s Js
+frogger   968105808  7  1 Bcc kf    -     -         1278   40    0 
+frogger   968105892  7  7 cc  r     cc    c         1198  240    0 Qh 3h Ks 2s
+frogger   968105985  7  6 cc  cc    cc    f         1108  160    0 
+frogger   968106083  7  5 cc  cc    cc    rc         888  270  813 7s As 9s 2h
+frogger   968106165  7  4 cc  f     -     -         1411   40    0 
+frogger   968106263  6  2 Bcc kcc   kcc   kcc       1371  240  240 6c 2h 4h 7h
+frogger   968106372  7  1 Bcc kf    -     -         1271   40    0 
+frogger   968106467  7  7 cc  f     -     -         1851   40    0 
+frogger   968106540  7  6 cc  cc    cc    f         1811  160    0 
+frogger   968106623  8  6 cc  rc    cc    cc        1511  240  523 7s 2c 2h Qd
+frogger   968106692  9  7 cc  cc    rc    cc        1594  270    0 4d Jc 5s 4c
+frogger   968106788  9  5 cc  cc    f     -         1224   90    0 
+frogger   968106939  9  4 cc  cc    cc    cc        1224  250    0 Qs 5s 2d 4s
+frogger   968107043 10  3 cc  cc    cc    ccc        974  250  638 Ad 9h 7h 7c
+frogger   968107161 10  2 Bcc k     k     b         1362   60  130 2c Th Ts 3d
+frogger   968107230  8  1 Bc  kf    -     -         1432   10    0 
+frogger   968107306  9  9 c   rc    c     k         1422   60    0 7h Qd Ks Ts
+frogger   968107368  8  7 c   b     b     b         1362   60  200 6c 5d 6s 3d
+frogger   968107434  9  7 c   c     f     -         1502   30    0 
+frogger   968107502  8  6 c   k     f     -         1472   10    0 
+frogger   968107567  7  4 c   c     cc    cc        1462  140  215 5c 7c 3d 5d
+frogger   968107635  7  4 c   f     -     -         1537   10    0 
+frogger   968107685  7  3 cc  kf    -     -         1527   20    0 
+frogger   968107731  7  2 Bk  b     k     f         1507   20    0 
+frogger   968107785  7  1 Bc  kc    kf    -         1487   30    0 
+frogger   968107869  7  7 c   f     -     -         1457   20    0 
+frogger   968107924  7  6 c   c     c     c         1437  100  435 Tc Jc 3c Jd
+frogger   968108002  7  5 c   k     k     f         1772   10    0 
+frogger   968108064  7  4 f   -     -     -         1762    0    0 
+frogger   968108107  7  3 f   -     -     -         1762    0    0 
+frogger   968108155  7  2 Bk  k     kc    kf        1762   30    0 
+frogger   968108215  7  1 Bf  -     -     -         1732    5    0 
+frogger   968108254  7  7 c   r     c     c         1727  110    0 3c 2c 6c 3s
+frogger   968108321  7  6 c   c     c     b         1617   60    0 Js 2h 6s 2c
+frogger   968108387  7  5 c   kf    -     -         1557   10    0 
+frogger   968108456  7  4 f   -     -     -         1547    0    0 
+frogger   968108502  7  3 cc  c     cc    c         1547  110    0 4c 3c 8h Ac
+frogger   968108561  7  2 Bk  c     c     k         1437   40   43 2c 2h Th 5s
+frogger   968108622  7  1 Br  bc    bc    bc        1440  120  135 2h Ac 4c 8s
+frogger   968108667  7  7 c   c     c     c         1455   80  202 4c 4d 8d As
+frogger   968108719  6  5 c   c     c     c         1577   70   97 4h 8c 8d 7d
+frogger   968108768  6  4 cc  k     b     -         1604   60  145 
+frogger   968108811  6  3 cc  c     b     b         1689   70  200 2h 6c 5h 2d
+frogger   968108854  6  2 Bk  c     c     c         1819   60  180 Kh Ts 6d 4s
+frogger   968108891  6  1 Bc  k     kc    kc        1939   50    0 8c 2d 2s Ah
+frogger   968108940  5  5 c   b     b     -         1889   40   90 
+frogger   968108980  6  4 c   kf    -     -         1939   10    0 
+frogger   968109033  6  3 c   b     rc    c         1929  100  145 4h 3d Kd Kh
+frogger   968109089  6  2 Bk  k     kc    kf        1974   30    0 
+frogger   968109128  6  1 Bc  k     kf    -         1944   10    0 
+frogger   968109162  6  6 c   f     -     -         1934   10    0 
+frogger   968109205  6  5 c   b     b     k         1924   40    0 Kc Ks 3s Jh
+frogger   968109255  6  5 c   k     c     f         1884   40    0 
+frogger   968109298  6  4 c   b     b     b         1844   60   90 Ac 9c 5h 7d
+frogger   968109348  8  4 f   -     -     -         1874    0    0 
+frogger   968109394  8  3 ccc rr    rr    rr        1874  240  765 8s 9c 8c 7d
+frogger   968109490 10  4 cc  cc    cc    f         2399  170    0 
+frogger   968109622 10  3 f   -     -     -         2229    0    0 
+frogger   968109724 10  2 Bf  -     -     -         2229   10    0 
+frogger   968109820 10  1 Bf  -     -     -         2219    5    0 
+frogger   968109912 10 10 c   cc    c     cc        2214  240    0 9d 5s 2s 8s
+frogger   968110088 10  9 cc  f     -     -         1974   50    0 
+frogger   968110220 10  8 f   -     -     -         1924    0    0 
+frogger   968110322 10  7 f   -     -     -         1924    0    0 
+frogger   968110405 10  6 cc  f     -     -         1924   60    0 
+frogger   968110471  9  5 KQ  -     -     -         1864    0    0 
+frogger   968110632 10  3 KQ  -     -     -         1864    0    0 
+frogger   968139333  9  8 cc  cc    cc    cc        1864  250    0 Js 3d 2h 4h
+frogger   968139437  8  6 cc  cc    cc    r         1614  250 1540 Td 4c Kd Ac
+frogger   968139533  7  5 cc  f     -     -         2904   50    0 
+frogger   968139597  8  4 cc  f     -     -         2854   50    0 
+frogger   968139697  8  3 cc  f     -     -         2804   50    0 
+frogger   968139785  8  2 Bc  cc    cc    rc        2754  270  835 Qs As Tc 7h
+frogger   968139864  8  1 Bcc kf    -     -         3319   50    0 
+frogger   968139990  8  8 cc  c     c     c         3269  260    0 3s Qs 2s 5c
+frogger   968140100  8  7 cc  f     -     -         3009   50    0 
+frogger   968140188  7  6 cc  f     -     -         2959   50    0 
+frogger   968140248  7  5 cc  cc    cc    rc        2909  270  724 3c Tc Ac 2c
+frogger   968140322  7  4 cc  rc    rc    rc        3363  310  480 9s 5h 5c 4c
+frogger   968140431  7  3 cc  f     -     -         3533   60    0 
+frogger   968140499  7  2 Bc  f     -     -         3473   50    0 
+frogger   968140562  7  1 Bcc kf    -     -         3423   50    0 
+frogger   968140642  7  7 cc  c     c     r         3373  300    0 Jd Js 7h Ah
+frogger   968140717  7  6 cc  cc    cc    cc        3073  235  160 Ac 7c Jh 4d
+frogger   968140793  7  5 cc  f     -     -         2998   50    0 
+frogger   968140857  7  4 cc  cc    f     -         2948   90    0 
+frogger   968140948  7  3 cc  cc    f     -         2858   90    0 
+frogger   968141045  7  2 Bc  cc    cc    cc        2768  250  710 4d Ks As 2d
+frogger   968141122  7  1 Bcc bc    kc    kc        3228  260 1560 Ac Ad 9c Kc
+frogger   968141240  7  7 cc  f     -     -         4528   50    0 
+frogger   968141321  7  6 cc  f     -     -         4478   50    0 
+frogger   968141397  7  5 cc  cc    cc    cc        4428  250    0 Td Ac 8h Ts
+frogger   968141482  6  4 cc  cc    cc    cc        4178  250 1255 Ac 3h Kh 5d
+frogger   968141582  6  3 cc  cc    cc    cc        5183  270    0 Ks Qc 6c 9h
+frogger   968141687  6  2 Bc  cc    cc    cc        4913  250    0 7s Js 9c 2c
+frogger   968141803  6  1 Bcc kc    kc    kf        4663  170    0 
+frogger   968141917  6  6 cc  c     c     c         4493  250    0 2d 6d Jc 2s
+frogger   968141992  6  5 cc  cc    c     c         4243  250    0 3h 8h Td Qh
+frogger   968142082  5  4 cc  cc    cc    f         3993  160    0 
+frogger   968142158  6  3 f   -     -     -         3833    0    0 
+frogger   968142222  6  2 Bc  cc    cc    cc        3833  260    0 Qh Ks 7c Ah
+frogger   968142320  6  1 Bcc kc    kcc   kf        3573  170    0 
+frogger   968142439  5  5 cc  cc    cc    cc        3403  240  480 Ks Qs 6c 5h
+frogger   968142543  6  5 cc  cc    cc    cc        3643  250    0 Ts Ks Kc 4d
+frogger   968142678  6  4 cc  f     -     -         3393   50    0 
+frogger   968142743  6  3 cc  f     -     -         3343   50    0 
+frogger   968142810  6  2 Bc  f     -     -         3293   50    0 
+frogger   968142860  6  1 Bc  kcc   kcc   kcc       3243  240    0 Js 4c Jc As
+frogger   968142949  6  6 f   -     -     -         3003    0    0 
+frogger   968142999  6  5 cc  cc    cc    cc        3003  250 1285 9d 5d Kc 9h
+frogger   968143083  4  3 ccc rc    rc    rc        4038  240  800 Ks Jc Qd 6c
+frogger   968143153  6  2 Bc  cc    cc    cc        4598  290    0 Ah Qd 5s 3d
+frogger   968143236  6  1 Bcc kc    kc    kc        4308  250    0 7c 4h 6d Qs
+frogger   968143347  6  6 cc  c     c     c         4058  250    0 5h 4c 6h Kc
+frogger   968143427  7  5 cc  cc    f     -         3808   90    0 
+frogger   968143493  7  4 cc  f     -     -         3718   50    0 
+frogger   968143592  7  3 cc  cc    f     -         3668   80    0 
+frogger   968143664  7  2 Bf  -     -     -         3588   10    0 
+frogger   968143712  6  1 Bc  kcc   kf    -         3578   80    0 
+frogger   968143785  7  6 cc  cc    f     -         3498   90    0 
+frogger   968143863  7  5 f   -     -     -         3408    0    0 
+frogger   968143933  7  4 cc  cc    cc    cc        3408  250    0 2h 4d 6h 8s
+frogger   968144027  7  3 cc  cc    cc    cc        3158  250  680 2h Ah 5h 3s
+frogger   968144134  7  2 Bc  cc    cc    cc        3588  250    0 Qd 7s 6d 4d
+frogger   968144216  7  1 Bcc kc    kf    -         3338   90    0 
+frogger   968144323  7  7 cc  f     -     -         3248   50    0 
+frogger   968144393  7  6 cc  f     -     -         3198   50    0 
+frogger   968144450  6  4 cc  cc    cc    cc        3148  240    0 9h 7d Th 6d
+frogger   968144532  7  4 f   -     -     -         2908    0    0 
+frogger   968144604  7  3 cc  f     -     -         2908   50    0 
+frogger   968144682  7  2 Bc  rc    cc    f         2858  180    0 
+frogger   968144750  7  1 Bf  -     -     -         2678    5    0 
+frogger   968144824  7  7 f   -     -     -         2673    0    0 
+frogger   968144903  7  6 cc  cc    f     -         2673   90    0 
+frogger   968144983  7  5 cc  cc    cc    rc        2583  232  497 Ks 4d 2d Ts
+frogger   968145070  5  3 ccc f     -     -         2848   40    0 
+frogger   968145137  7  2 Bc  cc    cc    cc        2808  250    0 9c 8h Ad Qd
+frogger   968145241  7  1 Bcc kf    -     -         2558   50    0 
+frogger   968145346  8  8 f   -     -     -         2508    0    0 
+frogger   968145409  6  5 cc  cc    cc    f         2508  170    0 
+frogger   968145477  5  4 fQ  -     -     -         2338    0    0 
+frogger   968174627  6  2 Bc  bc    bc    kc        2338  100  420 9s Ac 9d 8h
+frogger   968174693  6  1 Bc  k     b     b         2658   50  130 
+frogger   968174739  5  5 c   c     c     f         2738   40    0 
+frogger   968174779  5  4 c   kf    -     -         2698   10    0 
+frogger   968174804  5  3 c   b     b     -         2688   40   80 
+frogger   968174837  5  2 Br  b     b     k         2728   50    0 As Th 8c 2s
+frogger   968174890  5  1 Bc  bc    kc    k         2678   50  200 Qh 7d 9d Td
+frogger   968174930  5  5 c   f     -     -         2828   10    0 
+frogger   968174964  5  4 r   kc    k     b         2818   50  105 
+frogger   968175020  5  3 c   brc   kc    bc        2873  110  120 5h Kh 6s 4d
+frogger   968175050  5  2 Bk  k     f     -         2883   10    0 
+frogger   968175075  5  1 Bc  kc    k     kc        2873   40   45 8c 8s Ad Td
+frogger   968175108  5  5 c   fQ    -     -         2878   10    0 
+frogger   968653313  6  3 r   b     b     -         2868   50  135 
+frogger   968653337  6  2 Bk  k     k     k         2953   10    0 7h Js 9h 7c
+frogger   968653372  6  1 Bc  kc    b     br        2943  100  110 8c 3c 4c 5c
+frogger   968653424  5  5 f   -     -     -         2953    0    0 
+frogger   968653464  5  4 c   k     k     k         2953   10    0 7d 3h 9d 4h
+frogger   968653507  5  3 c   b     -     -         2943   20   50 
+frogger   968653524  5  2 Bk  kc    kc    kc        2973   60   62 Jh 7h Kd 4h
+frogger   968653562  5  1 Bc  k     kf    -         2975   10    0 
+frogger   968653606  5  5 c   k     b     k         2965   30   38 Qc 9h Qh 5c
+frogger   968653663  5  4 c   f     -     -         2973   10    0 
+frogger   968653702  5  3 cc  c     kc    kf        2963   50    0 
+frogger   968653742  5  2 Bk  b     k     c         2913   40    0 8h 4s 6d Qc
+frogger   968653780  5  1 Bc  k     k     kf        2873   10    0 
+frogger   968653824  5  5 c   c     r     -         2863   70  145 
+frogger   968653865  5  4 c   c     c     c         2938   60   70 2d Th Qh 4d
+frogger   968653909  6  3 c   r     b     c         2948   70    0 5c 8d 5h Ad
+frogger   968653950  6  2 Bk  krr   b     b         2878   90    0 Qd Jh Js Ac
+frogger   968653998  6  1 Bc  b     b     bc        2788   80  135 2s 5h 4d Ac
+frogger   968654098  6  6 c   b     c     c         2843   60    0 8d 3h Ah 3d
+frogger   968654157  6  5 c   c     f     -         2783   30    0 
+frogger   968654184  5  3 cc  b     k     c         2753   50    0 Qc 5h 2h 3c
+frogger   968654229  5  3 c   kc    kc    b         2703   60  105 Ad Qc 2h 6d
+frogger   968654285  5  2 Bk  k     b     -         2748   30   50 
+frogger   968654316  5  1 Bf  -     -     -         2768    5    0 
+frogger   968654348  5  5 c   k     k     c         2763   30    0 3d 4h 7h 2s
+frogger   968654404  5  4 c   c     k     k         2733   20   15 7d 7h Ks 6c
+frogger   968654446  5  3 c   k     k     k         2728   10    0 5d Ac Th 5s
+frogger   968654487  5  2 Bf  -     -     -         2718   10    0 
+frogger   968654497  5  1 Bc  b     b     k         2708   40   55 Qh Td 7h Jd
+frogger   968654537  6  6 c   k     f     -         2723   30    0 
+frogger   968654587  6  5 cc  b     b     c         2693   70    0 4h 3h Kc 5s
+frogger   968654651  6  4 f   -     -     -         2623    0    0 
+frogger   968654690  6  3 c   b     k     k         2623   20    0 4c 5s 7h As
+frogger   968654734  6  2 Br  b     b     b         2603   70  235 Kc Ah 3s 2s
+frogger   968654783  6  1 Bc  k     kc    kf        2768   30    0 
+frogger   968654839  6  6 c   k     k     f         2738   20    0 
+frogger   968654891  6  5 f   -     -     -         2718    0    0 
+frogger   968654928  6  4 c   c     c     k         2718   50    0 5s 3h 4s Js
+frogger   968654974  7  3 f   -     -     -         2668    0    0 
+frogger   968655020  7  2 Bk  kc    kf    -         2668   20    0 
+frogger   968655087  7  1 Bc  kc    b     b         2648   60  130 
+frogger   968655149  7  7 r   r     b     c         2718   80    0 5h 8c Ac Ad
+frogger   968655224  7  6 c   b     b     b         2638   60    0 As Ks 2h Ac
+frogger   968655270  7  6 c   c     k     k         2578   20   75 Ah Qs Kd 7h
+frogger   968655415  4  3 c   k     b     -         2633   30   60 
+frogger   968655444  3  2 Bk  kf    -     -         2663   10    0 
+frogger   968655473  3  1 BQ  -     -     -         2653    5    0 
+frogger   968879324  6  2 Bc  ccc   ccc   cr        2648  220  520 8d 4c Kc 2s
+frogger   968879441  7  1 Bc  kf    -     -         2948   30    0 
+frogger   968879517  6  6 c   f     -     -         2918   20    0 
+frogger   968879582  6  5 c   rc    rr    rc        2898  190  447 2c 4s 2s Ah
+frogger   968879683  5  5 cc  c     c     c         3155   70   73 Ts 3c 9d 2d
+frogger   968879714  4  3 f   -     -     -         3158    0    0 
+frogger   968879743  4  2 Bc  kc    kf    -         3158   40    0 
+frogger   968879818  4  1 Bf  -     -     -         3118    5    0 
+frogger   968879862  4  4 cc  c     c     c         3113   80    0 2s 7h Js 9c
+frogger   968879896  4  3 cc  c     c     c         3033   70  190 Qd 2h 2c Ts
+frogger   968879944  4  2 Bc  kc    kc    kf        3153   60    0 
+frogger   968879993  4  1 Bc  bc    kc    kc        3093   80    0 2s 8d Ad 7d
+frogger   968880020  4  4 cc  rc    c     cf        3013  110    0 
+frogger   968880072  5  3 cc  c     c     f         2903   50    0 
+frogger   968880115  5  2 Bcc br    kcc   kcc       2853  240    0 6h Tc 6c Ts
+frogger   968880208  6  1 Bc  kf    -     -         2613   20    0 
+frogger   968880259  6  6 cc  ccc   rc    rc        2593  240  463 Qc Qd 6h Ac
+frogger   968880356  7  5 c   c     cc    f         2816  110    0 
+frogger   968880451  6  3 cc  c     c     rc        2706  110  175 9h Ac 2s 2h
+frogger   968880517  7  3 cc  c     c     c         2771   70    0 3c Th 6c 5h
+frogger   968880583  7  2 Bc  kf    -     -         2701   20    0 
+frogger   968880658  7  1 Bc  kc    kcc   kf        2681  110    0 
+frogger   968880750  7  7 c   f     -     -         2571   20    0 
+frogger   968880821  7  6 c   cc    f     -         2551   60    0 
+frogger   968880918  6  4 cc  c     c     f         2491   50    0 
+frogger   968880959  6  3 cc  c     c     c         2441   70  190 Ah 8s 5s Qs
+frogger   968881003  6  2 Bc  brc   bc    kc        2561  140  212 2s 5d Ks Ac
+frogger   968881103  6  1 Bc  brc   brc   bc        2633  180    0 7s Ad 4d 7c
+frogger   968881170  6  6 c   c     c     ccc       2453  130    0 Ts Th 4h Qs
+frogger   968881241  6  5 c   rr    rr    rc        2323  200  230 6s 6d Ah 3h
+frogger   968881312  6  4 rc  c     f     -         2353   40    0 
+frogger   968881351  6  3 cc  c     rc    rc        2313  150  350 Ad 3s 7c 5d
+frogger   968881414  6  2 Bc  kccc  kcc   kcc       2513  220    0 7s 6s 4d Ah
+frogger   968881529  7  1 Bcc kc    kc    kcc       2293  150    0 3d Tc 5c Kh
+frogger   968881602  7  7 f   -     -     -         2143    0    0 
+frogger   968881655  7  6 cc  cc    f     -         2143   80    0 
+frogger   968881742  7  5 cc  f     -     -         2063   40    0 
+frogger   968881792  8  4 cc  cc    ccc   f         2023  140    0 
+frogger   968881886  8  3 ccc f     -     -         1883   40    0 
+frogger   968881989  9  2 Bc  kc    bc    kcc       1843  150  425 Ah 3c Qc 7h
+frogger   968882105 10  1 Bcc kc    kcc   kf        2118  160    0 
+frogger   968882237 10 10 c   c     c     c         1958   60  105 8c 3d 7h 2d
+frogger   968882293 10  9 cc  b     -     -         2003   40  175 
+frogger   968882376 10  8 c   c     c     rc        2138  110  405 3h As 9d 4h
+frogger   968882441 10  7 c   r     -     -         2433   40  165 
+frogger   968882530  9  6 c   k     c     c         2558   50    0 7s 6s 2s 9c
+frogger   968882583  8  4 c   kf    -     -         2508   10    0 
+frogger   968882634  8  3 f   -     -     -         2498    0    0 
+frogger   968882674  7  2 Bk  r     kc    f         2498   50    0 
+frogger   968882724  6  1 Bc  k     kf    -         2448   10    0 
+frogger   968882778  7  7 f   -     -     -         2438    0    0 
+frogger   968882826  7  6 c   b     b     -         2438   40   90 
+frogger   968882854  7  5 cc  c     cc    c         2488  140  220 4h Js 4d 5c
+frogger   968882917  8  6 cc  f     -     -         2568   30    0 
+frogger   968882968  7  4 f   -     -     -         2538    0    0 
+frogger   968883001  7  3 cc  k     kc    kc        2538   60   97 7d 6c 4c 3s
+frogger   968883069  7  2 Bcc kc    bc    kc        2575  110    0 6s Kd 3h Js
+frogger   968883143  7  1 Bc  k     b     k         2465   30    0 Qh Ac Th 9s
+frogger   968883195  6  6 c   cc    c     c         2435   70  100 2h 4s 4c 6s
+frogger   968883262  5  5 f   -     -     -         2465    0    0 
+frogger   968883295  5  4 cc  r     b     b         2465   80  200 Jh 5d Jc Tc
+frogger   968883327  5  3 c   kc    kc    brc       2585  120  330 6c Kc 8s 7c
+frogger   968883378  5  2 Bk  k     k     b         2795   30   35 6s 9h Ac 3d
+frogger   968883412  6  1 Bc  kf    -     -         2800   20    0 
+frogger   968883446  5  5 cc  c     f     -         2780   50    0 
+frogger   968883479  5  4 f   -     -     -         2730    0    0 
+frogger   968883543  5  3 cc  kc    kc    kf        2730   50    0 
+frogger   968883620  6  2 Bc  bc    kcc   kf        2680  100    0 
+frogger   968883688  5  1 Bc  bc    krr   b         2580  140  290 Jd 9d 7c Jh
+frogger   968883730  5  5 c   f     -     -         2730   20    0 
+frogger   968883777  6  5 cc  c     c     f         2710   70    0 
+frogger   968883845  6  4 c   k     c     r         2640   70   80 Ac Qh 5h Ah
+frogger   968883888  5  3 cc  kf    -     -         2650   20    0 
+frogger   968883936  5  2 Bk  k     k     k         2630   10    0 9d 3d Qs Ks
+frogger   968883962  5  1 Bf  -     -     -         2620    5    0 
+frogger   968883999  6  6 c   f     -     -         2615   10    0 
+frogger   968884050  6  5 f   -     -     -         2605    0    0 
+frogger   968884082  6  4 f   -     -     -         2605    0    0 
+frogger   968884137  7  4 c   rc    rc    c         2605  130    0 7c 2s As 8h
+frogger   968884198  8  3 cc  c     c     k         2475   50  180 4s As 3c Kh
+frogger   968884256  9  2 Bk  k     b     b         2605   50  160 
+frogger   968884423  7  1 Bc  k     kf    -         2715   10    0 
+frogger   968884488  6  6 cc  c     f     -         2705   30    0 
+frogger   968884572  6  5 c   c     c     b         2675   60  140 8s Js 5c 4d
+frogger   968884627  4  3 r   b     b     b         2755   70  150 6d 2c 3s As
+frogger   968884653  4  3 c   b     b     c         2835   60   67 2c 4s 6c 3d
+frogger   968884693  4  2 Br  k     b     b         2842   60  140 Tc As Ac 9d
+frogger   968884735  4  1 Bc  kf    -     -         2922   10    0 
+frogger   968884768  4  4 c   b     b     -         2912   40   90 
+frogger   968884825  4  3 c   f     -     -         2962   10    0 
+frogger   968884849  6  3 c   f     -     -         2952   10    0 
+frogger   968884942  6  2 Bk  f     -     -         2942   10    0 
+frogger   968885000  6  1 Bc  kc    kc    k         2932   50    0 5c 8c Jd Kd
+frogger   968885078  6  6 c   rc    c     c         2882   80    0 Qc Td Jd 2s
+frogger   968885139  6  5 c   c     rr    c         2802  120    0 8d 4s Jc 5h
+frogger   968885200  6  4 c   f     -     -         2682   10    0 
+frogger   968885241  6  3 cc  bc    kc    kf        2672   60    0 
+frogger   968885307  6  2 Bk  k     b     b         2612   50  140 Ad 3d 5d 4s
+frogger   968885369  6  1 Bf  -     -     -         2702    5    0 
+frogger   968885423  7  6 c   c     k     f         2697   20    0 
+frogger   968885474  7  5 c   kf    -     -         2677   10    0 
+frogger   968885552  6  4 c   c     ccc   kc        2667  120    0 8c 3h 4h 5h
+frogger   968885607  6  3 c   kc    cc    ccc       2547  140    0 9c Kc 2d 4d
+frogger   968885676  6  2 Bk  bc    c     c         2407   70    0 Qc Jc As Qh
+frogger   968885725  6  1 Bc  kf    -     -         2337   10    0 
+frogger   968885766  6  6 c   r     b     b         2327   70  280 Ac 6d 4c 3s
+frogger   968885828  6  5 c   r     b     b         2537   70    0 Ts Qc Kh 2d
+frogger   968885877  5  3 c   kc    kf    -         2467   20    0 
+frogger   968885929  5  2 Bk  kc    kc    kc        2447   60   97 6h 2h Ks 5s
+frogger   968885976  4  1 Bc  bc    kc    kc        2484   70   80 9d 8d 8c 6d
+frogger   968886013  4  4 f   -     -     Q         2494    0    0 
+frogger   968915792  6  4 c   kf    -     -         2494   10    0 
+frogger   968915828  6  3 f   -     -     -         2484    0    0 
+frogger   968915864  6  2 Bk  kc    KQ    -         2484   20    0 
+frogger   968916328  4  4 c   f     -     -         2464   10    0 
+frogger   968916345  5  3 cc  f     -     -         2454   40    0 
+frogger   968916395  5  2 Bc  c     rc    k         2414  102  163 Ad Kh 8h Td
+frogger   968916442  4  1 Bc  k     b     kc        2475   50  110 4s 3d 3c Qc
+frogger   968916501  5  5 c   b     -     -         2535   20   50 
+frogger   968916525  5  4 cc  cc    rc    rr        2565  200  157 Tc Kd 7s Ad
+frogger   968916579  5  3 cc  kf    -     -         2522   20    0 
+frogger   968916673  5  1 Bc  kc    b     bc        2502   90    0 9s 6c 5c Ad
+frogger   968916729  5  1 Bcc kc    b     bc        2412  100  115 Qs 2d 7d 3c
+frogger   968916790  5  5 f   -     -     -         2427    0    0 
+frogger   968916838  5  4 cc  c     kc    kf        2427   50    0 
+frogger   968916890  5  3 f   -     -     -         2377    0    0 
+frogger   968916927  6  3 c   kc    kc    bc        2377   80  112 Th As 9s 2d
+frogger   968916985  6  2 Br  b     bc    kc        2409   90    0 Ac Ts Kd Kh
+frogger   968917036  6  1 Bc  k     k     kc        2319   30    0 5c 9s 5h 4s
+frogger   968917119  6  6 c   r     b     b         2289   80  200 8c 4d 6s 7c
+frogger   968917170  6  5 c   c     c     f         2409   50    0 
+frogger   968917224  6  4 cc  kf    -     -         2359   20    0 
+frogger   968917284  6  3 f   -     -     -         2339    0    0 
+frogger   968917321  6  2 Bf  -     -     -         2339   10    0 
+frogger   968917385  6  1 BKQ -     -     -         2329    5    0 
+frogger   969945183  8  4 c   brc   brc   cc        1859  170  188 Th 9s 4s 3s
+frogger   969945281  8  3 cf  -     -     -         1877   10    0 
+frogger   969945358  8  2 Bk  k     f     -         1867   10    0 
+frogger   969945405  8  1 Bc  kf    -     -         1857   10    0 
+frogger   969945466  8  8 f   -     -     -         1847    0    0 
+frogger   969945535  7  6 c   c     f     -         1847   30    0 
+frogger   969945606  8  6 c   b     b     b         1817   60    0 9s Td Jh 8d
+frogger   969945687  8  5 c   k     k     k         1757   10    0 4d 2s 9c Jd
+frogger   969945782  9  4 f   -     -     -         1747    0    0 
+frogger   969945845  9  3 r   k     k     f         1747   20    0 
+frogger   969945899  8  2 Bk  k     kf    -         1727   10    0 
+frogger   969945955  8  1 Bc  k     k     KQ        1717   10    0 
+frogger   969946219 10  6 f   -     -     -         1707    0    0 
+frogger   969946287 10  5 f   -     -     -         1707    0    0 
+frogger   969946345 10  4 f   -     -     -         1707    0    0 
+frogger   969946442 10  3 f   -     -     -         1707    0    0 
+frogger   969946489  9  1 Bk  k     k     kf        1707   10    0 
+frogger   969946557  9  1 Bf  -     -     -         1697    5    0 
+frogger   969946606 10 10 c   rc    c     r         1692  110  215 3h 9d 2d Qh
+frogger   969946696 10  9 c   c     c     f         1797   40    0 
+frogger   969946766 10  8 f   -     -     -         1757    0    0 
+frogger   969946849 10  7 r   b     ccc   f         1757  110    0 
+frogger   969946957  9  6 c   rc    cc    br        1647  170  385 Kc 6h 3c Qh
+frogger   969947013  7  4 c   kf    -     -         1862   10    0 
+frogger   969947109  6  3 c   k     k     kf        1852   10    0 
+frogger   969947156  6  2 Bk  k     f     -         1842   10    0 
+frogger   969947191  6  1 Bc  kf    -     -         1832   10    0 
+frogger   969947237  7  7 f   -     -     -         1822    0    0 
+frogger   969947277  7  6 cc  b     r     rr        1822  150  410 Qc Jd Qs Kc
+frogger   969947361  7  5 c   bc    k     b         2082   50  180 Tc 4h 5h 5c
+frogger   969947418  8  4 r   c     b     br        2212  110  200 7s Ad 2h Th
+frogger   969947476  8  3 f   -     -     -         2302    0    0 
+frogger   969947531  8  2 Bk  b     b     b         2302   60  200 4h 2c Ac 9s
+frogger   969947592  8  1 Bf  -     -     -         2442    5    0 
+frogger   969947647  8  8 c   rc    b     cc        2437  120  310 Ah 2d Js 2s
+frogger   969947753  8  7 c   c     b     r         2627   80  360 6d 7d 4h 9c
+frogger   969947824  9  7 c   cc    c     f         2907   50    0 
+frogger   969947888  9  7 c   k     f     -         2857   10    0 
+frogger   969947956  9  6 c   f     -     -         2847   10    0 
+frogger   969947997  7  5 f   -     -     -         2837    0    0 
+frogger   969948056  6  4 c   r     b     brc       2837  130  100 Js 7h 3s Ah
+frogger   969948120  7  3 c   k     cc    kc        2807   70    0 Qc 4d 6s 5h
+frogger   969948190  7  2 Bf  -     -     -         2737   10    0 
+frogger   969948219  7  1 Bc  bc    k     k         2727   40   65 Qs 3h Ah 9c
+frogger   969948280  7  7 c   k     f     -         2752   10    0 
+frogger   969948342  7  6 f   -     -     -         2742    0    0 
+frogger   969948379  7  5 c   c     r     b         2742   80  160 Qs Qd 8h 9d
+frogger   969948440  8  4 c   c     c     b         2822   60  120 6s 2h 4s 2s
+frogger   969948504  8  3 c   c     bc    kc        2882   80    0 Kc 2s Td Qc
+frogger   969948601  8  2 Bc  kf    -     -         2802   20    0 
+frogger   970246338  9  3 c   cc    k     k         2782   40    0 6d 9c 3c 4h
+frogger   970246400  9  2 Bc  bc    kc    kc        2742   90    0 4d 6d 2c Tc
+frogger   970246462  9  1 Bc  kf    -     -         2652   10    0 
+frogger   970246522  9  9 c   c     rc    r         2642  120  275 9c Tc 8d 6c
+frogger   970246604  9  9 c   c     f     -         2797   30    0 
+frogger   970246665  9  8 cf  -     -     -         2767   30    0 
+frogger   970246735  8  6 c   f     -     -         2737   10    0 
+frogger   970246794  8  5 c   b     bc    k         2727   60    0 2h Kc Js 4s
+frogger   970246868  8  4 f   -     -     -         2667    0    0 
+frogger   970246910  7  3 cc  kcc   kf    -         2667   60    0 
+frogger   970246984  7  2 Bk  b     b     b         2607   60  135 
+frogger   970247019  6  1 Bc  k     k     k         2682   10    0 Js 5h 6s 4d
+frogger   970247044  6  6 c   k     k     k         2672   10    0 5d 9c 6d Qs
+frogger   970247100  6  5 r   k     b     b         2662   60  125 
+frogger   970247142  6  4 c   k     k     k         2727   10   45 4s 2s 5c 7c
+frogger   970247173  6  3 c   b     b     b         2762   60  150 Ah Js Qs 8h
+frogger   970247200  6  2 Bc  bc    bc    kc        2852  100    0 Js 8c 7d Ks
+frogger   970247272  6  1 Bf  -     -     -         2752    5    0 
+frogger   970247299  5  5 c   c     c     c         2747   60    0 Qs Ks 3d 5h
+frogger   970247334  5  5 c   r     c     b         2687   70  210 Ks 7d Jc 9s
+frogger   970247375  5  4 c   b     -     -         2827   20   40 
+frogger   970247398  5  3 c   c     f     -         2847   20    0 
+frogger   970247419  5  2 Br  b     b     brc       2827  130  210 9d Ad 3c Tc
+frogger   970247468  5  1 Bc  kc    kc    kc        2907   60    0 Jc 2d 2h 3c
+frogger   970247523  5  5 f   -     -     -         2847    0    0 
+frogger   970247564  5  4 c   k     b     -         2847   30   50 
+frogger   970247582  5  3 c   bc    c     c         2867   70  160 5d 9s Qs 4d
+frogger   970247610  5  2 Bk  b     b     b         2957   60  140 7h 4d 5d As
+frogger   970247645  5  1 Bc  k     k     k         3037   10    0 Td 7s 5d Jd
+frogger   970247687  5  5 c   rr    bc    c         3027  110    0 8h As Ks 4s
+frogger   970247742  6  4 c   k     b     kc        2917   50   80 2d Kc Js 4d
+frogger   970247782  6  3 c   c     k     c         2947   40   54 6h Jc 7d 9d
+frogger   970247818  6  2 Br  b     b     b         2961   70    0 4h Ah 7s 6c
+frogger   970247876  6  1 Bc  bc    kcc   kf        2891  120    0 
+frogger   970247954  6  6 c   c     f     -         2771   30    0 
+frogger   970248007  6  5 f   -     -     -         2741    0    0 
+frogger   970248043  7  4 cc  b     b     b         2741   70  330 2s Td 3d 8c
+frogger   970248097  7  3 c   b     b     k         3001   40  190 6c 5s 8d 2c
+frogger   970248148  7  2 Bc  k     f     -         3151   20    0 
+frogger   970248187  7  1 Bc  kc    k     bc        3131   60    0 8d Ad 4c 9d
+frogger   970248244  7  7 c   k     f     -         3071   10    0 
+frogger   970248345  8  7 c   b     brc   bc        3061  140  455 Qd 7s Ts Qc
+frogger   970296609  7  2 Bcc kcc   br    kcc       3081  220 1020 Ts 7d Ks 8s
+frogger   970296814  6  1 Bc  kc    kf    -         3881   30    0 
+frogger   970296879  6  6 cc  c     c     c         3851   90  225 9h 4c 9s 2h
+frogger   970296930  7  5 f   -     -     -         3986    0    0 
+frogger   970296988  7  4 cc  rr    c     rc        3986  160  435 7h 5s 4d 2h
+frogger   970297064  8  4 cc  kf    -     -         4261   20    0 
+frogger   970297176  9  3 cc  kf    -     -         4241   20    0 
+frogger   970297261  9  2 Bc  kf    -     -         4221   20    0 
+frogger   970297341  9  1 Bc  bcc   kcc   kcc       4201  220    0 2c 4c Kd 3d
+frogger   970297430 10 10 c   f     -     -         3981   20    0 
+frogger   970297584  7  6 c   c     f     -         3961   30    0 
+frogger   970297630  6  5 c   r     b     b         3931   70  120 3h Qc Jh 4s
+frogger   970297673  7  5 c   c     f     -         3981   30    0 
+frogger   970297717  6  4 cc  f     -     -         3951   20    0 
+frogger   970297764  6  3 cc  c     c     c         3931   70    0 6h 5s 7c As
+frogger   970297803  6  2 Bc  kc    f     -         3861   30    0 
+frogger   970297867  7  1 Bc  kc    kc    kc        3831   70    0 Ac Qd Ad Ah
+frogger   970297949  8  8 c   c     cc    f         3761  110    0 
+frogger   970298028  8  7 c   c     cc    f         3651   90    0 
+frogger   970298116  8  6 cc  c     c     cc        3561  110  230 Jd Ad 4h Tc
+frogger   970298192  8  5 cc  f     -     -         3681   20    0 
+frogger   970298263  8  4 f   -     -     -         3661    0    0 
+frogger   970298367  7  3 cc  kc    kcc   kf        3661  110    0 
+frogger   970298474  7  2 Bc  kcc   kc    kf        3551   80    0 
+frogger   970298578  7  1 Bc  br    br    bcc       3471  220  360 7h As 4h Js
+frogger   970298660  7  7 c   c     c     f         3611   50    0 
+frogger   970298728  6  5 f   -     -     -         3561    0    0 
+frogger   970298775  7  4 cc  kc    kf    -         3561   30    0 
+frogger   970298844  8  3 cc  kc    kc    kc        3531   70    0 5s Qh Qc 7s
+frogger   970298949  8  2 Bc  rc    f     -         3461   60    0 
+frogger   970299033  8  1 Bc  kc    kcc   brc       3401  190  810 8h 8d Js Th
+frogger   970299161  8  8 c   rr    rr    rc        4021  200  790 Jh Qc 6s Th
+frogger   970299239  8  6 crc rr    rc    ccc       4611  240  408 Qs Ac 2d Qd
+frogger   970299310  7  4 cc  cc    rr    rr        4779  210  690 Ks Qs 6s 5c
+frogger   970299428  8  3 ccc cc    cf    -         5259  100    0 
+frogger   970299517  7  2 Bc  rc    kc    kc        5159  100  125 Ah Tc Kd 8c
+frogger   970299588  7  1 Bc  bcc   kcc   kf        5184  140    0 
+frogger   970299680  7  7 c   c     f     -         5044   30    0 
+frogger   970299733  7  6 cc  f     -     -         5014   20    0 
+frogger   970299820  7  5 cc  f     -     -         4994   20    0 
+frogger   970299881  7  4 cc  kc    f     -         4974   30    0 
+frogger   970299980  7  3 f   -     -     -         4944    0    0 
+frogger   970300058  7  2 Bc  kc    brc   bc        4944  150    0 9c 5c Jh 9d
+frogger   970300139  8  1 Bc  kc    kc    kc        4794   70  250 9h Kh 8d As
+frogger   970300215  6  6 cc  c     c     c         4974   70    0 9s Ah 7c Kc
+frogger   970300264  6  5 cc  cc    cc    c         4904  160    0 Kh 4s Qc Qd
+frogger   970300337  6  4 cc  ccc   cc    kc        4744  120  232 Ad 6d Qd 4d
+frogger   970300418  6  3 cc  rr    ccc   ccc       4856  220    0 5h Ts Qd Th
+frogger   970300496  6  2 Bf  -     -     -         4636   10    0 
+frogger   970300550  6  1 Bc  kcc   kf    -         4626   60    0 
+frogger   970300620  6  6 f   -     -     -         4566    0    0 
+frogger   970300654  6  5 cc  fQ    -     -         4566   20    0 

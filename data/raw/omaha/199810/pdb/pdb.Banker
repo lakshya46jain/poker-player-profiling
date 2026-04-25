@@ -1,0 +1,36 @@
+Banker    908764841 10  6 f   -     -     -         1000    0    0 
+Banker    908764972 10  5 f   -     -     -         1000    0    0 
+Banker    908765067 10  4 f   -     -     -         1000    0    0 
+Banker    908765169 10  3 f   -     -     -         1000    0    0 
+Banker    908765276 10  2 Bcc kf    -     -         1000   40    0 
+Banker    908765428 10  1 Bcc kc    k     kf         960   30    0 
+Banker    908765552 10 10 c   k     f     -          930   10    0 
+Banker    908765665 10  9 c   f     -     -          920   10    0 
+Banker    908765761 10  8 c   f     -     -          910   10    0 
+Banker    908765884 10  7 f   -     -     -          900    0    0 
+Banker    908765958 10  6 r   b     k     k          900   30    0 3c 8c As 2c
+Banker    908766051 10  5 c   k     f     -          870   10    0 
+Banker    908766153 10  4 f   -     -     -          860    0    0 
+Banker    908766280 10  3 f   -     -     -          860    0    0 
+Banker    908766391 10  2 Bc  c     f     -          860   30    0 
+Banker    908766495 10  1 Bc  k     kf    -          830   10    0 
+Banker    908766571 10 10 c   c     c     f          820   50    0 
+Banker    908766661 10  9 f   -     -     -          770    0    0 
+Banker    908766792 10  8 r   k     k     k          770   20    0 Kh 3s As 2d
+Banker    908766892 10  7 f   -     -     -          750    0    0 
+Banker    908767015  9  6 f   -     -     -          750    0    0 
+Banker    908767130  8  4 f   -     -     -          750    0    0 
+Banker    908767171  7  3 f   -     -     -          750    0    0 
+Banker    908767229  7  2 Brc kr    bc    c          750  120   92 3h Kd Ad Th
+Banker    908767305  9  1 Bc  kc    kc    krr        722  140  315 7c 8s Ah 3s
+Banker    908767392  9  9 f   -     -     -          897    0    0 
+Banker    908767462  8  7 c   b     b     b          897   60  180 7c 6s 7s As
+Banker    908767515  8  6 f   -     -     -         1017    0    0 
+Banker    908767551  8  5 rr  k     k     k         1017   40   88 Ac Ad Ks 4d
+Banker    908767608  8  4 rc  c     c     f         1065   90    0 
+Banker    908767666  9  3 Q   -     -     -          975    0    0 
+Banker    908820524  5  5 cc  c     c     cc         975  110    0 5h 4s 9d Jd
+Banker    908820575  6  4 cc  c     cc    c          865  110    0 2h Th 3h Ks
+Banker    908820635  6  3 c   k     f     -          755   10    0 
+Banker    908820679  5  1 Bk  b     bc    k          745   60   90 Qh 7h 9s 8d
+Banker    908820766  5  1 Bc  k     kfQ   -          775   10    0 

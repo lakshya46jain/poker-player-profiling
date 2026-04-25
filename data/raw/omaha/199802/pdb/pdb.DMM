@@ -1,0 +1,922 @@
+DMM       887660118  6  4 cc  f     -     -         1545   20    0 
+DMM       887660177  6  3 c   c     rc    c         1525  100  210 Ac Kd Js 4d
+DMM       887660254  6  2 Bf  -     -     -         1635   10    0 
+DMM       887660312  6  1 Bc  kf    -     -         1625   10    0 
+DMM       887660376  6  6 c   c     c     r         1615   80   80 4d 4s As 8h
+DMM       887660463  7  5 cc  br    c     kc        1615  110    0 Ts 3h Qc 5h
+DMM       887660546  7  4 cc  bc    kcc   kf        1505   90    0 
+DMM       887660707  6  1 Br  bc    kc    kc        1415   90  160 2d 6d 4s 5c
+DMM       887660784  8  1 Bc  kcc   kc    kc        1485   70    0 6s 7c Qh Td
+DMM       887660919  9  9 r   c     cc    b         1415  140  775 4d 4s 8d Ah
+DMM       887661081  9  8 cc  f     -     -         2050   30    0 
+DMM       887661168  9  7 cc  kc    kf    -         2020   30    0 
+DMM       887661317  9  6 cc  cc    kc    kc        1990   90  200 2h Qh 6c Th
+DMM       887661425  7  4 cc  k     f     -         2100   30    0 
+DMM       887661498  6  3 ccc kcc   kc    kc        2070  140  370 8c 8d 6c 5s
+DMM       887661635  6  2 Bk  c     f     -         2300   20    0 
+DMM       887661705  6  1 Br  bc    krc   k         2280  100  440 As Ks Th 3c
+DMM       887661830  7  7 cc  b     b     b         2620   70  250 7d 9d 9c Ah
+DMM       887661913  8  6 cc  f     -     -         2800   30    0 
+DMM       887662015  8  5 c   cc    c     c         2770   80    0 7h Kh 3c Ad
+DMM       887662103  7  4 c   c     c     b         2690   60  210 6c 3d Ks Jc
+DMM       887662173  7  3 r   b     bc    k         2840   70  137 2h 5s Kd Ac
+DMM       887662252  7  2 Bk  k     k     k         2907   10    0 5h Qd Td Qc
+DMM       887662328  7  1 Bc  k     kc    brc       2897  120    0 3h 5h Kc 2s
+DMM       887662429  7  7 cc  c     c     c         2777   70  180 5h 2s Th 9s
+DMM       887662499  7  6 rc  rr    r     r         2887  150  780 Kd Qs Ac 3d
+DMM       887662587  8  5 r   cc    kcc   kcc       3517  190    0 2d 3d 8d 2c
+DMM       887662710  7  4 c   k     c     b         3327   50   95 Ac 8s 6c Qh
+DMM       887662786  8  3 ccc kcc   kc    kc        3372  123  449 Jh 7s 3s 9h
+DMM       887662874  7  2 Bc  kf    -     -         3698   20    0 
+DMM       887663001  8  1 Bc  k     bc    kcc       3678  170    0 4h 7d 3h 6d
+DMM       887663111  8  8 r   c     c     f         3508   60    0 
+DMM       887663202  7  6 cc  c     c     k         3448   75    0 3d As 8h 7s
+DMM       887663316  9  6 cc  cc    c     f         3373   70    0 
+DMM       887663431  8  4 cc  cc    cc    k         3303  120  420 4h Kh 6d 2c
+DMM       887663576  9  3 ccKQ -     -     -         3603   30    0 
+DMM       887664250  9  7 c   cc    rc    kc        3573  150  740 9h 2s Jh Qc
+DMM       887664370 10  7 ccc c     r     KQ        4163  120    0 
+DMM       887664693  8  5 c   ccc   k     cf        4043  100    0 
+DMM       887664828 10  4 c   kc    k     f         3943   20    0 
+DMM       887664895 10  3 c   kc    c     rc        3923  130    0 Jd 8h 9h Kh
+DMM       887665067 10  2 Br  kc    kc    kf        3793   50    0 
+DMM       887665199 10  1 Bf  -     -     -         3743    5    0 
+DMM       887665361 10 10 Q   -     -     -         3738    0    0 
+DMM       887665583 10  7 c   c     c     c         3738   90    0 7h Jh 3d 6d
+DMM       887665663 10  6 ccc f     -     -         3648   30    0 
+DMM       887665792 10  6 cc  cc    rr    c         3618  160  410 As 4s Td Qh
+DMM       887665923 10  4 c   ccc   ccc   cf        3868  150    0 
+DMM       887666149  9  2 ccc kc    bcc   kc        3718  150  597 5s Th Ts 8d
+DMM       887666303  7  1 Bk  kf    -     -         4165   10    0 
+DMM       887666373  8  1 Bc  kc    kc    kc        4155   70    0 8c 3s 3d Jc
+DMM       887666475  8  8 f   -     -     -         4085    0    0 
+DMM       887666558  8  7 c   c     f     -         4085   20    0 
+DMM       887666614  8  6 c   k     f     -         4065   10    0 
+DMM       887666687  7  4 c   c     c     c         4055   60    0 4h 8h 3d Jh
+DMM       887666720  6  3 r   b     b     b         3995   70  120 3d 8d 5s As
+DMM       887666782  5  2 Br  kcc   kc    kc        4045  108    0 Ac Qd Qc 3d
+DMM       887666855  5  1 Bc  kc    kf    -         3937   20    0 
+DMM       887666911  5  5 r   b     b     k         3917   50    0 3d Ac 2c 3c
+DMM       887666942  6  5 f   QQ    -     -         3867    0    0 
+DMM       887668200  9  2 Bc  kf    -     -         3867   20    0 
+DMM       887668321  9  1 Bc  kf    -     -         3847   20    0 
+DMM       887668418  9  9 c   c     k     bc        3827   70  260 As Th 4h 6d
+DMM       887668499  8  8 c   c     f     -         4017   30    0 
+DMM       887668571  8  7 cc  cc    k     k         3987   50    0 3d Qd 4c 9d
+DMM       887668661  8  6 c   kc    k     f         3937   20    0 
+DMM       887668728  5  3 c   c     c     c         3917   60    0 Ts Ah As 4h
+DMM       887668764  5  3 r   b     b     b         3857   70  125 
+DMM       887668800  5  2 Bk  kc    b     k         3912   40   95 4d 7c 7s Qd
+DMM       887668843  4  1 Bc  b     b     b         3967   60  110 
+DMM       887668921  6  4 cc  kf    -     -         4017   20    0 
+DMM       887668971  6  3 c   k     b     b         3997   50   68 3d 9s 7d Js
+DMM       887669040  6  2 Br  k     k     b         4015   40   60 
+DMM       887669084  6  1 Bc  k     kc    kc        4035   50  130 9c Jd 8s 6c
+DMM       887669129  6  6 c   c     c     k         4115   40    0 Kh 5h 2s 7c
+DMM       887669183  5  4 cc  bc    kc    k         4075   60    0 5h Qs 8d 2s
+DMM       887669229  5  3 r   -     -     -         4015   20   35 
+DMM       887669249  5  2 Bk  k     k     k         4030   10   20 8h 6c 8d Qd
+DMM       887669276  5  1 Bc  kc    kc    kc        4040   60  140 2s 5h 8c Kc
+DMM       887669324  5  5 c   f     -     -         4120   10    0 
+DMM       887669347  5  4 c   b     -     -         4110   20   40 
+DMM       887669361  5  3 c   b     -     -         4130   20   50 
+DMM       887669384  5  2 Bk  b     bc    kc        4160   80   83 9h 6h 9d 5s
+DMM       887669411  5  1 Bc  b     b     b         4163   60    0 Jh 7h Qs Ac
+DMM       887669449  5  5 c   k     k     c         4103   30   37 5d Ks 6c 6h
+DMM       887669478  5  4 c   r     r     b         4110   90   95 Jc 9h 3d 6c
+DMM       887669521  5  3 r   f     -     -         4115   20    0 
+DMM       887669548  5  2 Bk  kc    kc    kc        4095   60   85 8c 3c 4h Qc
+DMM       887669601  5  1 Bc  b     b     b         4120   60   95 7c Qc 2d 8h
+DMM       887669634  5  5 c   b     b     -         4155   50  125 
+DMM       887669681  5  4 c   c     Q     Q         4230   20    0 
+DMM       887742575  3  2 Bc  b     b     b         4075   70  140 2c 5d Kd Kh
+DMM       887742598  3  1 Bc  k     b     b         4145   50    0 3s Qs 9c 9s
+DMM       887742631  3  3 c   b     b     k         4095   40   85 3d 2h 7s Th
+DMM       887742661  3  2 Bk  f     -     -         4140   10    0 
+DMM       887742677  3  1 Bc  kf    -     -         4130   10    0 
+DMM       887742690  3  3 cc  k     c     c         4120   60    0 7d 3d 8d 6s
+DMM       887742732  3  2 Bc  r     bc    k         4060   80    0 2c Qc Qs Ts
+DMM       887742767  3  1 Bc  b     k     b         3980   40   70 
+DMM       887742802  3  3 c   c     r     b         4010   80   83 7h 8c Ac Ah
+DMM       887742827  3  2 Bk  b     k     k         4013   20   40 8d 6s 4c Ad
+DMM       887742856  3  1 Bc  kc    kc    b         4033   60    0 As Td 3c Ts
+DMM       887742906  3  3 r   k     f     -         3973   20    0 
+DMM       887742942  3  2 Bk  c     c     r         3953   80   85 6c 5h 8c 9h
+DMM       887742970  3  1 Bc  kc    kc    kf        3958   40    0 
+DMM       887743011  4  3 c   k     c     k         3918   30    0 7d 6c 9h 5s
+DMM       887743075  3  2 Bk  kc    kc    kc        3888   60    0 4s Td 7d Jh
+DMM       887743135  3  1 Bc  kc    kc    k         3828   40    0 Jd 6h 7h 9d
+DMM       887743188  3  3 f   -     -     -         3788    0    0 
+DMM       887743218  3  2 Bk  kc    kc    kf        3788   40    0 
+DMM       887743249  3  1 BfQ Q     -     -         3748    5    0 
+DMM       887744741  7  4 c   k     f     -         3743   10    0 
+DMM       887744797  7  3 c   kc    kc    kf        3733   40    0 
+DMM       887744863  8  2 Bc  k     kc    k         3693   60  265 5h 2s Ac 7s
+DMM       887744940  8  1 Bc  kc    kc    kf        3898   40    0 
+DMM       887744993  7  7 cc  c     r     r         3858  200  475 Ts Tc Js Kc
+DMM       887745086  7  6 f   -     -     -         4133    0    0 
+DMM       887745160  6  4 f   -     -     -         4133    0    0 
+DMM       887745215  6  3 cc  kc    kc    kc        4133   70  107 2h 5s 2d 9h
+DMM       887745307  4  2 Bc  bc    r     rc        4170  140  160 8s 3c 5c As
+DMM       887745409  3  1 BQQ -     -     -         4190    5    0 
+DMM       887750530  9  2 Bc  kcc   kcc   kf        4185  130    0 
+DMM       887750650  6  1 BQQ -     -     -         4055    5    0 
+DMM       888028283 10  7 c   c     r     k         4050   60    0 Qd Jh 4h As
+DMM       888028359 10  6 f   -     -     -         3990    0    0 
+DMM       888028437 10  5 cc  kc    kc    kc        3990   70  150 2h 3h Jh Jd
+DMM       888028572 10  4 f   -     -     -         4070    0    0 
+DMM       888028625 10  3 c   kc    k     k         4070   20    0 Ks 5s Kd 6c
+DMM       888028750 10  2 Bc  k     kc    kc        4050  100  200 5c 2s Ac Tc
+DMM       888028906 10  1 Bc  kc    kc    kf        4150   50    0 
+DMM       888029017 10 10 c   k     c     f         4100   30    0 
+DMM       888029105 10  9 c   k     k     f         4070   10    0 
+DMM       888029184 10  8 c   k     k     b         4060   30   60 
+DMM       888029230 10  7 c   b     b     k         4090   40  140 5h Kh 2c 8s
+DMM       888029324  9  6 c   cc    f     -         4190   30    0 
+DMM       888029434 10  4 cc  k     kf    -         4160   20    0 
+DMM       888029513 10  3 c   k     kc    k         4140   30    0 7d Kh Js Jc
+DMM       888029595 10  2 Bc  kc    kc    k         4110   70    0 2d 3s 7d 5c
+DMM       888029671 10  1 Bc  kc    kc    krc       4040  110  143 Th 6c Kd Ah
+DMM       888029785 10 10 c   k     b     k         4073   30    0 4h 2s Jc Ad
+DMM       888029874 10  9 f   -     -     -         4043    0    0 
+DMM       888029950 10  8 c   c     c     f         4043   70    0 
+DMM       888030020 10  7 cc  c     c     c         3973   70    0 6c 3h 9d 2s
+DMM       888030126 10  6 c   kf    -     -         3903   10    0 
+DMM       888030191 10  5 cc  kc    kf    -         3893   30    0 
+DMM       888030293  9  3 c   k     c     f         3863   30    0 
+DMM       888030367  9  3 cc  kc    kc    kc        3833   70    0 4d Qh 2s 5d
+DMM       888030432 10  2 Br  b     b     bc        3763   90  254 Jc 3h Ah 4d
+DMM       888030499 10  1 Bf  -     -     -         3927    5    0 
+DMM       888030568 10 10 cc  c     c     k         3922   50    0 Td 8s Qc Ts
+DMM       888030644 10  9 f   -     -     -         3872    0    0 
+DMM       888030711 10  8 f   -     -     -         3872    0    0 
+DMM       888030812 10  7 f   -     -     -         3872    0    0 
+DMM       888030890 10  6 c   c     c     kf        3872   50    0 
+DMM       888030978 10  5 c   cc    kcc   krc       3822  170  178 As 6c Ah 3c
+DMM       888031110  9  4 c   kc    kc    bc        3830   90  152 Ad 4d 3c 7h
+DMM       888031204  9  3 f   -     -     -         3892    0    0 
+DMM       888031282  9  2 Bk  kf    -     -         3892   10    0 
+DMM       888031344  9  1 Bc  kf    -     -         3882   10    0 
+DMM       888031383  8  8 c   k     k     c         3872   30   45 4s 7d 6d Qs
+DMM       888031432  8  7 cc  c     c     c         3887   70    0 Jc As Ks 4h
+DMM       888031507  8  6 c   k     k     c         3817   30    0 6d 8c 8d Qs
+DMM       888031598  8  5 cc  f     -     -         3787   20    0 
+DMM       888031677  8  4 f   -     -     -         3767    0    0 
+DMM       888031757  8  3 f   -     -     -         3767    0    0 
+DMM       888031806  8  2 Bk  kc    kf    -         3767   20    0 
+DMM       888031857  8  1 Bf  -     -     -         3747    5    0 
+DMM       888031926  8  8 f   -     -     -         3742    0    0 
+DMM       888032048  7  6 f   -     -     -         3742    0    0 
+DMM       888032099  8  6 f   -     -     -         3742    0    0 
+DMM       888032144  8  5 f   -     -     -         3742    0    0 
+DMM       888032198 10  4 f   -     -     -         3742    0    0 
+DMM       888032285 10  3 c   kc    b     b         3742   60  245 6c 8d 2d 3c
+DMM       888032368 10  2 Bk  bc    k     kc        3927   50    0 Qh 6c 3c Kd
+DMM       888032454 10  1 Bc  kc    k     kf        3877   30    0 
+DMM       888032559 10 10 c   c     b     b         3847   70    0 Qs Ad 9c Qd
+DMM       888032627 10  9 c   c     c     c         3777   70   80 Tc Ac 2d Th
+DMM       888032705 10  8 cc  c     b     c         3787   80  220 Td Kc 5c 2h
+DMM       888032808 10  7 c   kc    kc    k         3927   40    0 6c 5d 9d 7s
+DMM       888032914 10  6 f   -     -     -         3887    0    0 
+DMM       888032968 10  5 c   kf    -     -         3887   10    0 
+DMM       888033054 10  4 f   -     -     -         3877    0    0 
+DMM       888033132 10  3 cc  kc    kc    kc        3877   70  137 8h Ah 8c 5s
+DMM       888033258 10  2 Bc  k     k     kf        3944   20    0 
+DMM       888033390 10  1 Bc  kc    kcc   kcc       3924  180    0 7c 6s 3c 4d
+DMM       888033488 10 10 f   -     -     -         3744    0    0 
+DMM       888033557 10 10 f   -     -     -         3744    0    0 
+DMM       888033638  8  7 c   c     c     r         3744   80  115 6h 2c 9s 2s
+DMM       888033724  9  7 f   -     -     -         3779    0    0 
+DMM       888033779  8  5 c   f     -     -         3779   10    0 
+DMM       888033859  8  5 cc  c     bc    kf        3769   70    0 
+DMM       888033948  7  4 f   -     -     -         3699    0    0 
+DMM       888034043  7  2 Bk  kf    -     -         3699   10    0 
+DMM       888034087  6  1 Bc  kc    kf    -         3689   30    0 
+DMM       888034149  6  6 cc  c     c     r         3659   90  205 4h 3d 4s 8d
+DMM       888034194  7  6 cc  f     -     -         3774   20    0 
+DMM       888034251  7  5 f   -     -     -         3754    0    0 
+DMM       888034294  8  5 c   cc    kc    kf        3754   60    0 
+DMM       888034378  8  4 f   -     -     -         3694    0    0 
+DMM       888034471  8  3 c   kf    -     -         3694   10    0 
+DMM       888034592  8  2 Bc  c     c     f         3684   50    0 
+DMM       888034658 10  1 Bf  -     -     -         3634    5    0 
+DMM       888034722 10 10 c   f     -     -         3629   10    0 
+DMM       888034797 10  9 c   b     b     b         3619   70  153 Js Ah Ad 5h
+DMM       888034889 10  8 c   f     -     -         3702   20    0 
+DMM       888034952 10  7 c   cc    k     f         3682   40    0 
+DMM       888035045 10  6 cc  kf    -     -         3642   20    0 
+DMM       888035116 10  5 rc  br    k     k         3622   70  190 2s 4d Ac Jd
+DMM       888035193 10  4 cc  kf    -     -         3742   20    0 
+DMM       888035245 10  3 rr  rc    c     c         3722  110  132 6h 3c Ac 2s
+DMM       888035337 10  2 Bc  kf    -     -         3744   20    0 
+DMM       888035423 10  1 Bf  -     -     -         3724    5    0 
+DMM       888035513 10 10 c   c     c     c         3719   80    0 As 5h Qs Qd
+DMM       888035580 10  9 r   rr    r     b         3639  120  244 4d 2s Ac 5c
+DMM       888035670 10  8 f   -     -     -         3763    0    0 
+DMM       888035734 10  7 c   kc    kc    c         3763   60  125 3s 2c 4h 9c
+DMM       888035818 10  6 f   -     -     -         3828    0    0 
+DMM       888035867 10  5 f   -     -     -         3828    0    0 
+DMM       888035921 10  4 cc  kc    kc    kc        3828   70  205 Ks 8d 3d Kc
+DMM       888035971 10  3 f   -     -     -         3963    0    0 
+DMM       888036082 10  2 Bc  kc    kf    -         3963   40    0 
+DMM       888036182 10  1 Bc  kc    kf    -         3923   30    0 
+DMM       888036254 10 10 c   f     -     -         3893   10    0 
+DMM       888036354 10  9 c   c     c     c         3883   60  115 Kd 5h 4h 6h
+DMM       888036411 10  8 r   cc    kf    -         3938   40    0 
+DMM       888036520 10  7 c   r     rc    c         3898  110    0 4s Th 7h Ad
+DMM       888036613 10  6 cc  f     -     -         3788   20    0 
+DMM       888036755 10  5 c   kf    -     -         3768   20    0 
+DMM       888036869 10  4 f   -     -     -         3748    0    0 
+DMM       888037009 10  3 f   -     -     -         3748    0    0 
+DMM       888037160 10  2 Bc  kf    -     -         3748   30    0 
+DMM       888037297 10  1 Bc  kc    kcc   kc        3718   90    0 7d Ts Jc 7h
+DMM       888037416 10 10 f   -     -     -         3628    0    0 
+DMM       888037497 10  9 c   f     -     -         3628   10    0 
+DMM       888037550 10  8 f   -     -     -         3618    0    0 
+DMM       888037693 10  7 rr  b     b     br        3618  130  420 Ac Jc 3d Kc
+DMM       888037801 10  6 c   k     c     c         3908   70  155 Jh 5c 4s 2s
+DMM       888037891 10  6 f   -     -     -         3993    0    0 
+DMM       888038015  9  4 f   -     -     -         3993    0    0 
+DMM       888038119 10  3 cc  kf    -     -         3993   20    0 
+DMM       888038257 10  2 Bk  cc    c     ccc       3973  130    0 Qc 4d 3d 6s
+DMM       888038351 10  1 Bc  bc    kcc   kf        3843  120    0 
+DMM       888038488 10 10 f   -     -     -         3723    0    0 
+DMM       888038564 10  9 f   -     -     -         3723    0    0 
+DMM       888038699 10  8 c   cc    cc    f         3723  130    0 
+DMM       888038808 10  7 f   -     -     -         3593    0    0 
+DMM       888038865 10  6 f   -     -     -         3593    0    0 
+DMM       888038961 10  5 f   -     -     -         3593    0    0 
+DMM       888039082  9  4 f   -     -     -         3593    0    0 
+DMM       888039189 10  3 cc  k     c     kc        3593   60    0 5s 8h 4s 2s
+DMM       888039276 10  2 Bc  f     -     -         3533   30    0 
+DMM       888039371 10  1 Bc  kc    kf    -         3503   20    0 
+DMM       888039449 10 10 c   f     -     -         3483   10    0 
+DMM       888039544 10  9 f   -     -     -         3473    0    0 
+DMM       888039627 10  8 c   c     c     c         3473   80    0 3d Ad 7h 3s
+DMM       888039750 10  7 f   -     -     -         3393    0    0 
+DMM       888039823 10  6 rc  cc    kc    kc        3393   90    0 4d 4c 3h Ac
+DMM       888039972 10  5 cc  br    b     bc        3303  110  319 3s 2d 4s 7s
+DMM       888040104  8  3 f   -     -     -         3512    0    0 
+DMM       888040230  7  1 Bc  kf    -     -         3512   20    0 
+DMM       888040294  7  1 Bc  kf    -     -         3492   20    0 
+DMM       888040348  7  7 c   c     c     r         3472   80  250 4h Ad 3d Js
+DMM       888040400  7  6 f   -     -     -         3642    0    0 
+DMM       888040470  7  5 c   k     kc    kc        3642   50   87 As Qh Ad 5c
+DMM       888040527  7  4 f   -     -     -         3679    0    0 
+DMM       888040622  7  3 f   -     -     -         3679    0    0 
+DMM       888040678  7  2 Bk  k     b     b         3679   50  110 6s 3d Jc 5h
+DMM       888040741  7  1 Bcc kf    -     -         3739   20    0 
+DMM       888040796  8  8 c   b     bc    f         3719   60    0 
+DMM       888040844  8  7 f   -     -     -         3659    0    0 
+DMM       888040926  7  6 cc  c     f     -         3659   30    0 
+DMM       888040970  6  4 f   -     -     -         3629    0    0 
+DMM       888041018  5  3 cc  f     -     -         3629   20    0 
+DMM       888041067  5  2 Bf  -     -     -         3609   10    0 
+DMM       888041121  5  1 Bc  kf    -     -         3599   10    0 
+DMM       888041165  5  5 c   c     b     k         3589   40   70 Jd 4h Tc 4d
+DMM       888041214  5  4 f   -     -     -         3619    0    0 
+DMM       888041250  5  3 cc  f     -     -         3619   20    0 
+DMM       888041282  5  2 Bk  bc    kc    kc        3599   70    0 Qc 8c Kc Td
+DMM       888041329  5  1 Brc brc   br    b         3529  160  410 Ac 2c Ad Jc
+DMM       888041378  5  5 f   -     -     -         3779    0    0 
+DMM       888041440  6  4 c   kf    -     -         3779   10    0 
+DMM       888041496  6  3 f   -     -     -         3769    0    0 
+DMM       888041546  6  2 Bk  kc    kc    kr        3769   80  230 Jh 6h Qd Jd
+DMM       888041617  6  1 Bcc kc    kc    kc        3919  110  265 8s 4s 6s As
+DMM       888041687  6  6 c   f     -     -         4074   20    0 
+DMM       888041742  6  5 f   -     -     -         4054    0    0 
+DMM       888041800  6  4 f   -     -     -         4054    0    0 
+DMM       888041844  6  3 f   -     -     -         4054    0    0 
+DMM       888041881  6  2 Bc  kc    kc    kc        4054   90    0 Ah 6s 5s 4d
+DMM       888041938  6  1 Bf  -     -     -         3964    5    0 
+DMM       888041975  6  6 f   -     -     -         3959    0    0 
+DMM       888042013  6  5 c   c     cc    b         3959  130  275 Ks Tc Th 7s
+DMM       888042072  6  4 c   kc    k     kc        4104   40   75 Kc 6h As 6c
+DMM       888042134  5  2 cc  kc    b     kc        4139   70   90 Qh Tc 4c Ad
+DMM       888042186  6  2 Bk  kf    -     -         4159   10    0 
+DMM       888042247  6  1 Bf  -     -     -         4149    5    0 
+DMM       888042276  6  6 cc  f     -     -         4144   20    0 
+DMM       888042320  7  6 cc  kc    k     kf        4124   30    0 
+DMM       888042390  7  5 f   -     -     -         4094    0    0 
+DMM       888042453  6  4 c   c     c     f         4094   40    0 
+DMM       888042509  6  3 r   kc    kf    -         4054   30    0 
+DMM       888042576  7  2 Bf  -     -     -         4024   10    0 
+DMM       888042638  9  1 Bc  kf    -     -         4014   10    0 
+DMM       888042758  9  9 c   b     bc    rr        4004  140  280 2c 6c 3s 9s
+DMM       888042842  9  8 c   r     b     r         4144   90  400 8c Ah 5s Ac
+DMM       888042938  9  7 cc  c     cc    f         4454   90    0 
+DMM       888043018  8  5 rr  b     b     rc        4364  130  390 5d 3c 2h Ah
+DMM       888043126  8  4 cc  b     b     kc        4624   70  108 Qh 8s Qc Ac
+DMM       888043197  7  3 c   kf    -     -         4662   10    0 
+DMM       888043262  7  2 Bk  kc    kf    -         4652   20    0 
+DMM       888043306  6  1 Bc  kc    kc    kf        4632   40    0 
+DMM       888043360  6  6 c   c     c     c         4592   60    0 5d 3d Qs 8s
+DMM       888043401  7  6 c   b     b     -         4532   40   90 
+DMM       888043449  7  5 r   k     r     k         4582   60  165 5d 2h 3h Kc
+DMM       888043490  7  4 c   kc    cc    cc        4687  100    0 5d Kc 4c 2d
+DMM       888043565  7  4 c   b     b     bc        4587   80  140 3h 5d Jc Ah
+DMM       888043640  6  2 Bk  kcc   kf    -         4647   40    0 
+DMM       888043714  6  1 Bf  -     -     -         4607    5    0 
+DMM       888043766  6  6 c   k     k     f         4602   10    0 
+DMM       888043814  6  5 c   c     c     k         4592   40    0 Qd Ad Kh Ah
+DMM       888043867  6  4 f   -     -     -         4552    0    0 
+DMM       888043904  6  3 f   -     -     -         4552    0    0 
+DMM       888043960  6  2 Bk  k     b     bc        4552   70    0 As 7h Jc 8h
+DMM       888044030  6  1 Bc  k     b     b         4482   50   75 4s As 9d 7d
+DMM       888044091  6  6 c   k     k     b         4507   30   65 
+DMM       888044150  6  5 cc  kc    k     b         4542   50   95 
+DMM       888044192  6  4 c   k     k     k         4587   10   45 Qd 5h Qs 3c
+DMM       888044225  6  3 f   -     -     -         4622    0    0 
+DMM       888044297  6  2 Bk  b     b     b         4622   60  165 Qs 6c Ah Ad
+DMM       888044353  6  1 Bc  kc    kc    kc        4727   60    0 4s 9s Ts 6h
+DMM       888044415  6  6 c   k     f     -         4667   10    0 
+DMM       888044462  6  5 c   b     b     b         4657   60  125 
+DMM       888044498  5  4 c   b     bc    kc        4722   80    0 3d Ks Qs 6s
+DMM       888044552  3  2 Bc  b     b     b         4642   70    0 Jh 6h 6c 8c
+DMM       888044603  3  1 Bf  -     -     -         4572    5    0 
+DMM       888044617  3  3 QQ  -     -     -         4567    0    0 
+DMM       888114789  9  9 cc  r     c     c         4567   80    0 8s 8d 2c 3d
+DMM       888114845  9  8 c   c     f     -         4487   30    0 
+DMM       888114907  8  6 f   -     -     -         4457    0    0 
+DMM       888114947  8  6 c   c     c     c         4457   60  120 Ks 3s 4c Ad
+DMM       888115004  9  5 f   -     -     -         4517    0    0 
+DMM       888115060  8  3 cc  kf    -     -         4517   20    0 
+DMM       888115147  6  1 Bk  kf    -     -         4497   10    0 
+DMM       888115219  8  1 Brr b     b     b         4487   90    0 8h Ah 3h Ad
+DMM       888115338  8  8 c   f     -     -         4397   10    0 
+DMM       888115411  8  7 c   cc    c     k         4387  110  450 Qh 9h 4c 3c
+DMM       888115488  8  6 f   -     -     -         4727    0    0 
+DMM       888115590  7  5 f   -     -     -         4727    0    0 
+DMM       888115644  7  4 f   -     -     -         4727    0    0 
+DMM       888115742  7  3 cc  k     k     k         4727   20    0 Kh 8c As Kd
+DMM       888115817  7  2 Bk  kc    k     k         4707   30    0 2s 7h Ah 8h
+DMM       888115904  8  1 Bf  -     -     -         4677    5    0 
+DMM       888115955  8  8 f   -     -     -         4672    0    0 
+DMM       888116012  7  6 f   -     -     -         4672    0    0 
+DMM       888116086  8  6 f   -     -     -         4672    0    0 
+DMM       888116152  9  5 f   -     -     -         4672    0    0 
+DMM       888116262  8  4 cc  f     -     -         4672   20    0 
+DMM       888116325  8  4 c   kc    kc    kf        4652   50    0 
+DMM       888116394  7  2 Bk  kcc   kf    -         4602   50    0 
+DMM       888116448  7  1 Brc kcc   kcc   kf        4552  150    0 
+DMM       888116589  7  7 c   c     c     rr        4402  130  184 3d Jh Th 4d
+DMM       888116672  7  6 c   c     c     f         4456   40    0 
+DMM       888116726  7  5 c   c     rr    c         4416  150    0 8d Ks Kc 7h
+DMM       888116831  7  4 c   f     -     -         4266   10    0 
+DMM       888116941  7  3 f   -     -     -         4256    0    0 
+DMM       888117063  7  2 Bc  kf    -     -         4256   20    0 
+DMM       888117138  8  1 Bc  kc    k     k         4236   30   70 Tc 3h 2s Qc
+DMM       888117214  8  7 f   -     -     -         4276    0    0 
+DMM       888117290  8  6 c   k     k     bc        4276   50   85 Ad 6h Th 3s
+DMM       888117411  8  5 f   -     -     -         4311    0    0 
+DMM       888117537  8  5 c   c     c     r         4311   80  255 7s 2h 2s Ah
+DMM       888117594  7  3 f   -     -     -         4486    0    0 
+DMM       888117665  7  2 Bc  cc    kc    kc        4486  110    0 Jh 5c Jc Qc
+DMM       888117752  7  1 Bc  kc    b     b         4376   70   53 5d Qh Js 9h
+DMM       888117833  6  6 f   -     -     -         4359    0    0 
+DMM       888117891  6  5 c   k     f     -         4359   20    0 
+DMM       888117947  6  4 f   -     -     -         4339    0    0 
+DMM       888118006  6  3 f   -     -     -         4339    0    0 
+DMM       888118031  7  2 Bk  k     bc    kc        4339   70  140 8d 4s 5s 9s
+DMM       888118092  7  1 Bc  k     kc    kc        4409   50    0 Qd Qh Ac Qc
+DMM       888118139  7  7 r   b     b     k         4359   50  125 3h Tc 6c Ac
+DMM       888118196  7  6 f   -     -     -         4434    0    0 
+DMM       888118249  7  5 f   -     -     -         4434    0    0 
+DMM       888118309  7  4 cc  k     k     f         4434   20    0 
+DMM       888118373  6  3 c   bc    b     k         4414   50  105 2c Kc Kh 9h
+DMM       888118418  6  2 Bk  kf    -     -         4469   10    0 
+DMM       888118451  6  1 Bc  k     kc    k         4459   30   50 Ah 4h Kd 9s
+DMM       888118507  7  7 c   c     c     cf        4479   60    0 
+DMM       888118595  6  5 cc  cf    -     -         4419   30    0 
+DMM       888118658  6  4 f   -     -     -         4389    0    0 
+DMM       888118789  5  3 c   c     c     f         4389   40    0 
+DMM       888118864  5  2 Bc  f     -     -         4349   20    0 
+DMM       888118952  5  1 Bc  kcc   br    bc        4329  150  205 Kc 3s Ts 5d
+DMM       888119004  3  3 cc  c     c     r         4384  110  165 5s 4s Qc 5c
+DMM       888119036  3  2 Br  b     b     b         4439   70  120 
+DMM       888119082  3  1 Bc  kc    kc    br        4489  120  180 Ad 8d Ah 9h
+DMM       888119114  3  3 c   k     c     c         4549   50    0 4h 4d 9s 3c
+DMM       888119159  2  1 BQ  -     -     -         4499   10   10 
+DMM       888254014  3  3 c   b     -     -         4499   20   40 
+DMM       888254032  3  2 Bk  b     b     k         4519   40    0 As 7c Jh 3s
+DMM       888254064  4  1 Bc  kc    bc    kc        4479   90    0 9h 3h 2c 4d
+DMM       888254148  3  3 c   b     b     b         4389   60   65 Th Ks 7c 9s
+DMM       888254183  3  3 cf  -     -     -         4394   10    0 
+DMM       888254217  4  2 Bk  kc    k     kc        4384   40   55 Td As Kh 4c
+DMM       888254261  4  1 Bc  b     -     -         4399   20   40 
+DMM       888254279  3  3 c   c     b     b         4419   60  110 
+DMM       888254309  3  2 Bk  k     b     -         4469   30   40 
+DMM       888254334  3  1 Bc  k     b     kf        4479   30    0 
+DMM       888254366  4  4 f   -     -     -         4449    0    0 
+DMM       888254396  4  3 f   -     -     -         4449    0    0 
+DMM       888254432  4  2 Bk  b     b     b         4449   60  120 
+DMM       888254471  5  1 Bc  kf    -     -         4509   20    0 
+DMM       888254492  5  5 c   k     c     f         4489   30    0 
+DMM       888254545  5  4 c   c     c     c         4459   60    0 7c 6d 8s 7d
+DMM       888254596  5  3 c   kc    kc    kc        4399   60  175 Ks 3h 5c 2d
+DMM       888254664  5  2 Bk  kc    kf    -         4514   20    0 
+DMM       888254744  4  1 Bc  kf    -     -         4494   20    0 
+DMM       888254786  4  4 c   b     -     -         4474   20   35 
+DMM       888254800  4  3 c   k     c     k         4489   30    0 7c 6h Qd Ah
+DMM       888254827  4  2 Bk  c     c     k         4459   40    0 8h Ah 7c 8c
+DMM       888254861  4  1 Bc  b     b     bf        4419   70    0 
+DMM       888254915  4  4 f   -     -     -         4349    0    0 
+DMM       888254957  4  3 f   -     -     -         4349    0    0 
+DMM       888254985  4  2 Bc  k     f     -         4349   20    0 
+DMM       888255019  4  1 Br  b     b     -         4329   50  100 
+DMM       888255044  4  4 c   c     cc    f         4379   70    0 
+DMM       888255088  4  3 r   b     b     b         4309   70  175 4s As 2h 6h
+DMM       888255126  4  2 Bf  -     -     -         4414   10    0 
+DMM       888255156  4  1 Bc  k     k     kf        4404   10    0 
+DMM       888255194  4  4 c   f     -     -         4394   10    0 
+DMM       888255222  4  3 c   k     kc    kf        4384   30    0 
+DMM       888255267  4  2 Bc  k     c     c         4354   60    0 Kd 9d Ac As
+DMM       888255296  4  1 Bc  kc    kc    kc        4294   80    0 Jc 6s 5c Th
+DMM       888255343  4  4 c   b     b     b         4214   60  140 2d Jc 7d 4c
+DMM       888255383  4  3 f   -     -     -         4294    0    0 
+DMM       888255415  4  2 B   -     -     -         4294   10   15 
+DMM       888255423  4  1 Bc  k     k     kf        4299   10    0 
+DMM       888255463  4  4 c   c     c     f         4289   40    0 
+DMM       888255517  5  3 f   -     -     -         4249    0    0 
+DMM       888255563  5  2 Bc  b     b     b         4249   70  195 5d Jh Qs As
+DMM       888255612  5  1 Bc  bc    b     b         4374   70   75 7s 2h 4h 4c
+DMM       888255656  5  5 c   k     c     c         4379   70    0 Td Jc Tc 9s
+DMM       888255708  5  4 c   cc    kcc   kc        4309  110    0 5c 3c Tc 6c
+DMM       888255794  5  3 r   bc    r     c         4199  100    0 Ks 7s Ac 4d
+DMM       888255841  5  2 Bk  kf    -     -         4099   10    0 
+DMM       888255925  6  1 Bf  -     -     -         4089    5    0 
+DMM       888255972  6  6 c   c     cc    r         4084  140  142 5h 2d Jd 3h
+DMM       888256035  7  6 f   -     -     -         4086    0    0 
+DMM       888256109  7  5 cc  kf    -     -         4086   20    0 
+DMM       888256161  5  3 c   c     f     -         4066   20    0 
+DMM       888256210  4  3 f   -     -     -         4046    0    0 
+DMM       888256238  4  2 Bk  bc    b     br        4046  110  138 4d Qh Ah Td
+DMM       888256295  4  1 Bc  k     k     k         4074   10    0 9s 6d Td 4c
+DMM       888256332  4  4 f   -     -     -         4064    0    0 
+DMM       888256371  4  3 f   -     -     -         4064    0    0 
+DMM       888256407  4  2 Bk  kc    kc    k         4064   40  125 9d Jh 2d 4d
+DMM       888256458  4  1 Bcc kc    k     kc        4149   50   75 As Ad 8s 6c
+DMM       888256516  4  4 f   -     -     -         4174    0    0 
+DMM       888256536  4  3 c   kc    kc    k         4174   40   55 5h Js As Ah
+DMM       888256580  4  2 Bk  k     k     k         4189   10   15 9h 8s 7c 7h
+DMM       888256611  4  1 Bc  b     b     b         4194   60   30 2s 2h 9h 3c
+DMM       888256643  4  4 c   c     f     -         4164   20    0 
+DMM       888256689  5  3 c   b     b     -         4144   40   75 
+DMM       888256713  4  1 Bk  k     k     k         4179   10    0 8c 5s 7h 4d
+DMM       888256751  5  1 Bc  kc    b     b         4169   60   65 6c Qs 6s 7h
+DMM       888256788  5  5 c   c     c     cc        4174  120  180 4c Ad 6s 6c
+DMM       888256834  5  4 cc  cc    kc    b         4234   80  165 9h 3h 9d Ah
+DMM       888256888  5  3 c   bc    kc    k         4319   50    0 Ac Ad 3s 7s
+DMM       888256939  5  2 Bk  kf    -     -         4269   10    0 
+DMM       888257014  5  1 Bf  -     -     -         4259    5    0 
+DMM       888257053  6  6 cc  r     r     c         4254  100  210 4h 2s 8s 2h
+DMM       888257090  5  4 f   -     -     -         4364    0    0 
+DMM       888257140  6  3 c   kc    kc    kc        4364   60    0 4d 2h 5d Ad
+DMM       888257224  6  2 Bk  kc    kf    -         4304   20    0 
+DMM       888257324  6  1 Bcc kc    kc    kc        4284   70  115 7h 8c Jc Th
+DMM       888257429  6  6 c   c     c     cc        4329  100  175 Jh Ad 4d 6s
+DMM       888257500  6  5 c   c     k     f         4404   20    0 
+DMM       888257579  5  4 c   b     b     b         4384   60   97 Qs 4s 5h As
+DMM       888257639  5  3 f   -     -     -         4421    0    0 
+DMM       888257700  5  2 Bk  kf    -     -         4421   10    0 
+DMM       888257809  4  1 Bcc bc    bc    kc        4411  100    0 3s Js 3c 2c
+DMM       888257869  4  4 c   k     k     c         4311   30    0 5s Ah 6c Qh
+DMM       888257920  4  3 c   k     c     c         4281   50    0 4s Tc 2c 3s
+DMM       888257962  4  2 Bf  -     -     -         4231   10    0 
+DMM       888257977  4  1 Bc  k     k     b         4221   30   50 
+DMM       888258007  4  4 f   -     -     -         4241    0    0 
+DMM       888258028  4  3 f   -     -     -         4241    0    0 
+DMM       888258041  4  2 Bk  kf    -     -         4241   10    0 
+DMM       888258055  4  1 Bc  k     b     -         4231   30   50 
+DMM       888258074  4  4 c   k     b     -         4251   30   60 
+DMM       888258098  4  3 f   -     -     -         4281    0    0 
+DMM       888258109  4  2 Bf  -     -     -         4281   10    0 
+DMM       888258116  4  1 Bc  bc    k     k         4271   30   60 8d 7s 7d Ac
+DMM       888258144  4  4 c   k     f     -         4301   10    0 
+DMM       888258191  4  3 c   c     b     r         4291   80   90 Ah 8s Ks 7h
+DMM       888258252  4  2 Bk  b     bc    c         4301   80    0 Tc 8d 8h 2d
+DMM       888258290  4  1 Bc  k     brc   br        4221  150   80 8s Ts 7s Td
+DMM       888258350  4  4 c   f     -     -         4151   10    0 
+DMM       888258392  4  3 f   -     -     -         4141    0    0 
+DMM       888258399  4  2 Bk  b     -     -         4141   20   30 
+DMM       888258426  4  1 Bc  kc    kc    kc        4151   60   90 Tc Ts Js 3s
+DMM       888258476  4  4 c   r     br    b         4181  110  230 Kd Qh Qs Ks
+DMM       888258517  4  3 cc  kc    brc   b         4301  130  137 7s Th Ad 3c
+DMM       888258570  4  2 Bk  kc    b     -         4308   40   75 
+DMM       888258605  4  1 Br  bc    k     k         4343   40  100 3s 3d 9d Ad
+DMM       888258644  4  4 f   -     -     -         4403    0    0 
+DMM       888258666  4  3 f   -     -     -         4403    0    0 
+DMM       888258685  4  2 Bf  -     -     -         4403   10    0 
+DMM       888258692  4  1 Bc  kc    kf    -         4393   30    0 
+DMM       888258722  4  4 f   -     -     -         4363    0    0 
+DMM       888258746  4  3 c   k     f     -         4363   10    0 
+DMM       888258777  4  2 Bc  kf    -     -         4353   30    0 
+DMM       888258803  4  1 Bf  -     -     -         4323    5    0 
+DMM       888258808  4  4 c   k     k     k         4318   10   30 4d 8s Qc As
+DMM       888258868  4  3 c   b     b     -         4338   40   70 
+DMM       888258907  3  2 Bf  -     -     -         4368   10    0 
+DMM       888258917  3  1 Bf  -     -     -         4358    5    0 
+DMM       888258924  3  3 c   c     c     b         4353   60  110 
+DMM       888258954  3  2 B   -     -     -         4403   10   15 
+DMM       888258960  3  1 Bc  kf    -     -         4408   10    0 
+DMM       888258975  3  3 f   -     -     -         4398    0    0 
+DMM       888258991  3  2 Bc  k     k     k         4398   20   30 9d 3s Ah 8h
+DMM       888259027  3  1 Bc  kc    k     k         4408   20   50 Jh 9h 3s 2h
+DMM       888259061  3  3 f   -     -     -         4438    0    0 
+DMM       888259084  3  2 Bf  -     -     -         4438   10    0 
+DMM       888259109  3  1 Bf  -     -     -         4428    5    0 
+DMM       888259130  3  3 cc  c     c     b         4423   70    0 As 3d 5c 4s
+DMM       888259164  3  2 Bc  k     kc    kf        4353   40    0 
+DMM       888259210  3  1 Bc  b     -     -         4313   20   30 
+DMM       888259230  3  3 c   c     c     k         4323   40   90 Tc Ts Ks Ah
+DMM       888259258  3  2 Bk  b     -     -         4373   20   35 
+DMM       888259279  3  1 Bc  b     -     -         4388   20   40 
+DMM       888259296  3  3 f   -     -     -         4408    0    0 
+DMM       888259312  3  2 Bk  kf    -     -         4408   10    0 
+DMM       888259332  3  1 Bc  b     -     -         4398   30   60 
+DMM       888259342  3  3 c   f     -     -         4428   10    0 
+DMM       888259357  3  2 Bc  bc    c     k         4418   60  180 Kd 2d 5d 4c
+DMM       888259392  3  1 Bc  b     b     b         4538   70   85 8s Ts Ks Kh
+DMM       888259436  3  3 r   b     k     f         4553   30    0 
+DMM       888259464  3  2 Bf  -     -     -         4523   10    0 
+DMM       888259496  3  1 Bc  kf    -     -         4513   10    0 
+DMM       888259528  3  3 f   -     -     -         4503    0    0 
+DMM       888259540  3  2 Bf  -     -     -         4503   10    0 
+DMM       888259566  3  1 Bc  bc    kc    b         4493   70  120 
+DMM       888259609  3  3 c   bc    c     k         4543   50  110 3s Ts 5c Th
+DMM       888259640  3  2 Bc  kf    -     -         4603   20    0 
+DMM       888259658  3  1 Bf  -     -     -         4583    5    0 
+DMM       888259665  3  3 r   b     b     -         4578   50   85 
+DMM       888259682  3  2 Bf  -     -     -         4613   10    0 
+DMM       888259711  3  1 Bc  kf    -     -         4603   10    0 
+DMM       888259734  3  3 c   f     -     -         4593   10    0 
+DMM       888259778  3  2 Bf  -     -     -         4583   10    0 
+DMM       888259794  3  1 Br  b     bc    kc        4573   90   90 Ac 6h 3s Ah
+DMM       888259831  3  3 cc  r     b     -         4573   60  120 
+DMM       888259858  3  2 Bc  b     bc    kc        4633   90  105 4c 8c 6h 8h
+DMM       888259896  3  1 Bc  b     b     -         4648   40   70 
+DMM       888259925  3  3 cc  rc    c     c         4678   90    0 As 3d 9h 7d
+DMM       888259965  3  2 Bf  -     -     -         4588   10    0 
+DMM       888259992  3  1 Br  b     bc    kf        4578   70    0 
+DMM       888260028  3  3 c   f     -     -         4508   10    0 
+DMM       888260054  3  2 Bk  bc    kc    kc        4498   70   75 2h Qh 7s 7h
+DMM       888260098  3  1 Bc  b     bc    kc        4503   90  100 3c Th 6h Qh
+DMM       888260132  2  2 f   -     -     -         4513    0    0 
+DMM       888260144  2  2 Bf  -     -     -         4513   10    0 
+DMM       888260153  2  1 Br  b     b     -         4503   50   80 
+DMM       888260173  2  2 B   -     -     -         4533   10   15 
+DMM       888260175  2  1 Bf  -     -     -         4538    5    0 
+DMM       888260194  2  2 BQ  -     -     -         4533   10    0 
+DMM       888270675  5  4 cc  f     -     -         4523   20    0 
+DMM       888270696  5  3 cc  kc    krc   bc        4503  130    0 4d 2h Ah Kc
+DMM       888270753  5  2 Bk  f     -     -         4373   10    0 
+DMM       888270797  5  1 Bf  -     -     -         4363    5    0 
+DMM       888270811  5  5 c   b     r     k         4358   60  130 9h Kc Ac Kh
+DMM       888270867  4  3 c   b     b     -         4428   40   70 
+DMM       888270891  4  2 Bk  k     k     k         4458   10   30 4d Ks 6d 2s
+DMM       888270917  5  1 Bc  kf    -     -         4478   10    0 
+DMM       888270936  5  5 f   -     -     -         4468    0    0 
+DMM       888270965  5  4 f   -     -     -         4468    0    0 
+DMM       888271012  5  3 cc  k     c     c         4468   60   47 2d Ad 7d 5d
+DMM       888271074  5  2 Bc  bc    b     bc        4455  100    0 2c 8s Jc Jd
+DMM       888271120  5  1 Bc  kf    -     -         4355   10    0 
+DMM       888271152  5  5 f   -     -     -         4345    0    0 
+DMM       888271234  6  5 f   -     -     -         4345    0    0 
+DMM       888271278  6  4 f   -     -     -         4345    0    0 
+DMM       888271306  6  3 f   -     -     -         4345    0    0 
+DMM       888271366  6  2 Bk  kf    -     -         4345   10    0 
+DMM       888271423  6  1 Bc  kf    -     -         4335   10    0 
+DMM       888271465  6  6 f   -     -     -         4325    0    0 
+DMM       888271519  6  5 f   -     -     -         4325    0    0 
+DMM       888271575  6  4 f   -     -     -         4325    0    0 
+DMM       888271616  6  3 f   -     -     -         4325    0    0 
+DMM       888271660  6  2 Bk  kc    kc    kc        4325   60   65 Ks Kc 9s 6c
+DMM       888271743  6  1 Bc  kf    -     -         4330   10    0 
+DMM       888271805  7  7 c   k     c     f         4320   30    0 
+DMM       888271976  4  3 f   -     -     -         4290    0    0 
+DMM       888272003  4  3 f   -     -     -         4290    0    0 
+DMM       888272032  4  2 Bk  c     c     r         4290   80   90 5d 7c Js 4h
+DMM       888272069  4  1 Bc  k     k     k         4300   10   20 8h 9d Qs As
+DMM       888272103  5  5 c   c     k     f         4310   20    0 
+DMM       888272176  5  4 c   kc    k     b         4290   40   53 2h Kd Th Ah
+DMM       888272225  6  4 f   -     -     -         4303    0    0 
+DMM       888272266  6  3 c   b     k     b         4303   40   47 2d Ts 4c Ad
+DMM       888272308  6  2 Bk  f     -     -         4310   10    0 
+DMM       888272335  6  1 Bf  -     -     -         4300    5    0 
+DMM       888272368  6  6 cc  c     b     b         4295   70  180 
+DMM       888272420  6  5 c   f     -     -         4405   10    0 
+DMM       888272453  6  4 f   -     -     -         4395    0    0 
+DMM       888272503  6  4 f   -     -     -         4395    0    0 
+DMM       888272556  5  2 Bc  bc    bc    kc        4395  100   60 4s Qh 5h 6c
+DMM       888272612  4  1 Br  b     -     -         4355   30   70 
+DMM       888272646  5  4 c   k     b     b         4395   50   73 9s Ad 4d Ac
+DMM       888272697  4  3 f   -     -     -         4418    0    0 
+DMM       888272715  4  2 Bk  b     k     f         4418   20    0 
+DMM       888272747  4  1 Bc  kc    kc    b         4398   60    0 3d Qh Kd Kc
+DMM       888272783  4  4 f   -     -     -         4338    0    0 
+DMM       888272804  4  3 c   f     -     -         4338   10    0 
+DMM       888272848  4  2 Bf  -     -     -         4328   10    0 
+DMM       888272855  4  1 Bc  k     k     kf        4318   10    0 
+DMM       888272886  4  4 f   -     -     -         4308    0    0 
+DMM       888272904  4  3 c   c     c     f         4308   40    0 
+DMM       888272956  5  2 Bk  k     f     -         4268   10    0 
+DMM       888272982  5  1 Bc  kc    k     br        4258   80   90 3d 6s 2h Ts
+DMM       888273028  7  7 c   f     -     -         4268   10    0 
+DMM       888273076  8  8 f   -     -     -         4258    0    0 
+DMM       888273131  6  5 f   -     -     -         4258    0    0 
+DMM       888273190  6  4 f   -     -     -         4258    0    0 
+DMM       888273259  6  3 c   f     -     -         4258   10    0 
+DMM       888273317  7  2 Bk  f     -     -         4248   10    0 
+DMM       888273395  7  1 Bf  -     -     -         4238    5    0 
+DMM       888273456  7  7 cc  Q     -     -         4233   40    0 
+DMM       888354792  8  8 c   c     k     k         4193   20    0 Tc Kc 5c 6d
+DMM       888354842  8  7 f   -     -     -         4173    0    0 
+DMM       888354895  9  6 c   kc    kcc   kc        4173  100    0 4h 5d Ts 4d
+DMM       888355014  8  4 c   kcc   kcc   k         4073  120    0 4d Qd Ah 5s
+DMM       888355109  9  5 c   k     c     f         3953   30    0 
+DMM       888355206  7  4 c   b     b     b         3923   60  150 2h 4h 5h 4c
+DMM       888355261  6  2 Bk  kc    kc    kf        4013   60    0 
+DMM       888355334  6  1 Bc  k     kc    kc        3953   50    0 7s 6h 9s 5h
+DMM       888355389  6  6 r   b     -     -         3903   30   55 
+DMM       888355423  5  3 c   k     k     k         3928   10    0 7c 2d 2s Kd
+DMM       888355451  4  2 Bk  k     b     -         3918   30   50 
+DMM       888355482  3  1 Bc  kf    -     -         3938   10    0 
+DMM       888355497  3  3 c   b     b     b         3928   60   65 Kh 2d 6d 9s
+DMM       888355525  3  2 Bk  k     k     k         3933   10   10 8d Jh 2s Js
+DMM       888355547  2  1 Bf  -     -     -         3933    5    0 
+DMM       888355558  2  2 Bk  b     b     b         3928   60    0 Jh 3c 9d 8s
+DMM       888355584  2  1 Br  b     b     b         3868   70  120 
+DMM       888355617  2  2 Bk  k     k     b         3918   30   40 
+DMM       888355641  2  1 Bc  b     b     kc        3928   60  120 Qc 4s Qh 7h
+DMM       888355667  2  2 Bk  k     b     c         3988   50   50 Tc 4c 4h 2s
+DMM       888355695  2  1 Bc  k     k     k         3988   10   10 Qh 8d Td 2h
+DMM       888355713  2  2 Bk  c     c     c         3988   60    0 4d Jc Jd Qc
+DMM       888355731  2  1 Bc  b     -     -         3928   20   30 
+DMM       888355741  2  2 Bk  b     -     -         3938   20   30 
+DMM       888355754  2  1 Bcc kc    k     k         3948   30   60 5d Td 4d 2s
+DMM       888355778  2  2 Bk  k     k     k         3978   10    0 3d 2c Ts 3h
+DMM       888355794  2  1 Bc  k     k     b         3968   30   40 
+DMM       888355818  2  2 Bk  k     k     k         3978   10    0 3d 5d 3c 9c
+DMM       888355836  2  1 Bc  kf    -     -         3968   10    0 
+DMM       888355848  2  2 B   -     -     -         3958   10   15 
+DMM       888355851  2  1 Bc  k     b     -         3963   30   40 
+DMM       888355865  2  2 Bk  k     b     -         3973   30   40 
+DMM       888355882  2  1 Bc  kc    b     b         3983   60  100 
+DMM       888355903  2  2 B   -     -     -         4023   10   15 
+DMM       888355907  3  1 Bcc br    b     b         4028   90  200 6h 2s Tc 4c
+DMM       888355951  2  2 Bk  c     c     k         4138   40   40 5c 2h Js Tc
+DMM       888355988  2  1 Bf  -     -     -         4138    5    0 
+DMM       888355994  2  2 Bf  -     -     -         4133   10    0 
+DMM       888356004  2  1 BQ  -     -     -         4123    5   15 
+DMM       888457265  8  3 f   -     -     -         4133    0    0 
+DMM       888457321  6  2 Bk  kf    -     -         4133   10    0 
+DMM       888457377  8  1 Bf  -     -     -         4123    5    0 
+DMM       888457467  7  7 c   f     -     -         4118   10    0 
+DMM       888457530  7  7 c   c     r     k         4108   70  150 Jc 9h Td Qd
+DMM       888457624  7  6 f   -     -     -         4188    0    0 
+DMM       888457662  7  5 fQQ -     -     -         4188    0    0 
+DMM       888517134  3  2 Bk  c     c     k         4188   40   40 Jd Tc Ac 6d
+DMM       888517169  3  1 Bf  -     -     -         4188    5    0 
+DMM       888517178  3  3 f   -     -     -         4183    0    0 
+DMM       888517201  3  2 Bc  b     b     -         4183   50  100 
+DMM       888517223  3  1 Bc  kf    -     -         4233   10    0 
+DMM       888517240  3  3 f   -     -     -         4223    0    0 
+DMM       888517251  3  2 Bk  c     c     k         4223   40   80 4h 9d 5s 6h
+DMM       888517275  3  1 Bc  kf    -     -         4263   10    0 
+DMM       888517300  3  3 c   c     c     r         4253   80   83 Ah 9d Ad 7s
+DMM       888517399  3  2 Bf  -     -     -         4256   10    0 
+DMM       888517425  3  1 Bf  -     -     -         4246    5    0 
+DMM       888517435  3  3 c   c     f     -         4241   20    0 
+DMM       888517521  4  3 c   k     k     b         4221   30   55 
+DMM       888517568  4  2 Bc  k     k     k         4246   20   30 Ah Th 4h 7h
+DMM       888517694  3  1 Bf  -     -     -         4256    5    0 
+DMM       888517706  3  3 cc  r     b     b         4251   80    0 5c 5s Jc 8c
+DMM       888517748  4  2 Bc  c     b     -         4171   50   80 
+DMM       888517792  4  1 Bc  kc    kc    kc        4201   60    0 3h 2s 6s Qc
+DMM       888517827  4  4 c   k     c     b         4141   50   85 
+DMM       888517864  4  3 c   c     b     b         4176   60    0 4h 6d Jh Td
+DMM       888517901  4  2 Bf  -     -     -         4116   10    0 
+DMM       888517930  4  1 Br  -     -     -         4106   20   30 
+DMM       888517943  4  4 f   -     -     -         4116    0    0 
+DMM       888517986  4  3 c   bc    k     k         4116   30    0 Ah 2s 6c 7d
+DMM       888518099  3  2 Bk  f     -     -         4086   10    0 
+DMM       888518121  3  1 Bf  -     -     -         4076    5    0 
+DMM       888518126  3  3 f   -     -     -         4071    0    0 
+DMM       888518134  3  2 Bf  -     -     -         4071   10    0 
+DMM       888518141  3  1 Br  -     -     -         4061   20   30 
+DMM       888518147  3  3 c   b     -     -         4071   20   35 
+DMM       888518166  3  2 Bk  kc    kc    k         4086   40    0 9c 8h 7s Tc
+DMM       888518207  3  1 Bc  kc    b     -         4046   40   60 
+DMM       888518240  3  3 cc  c     b     b         4066   70    0 2c Kd 5d 8c
+DMM       888518280  3  2 Bk  rc    b     c         3996   80    0 Kd 9c 2d Qh
+DMM       888518329  3  1 Bc  kc    k     kc        3916   40   45 6s Ks 8s 3h
+DMM       888518375  2  2 c   c     c     b         3921   60   60 5s Tc Qs Kc
+DMM       888518408  2  2 Bk  k     k     b         3921   30   40 
+DMM       888518432  2  1 Br  b     b     b         3931   70   70 Kh 3d 6c Ac
+DMM       888518466  2  2 B   -     -     -         3931   10   15 
+DMM       888518474  2  1 Bf  -     -     -         3936    5    0 
+DMM       888518480  2  2 B   -     -     -         3931   10   15 
+DMM       888518484  2  1 Brc b     -     -         3936   40   70 
+DMM       888518504  2  2 Bk  f     -     -         3966   10    0 
+DMM       888518519  2  1 Bcc bc    k     k         3956   40   80 3h 8h 5d 4h
+DMM       888518552  2  2 B   -     -     -         3996   10   15 
+DMM       888518561  2  1 Bc  bc    kc    kc        4001   70    0 2h 5c Kh 8h
+DMM       888518594  2  2 B   -     -     -         3931   10   15 
+DMM       888518606  2  1 Bf  -     -     -         3936    5    0 
+DMM       888518614  2  2 B   -     -     -         3931   10   15 
+DMM       888518619  2  1 Bf  -     -     -         3936    5    0 
+DMM       888518625  2  2 Bf  -     -     -         3931   10    0 
+DMM       888518632  2  1 Bf  -     -     -         3921    5    0 
+DMM       888518636  2  2 Bk  b     bf    -         3916   40    0 
+DMM       888518666  2  1 Bc  k     k     k         3876   10   20 5s Qh Js 4h
+DMM       888518702  2  2 Bk  f     -     -         3886   10    0 
+DMM       888518718  2  1 Br  -     -     -         3876   20   30 
+DMM       888518729  2  2 B   -     -     -         3886   10   15 
+DMM       888518735  2  1 Bc  kf    -     -         3891   10    0 
+DMM       888518750  2  2 B   -     -     -         3881   10   15 
+DMM       888518755  2  1 Bf  -     -     -         3886    5    0 
+DMM       888518759  2  2 Bk  b     k     c         3881   40    0 7c 9d 9h 5s
+DMM       888518793  2  1 BQ  -     -     -         3841    5    0 
+DMM       888523533  4  4 c   c     c     b         3836   60  180 Qh 2s Ts 5d
+DMM       888523600  4  4 c   c     f     -         3956   20    0 
+DMM       888523664  5  3 f   -     -     -         3936    0    0 
+DMM       888523713  6  2 Bk  kc    kc    kc        3936   60    0 Ad 7s Qs 2c
+DMM       888523786  6  1 Bc  b     -     -         3876   20   50 
+DMM       888523837  6  6 f   -     -     -         3906    0    0 
+DMM       888523923  6  5 f   -     -     -         3906    0    0 
+DMM       888524002  6  4 c   b     bc    kc        3906   80    0 Ac Qd Ad 2s
+DMM       888524093  6  3 f   -     -     -         3826    0    0 
+DMM       888524199  6  2 Bk  k     kc    kf        3826   30    0 
+DMM       888524254  6  1 Bf  -     -     -         3796    5    0 
+DMM       888524440  6  6 f   -     -     -         3791    0    0 
+DMM       888524545  6  5 f   -     -     -         3791    0    0 
+DMM       888524617  6  4 f   -     -     -         3791    0    0 
+DMM       888524701  6  3 c   c     c     c         3791   60    0 4h 2c 8h 5c
+DMM       888524768  6  2 Bf  -     -     -         3731   10    0 
+DMM       888524843  6  1 Bf  -     -     -         3721    5    0 
+DMM       888524908  6  6 f   -     -     -         3716    0    0 
+DMM       888524967  5  4 f   -     -     -         3716    0    0 
+DMM       888525010  5  3 f   -     -     -         3716    0    0 
+DMM       888525065  5  2 Bf  -     -     -         3716   10    0 
+DMM       888525127  5  1 Bc  kf    -     -         3706   10    0 
+DMM       888525208  5  5 c   c     c     rr        3696  120  410 Qc Kd 9d Kh
+DMM       888525342  4  3 f   -     -     -         3986    0    0 
+DMM       888525361  5  3 cc  c     c     -         3986   49  106 Jh As Th 7s
+DMM       888525414  3  1 B   -     -     -         4043   10   10 
+DMM       888525423  3  1 Bc  k     k     b         4043   30   40 
+DMM       888525459  4  4 f   -     -     -         4053    0    0 
+DMM       888525494  4  3 c   b     b     k         4053   40    0 5d Qd Jh Qh
+DMM       888525542  5  2 Bk  k     c     r         4013   70  115 Ad Td 8h 5h
+DMM       888525619  5  1 Bc  kf    -     -         4058   10    0 
+DMM       888525683  5  5 f   -     -     -         4048    0    0 
+DMM       888525764  6  5 c   k     k     k         4048   10   40 3h 7d 4c 2h
+DMM       888525839  7  4 f   -     -     -         4078    0    0 
+DMM       888525964  7  3 c   k     k     k         4078   10   17 4s As 4d Ac
+DMM       888526081  6  1 Bk  k     k     k         4085   10    0 4c Tc Ts 5d
+DMM       888526129  6  1 Bf  -     -     -         4075    5    0 
+DMM       888526170  6  6 cc  k     c     b         4070   60  160 
+DMM       888526234  6  5 c   f     -     -         4170   10    0 
+DMM       888526297  6  4 f   -     -     -         4160    0    0 
+DMM       888526342  6  3 c   k     k     c         4160   30   70 Tc 5s 3h Ah
+DMM       888526414  5  2 Bc  c     c     r         4200   90  165 4c 8h 6c 5s
+DMM       888526498  5  1 Bf  -     -     -         4275    5    0 
+DMM       888526587  7  7 c   c     c     k         4270   40    0 4h As 4d 2c
+DMM       888526636  7  6 f   -     -     -         4230    0    0 
+DMM       888526728  6  4 c   cc    kf    -         4230   30    0 
+DMM       888526801  6  4 f   -     -     -         4200    0    0 
+DMM       888526894  6  3 f   -     -     -         4200    0    0 
+DMM       888526945  6  2 Bk  kc    kc    k         4200   40    0 4c 3s 5h Kh
+DMM       888526991  6  1 Br  -     -     -         4160   20   30 
+DMM       888527035  6  6 f   -     -     -         4170    0    0 
+DMM       888527063  6  5 f   -     -     -         4170    0    0 
+DMM       888527118  8  4 f   -     -     -         4170    0    0 
+DMM       888527192  8  3 f   -     -     -         4170    0    0 
+DMM       888527296 10  2 Bcc kcc   kc    kc        4170  110  232 2h 3d Jd 6c
+DMM       888527427 10  1 Bf  -     -     -         4292    5    0 
+DMM       888527522 10 10 f   -     -     -         4287    0    0 
+DMM       888527614 10  9 f   -     -     -         4287    0    0 
+DMM       888527799 10  8 f   -     -     -         4287    0    0 
+DMM       888527904 10  7 f   -     -     -         4287    0    0 
+DMM       888527983 10  6 f   -     -     -         4287    0    0 
+DMM       888528118  8  5 f   -     -     -         4287    0    0 
+DMM       888528196  8  3 f   -     -     -         4287    0    0 
+DMM       888528264  7  2 Bk  kf    -     -         4287   10    0 
+DMM       888528295  7  1 Bc  kc    kc    br        4277  100  185 Qc 7d 4h 5h
+DMM       888528370  8  8 f   -     -     -         4362    0    0 
+DMM       888528452  7  6 f   -     -     -         4362    0    0 
+DMM       888528511  6  6 c   c     c     f         4362   40    0 
+DMM       888528571  6  5 c   k     k     f         4322   10    0 
+DMM       888528629  6  4 f   -     -     -         4312    0    0 
+DMM       888528688  6  3 f   -     -     -         4312    0    0 
+DMM       888528747  5  2 Bk  kc    b     kf        4312   40    0 
+DMM       888528797  5  1 Bf  -     -     -         4272    5    0 
+DMM       888528857  5  5 c   f     -     -         4267   10    0 
+DMM       888528948  6  5 f   -     -     -         4257    0    0 
+DMM       888529014  6  4 c   f     -     -         4257   10    0 
+DMM       888529079  8  3 c   kc    k     kf        4247   30    0 
+DMM       888529232  9  2 Bc  kcc   kcc   kc        4217  170  220 As 4h 7d Qd
+DMM       888529394 10  1 Bcc kf    -     -         4267   20    0 
+DMM       888529513 10 10 cc  c     c     fQ        4247   50    0 
+DMM       888530066  6  5 f   -     -     -         4197    0    0 
+DMM       888530143  6  4 c   kc    kf    -         4197   20    0 
+DMM       888530200  6  3 c   k     k     k         4177   10   50 Kc 3c Ah 9c
+DMM       888530282  7  2 Bf  -     -     -         4217   10    0 
+DMM       888530348  7  1 Bc  k     kf    -         4207   10    0 
+DMM       888530437  8  8 c   c     r     b         4197  100  262 Td 9c 2d 3d
+DMM       888530527  9  8 f   -     -     -         4359    0    0 
+DMM       888530717  8  7 f   -     -     -         4359    0    0 
+DMM       888530770 10  7 f   -     -     -         4359    0    0 
+DMM       888530861 10  6 f   -     -     -         4359    0    0 
+DMM       888530933 10  5 cc  rcc   k     ccc       4359  140    0 3s 2d Kd Qd
+DMM       888531048 10  4 f   -     -     -         4219    0    0 
+DMM       888531132 10  3 ccc fQ    -     -         4219   40    0 
+DMM       888617593  3  2 Bk  b     b     b         4179   60  130 3s Ad 5h 4h
+DMM       888617626  3  1 Bc  b     b     -         4249   40   60 
+DMM       888617649  3  3 c   k     c     c         4269   50    0 Kd 4c 9h Ac
+DMM       888617682  4  3 f   -     -     -         4219    0    0 
+DMM       888617713  4  2 Bk  k     k     bc        4219   50   37 Js 2c Ac 6c
+DMM       888617744  4  1 Br  b     b     bc        4206   90  135 2d 9d 8d As
+DMM       888617778  4  4 f   -     -     -         4251    0    0 
+DMM       888617811  4  3 f   -     -     -         4251    0    0 
+DMM       888617851  4  2 B   -     -     -         4251   10   15 
+DMM       888617854  4  1 Bc  k     k     kc        4256   30   35 7d Jc 6d 9h
+DMM       888617894  4  4 f   -     -     -         4261    0    0 
+DMM       888617921  4  3 f   -     -     -         4261    0    0 
+DMM       888617944  4  2 Bk  kc    k     c         4261   40   50 2c 5s 3c 8c
+DMM       888617982  4  1 Bc  k     kf    -         4271   10    0 
+DMM       888618007  4  4 c   k     f     -         4261   10    0 
+DMM       888618031  4  3 f   -     -     -         4251    0    0 
+DMM       888618045  3  2 Bk  k     k     k         4251   10   10 5s Tc Td Th
+DMM       888618067  3  1 Bc  b     b     b         4251   60  100 
+DMM       888618106  3  3 f   -     -     -         4291    0    0 
+DMM       888618126  3  2 B   -     -     -         4291   10   15 
+DMM       888618130  3  1 Bc  b     -     -         4296   20   30 
+DMM       888618140  3  3 f   -     -     -         4306    0    0 
+DMM       888618149  3  2 B   -     -     -         4306   10   15 
+DMM       888618154  3  1 Bc  k     b     -         4311   30   40 
+DMM       888618167  3  3 c   b     b     b         4321   60  105 
+DMM       888618192  3  2 Bc  k     kc    k         4366   40   50 2s 3s 9c Th
+DMM       888618227  3  1 Bcc k     kf    -         4376   20    0 
+DMM       888618262  3  3 c   c     b     bc        4356   80    0 Kh Qd 9d Kc
+DMM       888618296  4  2 Bk  c     b     k         4276   40   80 7c 2s 8c 6d
+DMM       888618338  4  1 Bc  kc    kc    k         4316   40   50 2s 9d Qs Ac
+DMM       888618384  5  5 c   c     c     c         4326   60    0 6h 8s Ah 4c
+DMM       888618427  4  4 c   b     -     -         4266   20   40 
+DMM       888618459  4  3 f   -     -     -         4286    0    0 
+DMM       888618484  4  2 Bk  b     -     -         4286   20   30 
+DMM       888618510  4  1 Bc  kf    -     -         4296   10    0 
+DMM       888618533  4  4 f   -     -     -         4286    0    0 
+DMM       888618552  4  3 c   c     f     -         4286   20    0 
+DMM       888618589  4  2 Bk  b     b     -         4266   40   65 
+DMM       888618625  4  1 Bf  -     -     -         4291    5    0 
+DMM       888618672  3  3 c   b     b     -         4286   40   65 
+DMM       888618698  2  2 Bk  c     b     b         4311   60  100 
+DMM       888618726  3  1 Bc  k     br    k         4351   70   70 Jc 9d Th Kh
+DMM       888618766  3  3 f   -     -     -         4351    0    0 
+DMM       888618797  3  2 Bk  cc    kf    -         4351   30    0 
+DMM       888618844  3  1 B   -     -     -         4321    5   15 
+DMM       888618850  2  2 f   -     -     -         4331    0    0 
+DMM       888618857  2  2 Bk  b     -     -         4331   20   30 
+DMM       888618867  2  1 Bc  b     -     -         4341   20   30 
+DMM       888618876  2  2 Bk  k     k     k         4351   10   20 9s Jh Th 7d
+DMM       888618896  2  1 Bf  -     -     -         4361    5    0 
+DMM       888618909  2  2 BQ  -     -     -         4356   10    0 
+DMM       888683991  6  4 cc  kc    c     cc        4346  130  130 3s 7d Td 4s
+DMM       888684071  6  3 c   kf    -     -         4346   10    0 
+DMM       888684137  5  2 Bc  bc    kc    kf        4336   60    0 
+DMM       888684190  5  1 Bc  k     b     kc        4276   70    0 4d 2d Kd Qd
+DMM       888684258  5  5 r   c     f     -         4206   30    0 
+DMM       888684305  4  3 c   b     -     -         4176   20    0 9h Jc 8c 7h
+DMM       888684330  4  2 Bc  c     b     c         4156   60    0 7c Ad Kc Qs
+DMM       888684394  4  1 Bc  k     kc    kc        4096   50    0 Ts 8c 9d 8s
+DMM       888684444  4  4 c   k     f     -         4046   10    0 
+DMM       888684483  4  3 f   -     -     -         4036    0    0 
+DMM       888684504  4  2 Bc  kf    -     -         4036   20    0 
+DMM       888684529  4  1 Br  b     -     -         4016   30   70 
+DMM       888684546  4  4 f   -     -     -         4056    0    0 
+DMM       888684575  4  3 f   -     -     -         4056    0    0 
+DMM       888684592  5  2 Bk  k     b     b         4056   50  130 Tc 8c 9d 2h
+DMM       888684633  5  1 Bc  kc    kc    krc       4136  140  215 Ad Qh 8d 3c
+DMM       888684693  5  5 c   c     c     c         4211   60   95 As Qc 3s 5c
+DMM       888684737  5  4 c   k     kc    kc        4246   50   60 Ks Kh 6s Jc
+DMM       888684783  4  2 f   -     -     -         4256    0    0 
+DMM       888684811  4  2 Bk  k     kf    -         4256   10    0 
+DMM       888684856  4  1 Bc  k     k     b         4246   30   35 5c Th 8c 2c
+DMM       888684889  4  4 f   -     -     -         4251    0    0 
+DMM       888684923  4  3 f   -     -     -         4251    0    0 
+DMM       888684944  4  2 Bk  k     kf    -         4251   10    0 
+DMM       888684998  5  1 Bc  k     b     -         4241   30   60 
+DMM       888685029  5  5 c   f     -     -         4271   10    0 
+DMM       888685075  4  3 f   -     -     -         4261    0    0 
+DMM       888685103  4  2 Bk  kf    -     -         4261   10    0 
+DMM       888685138  4  1 Bc  b     b     b         4251   60  110 
+DMM       888685189  4  4 f   -     -     -         4301    0    0 
+DMM       888685208  4  3 cc  f     -     -         4301   20    0 
+DMM       888685269  4  2 Bk  r     rr    b         4281  130  380 Tc Js Qd Ts
+DMM       888685331  4  1 Bc  kf    -     -         4531   10    0 
+DMM       888685380  4  4 c   f     -     -         4521   10    0 
+DMM       888685406  4  3 f   -     -     -         4511    0    0 
+DMM       888685431  4  2 Bk  f     -     -         4511   10    0 
+DMM       888685466  4  1 Bcc b     b     kf        4501   50    0 
+DMM       888685520  4  4 f   -     -     -         4451    0    0 
+DMM       888685569  3  2 fQQ -     -     -         4451    0    0 

@@ -1,0 +1,852 @@
+senklip   926262748  6  5 c   c     f     -         1000   30    0 
+senklip   926262786  6  4 c   c     c     f          970   50    0 
+senklip   926262827  6  3 c   f     -     -          920   10    0 
+senklip   926262862  6  2 Bf  -     -     -          910   10    0 
+senklip   926262895  6  1 Bc  kf    -     -          900   10    0 
+senklip   926262934  6  6 c   c     c     c          890   70   87 2d 8d 9d Ad
+senklip   926262955  6  5 c   kc    kc    k          907   50    0 6h 2d 9d Kd
+senklip   926263023  7  4 cc  kf    -     -          857   20    0 
+senklip   926263057  7  3 c   kf    -     -          837   10    0 
+senklip   926263097  7  2 Bc  kc    kc    kc         827   70  133 Kc 4c 3d As
+senklip   926263145  7  1 Bc  kc    k     kf         890   30    0 
+senklip   926263188  6  6 c   c     c     k          860   50  180 2s 3d Jd Ah
+senklip   926263224  5  4 f   -     -     -          990    0    0 
+senklip   926263263  5  3 cc  c     c     cc         990  120    0 Kc Js Ad 9s
+senklip   926263310  5  2 Bk  cf    -     -          870   20    0 
+senklip   926263358  5  1 Bf  -     -     -          850    5    0 
+senklip   926263403  4  4 c   c     f     -          845   20    0 
+senklip   926263429  3  3 f   -     -     -          825    0    0 
+senklip   926263443  3  2 Bk  cc    cc    kf         825   70    0 
+senklip   926263479  3  1 Bf  -     -     -          755    5    0 
+senklip   926263500  3  3 f   -     -     -          750    0    0 
+senklip   926263519  3  2 Bk  k     k     k          750   10   25 9c 9h 6d 2s
+senklip   926263537  3  1 Bf  -     -     -          765    5    0 
+senklip   926263556  3  3 cc  k     b     b          760   60  140 7c Td 8s 5d
+senklip   926263590  3  2 Bk  kc    kf    -          840   20    0 
+senklip   926263610  3  1 Bf  -     -     -          820    5    0 
+senklip   926263747  2  2 Bk  b     b     -          815   40   60 
+senklip   926263774  2  1 Bc  k     k     b          835   30   40 
+senklip   926263791  2  2 Bk  c     k     b          845   40   80 9d Ad 9s Js
+senklip   926263811  2  1 Bc  k     b     -          885   30   40 
+senklip   926263828  2  2 B   -     -     -          895   10   15 
+senklip   926263831  2  1 Bc  b     -     -          900   20   30 
+senklip   926263838  2  2 Bk  c     f     -          910   20    0 
+senklip   926263855  2  1 Bc  k     k     b          890   30   30 2s 4s 8d Ac
+senklip   926263873  2  2 Bk  k     k     k          890   10   20 8s 2c 8d Qd
+senklip   926263888  2  1 Bc  kc    kc    kc         900   60   60 Ts 5s 3s 3h
+senklip   926263914  2  2 Bk  k     k     k          900   10   20 Ad Jc 8s Js
+senklip   926263935  3  1 Bc  kc    kc    kc         910   60  120 Jd Qs Kc 4h
+senklip   926263955  3  3 c   k     c     k          970   30   70 5s 6s 2h 9c
+senklip   926263985  3  2 Bk  kf    -     -         1010   10    0 
+senklip   926264011  3  1 Bf  -     -     -         1000    5    0 
+senklip   926264015  3  3 c   k     k     b          995   30   50 
+senklip   926264042  3  2 Bk  k     kc    kc        1015   50    0 Jd Ad Kd 6s
+senklip   926264065  3  1 Bc  k     k     k          965   10   15 Td Qd Ac 4d
+senklip   926264091  3  3 c   c     k     r          970   60  180 Ac Qd Qc 2c
+senklip   926264118  3  2 Bk  kc    kc    kc        1090   60   63 4d 3c 9h 6h
+senklip   926264143  3  1 Bc  k     k     bc        1093   50    0 4h 5h Jh 9d
+senklip   926264172  3  3 c   k     k     k         1043   10    0 Js Qs 8s 8h
+senklip   926264197  3  2 B   -     -     -         1033   10   15 
+senklip   926264202  3  1 Bf  -     -     -         1038    5    0 
+senklip   926264214  3  3 c   b     -     -         1033   20   40 
+senklip   926264224  3  2 Bk  k     k     k         1053   10    0 4d 2d 2h As
+senklip   926264241  3  1 Bc  k     b     -         1043   30   40 
+senklip   926264255  3  3 c   k     k     k         1053   10   25 Kc 3s 2d 7c
+senklip   926264272  3  2 B   -     -     -         1068   10   15 
+senklip   926264278  3  1 Bc  k     k     b         1073   30   50 
+senklip   926264300  3  3 c   k     c     k         1093   30   65 Ad 3h 5s 2d
+senklip   926264317  3  2 Bk  b     b     b         1128   60   63 As 9h 8c 9s
+senklip   926264332  3  1 Bc  k     kc    k         1131   30    0 Qs 2h Js Qd
+senklip   926264355  3  3 cc  c     c     c         1101   70   75 Qd 2s Jc 3h
+senklip   926264373  3  2 Bk  k     k     k         1106   10   25 3c Kd Ac Jd
+senklip   926264391  3  1 Bc  kf    -     -         1121   10    0 
+senklip   926264410  3  3 c   c     c     r         1111  100  240 2d Jh 8c Ac
+senklip   926264437  3  2 Bk  k     k     b         1251   30   45 
+senklip   926264458  3  1 Bc  k     kf    -         1266   10    0 
+senklip   926264477  3  3 c   k     k     k         1256   10    0 9h Js Ac 4h
+senklip   926264496  3  2 Bk  k     f     -         1246   10    0 
+senklip   926264511  3  1 Bc  k     kf    -         1236   10    0 
+senklip   926264527  3  3 c   k     k     k         1226   10    0 Ts 5d 4d Kc
+senklip   926264547  3  2 Bk  b     -     -         1216   20   35 
+senklip   926264558  3  1 Bc  b     b     -         1231   40   60 
+senklip   926264582  3  3 c   c     f     -         1251   20    0 
+senklip   926264600  3  2 Bk  k     k     b         1231   30    0 4s 4h Td Qc
+senklip   926264617  3  1 Bc  k     b     -         1201   30   40 
+senklip   926264636  3  3 c   c     f     -         1211   20    0 
+senklip   926264662  3  2 Bk  kf    -     -         1191   10    0 
+senklip   926264683  3  1 Bf  -     -     -         1181    5    0 
+senklip   926264694  3  3 c   c     f     -         1176   20    0 
+senklip   926264723  3  2 Bk  k     k     kf        1156   10    0 
+senklip   926264741  3  1 Bc  k     k     k         1146   10    0 6c 9d 8h Kh
+senklip   926264758  3  3 f   -     -     -         1136    0    0 
+senklip   926264783  3  2 Bc  kc    k     k         1136   30    0 9s Kh 2c 4c
+senklip   926264803  3  1 Bc  b     -     -         1106   20   30 
+senklip   926264817  3  3 c   k     k     k         1116   10   15 Qc 7s Th 8d
+senklip   926264834  3  2 Bk  k     k     c         1121   30    0 Kd 6d 2h 5c
+senklip   926264856  3  1 Bc  k     k     k         1091   10   10 7c 2c Qs 8h
+senklip   926264875  3  3 c   k     k     c         1091   30   70 Jh Td 4d Qs
+senklip   926264893  3  2 Bk  kc    kc    kc        1131   60    0 5h 8c 2d 3h
+senklip   926264922  3  1 Bc  kc    kc    k         1071   40    0 2d Ah Th 7s
+senklip   926264953  3  3 c   c     c     c         1031   60    0 7s 6s 9d 8c
+senklip   926264981  3  2 Bk  kf    -     -          971   10    0 
+senklip   926264994  3  1 Bc  kc    kf    -          961   20    0 
+senklip   926265022  4  4 f   -     -     -          941    0    0 
+senklip   926265036  4  3 cc  k     c     k          941   40  120 3h 4c 8c Qh
+senklip   926265058  4  2 Bk  k     k     f         1021   10    0 
+senklip   926265083  4  1 Bc  kc    kf    -         1011   20    0 
+senklip   926265103  4  4 c   c     k     f          991   20    0 
+senklip   926265133  4  3 c   k     c     c          971   50   75 3s 3c 8d As
+senklip   926265160  5  3 c   f     -     -          996   10    0 
+senklip   926265187  5  2 Bk  kc    k     kc         986   40    0 2h Ah 3s Kh
+senklip   926265222  5  1 Bc  k     k     k          946   10    0 Jh 7d 9c Qh
+senklip   926265244  5  5 c   b     r     b          936   80  250 7c 5h Ad 3h
+senklip   926265280  5  4 f   Q     -     -         1106    0    0 
+senklip   926265446  6  5 c   cc    c     c         1106   80  125 2s 2d Qh 5h
+senklip   926265484  6  4 c   k     c     k         1151   30   68 Jh 6h 5d Jc
+senklip   926265532  6  3 c   k     k     f         1189   10    0 
+senklip   926265582  5  2 Bc  k     c     c         1179   60   90 Ac 7h 3h 5s
+senklip   926265615  5  1 Bc  kc    kf    -         1209   20    0 
+senklip   926265647  4  4 c   c     c     k         1189   40   45 8h Th Qd 8d
+senklip   926265669  4  3 c   kc    kc    k         1194   40    0 6h Jd 7s 9s
+senklip   926265694  4  2 Bc  kc    kc    kc        1154   70  165 2h Kd 2s Qh
+senklip   926265717  4  1 Bc  kc    k     k         1249   20   60 3s 9s Qd Ks
+senklip   926265743  4  4 c   k     k     k         1289   10    0 9c 2c 9s 4c
+senklip   926265761  4  3 c   kc    kc    b         1279   60  143 3h Jd Ad 7c
+senklip   926265807  4  2 Bk  k     k     kc        1362   30    0 7s Qh 6s Td
+senklip   926265829  4  1 Bf  -     -     -         1332    5    0 
+senklip   926265851  4  4 c   k     f     -         1327   10    0 
+senklip   926265870  4  3 c   b     k     r         1317   80  120 As 8h 2s 4s
+senklip   926265898  4  2 Bk  k     kc    kf        1357   30    0 
+senklip   926265935  4  1 Bc  k     k     kf        1327   10    0 
+senklip   926265956  4  4 c   f     -     -         1317   10    0 
+senklip   926265967  4  3 c   f     -     -         1307   10    0 
+senklip   926265990  4  2 Bk  kf    -     -         1297   10    0 
+senklip   926266006  4  1 Bc  k     k     kc        1287   30   35 5d 5c 3h Qd
+senklip   926266029  3  3 c   c     c     k         1292   40   22 4h 9c 5s 4d
+senklip   926266053  3  2 Bk  kc    k     k         1274   20   60 Ac Td Kd 7c
+senklip   926266074  3  1 Bcc kc    b     b         1314   70  120 
+senklip   926266092  2  2 Bk  k     k     k         1364   10    0 9c 2c Jc 7d
+senklip   926266107  2  1 Bc  kf    -     -         1354   10    0 
+senklip   926266120  2  2 Bk  k     k     r         1344   50    0 Tc 4c Td 8d
+senklip   926266134  2  1 Bc  k     k     b         1294   30   60 Jc Qs Jd Qh
+senklip   926266151  2  2 Bk  k     c     c         1324   50   50 Td 4s Ad Qs
+senklip   926266167  2  1 Bc  k     k     k         1324   10   20 9d 5d 9s Th
+senklip   926266180  2  2 Bk  k     k     k         1334   10    0 Js Jc Kd Qh
+senklip   926266194  2  1 Bc  k     k     b         1324   30   40 
+senklip   926266208  2  2 Bk  c     c     c         1334   60  120 5s Tc 3d Ts
+senklip   926266222  2  1 Bcc kc    kc    kc        1394   70   70 5c 5h 7d 9c
+senklip   926266241  2  2 Bk  k     k     k         1394   10   20 3s 7d 4h Kc
+senklip   926266253  2  1 Bc  k     k     kc        1404   30    0 2h Ks Kd 2c
+senklip   926266267  2  2 Bk  k     k     k         1374   10    0 Tc 3s 3d 9s
+senklip   926266283  2  1 Bc  k     k     k         1364   10    0 Ts 9c Td 5d
+senklip   926266295  2  2 Bk  k     c     c         1354   50    0 9h As 7h Jc
+senklip   926266308  2  1 Bf  -     -     -         1304    5    0 
+senklip   926266314  2  2 Bk  k     k     k         1299   10   20 2d Ts 6d 3h
+senklip   926266324  2  1 Bc  k     k     k         1309   10   20 8h 3c 7s 4h
+senklip   926266340  2  2 Bk  k     k     k         1319   10   20 6s Jd 4s 4d
+senklip   926266353  2  1 Bc  k     bc    kc        1329   70    0 As 5h Qd Qc
+senklip   926266371  2  2 Bk  k     c     c         1259   50   50 5d 7c 6d 3d
+senklip   926266387  2  1 Bc  k     kr    b         1259   70   70 Ad 3d Qc 5c
+senklip   926266407  2  2 Bk  k     k     f         1259   10    0 
+senklip   926266419  2  1 Bc  k     k     k         1249   10   20 2s As 6h Jh
+senklip   926266431  2  2 Bk  k     k     k         1259   10    0 Js 9c 4c Kd
+senklip   926266450  2  1 Bc  kc    k     k         1249   20   40 5d 6s Kd Qd
+senklip   926266466  2  2 Bk  b     -     -         1269   20   30 
+senklip   926266476  2  1 Bc  k     kc    k         1279   30   30 Ac 6s As Ad
+senklip   926266488  2  2 Bk  k     k     k         1279   10   10 Qh 9d 8d 6h
+senklip   926266505  2  1 Bc  k     k     k         1279   10    0 Kc 4d 5h 3s
+senklip   926266526  2  2 Bk  f     -     -         1269   10    0 
+senklip   926266539  2  1 Bc  kc    k     k         1259   20   20 9s 2s 6c 8c
+senklip   926266568  2  2 Bk  k     k     k         1259   10    0 2s 8h Qd Td
+senklip   926266585  2  1 Bc  k     k     k         1249   10   20 Qs Td As 8d
+senklip   926266603  2  2 Bk  b     -     -         1259   20   30 
+senklip   926266622  2  1 Bc  k     k     k         1269   10    0 8c 3h Jh Js
+senklip   926266633  2  2 Bk  c     f     -         1259   20    0 
+senklip   926266645  2  1 Bc  k     k     k         1239   10   20 4c Ks 2d Ah
+senklip   926266660  2  2 Bk  k     k     k         1249   10    0 As Qh 8c 9d
+senklip   926266677  2  1 Bc  k     k     k         1239   10    0 3d 4c 3c Ks
+senklip   926266694  2  2 Bk  k     k     k         1229   10    0 6c Tc 9d Kd
+senklip   926266711  2  1 Bc  k     k     k         1219   10   10 9h Kd 5h 4h
+senklip   926266725  2  2 Bk  k     k     k         1219   10   10 8h Qh 6d Jc
+senklip   926266740  2  1 Bc  k     k     k         1219   10    5 8s Qs Th As
+senklip   926266755  2  2 Bk  c     k     k         1214   20   20 4c 5d Qc 3h
+senklip   926266770  2  1 Bc  k     k     k         1214   10    0 Ks 9s Th 6d
+senklip   926266786  2  2 Bk  k     r     b         1204   70  140 8h Ah Kc Qs
+senklip   926266804  2  1 Bcc k     k     k         1274   20    0 9d 5c Ad 7s
+senklip   926266821  2  2 B   -     -     -         1254   10   15 
+senklip   926266827  3  1 Bc  kf    -     -         1259   10    0 
+senklip   926266843  3  3 c   k     k     c         1249   30   32 9h 2c 6c 4d
+senklip   926266865  3  2 Bk  c     r     b         1251   80  170 5c 3s 4h 2c
+senklip   926266898  3  1 Bf  -     -     -         1341    5    0 
+senklip   926266923  3  3 f   -     -     -         1336    0    0 
+senklip   926266930  3  2 Bk  k     k     k         1336   10   30 Jh 7s 6d 2c
+senklip   926266986  3  1 Bc  k     k     k         1356   10   15 Td Qh 3c 9h
+senklip   926267010  4  4 cc  f     -     -         1361   20    0 
+senklip   926267049  4  3 c   k     k     f         1341   10    0 
+senklip   926267076  4  2 Bcc kc    c     kf        1331   70    0 
+senklip   926267126  4  1 Bc  kc    kcc   k         1261   80  140 Td 4h Ad Ac
+senklip   926267160  4  4 c   f     -     -         1321   10    0 
+senklip   926267183  4  3 cc  c     c     k         1311   60  210 6d 5s 2h Qd
+senklip   926267214  4  2 Bf  -     -     -         1461   10    0 
+senklip   926267254  4  1 Bf  -     -     -         1451    5    0 
+senklip   926267286  4  4 cc  cc    cc    c         1446  160  242 5s Ts 2h 6h
+senklip   926267352  4  3 cc  cf    -     -         1528   30    0 
+senklip   926267402  3  1 Bk  k     kf    -         1498   10    0 
+senklip   926267428  3  1 Bf  -     -     -         1488    5    0 
+senklip   926267457  3  3 cc  c     k     f         1483   40    0 
+senklip   926267489  3  2 Bc  kc    kc    bc        1443  100  150 Js 7c Ac 2s
+senklip   926267527  4  1 Bc  k     kc    kf        1493   30    0 
+senklip   926267569  4  4 c   k     k     f         1463   10    0 
+senklip   926267609  3  2 Bf  -     -     -         1453   10    0 
+senklip   926267618  3  1 Bc  kcf   -     -         1443   40    0 
+senklip   926267648  3  3 c   c     c     k         1403   40    0 2d 4d Js 3d
+senklip   926267666  3  2 Bk  kc    f     -         1363   20    0 
+senklip   926267698  3  1 Bc  k     k     kf        1343   20    0 
+senklip   926267726  3  3 c   k     k     k         1323   10   30 Js 9c 2h Ad
+senklip   926267745  2  1 Bk  k     k     k         1343   10    0 9c Ks 4c Jd
+senklip   926267761  2  1 Bc  k     kf    -         1333   10    0 
+senklip   926267773  2  2 Bk  c     c     c         1323   60   60 Qc Jc 9s Kh
+senklip   926267786  2  1 Bc  k     k     k         1323   10    0 4s 2d 4h 3c
+senklip   926267803  2  2 Bk  k     k     k         1313   10   10 3s Td 3d 8c
+senklip   926267818  2  1 Bc  kc    k     k         1313   20   20 Jh Ac 9c 9d
+senklip   926267835  2  2 Bc  k     k     k         1313   20   40 7h 3s Ad 8h
+senklip   926267848  2  1 Bc  k     k     kc        1333   30   30 Jh 3s 2c 7d
+senklip   926267870  2  2 Bk  k     c     k         1333   30   45 Kd Th 2c 4d
+senklip   926267887  3  1 Bc  kf    -     -         1348   10    0 
+senklip   926267902  3  3 r   c     c     r         1338   90  210 
+senklip   926267923  4  3 cc  kc    kc    kf        1458   50    0 
+senklip   926267958  4  2 Bc  c     c     c         1408   70   95 3c 3h 4c 8c
+senklip   926267983  4  1 Bc  kc    kc    kc        1433   70    0 8d Kd Ks 8s
+senklip   926268026  4  4 c   f     -     -         1363   10    0 
+senklip   926268062  4  3 f   -     -     -         1353    0    0 
+senklip   926268094  4  2 Bk  f     -     -         1353   10    0 
+senklip   926268129  4  1 Bf  -     -     -         1343    5    0 
+senklip   926268133  4  4 c   cc    c     c         1338   80    0 Kd Qs 4c Jc
+senklip   926268161  4  3 c   c     c     k         1258   60  100 Qh 7s 2d 4d
+senklip   926268196  4  2 Bk  kc    kc    k         1298   40   43 Ad Ac 8s 5c
+senklip   926268223  3  1 Bf  -     -     -         1301    5    0 
+senklip   926268230  3  3 f   -     -     -         1296    0    0 
+senklip   926268249  3  2 Bk  k     k     k         1296   10   15 Ah 5h 6h 7s
+senklip   926268270  3  1 Bc  k     kc    k         1301   30    0 Jc 5c 8h 9c
+senklip   926268293  3  3 f   -     -     -         1271    0    0 
+senklip   926268318  3  2 Bk  c     c     f         1271   40    0 
+senklip   926268343  3  1 Bc  k     k     k         1231   10   20 As 6s 9h 3c
+senklip   926268358  3  3 c   k     k     k         1241   10   15 Qh 2h 3d Jd
+senklip   926268379  3  2 Bk  k     k     k         1246   10   15 5h 3d 6d 8d
+senklip   926268400  3  1 Bc  kc    kc    kc        1251   60   65 9c 8s 6h 7c
+senklip   926268424  3  3 c   k     k     k         1256   10    0 Qh 8s Jc 5s
+senklip   926268451  3  2 Bk  k     k     k         1246   10    0 4c 7h Qc 6h
+senklip   926268471  3  1 Bc  k     k     k         1236   10   30 3s 6d 2d 9d
+senklip   926268490  4  4 c   k     k     k         1256   10   30 Jh 7s 8s 3h
+senklip   926268512  4  3 c   kf    -     -         1276   10    0 
+senklip   926268541  4  2 Bk  k     b     -         1266   30   60 
+senklip   926268558  4  1 Bc  kc    k     kc        1296   60   85 Jd 5c 8c As
+senklip   926268589  4  4 c   k     f     -         1321   10    0 
+senklip   926268609  5  4 c   f     -     -         1311   10    0 
+senklip   926268631  5  3 c   kf    Q     -         1301   10    0 
+senklip   926268853  4  2 Bk  k     kc    kf        1291   30    0 
+senklip   926268882  4  1 Bc  k     kc    kc        1261   50    0 Jd Th Ks 6d
+senklip   926268907  4  4 c   k     k     k         1211   10   30 Ac 3s Qh 6c
+senklip   926268926  4  3 f   -     -     -         1231    0    0 
+senklip   926268952  4  2 B   -     -     -         1231   10   15 
+senklip   926268961  4  1 Bc  k     k     b         1236   30   40 
+senklip   926268981  4  4 cc  c     c     c         1246   70   90 Jh Ac 6h Ad
+senklip   926269000  4  3 c   k     c     c         1266   50   55 4d Qs 2s 6s
+senklip   926269020  4  2 Bk  k     k     k         1271   10    0 3c 9h Kc 3h
+senklip   926269037  4  1 Bc  k     kf    -         1261   10    0 
+senklip   926269058  4  4 f   -     -     -         1251    0    0 
+senklip   926269091  5  3 c   c     kc    c         1251   60    0 Js 5h 5c 8c
+senklip   926269136  5  2 Bk  k     k     k         1191   10   15 8d 5h 9d 2c
+senklip   926269162  4  1 Bf  -     -     -         1196    5    0 
+senklip   926269185  4  4 c   k     k     b         1191   30   80 Th Tc As 2c
+senklip   926269211  4  3 c   k     kc    k         1241   30    0 5d Kd 5h 6c
+senklip   926269242  4  2 B   -     -     -         1211   10   15 
+senklip   926269251  4  1 Bc  k     kc    k         1216   30   35 Ah 9c 7d Ac
+senklip   926269272  4  4 cc  c     c     b         1221   80  280 7h 3s Ah Jh
+senklip   926269323  4  3 c   k     k     c         1421   30   50 7s 9d 6d Td
+senklip   926269355  5  2 Bc  kc    kc    kc        1441   80    0 Qc 5h 7h 8d
+senklip   926269391  5  1 Bc  kf    -     -         1361   10    0 
+senklip   926269458  5  5 c   f     -     -         1351   20    0 
+senklip   926269493  4  3 c   k     k     k         1331   10    0 7c Ks 4h 5d
+senklip   926269515  4  3 c   k     c     f         1321   30    0 
+senklip   926269563  4  2 Bk  k     k     b         1291   30   40 
+senklip   926269587  4  1 Bc  k     kf    -         1301   10    0 
+senklip   926269612  4  4 c   k     k     c         1291   30   45 Ad Ac 5s Jd
+senklip   926269633  4  3 cc  kf    -     -         1306   20    0 
+senklip   926269666  4  2 Bk  kf    -     -         1286   10    0 
+senklip   926269688  4  1 Bf  -     -     -         1276    5    0 
+senklip   926269693  4  4 cc  f     -     -         1271   20    0 
+senklip   926269722  4  3 c   kc    k     k         1251   20   60 3h 5h Js 3d
+senklip   926269752  4  2 B   -     -     -         1291   10   15 
+senklip   926269766  5  1 Bc  kc    kc    kc        1296   90  140 4h 9s 5c As
+senklip   926269798  5  5 c   c     c     k         1346   60    0 Qs Jh Qc Ac
+senklip   926269833  5  4 f   -     -     -         1286    0    0 
+senklip   926269877  5  3 c   kc    kc    kf        1286   40    0 
+senklip   926269909  5  2 Bk  k     cc    kf        1246   70    0 
+senklip   926269974  5  1 Bf  -     -     -         1176    5    0 
+senklip   926270041  6  6 f   -     -     -         1171    0    0 
+senklip   926270094  6  5 c   c     c     f         1171   40    0 
+senklip   926270147  6  4 c   k     c     rc        1131   90  155 4c 5d 3c 4d
+senklip   926270188  6  3 c   k     cc    k         1196   50    0 Kh As 2c 7d
+senklip   926270235  6  2 Bk  kc    kc    k         1146   50    0 8s 7c Tc Jd
+senklip   926270289  4  1 Bc  kc    k     k         1096   20   40 6d 8h 8c Ac
+senklip   926270323  4  4 c   c     f     -         1116   20    0 
+senklip   926270368  5  4 f   -     -     -         1096    0    0 
+senklip   926270443  5  3 f   -     -     -         1096    0    0 
+senklip   926270478  4  2 Bk  kc    kc    brc       1096  130  360 As 5d 4d 8c
+senklip   926270541  4  1 Bc  kcc   kc    k         1326   80  130 Qd 3d 4s 2d
+senklip   926270582  4  4 cc  c     c     c         1376  110    0 9h Jd Ac 6s
+senklip   926270632  4  3 cc  cc    c     f         1266   70    0 
+senklip   926270697  4  2 Bc  kc    kcc   k         1196  110  175 7h 5d 8h 3d
+senklip   926270763  4  1 Bc  kc    kc    kc        1261   70   85 Ac Th 2s Ks
+senklip   926270797  4  4 cc  r     r     rc        1276  160  230 Ad Js 3h Ah
+senklip   926270859  3  2 Bc  c     f     -         1346   30    0 
+senklip   926270887  3  1 Bc  kc    k     kc        1316   50   75 5d 3s Th 3d
+senklip   926270911  3  3 c   k     k     b         1341   30   70 Jh 7h 9c Td
+senklip   926270940  3  2 Bc  c     f     -         1381   30    0 
+senklip   926270962  3  1 Bcc k     k     b         1351   40   80 Jd Ad Ts 3c
+senklip   926270982  3  3 c   k     k     b         1391   30   50 
+senklip   926271009  3  2 Bk  k     b     bc        1411   70    0 Ac 5s 9s 3h
+senklip   926271028  3  1 Bc  k     k     b         1341   40   45 Th Kd 5c 9s
+senklip   926271056  3  3 cc  c     c     b         1346   70   95 6d 3h 2c 5d
+senklip   926271091  3  2 Bc  k     bc    b         1371   80  135 8h Kh 4h Ac
+senklip   926271124  3  1 Bc  k     k     kc        1426   30    0 Ts Td 2d Qd
+senklip   926271150  3  3 c   k     k     k         1396   10    0 Jc 9h Kh Ac
+senklip   926271171  2  2 B   -     -     -         1386   10   15 
+senklip   926271176  2  1 Bc  b     -     -         1391   20   30 
+senklip   926271185  2  2 B   -     -     -         1401   10   15 
+senklip   926273025  2  1 Bc  b     b     b         1406   60  100 
+senklip   926273063  2  2 Bk  b     b     b         1446   60  120 9s Tc 2d 8d
+senklip   926273090  2  1 Bc  b     b     b         1506   60  120 Ad 6h 3h 5c
+senklip   926273111  2  2 Bk  b     b     b         1566   60  100 
+senklip   926273144  2  1 Bc  b     b     b         1606   60   60 2s Kc Ks 8c
+senklip   926273159  2  2 Bk  b     b     b         1606   60   60 5h 3h Jh 8c
+senklip   926273194  3  1 Bf  -     -     -         1606    5    0 
+senklip   926273210  3  3 c   k     k     c         1601   30    0 8d Ad 9s Ac
+senklip   926273234  3  2 Bk  k     kr    b         1571   70  145 4s 2h Ks 3h
+senklip   926273269  2  1 Bc  k     k     k         1646   10   10 6d Th Ac 7c
+senklip   926273307  2  2 Bk  k     k     -         1646   10   20 
+senklip   926273363  2  1 Bc  k     kf    -         1656   10    0 
+senklip   926273388  2  2 Bk  k     c     rc        1646   90  180 Jc Qc Ad 8h
+senklip   926273421  2  1 Bcc kc    kc    kc        1736   70    0 6c Kc 6d Kh
+senklip   926273441  2  2 Bk  k     rc    c         1666   90    0 Ac 3h 7c 8d
+senklip   926273471  2  1 Bc  b     b     b         1576   60  120 7c 3d Jd Jh
+senklip   926273494  2  2 Bk  k     rc    k         1636   70   70 Jc 5s 2s Ks
+senklip   926273518  2  1 Bcc kf    -     -         1636   20    0 
+senklip   926273536  2  2 BQ  -     -     -         1616   10    0 
+senklip   926295234  2  1 BQ  -     -     -         1606    5    0 
+senklip   926295365  3  2 Bk  c     c     b         1601   60  130 7d 5h 6h 9h
+senklip   926295395  3  1 Bc  kc    kf    -         1671   20    0 
+senklip   926295416  3  3 cc  f     -     -         1651   20    0 
+senklip   926295463  3  2 Bc  kc    kc    c         1631   70    0 Kh 5h Th Kd
+senklip   926295496  3  1 Bc  kc    k     k         1561   30    0 Kc 6s Ks Js
+senklip   926295529  3  3 f   -     -     -         1531    0    0 
+senklip   926295534  3  2 Bk  k     k     c         1531   30   30 Td Qh Qs 7s
+senklip   926295557  3  1 Bc  kc    kf    -         1531   20    0 
+senklip   926295582  3  3 cc  c     k     k         1511   30   40 Kd 8h Qd 7c
+senklip   926295603  3  2 Bk  k     c     c         1521   50  110 Kh 4h 9c Qc
+senklip   926295623  3  1 Bc  k     brc   brc       1581  170  175 8h 5d 3s 3d
+senklip   926295662  2  2 Bk  k     k     k         1586   10   10 3c Ks 2c Qc
+senklip   926295686  2  1 Bc  k     k     b         1586   30   40 
+senklip   926295699  2  2 Bk  k     b     -         1596   30   40 
+senklip   926295710  2  1 Bc  k     k     kf        1606   10    0 
+senklip   926295725  2  2 Bk  k     k     k         1596   10   20 6h 4d Th Qs
+senklip   926295738  2  1 Bc  k     kf    -         1606   10    0 
+senklip   926295752  2  2 Bc  k     k     k         1596   20   40 Qh Kc 7h 5s
+senklip   926295764  2  1 Bc  k     k     k         1616   10   20 As Kc 5h 9c
+senklip   926295777  2  2 Bk  k     k     k         1626   10    0 Ts 9d 5c Kd
+senklip   926295791  2  1 Bc  kc    kf    -         1616   20    0 
+senklip   926295804  2  2 Bk  k     k     b         1596   30   40 
+senklip   926295818  2  1 Bc  k     kf    -         1606   10    0 
+senklip   926295829  2  2 Bk  k     k     k         1596   10   10 Tc 5c Ac Kc
+senklip   926295842  2  1 Bc  k     k     k         1596   10   20 7s Ac 8c Jc
+senklip   926295862  2  2 Bk  b     b     bc        1606   80   80 Ks 8h 2c 9c
+senklip   926295882  2  1 Bc  kc    kc    kc        1606   60    0 6d 4s Jh Kh
+senklip   926295907  2  2 Bk  k     b     -         1546   30   40 
+senklip   926295920  2  1 Bc  b     b     -         1556   40   60 
+senklip   926295931  2  2 Bk  c     f     -         1576   20    0 
+senklip   926295945  2  1 Bc  k     k     k         1556   10   20 2d Ts 3c Kd
+senklip   926295957  2  2 Bk  k     k     c         1566   30    0 3s Kc Jc Th
+senklip   926295972  2  1 Bc  k     kf    -         1536   10    0 
+senklip   926295990  2  2 Bk  b     -     -         1526   20   30 
+senklip   926296002  2  1 Bc  b     -     -         1536   20   30 
+senklip   926296010  2  2 Bk  k     c     c         1546   50   50 Ac Kc 8s Ad
+senklip   926296023  2  1 Bc  b     -     -         1546   20   30 
+senklip   926296033  2  2 Bk  b     b     -         1556   40   60 
+senklip   926296048  2  1 Bc  k     k     kQ        1576   10    0 
+senklip   926359760  8  2 Bf  -     -     -         1566   10    0 
+senklip   926359840  7  1 Bc  k     k     bc        1556   50  115 Ah Qs 3d 9c
+senklip   926359905  7  7 c   cc    f     -         1621   60    0 
+senklip   926360002  7  7 c   c     c     b         1561   60  190 Ad 5s Kh Td
+senklip   926360103  5  5 c   f     -     -         1691   20    0 
+senklip   926360155  7  4 c   k     kf    -         1671   10    0 
+senklip   926360220  7  2 Bcc kc    kf    -         1661   50    0 
+senklip   926360289  7  1 Bc  kf    -     -         1611   10    0 
+senklip   926360370  7  7 cc  f     -     -         1601   20    0 
+senklip   926360420  7  6 cc  c     f     -         1581   30    0 
+senklip   926360512  7  5 cc  c     c     b         1551   70  290 5s 5d As 2s
+senklip   926360591  7  4 cc  kf    -     -         1771   20    0 
+senklip   926360661  7  3 cc  cc    ccc   cf        1751  140    0 
+senklip   926360769  7  2 Bk  kf    -     -         1611   10    0 
+senklip   926360867  9  1 Bcc kf    -     -         1601   20    0 
+senklip   926361035 10 10 c   c     f     -         1581   20    0 
+senklip   926361096  9  9 c   c     f     -         1561   20    0 
+senklip   926361180  9  8 cc  c     c     cc        1541  140    0 Td Ah Ts 5c
+senklip   926361275  9  7 c   k     kf    -         1401   10    0 
+senklip   926361359  9  3 Q   -     -     -         1391    0    0 
+senklip   926365757  8  8 c   c     c     f         1391   40    0 
+senklip   926365823  6  5 c   cc    c     b         1351   80  360 4d 3s Kc Ah
+senklip   926365885  6  5 cc  f     -     -         1631   20    0 
+senklip   926365946  7  4 f   -     Q     -         1611    0    0 
+senklip   926463571  5  4 KQ  -     -     -         1611    0    0 
+senklip   926466061  9  5 c   k     k     c         1611   30   80 7h Td Kd Ac
+senklip   926466138  9  4 f   -     -     -         1661    0    0 
+senklip   926466205  8  3 c   f     -     -         1661   10    0 
+senklip   926466231  8  2 Bc  kf    -     -         1651   20    0 
+senklip   926466317  8  1 Bc  kcc   kc    kc        1631   90    0 Jh Ad 5s Kc
+senklip   926466407  8  8 c   cc    c     c         1541  130  318 5c Qh Ks Jh
+senklip   926466495  8  7 c   k     b     r         1729   70  230 Jd 5d 4h 4c
+senklip   926466577  6  4 c   cc    kc    f         1889   70    0 
+senklip   926466656  6  3 f   -     -     -         1819    0    0 
+senklip   926466727  5  2 Bk  k     kf    -         1819   10    0 
+senklip   926466782  4  1 Bc  b     b     b         1809   70  110 9h 3s 5s 2c
+senklip   926466834  4  4 c   k     k     f         1849   10    0 
+senklip   926466885  3  2 c   kc    kc    kc        1839   60   70 Kc As 6c Tc
+senklip   926466923  3  2 Bk  k     f     -         1849   10    0 
+senklip   926466950  3  1 Bc  k     k     b         1839   30   35 6h Kh Jc Td
+senklip   926466988  3  3 c   k     k     f         1844   10    0 
+senklip   926467029  3  2 Bf  -     -     -         1834   10    0 
+senklip   926467062  3  1 Bc  kc    kc    kc        1824   60   90 8c 9c Jc Th
+senklip   926467093  3  3 cc  k     c     c         1854   60   70 5h 2d 4s 4c
+senklip   926467126  3  2 Bk  k     k     k         1864   10   20 5h Ah Kh Qd
+senklip   926467147  3  1 BfQ -     -     -         1874    5    0 
+senklip   926472013  3  2 Bc  f     -     -         1869   20    0 
+senklip   926472038  4  1 Bc  k     kf    -         1849   10    0 
+senklip   926472083  4  4 ccc cc    k     k         1839   60    0 Td Kd Ts 4d
+senklip   926472129  4  3 c   k     k     k         1779   10   30 6h 6c Ts As
+senklip   926472157  4  2 Bk  k     kf    -         1799   10    0 
+senklip   926472186  4  1 Bf  -     -     -         1789    5    0 
+senklip   926472237  4  4 c   k     Q     -         1784   10    0 
+senklip   926519163  7  4 cc  kc    kc    kf        1774   50    0 
+senklip   926519245  7  3 f   -     -     -         1724    0    0 
+senklip   926519300  7  2 Bk  k     k     k         1724   10   30 4h Ac 8s Qd
+senklip   926519350  8  1 Bf  -     -     -         1744    5    0 
+senklip   926519435  8  8 c   k     c     c         1739   50  135 Ad As 5s Jh
+senklip   926519513  8  7 cc  cc    c     r         1824  180  470 9d Qd Ac Kh
+senklip   926519642  8  6 c   c     r     r         2114  100  150 Js Jc 3h 4d
+senklip   926519699  8  5 cc  brc   br    b         2164  140  188 9h Js 8s Qs
+senklip   926519790  7  4 cc  cc    cc    c         2212  150    0 Ah Qs 3h Ts
+senklip   926519842  8  3 ccc k     kc    kc        2062   71   80 3s Qs 3c 9d
+senklip   926519922  9  2 Bc  kc    kcc   kc        2071  150    0 3d 2d 7c 7d
+senklip   926520020 10  1 Bc  k     kc    kf        1921   35    0 
+senklip   926520083  7  7 c   k     c     k         1886   30   80 Jc 2c 7d Td
+senklip   926520125  8  7 cc  c     c     k         1936   60    0 4h 5c 2h Tc
+senklip   926520179  8  6 c   cf    -     -         1876   20    0 
+senklip   926520226  7  4 cc  cc    c     c         1856   90    0 Ac Ad 6d Qc
+senklip   926520305  7  3 f   -     -     -         1766    0    0 
+senklip   926520347  7  2 Bc  k     kf    -         1766   20    0 
+senklip   926520429  7  1 Bc  k     k     kc        1746   30    0 Kd Ac Ts 7d
+senklip   926520486  7  7 c   c     k     rr        1716  110  320 9d 8c Ac Ks
+senklip   926520557  7  6 c   k     k     k         1926   10   32 5d 5s Qh Ah
+senklip   926520609  7  5 cc  k     k     k         1948   20   85 2d 3d 9h 4d
+senklip   926520663  7  4 cc  k     cc    k         2013   60  250 6h 5s Kh 6s
+senklip   926520710  7  3 c   c     f     -         2203   20    0 
+senklip   926520763  6  2 Bc  kc    k     kf        2183   30    0 
+senklip   926520822  6  1 Bc  kc    kc    kc        2153   60  188 9h Ad 5h 3s
+senklip   926520886  6  6 f   -     -     -         2281    0    0 
+senklip   926520941  6  5 c   k     k     k         2281   10   35 Js Td 3s 4d
+senklip   926520967  6  4 f   -     -     -         2306    0    0 
+senklip   926521007  6  3 cc  c     c     kf        2306   50    0 
+senklip   926521058  6  2 Bc  k     k     k         2256   20    0 2h Qd 7h 2d
+senklip   926521100  7  1 Bc  k     k     k         2236   10    0 6h As 2s Qh
+senklip   926521152  7  7 c   c     c     f         2226   50    0 
+senklip   926521218  7  6 c   c     c     c         2176   60   80 4s Ks 7h 8s
+senklip   926521261  7  5 c   c     c     c         2196   60   55 Ac 4d Ks 5s
+senklip   926521327  6  3 c   c     f     -         2191   20    0 
+senklip   926521359  6  3 f   -     -     -         2171    0    0 
+senklip   926521399  6  2 Bk  cc    ccc   cc        2171  150    0 3h Jd Qs Ks
+senklip   926521441  6  1 Bcc kf    -     -         2021   20    0 
+senklip   926521485  6  6 c   k     k     r         2001   50   80 2s As 4s 8d
+senklip   926521527  7  6 c   f     -     -         2031   10    0 
+senklip   926521547  7  5 c   c     f     -         2021   20    0 
+senklip   926521571  6  4 f   -     -     -         2001    0    0 
+senklip   926521594  6  3 c   c     k     k         2001   20    0 Th 2h Qd 4d
+senklip   926521615  6  2 Bc  cc    ccc   cc        1981  200    0 6h 5h 4c 7c
+senklip   926521671  7  1 Bf  Q     -     -         1781    5    0 
+senklip   926523305  9  7 cc  c     f     -         1776   30    0 
+senklip   926523421  8  5 f   -     -     -         1746    0    0 
+senklip   926523497  8  5 f   -     -     -         1746    0    0 
+senklip   926523550  7  3 cc  kc    kc    kc        1746   70  230 5d 4h 9h 2c
+senklip   926523619  7  2 Bk  c     c     k         1906   40  130 Tc Jd Td 9d
+senklip   926523655  7  1 Bc  k     k     kc        1996   30   90 Kd 5d 4s 3c
+senklip   926523698  7  7 cc  c     k     k         2056   50  255 Ks 5s Ah 3s
+senklip   926523753  6  5 cc  r     r     b         2261  100  210 Ac Th Qs 2d
+senklip   926523794  6  4 cc  kc    kc    k         2371   50    0 2c 8h Js Ks
+senklip   926523849  6  3 c   k     k     f         2321   10    0 
+senklip   926523887  6  2 Bc  kf    -     -         2311   20    0 
+senklip   926523939  7  1 Bf  -     -     -         2291    5    0 
+senklip   926523993  7  7 c   c     f     -         2286   30    0 
+senklip   926524020  7  6 c   c     c     f         2256   40    0 
+senklip   926524071  7  5 f   -     -     -         2216    0    0 
+senklip   926524105  7  4 f   -     -     -         2216    0    0 
+senklip   926524149  7  3 f   -     -     -         2216    0    0 
+senklip   926524204  7  2 Bf  -     -     -         2216   10    0 
+senklip   926524241  7  1 Bc  k     b     b         2206   50   90 Ad 3s 8h 2s
+senklip   926524294  7  7 cc  k     c     k         2246   40    0 2c 6c 3d 5c
+senklip   926524337  7  6 c   c     c     f         2206   40    0 
+senklip   926524403  9  7 c   c     k     k         2166   20   90 5s Ac 6d Kd
+senklip   926524455 10  6 cc  k     c     c         2236   80  210 4c 7s 2d Ad
+senklip   926524533 10  5 cc  kc    kc    kc        2366   90    0 2d Kd 7s 3s
+senklip   926524631 10  3 Q   -     -     -         2276    0    0 
+senklip   927046873  6  5 c   c     f     -         2276   30    0 
+senklip   927046936  7  4 ccc c     f     -         2246   50    0 
+senklip   927047013  8  3 c   ccc   cc    f         2196  110    0 
+senklip   927047097  9  2 Bc  kcc   kc    kf        2086  100    0 
+senklip   927047230 10  1 Bc  kf    -     -         1986   20    0 
+senklip   927047288 10 10 f   -     -     -         1966    0    0 
+senklip   927047352 10  9 c   f     -     -         1966   40    0 
+senklip   927047419 10  8 c   cc    Q     -         1926   60    0 
+senklip   927059000  6  2 Bc  krr   b     b         1866  100  260 
+senklip   927059112  6  1 Bc  kc    kc    kc        2026   60   90 3s 5d Ks 4d
+senklip   927059169  8  6 f   -     -     -         2056    0    0 
+senklip   927059222  8  5 ccc c     k     c         2056   70  180 9s 4h 6h 5s
+senklip   927059304  7  3 cc  cc    ccc   kc        2166  150    0 Jh Ks 4c 9s
+senklip   927059391  7  2 Bcc kf    -     -         2016   40    0 
+senklip   927059498  7  1 Bc  k     kc    kc        1976   50   95 4h 8d 5d 7s
+senklip   927059559  6  6 c   c     k     r         2021   60   97 Ah 7d 8h 2h
+senklip   927059628  5  4 c   k     k     c         2058   50    0 6d Kc 3d 6c
+senklip   927059696  6  4 c   kc    f     -         2008   20    0 
+senklip   927059761  7  4 cc  kc    k     kc        1988   50    0 8c 7h 4s 5c
+senklip   927059861  6  3 Q   -     -     -         1938    0    0 
+senklip   927089743  8  7 cc  k     f     -         1938   20    0 
+senklip   927089803  7  5 c   c     c     c         1918   60  130 6c 5c Jh 3c
+senklip   927089899  7  4 cc  k     kc    f         1988   40    0 
+senklip   927089994  7  3 cc  k     k     kf        1948   20    0 
+senklip   927090076  7  2 Bk  k     kc    bc        1928   70    0 3s Td 5d Qs
+senklip   927090160  7  1 Bc  kc    kc    k         1858   40    0 2h Ks Kd 3s
+senklip   927090217  7  7 cc  f     -     -         1818   20    0 
+senklip   927090289  7  6 c   k     c     c         1798   50    0 Js 6h Ad 5c
+senklip   927090373  7  5 c   f     -     -         1748   20    0 
+senklip   927090457  7  4 c   c     c     r         1728   80  200 Kc 6h 6c Qc
+senklip   927090542  7  3 c   kc    kc    ccc       1848  120    0 Qd 2h Th 5s
+senklip   927090648  7  2 Bf  -     -     -         1728   10    0 
+senklip   927090707  7  1 Bc  k     kcc   b         1718  110  360 3s Th Jc As
+senklip   927090787  6  6 c   k     r     b         1968   70  145 Ac As 8s Kh
+senklip   927090891  6  6 c   f     -     -         2043   10    0 
+senklip   927090945  6  5 c   c     k     k         2033   20    0 Qc 3h Ts 3s
+senklip   927091018  5  4 c   kc    kf    -         2013   20    0 
+senklip   927091070  3  2 Bk  k     k     k         1993   10    0 7d Js Qs Jc
+senklip   927091115  4  1 Bc  k     kc    kc        1983   50    0 Ks Kc 9s Jc
+senklip   927091175  4  4 c   c     f     -         1933   20    0 
+senklip   927091224  5  4 c   k     k     f         1913   10    0 
+senklip   927091272  6  4 cc  c     c     c         1903   70    0 2s 7h Jc Js
+senklip   927091364  6  3 c   kc    k     c         1833   40   60 Th 4h 5c 3d
+senklip   927091432  6  2 Bc  kc    kf    -         1853   40    0 
+senklip   927091535  7  1 Bc  kc    kc    kc        1813   70    0 4d Ts Kc Qd
+senklip   927091630  7  7 c   cc    k     f         1743   50    0 
+senklip   927091720  7  6 c   c     c     c         1693   60  110 2c 3c 8s Td
+senklip   927091811  7  5 cc  c     c     c         1743   90    0 Jd 8h Ts Js
+senklip   927091918  6  4 c   c     c     cc        1653  100    0 Qh Ah 6c Td
+senklip   927091993  6  3 c   k     k     k         1553   10   30 3c 8d 5h Ac
+senklip   927092040  6  2 Bk  f     -     -         1573   10    0 
+senklip   927092086  6  1 Bc  kc    kc    kc        1563   60  140 4s Js Th 9c
+senklip   927092136  7  7 c   c     c     cc        1643  120    0 7c Kh 7s 9h
+senklip   927092200  7  6 cc  c     cc    k         1523  120  660 8c Qc 8d Qd
+senklip   927092304  7  5 c   b     b     b         2063   60  150 
+senklip   927092391  7  4 f   -     -     -         2153    0    0 
+senklip   927092467  7  3 c   k     r     bc        2153  110  205 3c Qd Ks Th
+senklip   927092542  6  1 Bk  kc    kc    kf        2248   40    0 
+senklip   927092620  7  1 Bc  kcc   kcc   kf        2208  110    0 
+senklip   927092737  7  7 c   c     c     f         2098   50    0 
+senklip   927092805  6  5 c   c     ccc   ccc       2048  180  360 2s 3c 4h 6c
+senklip   927092878  6  5 c   k     c     k         2228   30    0 2d 5d Ah 3c
+senklip   927092959  6  4 c   kc    kf    -         2198   20    0 
+senklip   927093038  6  3 cc  f     -     -         2178   20    0 
+senklip   927093092  6  2 Bc  kc    kc    kcc       2158  110  192 2h 2d 8s 3s
+senklip   927093147  6  1 Bf  -     -     -         2240    5    0 
+senklip   927093252  6  6 cc  c     c     b         2235   70  350 9c 4c 7d 4d
+senklip   927093356  6  5 c   c     k     c         2515   40  120 6s 2s 7s 7d
+senklip   927093413  6  4 c   rr    rc    c         2595  170  265 Kh 7c As 9c
+senklip   927093512  6  3 c   kf    -     -         2690   10    0 
+senklip   927093594  4  2 Bk  kc    kc    kc        2680   60    0 Qs 4c 7s 6c
+senklip   927093644  4  1 Bc  kf    -     -         2620   10    0 
+senklip   927093671  4  4 cc  c     c     c         2610  100    0 Kc Jc 6d 2s
+senklip   927093715  4  3 cc  c     kc    kcc       2510  130  102 Ah 4c 3c 4s
+senklip   927093779  4  2 Bk  c     k     c         2482   40   27 Qc As Jc 4s
+senklip   927093819  4  1 Bc  k     k     k         2469   10   15 3d 6s 8h 3c
+senklip   927093867  4  4 c   k     k     k         2474   10   20 6s Ac 6h Jd
+senklip   927093918  4  3 ccc c     c     k         2484   70  110 Qc Ts 3s 5c
+senklip   927093989  4  2 Bc  kc    kc    kc        2524   70    0 9h 5s 6s 4s
+senklip   927094038  4  1 Bc  k     kc    kc        2454   50    0 Td 8s Kd 5d
+senklip   927094095  4  4 c   c     cf    -         2404   60    0 
+senklip   927094150  4  3 c   k     k     k         2344   10   30 Ks Ac 8h 8s
+senklip   927094199  2  2 Bk  k     k     b         2364   30   60 9c 5d Td 4s
+senklip   927094237  2  1 Bc  k     k     k         2394   10   20 Td Kd 6c Jc
+senklip   927094270  2  2 Bk  r     b     k         2404   50   50 8d 5s Jh 8c
+senklip   927094300  2  1 Bc  k     kc    b         2404   50  100 3c 9s 5d As
+senklip   927094328  2  2 Bk  k     c     c         2454   50   50 7d Jd Jc 8c
+senklip   927094356  2  1 Bc  k     k     kc        2454   30   30 8c 8h Qc 3s
+senklip   927094387  2  2 Bk  k     k     f         2454   10    0 
+senklip   927094422  2  1 Bc  b     bc    k         2444   60   60 Kc 5h 7d 8h
+senklip   927094450  2  2 Bk  k     k     k         2444   10    0 6d Ac 4c 9s
+senklip   927094476  3  1 Bc  kc    kc    k         2434   40    0 7c 5c Qc 2s
+senklip   927094516  3  3 c   k     k     k         2394   10   30 2h 7c 7s Kc
+senklip   927094549  3  2 Bk  k     b     k         2414   30    0 Jh Kc 4c Th
+senklip   927094583  3  1 Bc  kc    kc    k         2384   40   45 5c Jd Ah Ks
+senklip   927094622  4  4 c   k     k     k         2389   10    0 Ad 8s 8h 6h
+senklip   927094655  4  3 c   k     k     r         2379   70  110 2c Qh 7c 8h
+senklip   927094693  4  2 Bk  k     k     k         2419   10    0 Ts 9s 8d Jd
+senklip   927094729  4  1 Bc  k     kc    kc        2409   50    0 4s 5h 8h Ac
+senklip   927094766  4  4 c   k     c     f         2359   30    0 
+senklip   927094805  4  3 c   k     c     c         2329   50    0 Kd Ah As 2h
+senklip   927094840  4  2 Bk  k     kc    kc        2279   50    0 Ts Qc 2h 3d
+senklip   927094889  4  1 Br  k     k     kc        2229   40   25 7d Tc Ah As
+senklip   927094929  4  4 c   k     c     f         2214   30    0 
+senklip   927094970  4  3 c   k     k     k         2184   10    0 Js As 5s 8d
+senklip   927095002  4  2 Bc  k     k     k         2174   20    0 2d 9c Qh 4h
+senklip   927095037  4  1 Bc  k     kf    -         2154   20    0 
+senklip   927095086  5  5 c   c     c     c         2134   60   95 3s 5h Jd 7s
+senklip   927095131  4  3 c   c     k     b         2169   40   55 4d Qs Td Ks
+senklip   927095171  4  2 Bk  k     k     k         2184   10   20 2d Tc 3d 3c
+senklip   927095215  4  1 Bc  k     b     b         2194   50    0 Kh Jd 4s 4d
+senklip   927095251  4  4 c   k     k     r         2144   50    0 6d As 2d Js
+senklip   927095311  4  3 c   k     k     k         2094   10    0 Kd Td Qc 7d
+senklip   927095381  4  2 Bc  kc    k     k         2084   30    0 3s Qh 2d 6s
+senklip   927095423  5  1 Bc  k     kc    kf        2054   30    0 
+senklip   927095482  5  5 c   k     rc    c         2024  110    0 3d 6d Kd 5d
+senklip   927095553  5  3 Q   -     -     -         1914    0    0 
+senklip   927170609 10  5 ccc f     -     -         1914   40    0 
+senklip   927170714 10  4 c   c     k     b         1874   40   90 6h 2h Qd Kc
+senklip   927170812 10  3 c   kcc   kcc   k         1924  120    0 Jd 5c Ad Ac
+senklip   927170966 10  2 Bk  c     c     c         1804   60    0 3c 8d Qs 3s
+senklip   927171055  7  1 Bc  kc    kc    kc        1744   60    0 6s Ks 8d 2d
+senklip   927171139  7  7 c   k     cc    f         1684   50    0 
+senklip   927171298  8  7 c   c     c     k         1634   40    0 Qs 5h 8h 8c
+senklip   927171399  8  6 c   f     -     -         1594   10    0 
+senklip   927171465  9  6 cc  c     c     k         1584   50    0 6h 7c 4d 9s
+senklip   927171542  9  5 c   c     k     f         1534   30    0 
+senklip   927171604  9  4 c   kc    kc    kc        1504   60    0 4s 6s 8s 7s
+senklip   927171680  8  2 fQ  -     -     -         1444    0    0 
+senklip   927259915  8  5 c   k     c     c         1444   50    0 Qh Qc 5s 6s
+senklip   927259976  8  4 c   k     k     k         1394   10    0 7s 3h 4s 6h
+senklip   927260100  6  2 cc  c     kf    -         1384   30    0 
+senklip   927260181  7  2 Bk  k     k     kf        1354   10    0 
+senklip   927260246  7  1 Bc  kc    k     kc        1344   50    0 6d Td Ah 8d
+senklip   927260306  7  7 c   c     cc    c         1294  140    0 5s Qs 7h Jh
+senklip   927260391  6  5 c   k     c     f         1154   30    0 
+senklip   927260441  6  4 c   k     k     k         1124   10    0 8c 7h 6h Ah
+senklip   927260497  6  3 c   k     c     c         1114   50  135 5d 2h 4h 3h
+senklip   927260550  6  2 Bc  k     kc    kf        1199   40    0 
+senklip   927260610  5  1 Bc  k     kc    kf        1159   30    0 
+senklip   927260665  5  5 f   -     -     -         1129    0    0 
+senklip   927260711  5  4 f   -     -     -         1129    0    0 
+senklip   927260754  5  3 c   k     k     kf        1129   10    0 
+senklip   927260796  5  2 Bk  k     bc    b         1119   70  145 Tc Jd Qs Td
+senklip   927260830  4  1 Bf  -     -     -         1194    5    0 
+senklip   927260868  4  4 c   k     f     -         1189   10    0 
+senklip   927260901  4  3 c   c     c     cc        1179  120  180 4h 6c 2d 9c
+senklip   927260953  4  2 Bk  k     k     k         1239   10   40 Qs 8s Jh 7h
+senklip   927261000  4  1 Bc  kc    kc    kf        1269   40    0 
+senklip   927261045  4  4 c   k     k     k         1229   10    0 2s 8c 3s Ts
+senklip   927261078  5  4 c   k     k     k         1219   10    0 4d 8s 9h Ad
+senklip   927261118  5  3 c   k     kc    cc        1209   70  155 6d Tc 7d 8d
+senklip   927261182  5  2 Bk  kf    -     -         1294   10    0 
+senklip   927261226  5  1 Bc  kf    -     -         1284   10    0 
+senklip   927261272  5  5 c   k     k     f         1274   10    0 
+senklip   927261332  5  4 c   k     c     Q         1264   30    0 
+senklip   927267378  4  4 c   c     k     k         1234   30    0 7c Th 6h Qc
+senklip   927267437  4  3 c   rc    k     k         1204   40    0 9d Qs 6s 2s
+senklip   927267489  4  2 Bk  k     c     c         1164   50    0 9s 7s Kd Jc
+senklip   927267525  4  1 Bc  k     k     k         1114   10   15 Qd 2h 5c 3d
+senklip   927267564  4  4 c   f     -     -         1119   10    0 
+senklip   927267623  4  3 c   k     k     kf        1109   10    0 
+senklip   927267699  4  2 Bk  f     -     -         1099   10    0 
+senklip   927267732  4  1 Bc  kc    kc    k         1089   40   83 As 3h Ks 9s
+senklip   927267799  4  4 c   k     k     c         1132   30    0 Jh 6h 5s Ac
+senklip   927267844  4  3 c   k     k     r         1102   50   60 Tc Qc Ks 9c
+senklip   927267892  4  2 Bk  k     k     kc        1112   30    0 2c 2s 5h Kh
+senklip   927267947  4  1 Bc  k     k     k         1082   10   15 Ad 9h 7h Qs
+senklip   927267982  4  4 c   k     k     f         1087   10    0 
+senklip   927268038  4  3 c   f     -     -         1077   10    0 
+senklip   927268112  4  2 Bk  k     k     b         1067   30   70 As 7c Ad 3s
+senklip   927268160  4  1 Bc  kf    -     -         1107   10    0 
+senklip   927268201  4  4 f   -     -     -         1097    0    0 
+senklip   927268219  4  3 cc  f     -     -         1097   20    0 
+senklip   927268294  4  2 Bk  k     k     k         1077   10   15 Ah 7d 8s 8d
+senklip   927268343  4  1 Bc  k     k     k         1082   10    0 Qh 4d 8d 5h
+senklip   927268376  4  4 c   k     b     b         1072   50   90 
+senklip   927268410  4  3 c   c     c     k         1112   40    0 Jh 6c 2h Jc
+senklip   927268452  4  2 Bk  c     c     b         1072   60   65 2c Kd Jc Ad
+senklip   927268496  4  1 Bc  b     -     -         1077   20   40 
+senklip   927268517  4  4 c   k     k     c         1097   30   35 Td 5h 4d 7d
+senklip   927268548  4  3 c   c     c     c         1102   60   65 Qh 5h 5s 4s
+senklip   927268575  4  2 Bk  k     k     k         1107   10   12 6d Js Jc 7h
+senklip   927268604  4  1 Bc  kc    kc    bc        1109   80  105 As Qh 5c 2s
+senklip   927268668  4  4 c   f     -     -         1134   20    0 
+senklip   927268717  4  3 c   f     -     -         1114   10    0 
+senklip   927268736  4  2 B   -     -     -         1104   10   15 
+senklip   927268776  3  1 Bc  k     k     kc        1109   30    0 8d Ks 6d 8c
+senklip   927268802  3  3 c   k     c     k         1079   30    0 Qs 6s Ad 4d
+senklip   927268822  3  2 Bk  k     k     k         1049   10   15 9d 4h 8d 6d
+senklip   927268850  3  1 Bc  k     kc    kc        1054   50    0 6s Ac Kc Th
+senklip   927268884  3  3 c   k     k     k         1004   10   13 2c Ad 4c 9d
+senklip   927268912  3  2 Bk  k     k     k         1007   10    0 7d 9c 5s 9d
+senklip   927268940  3  1 Bf  -     -     -          997    5    0 
+senklip   927268958  3  3 fQ  -     -     -          992    0    0 
+senklip   927324001  8  8 cc  c     c     c          992  100  490 7c Qh 5h Kd
+senklip   927324069 10  8 cc  c     c     c         1382   70    0 9c 7c Ac 4s
+senklip   927324146  9  6 c   c     f     -         1312   20    0 
+senklip   927324214 10  6 f   -     -     -         1292    0    0 
+senklip   927324308  9  4 c   c     f     -         1292   20    0 
+senklip   927324395  8  3 f   -     -     -         1272    0    0 
+senklip   927324468  8  3 f   -     -     -         1272    0    0 
+senklip   927324554  8  2 Bc  k     kc    kc        1272   60    0 2h 8c 5s Ts
+senklip   927324646  7  1 Bcc kc    kc    kc        1212  130    0 As 6h 5s 7s
+senklip   927324735  7  7 c   f     -     -         1082   20    0 
+senklip   927324791  7  6 c   c     b     r         1062   90  260 6d Ah 7s Qc
+senklip   927324845  7  5 ccc c     f     -         1232   40    0 
+senklip   927324950  9  5 c   kc    kf    -         1192   20    0 
+senklip   927325046  8  4 f   -     -     -         1172    0    0 
+senklip   927325105  8  3 c   kc    kc    kf        1172   40    0 
+senklip   927325189  9  2 Bk  k     kf    -         1132   10    0 
+senklip   927325256 10  1 Bc  kc    kc    kf        1122   50    0 
+senklip   927325342  9  9 c   Q     -     -         1072   20    0 
+senklip   927351608  8  2 Bc  kc    k     c         1052   70    0 9s Ah 3d Jc
+senklip   927351679  8  1 Bc  kf    -     -          982   20    0 
+senklip   927351821  7  7 cc  cc    k     f          962   60    0 
+senklip   927351947  8  7 cc  cc    cc    f          902  120    0 
+senklip   927352078  7  5 c   kc    c     f          782   50    0 
+senklip   927352160  8  5 ccc ccc   ccc   c          732  180    0 7d 3s Qd 3h
+senklip   927352287  7  3 c   cc    kc    kc         552   70    0 2c 4h 5c 4s
+senklip   927352392  8  2 Bcc kf    -     -          482   40    0 
+senklip   927352500  9  1 Bc  kcc   kfQ   -          442   50    0 
+senklip   927422590 10  4 KQ  -     -     -          392    0    0 
+senklip   927422780  6  2 Bk  k     k     k          392   10    0 6c 8h 8d 2s
+senklip   927422839  6  1 Bc  kc    kc    kc         382   60  190 Ah Kh 8s 7c
+senklip   927422895  5  5 f   -     -     -          512    0    0 
+senklip   927422923  5  4 c   kc    kc    kc         512   60   95 5h Ac Qh Td
+senklip   927422966  5  3 c   k     c     c          547   50    0 Kh 6d Ah 8h
+senklip   927423002  6  2 Bk  kc    kf    -          497   20    0 
+senklip   927423051  6  1 Bcc k     k     kf         477   20    0 
+senklip   927423103  6  6 cc  c     c     f          457   50    0 
+senklip   927423148  5  5 c   c     f     -          407   20    0 
+senklip   927423207  5  4 f   -     -     -          387    0    0 
+senklip   927423231  5  3 f   -     -     -          387    0    0 
+senklip   927423259  5  2 Bk  k     k     kf         387   10    0 
+senklip   927423290  5  1 Bc  kc    kf    -          377   30    0 
+senklip   927423347  5  5 c   k     k     f          347   10    0 
+senklip   927423398  5  4 c   k     k     c          337   30    0 2d Ac Tc 6s
+senklip   927423432  5  3 cc  c     c     c          307   70    0 Ad 5c 7h Kc
+senklip   927423481  5  2 Bk  c     k     c          237   40    0 Qh 4c 5d Th
+senklip   927423516  5  1 Bc  k     k     k          197   10   40 7s As Js 9d
+senklip   927423549  5  5 c   k     k     b          227   30   60 
+senklip   927423598  6  5 c   c     c     f          257   40    0 
+senklip   927423627  6  4 cc  k     k     c          217   40    0 Qc 4h 9c 9s
+senklip   927423670  6  3 cc  kc    kf    -          177   30    0 
+senklip   927423726  6  2 Bk  k     kc    kc         147   50   58 Ts 2h 2d 3s
+senklip   927423753  6  1 Bc  kc    kc    kf         155   40    0 
+senklip   927423810  6  6 c   k     c     f          115   30    0 
+senklip   927423863  9  5 ccc kcc   cA    Q           85   85    0 
+senklip   927424040  9  3 c   k     c     cf        1000   50    0 
+senklip   927424136  9  2 Bk  k     b     k          950   30  155 9h 8c Td 8d
+senklip   927424188  8  1 Bc  k     k     kf        1075   20    0 
+senklip   927424246  8  8 c   cc    c     cf        1055  120    0 
+senklip   927424316  8  7 f   -     -     -          935    0    0 
+senklip   927424382  8  6 f   -     -     -          935    0    0 
+senklip   927424433  7  4 cc  k     kc    kf         935   60    0 
+senklip   927424496  7  3 cc  kc    kc    kcc        875  110    0 Ah 8h Jd Kc
+senklip   927424584  6  2 Bk  k     Q     -          765   10    0 
+senklip   928162165  3  3 c   k     k     k          755   10    0 9s Qd Qs Kd
+senklip   928162186  4  2 Bc  k     k     kc         745   40   52 8h As 5s Qs
+senklip   928162215  3  1 Bc  k     kf    -          757   10    0 
+senklip   928162242  3  3 c   c     c     r          747   80  240 Td Tc 4d 6h
+senklip   928162268  3  2 Bk  kf    -     -          907   10    0 
+senklip   928162305  3  1 Bf  -     -     -          897    5    0 
+senklip   928162321  3  3 c   c     k     b          892   40  120 4h 7c As 2c
+senklip   928162346  3  2 Bk  k     k     k          972   10    0 Tc 9d 4c Kc
+senklip   928162368  3  1 Bcc k     k     k          962   20    0 7d 4d 9s As
+senklip   928162396  3  3 f   -     -     -          942    0    0 
+senklip   928162414  3  2 Bk  kc    k     kc         942   40    0 Kd 7d 8c 2s
+senklip   928162432  3  1 Bcc k     kf    -          902   20    0 
+senklip   928162462  3  3 c   c     c     c          882   60    0 5s 7s 3d 6h
+senklip   928162497  3  2 Bc  kf    -     -          822   20    0 
+senklip   928162509  3  1 Bc  kc    k     k          802   20   50 Kc 3h 8s Ac
+senklip   928162532  3  3 f   -     -     -          832    0    0 
+senklip   928162543  3  2 Bk  f     -     -          832   10    0 
+senklip   928162559  3  1 Bc  k     k     k          822   10   30 Ks 5s 8h 8d
+senklip   928162579  3  3 c   k     f     -          842   10    0 
+senklip   928162604  3  2 Bk  kc    k     k          832   20    0 2s Ks 2c 9d
+senklip   928162628  3  1 Bc  kc    k     kf         812   20    0 
+senklip   928162655  3  3 c   k     k     r          792   50    0 6h 2s Qs 3d
+senklip   928162693  3  2 Bk  k     f     -          742   10    0 
+senklip   928162713  3  1 Bc  k     k     kc         732   30   70 Qd Kh 9d 9h
+senklip   928162738  3  3 c   k     k     k          772   10    0 5s 2d 7h 4h
+senklip   928162763  5  3 c   f     -     -          762   10    0 
+senklip   928162824  5  2 Bc  k     c     c          752   60  180 8d 3h 6s 6c
+senklip   928162885  4  1 Bc  kf    -     -          872   10    0 
+senklip   928162938  4  4 f   -     -     -          862    0    0 
+senklip   928162963  5  4 c   rr    rc    c          862  130    0 8c Ah Qd Ad
+senklip   928163003  4  2 Bk  k     k     k          732   10    0 4c 4d 7d Kh
+senklip   928163032  5  1 Bc  k     kf    -          722   10    0 
+senklip   928163061  5  5 c   r     k     k          712   30    0 Qc 9c 7c Kh
+senklip   928163091  5  4 c   k     f     -          682   10    0 
+senklip   928163134  5  3 c   kf    -     -          672   10    0 
+senklip   928163151  4  2 Bk  k     kf    -          662   10    0 
+senklip   928163176  4  1 Bc  k     kf    -          652   10    0 
+senklip   928163195  3  3 f   -     -     -          642    0    0 
+senklip   928163208  3  2 Bk  kf    -     -          642   10    0 
+senklip   928163249  3  1 Bf  -     -     -          632    5    0 
+senklip   928163273  3  3 f   -     -     -          627    0    0 
+senklip   928163295  3  2 Bc  kc    kc    kf         627   50    0 
+senklip   928163317  3  1 Bf  -     -     -          577    5    0 
+senklip   928163336  3  3 cc  f     -     -          572   20    0 
+senklip   928163353  3  2 Bc  kf    -     -          552   20    0 
+senklip   928163365  3  1 Bc  kc    kc    kf         532   40    0 
+senklip   928163387  3  3 cc  f     -     -          492   20    0 
+senklip   928163398  3  2 Bf  -     -     -          472   10    0 
+senklip   928163412  3  1 Bcc kc    kc    kc         462   70    0 Qc 2s Tc 8s
+senklip   928163434  3  3 cc  c     c     c          392   70   80 Kd 4c 6c 2c
+senklip   928163453  3  2 Bc  k     k     k          402   20    0 8d 2h As Ts
+senklip   928163479  3  1 Bf  -     -     -          382    5    0 
+senklip   928163487  3  3 f   -     -     -          377    0    0 
+senklip   928163498  3  2 Bc  kc    kc    k          377   50  105 6s 3h 7h Ks
+senklip   928163521  3  1 Bc  kc    kc    kc         432   80  120 9h 7h 3s 5d
+senklip   928163557  3  3 cc  c     c     k          472   50    0 Kh Jd Jc 3s
+senklip   928163588  3  2 Bf  -     -     -          422   10    0 
+senklip   928163603  3  1 Bcc kf    -     -          412   20    0 
+senklip   928163630  3  3 cc  k     k     k          392   20    0 8d 7d Td Ks
+senklip   928163657  3  2 Bk  kc    kc    kc         372   60   90 9d Ts As 3h
+senklip   928163684  3  1 Bcc kc    kc    kc         402   70    0 As 9d Qd Ah
+senklip   928163723  3  3 c   c     c     f          332   40    0 
+senklip   928163748  3  2 BQ  -     -     -          292   10    0 
+senklip   928165004  6  4 cc  kf    -     -          282   20    0 
+senklip   928165037  5  3 c   c     c     b          262   60  140 8c Kc 4c Th
+senklip   928165074  5  2 Bk  k     k     k          342   10   40 Qc 6h Ac 2h
+senklip   928165109  6  1 Bc  kc    kf    -          372   30    0 
+senklip   928165155  6  6 cc  c     c     k          342   50  110 6h 3s 6d 2d
+senklip   928165208  6  5 f   -     -     -          402    0    0 
+senklip   928165262  6  4 c   k     k     b          402   30   70 6h Jh As 8s
+senklip   928165304  6  3 c   k     k     k          442   10   20 Js 7h 5h 8d
+senklip   928165330  6  2 Bk  kc    kc    bcc        452  120    0 Jd 3s Kd 5h
+senklip   928165367  6  1 Bc  k     k     kf         332   10    0 
+senklip   928165438  6  6 c   c     f     -          322   20    0 
+senklip   928165496  6  5 cc  kc    kc    kc         302   70   97 5c 2h Kc 3s
+senklip   928165554  6  4 c   k     b     b          329   50  130 2h Ts Ad 2d
+senklip   928165602  6  3 c   k     k     k          409   10   50 4c 6s Qd 2c
+senklip   928165636  6  2 Bk  k     k     k          449   10   40 3h 4s 6d 2h
+senklip   928165687  6  1 Bc  k     kf    -          479   10    0 
+senklip   928165710  6  6 f   -     -     -          469    0    0 
+senklip   928165750  6  5 c   k     k     k          469   10   18 Kh 2d Qc Ah
+senklip   928165779  6  4 cc  kc    f     -          477   30    0 
+senklip   928165822  6  3 c   f     -     -          447   10    0 
+senklip   928165876  6  2 Bc  kc    kc    kf         437   50    0 
+senklip   928165931  5  1 Bf  -     -     -          387    5    0 
+senklip   928165980  4  4 f   -     -     -          382    0    0 
+senklip   928165995  4  3 c   c     f     -          382   20    0 
+senklip   928166014  4  2 Bk  k     k     k          362   10    0 8h Kh 2s 5c
+senklip   928166039  4  1 Bc  k     kc    kc         352   50  110 Ts Ac Qc 9c
+senklip   928166078  4  4 c   f     -     -          412   10    0 
+senklip   928166106  4  3 c   k     k     k          402   10    0 Td Qs 5d Kc
+senklip   928166124  4  2 Bk  kf    -     -          392   10    0 
+senklip   928166138  4  1 Bc  kc    kc    k          382   40  120 Ad 3s Qc As
+senklip   928166173  4  4 cc  f     Q     -          462   20    0 

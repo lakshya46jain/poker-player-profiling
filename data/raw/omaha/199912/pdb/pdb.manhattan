@@ -1,0 +1,107 @@
+manhattan 944085304  5  3 cc  c     c     f          299   50    0 
+manhattan 944085373  5  3 c   kf    -     -          249   10    0 
+manhattan 944085434  5  2 Bk  kc    kf    -          239   20    0 
+manhattan 944085506  7  1 Bc  kf    -     -          219   10    0 
+manhattan 944085582  7  7 c   c     f     -          209   20    0 
+manhattan 944085669  7  6 c   c     rc    cc         189  160    0 8c 6h 6d Jh
+manhattan 944085745  8  5 ccA -     -     -           29   29    0 Ad 7h 5h Tc
+manhattan 944085872  9  6 cc  cc    f     -         1000   80    0 
+manhattan 944085977  9  5 c   kc    kc    cc         920  130    0 2s Ts As 9h
+manhattan 944086081  9  4 cc  cc    kc    kc         790  110    0 Kd 8d Qd Ah
+manhattan 944086191  9  3 c   kc    kc    kc         680   60    0 4c 7c 8d 5s
+manhattan 944086291  9  2 Bcc kccc  kf    -          620   70    0 
+manhattan 944086415  8  1 Bc  kf    -     -          550   20    0 
+manhattan 944086499  8  8 c   c     c     k          530   40    0 Kh 5c 3d Js
+manhattan 944086582  8  7 c   c     c     rr         490  150  296 As 5d Kd 8h
+manhattan 944086668  8  6 cc  cc    f     -          636   50    0 
+manhattan 944086757  8  5 cc  f     -     -          586   20    0 
+manhattan 944086877 10  5 c   k     cc    k          566   50  215 Jh 4s 6d Qs
+manhattan 944086973 10  4 cc  c     f     -          731   40    0 
+manhattan 944087089 10  3 cc  c     f     -          691   30    0 
+manhattan 944087170 10  2 Bk  k     kf    -          661   10    0 
+manhattan 944087262 10  1 Bc  kf    -     -          651   20    0 
+manhattan 944087328  8  8 c   k     c     k          631   40   75 9d 3s 4d 6h
+manhattan 944087385  9  9 c   r     k     c          666   60    0 Qd 3c 9d Jd
+manhattan 944087459 10  8 c   c     cc    kc         606   80  150 Kh Ad Kc 4d
+manhattan 944087529 10  8 cc  f     -     -          676   20    0 
+manhattan 944087591  9  6 cc  kf    -     -          656   20    0 
+manhattan 944087735 10  5 ccc kcc   kc    kc         636  124  320 5h Ks 5s 9c
+manhattan 944087931  9  4 c   kc    kcf   -          832   40    0 
+manhattan 944088007  9  3 cc  kc    c     f          792   60    0 
+manhattan 944088111 10  2 Bk  kc    kc    kQ         732   40    0 
+manhattan 944250633 10  2 Br  k     k     b          692   40  125 Ac Ah Kd 2h
+manhattan 944250696  9  1 Bc  k     kf    -          777   10    0 
+manhattan 944250771  8  8 c   c     k     c          767   40    0 Qd 4h Ad Jd
+manhattan 944250839  6  6 c   k     k     k          727   10   22 Ad As 8c Jh
+manhattan 944250904  5  5 c   f     -     -          739   20    0 
+manhattan 944250983  5  4 r   b     k     k          719   30  100 6s 5c 7d 6h
+manhattan 944251036  7  3 c   c     c     c          789   80    0 Ac Kd 3c 6d
+manhattan 944251108  7  2 Bk  k     k     k          709   10   18 8s 3c Qc 3s
+manhattan 944251171  7  1 Bc  b     b     -          717   40   80 
+manhattan 944251211  7  7 c   b     b     k          757   40  150 9h 6h 3d 4s
+manhattan 944251263  7  6 r   k     b     r          867   80  160 As Js 3h Th
+manhattan 944251355  7  5 c   k     kc    kc         947   50    0 As 4d Ad 5s
+manhattan 944251414  7  4 c   k     f     -          897   10    0 
+manhattan 944251487  7  3 c   krc   krr   brc        887  200  415 2d Qc Ac 5h
+manhattan 944251636  7  2 Bc  c     k     k         1102   30    0 Qs Kd Jc 6d
+manhattan 944251714  8  1 Bc  k     b     br        1072   90    0 7h Qs 8s 9d
+manhattan 944251786  8  8 c   f     Q     -          982   20    0 
+manhattan 944347907  8  3 cc  bc    b     kc         962   80    0 6c 7s 8d Jd
+manhattan 944348006  7  1 Bk  kf    -     -          882   10    0 
+manhattan 944348078  7  1 Bc  kf    -     -          872   10    0 
+manhattan 944348161  7  7 c   c     f     -          862   20    0 
+manhattan 944348231  9  8 KQ  -     -     -          842    0    0 
+manhattan 944497528  6  3 c   kc    kc    k          842   40    0 6d 4s 2s Qc
+manhattan 944497599  6  2 Bk  kc    kc    kc         802   80    0 Tc Jc 5s Td
+manhattan 944497672  6  1 Bc  k     k     kc         722   30    0 Jd 8d 3h Ks
+manhattan 944497767  6  6 c   b     b     b          692   60  185 8s 2c Qc Js
+manhattan 944497843  6  5 c   k     rc    c          817   90    0 5s Ac Qc 8c
+manhattan 944497921  6  4 c   b     k     b          727   40  130 2d Th Tc 3s
+manhattan 944497983  6  3 c   k     k     k          817   10    0 5c Ks 8c 9h
+manhattan 944498024  6  2 Bc  kc    kf    -          807   30    0 
+manhattan 944498082  7  1 Bc  b     b     b          777   60  290 4c 7h 2h 7s
+manhattan 944498138  7  7 c   k     f     -         1007   10    0 
+manhattan 944498207  7  6 c   kc    c     kc         997   60    0 7s 8h 5s 6c
+manhattan 944498269  7  5 c   k     f     -          937   10    0 
+manhattan 944498330  8  4 c   bc    bc    kc         927   90  255 Kc Ks 7c 4s
+manhattan 944498438  7  3 cc  kf    -     -         1092   20    0 
+manhattan 944498553  7  2 Bk  kc    kf    -         1072   20    0 
+manhattan 944498640  9  1 Bc  kf    -     -         1052   10    0 
+manhattan 944498679 10 10 c   b     b     b         1042   60  260 Ac Js Jh 2c
+manhattan 944498749 10  9 r   k     r     k         1242   60   71 Ah Kd 2s Ad
+manhattan 944498825 10  8 c   c     c     f         1253   40    0 
+manhattan 944498904 10  7 c   f     -     -         1213   20    0 
+manhattan 944498955 10  6 f   Q     -     -         1193    0    0 
+manhattan 944638301 10  8 c   k     k     f         1193   10    0 
+manhattan 944638419 10  8 c   c     c     rr        1183  120    0 3d 5h 7h 9d
+manhattan 944638514  9  6 c   k     k     b         1063   30   60 6d 4h Ks 3d
+manhattan 944638598  9  5 c   cf    -     -         1093   20    0 
+manhattan 944638720  9  4 c   rc    br    bc        1073  220    0 Ad Ah Qs Jd
+manhattan 944638825  9  3 cc  f     Q     -          853   30    0 
+manhattan 945547565 10  5 ccc cf    -     -          823   40    0 
+manhattan 945547724  9  4 KQ  -     -     -          783    0    0 
+manhattan 945548265 10  9 c   f     -     -          783   20    0 
+manhattan 945548382 10  8 c   c     k     f          763   30    0 
+manhattan 945548531 10  8 c   f     -     -          733   20    0 
+manhattan 945548605 10  6 c   rc    r     b          713  100  232 4s Th 7h 5d
+manhattan 945548727 10  5 c   kc    b     b          845   60  225 4h 8c Ac 3s
+manhattan 945548801 10  4 c   c     c     b         1010   60  255 Qs Ks Ac 4h
+manhattan 945548902 10  3 cc  kcf   -     -         1205   40    0 
+manhattan 945549061  9  2 Bk  k     kc    k         1165   70    0 8s 8h 3s Ad
+manhattan 945549197  9  1 Bc  krc   kf    -         1095   50    0 
+manhattan 945549373  9  9 c   f     -     -         1045   10    0 
+manhattan 945549453 10  9 c   f     -     -         1035   10    0 
+manhattan 945549605  9  8 c   kf    -     -         1025   10    0 
+manhattan 945549727  8  6 c   c     c     k         1015   40    0 8c Jc 8h 6h
+manhattan 945549816  7  4 c   k     b     k          975   30    0 5d Jh 9s Jc
+manhattan 945549890  7  3 cc  k     kr    b          945   80   78 Kc 9c 2s Ah
+manhattan 945550011  6  1 Bk  k     kc    kr         943   70    0 Kh 9c 2s 8c
+manhattan 945550084  7  1 Bcc k     k     kc         873   60  100 7s 6d Tc 5s
+manhattan 945550181  9  9 c   f     -     -          913   10    0 
+manhattan 945550338  9  8 c   c     f     -          903   20    0 
+manhattan 945550396  9  7 c   kf    -     -          883   10    0 
+manhattan 945550460  9  6 c   c     c     c          873   60    0 4d 4h 5h Jd
+manhattan 945550535 10  5 c   kcc   kc    kc         813  100    0 5d 2s 9c Td
+manhattan 945550692 10  4 c   k     f     -          713   10    0 
+manhattan 945550830  9  2 c   kf    -     -          703   10    0 
+manhattan 945550924 10  2 Bk  KQ    -     -          693   10    0 

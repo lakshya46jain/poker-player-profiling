@@ -1,0 +1,759 @@
+sebus     991778711  2  1 Bc  kc    k     k         1000   20   40 2c 4d 5c Jd
+sebus     991778744  3  3 cc  k     b     -         1020   40   80 
+sebus     991778786  4  3 c   b     b     b         1060   60  190 As 3s Ad 6h
+sebus     991778832  4  2 Bk  k     k     c         1190   30    0 6s 2c Kd Ac
+sebus     991778861  4  1 Bc  kc    b     k         1160   40    0 2c 5c 4s 4d
+sebus     991778904  4  4 c   c     c     k         1120   40   65 2c 8s 6h Kc
+sebus     991778952  5  4 c   k     f     -         1145   10    0 
+sebus     991779010  5  3 c   k     c     k         1135   30    0 Qc Ts 7d 9d
+sebus     991779049  5  2 Bc  k     kf    -         1105   20    0 
+sebus     991779083  5  1 Bc  k     k     b         1085   30    0 4h 3d Kc 6h
+sebus     991779171  5  5 c   cc    c     r         1055  110  185 2c Jd Ah As
+sebus     991779253  5  4 cc  k     c     c         1130   60    0 Ah 5h 9s 5s
+sebus     991779327  5  3 f   -     -     -         1070    0    0 
+sebus     991779357  5  2 Bk  kf    -     -         1070   10    0 
+sebus     991779411  5  1 Bc  b     bc    kc        1060   80    0 7h 2c 6d 6c
+sebus     991779466  5  5 c   rr    b     b          980  100  163 9d Ks 8h Kc
+sebus     991779523  5  4 c   r     b     b         1043   70  140 
+sebus     991779581  5  3 f   -     -     -         1113    0    0 
+sebus     991779623  5  2 Bk  b     c     b         1113   60    0 7s 3c Qs 4d
+sebus     991779672  5  1 Bc  kf    -     -         1053   10    0 
+sebus     991779708  5  5 c   k     k     k         1043   10    0 Ks Jc 7h 6c
+sebus     991779761  6  5 c   c     c     c         1033   60   40 7c 3d 9d 5d
+sebus     991779811  6  4 c   b     b     b         1013   60    0 Qh Ah Ad 3h
+sebus     991779877  6  3 c   k     kc    kf         953   30    0 
+sebus     991779954  6  2 Bk  k     f     -          923   10    0 
+sebus     991780020  6  1 Bc  kc    kc    kc         913   80    0 Tc 9h 7c Ac
+sebus     991780103  6  6 c   c     c     c          833   60  100 2s Ad Js 9c
+sebus     991780153  6  5 c   b     b     -          873   40   95 
+sebus     991780199  6  4 cc  r     c     b          928   80  180 
+sebus     991780269  5  3 c   cc    b     brc       1028  130    0 Ac 4s 7d 3c
+sebus     991780351  5  2 Bk  kc    kcc   kcc        898  190    0 Ad Ac Ah 5h
+sebus     991780455  5  1 Bc  kf    -     -          708   10    0 
+sebus     991780502  5  5 KQ  -     -     -          698    0    0 
+sebus     991783227 10  4 c   cc    c     c          698  100    0 7s Qd Kd Kh
+sebus     991783347  8  3 f   -     -     -          598    0    0 
+sebus     991783440  8  2 Bk  kf    -     -          598   10    0 
+sebus     991783528  9  1 Bf  -     -     -          588    5    0 
+sebus     991783606 10 10 c   k     f     -          583   10    0 
+sebus     991783697  9  8 c   f     -     -          573   10    0 
+sebus     991783770  9  7 c   cf    Q     -          563   20    0 
+sebus     991798520  7  4 c   cc    k     kf         543   30    0 
+sebus     991798597  7  3 c   c     c     c          513   60    0 3c 5h Ac Kc
+sebus     991798649  7  2 Bc  kc    c     c          453   70  190 Qc 2s As Ac
+sebus     991798702  8  1 Bc  kc    kc    bc         573   80    0 Qc 6h 9h Jh
+sebus     991798793  8  8 c   f     -     -          493   10    0 
+sebus     991798854  7  6 c   c     f     -          483   20    0 
+sebus     991798901  7  5 c   c     f     -          463   20    0 
+sebus     991798941  7  4 r   k     b     k          443   40  135 Ac 9d Ad 8h
+sebus     991799000  7  3 c   kc    c     k          538   40    0 2s 5d 9h 2h
+sebus     991799070  7  2 Bc  f     -     -          498   20    0 
+sebus     991799122  7  1 Bc  b     k     b          478   40   43 8c 2d Ks 5d
+sebus     991799159  6  6 c   c     c     f          481   40    0 
+sebus     991799192  6  5 c   b     r     c          441   80  125 Ad 3s Qs 3c
+sebus     991799251  6  4 c   k     c     r          486   70  110 Td Ts Ad 8h
+sebus     991799306  6  3 c   kc    kc    f          526   40    0 
+sebus     991799359  6  2 Bk  k     kc    kc         486   50    0 9s 9d 3h 2c
+sebus     991799403  6  1 Bc  kf    -     -          436   10    0 
+sebus     991799446  6  6 c   k     k     k          426   10   20 Jd Qh 6d 5c
+sebus     991799488  6  5 f   -     -     -          436    0    0 
+sebus     991799516  6  4 cc  c     c     k          436   50    0 8c 2c 9h 4h
+sebus     991799575  6  3 c   f     -     -          386   10    0 
+sebus     991799622  6  2 Bk  c     c     c          376   60   95 As 2h 9c 8s
+sebus     991799653  6  1 Br  k     b     -          411   40  110 
+sebus     991799701  8  8 f   -     -     -          481    0    0 
+sebus     991799745  8  7 cc  c     k     f          481   30    0 
+sebus     991799839  8  6 c   c     c     c          451   60    0 Ks Kh 3s 7s
+sebus     991799914  8  3 Q   -     -     -          391    0    0 
+sebus     991859292  5  2 Bk  k     k     b          391   30   70 5d 4c Ac 6d
+sebus     991859334  4  1 Bc  k     k     k          431   10    0 6c 8h Tc 2h
+sebus     991859373  4  4 c   f     -     -          421   10    0 
+sebus     991859397  4  3 c   k     k     f          411   10    0 
+sebus     991859448  4  2 Bc  f     -     -          401   20    0 
+sebus     991859479  4  1 Bc  k     k     k          381   10    0 Kc Qd Qh 8s
+sebus     991859510  3  3 c   c     b     b          371   60  125 Qh 2h 6d 5c
+sebus     991859549  3  2 Bc  c     b     k          436   50  100 Jc 2s 3s 4s
+sebus     991859586  3  1 Bc  k     kf    -          486   10    0 
+sebus     991859614  3  3 c   b     -     -          476   20   35 
+sebus     991859629  3  2 Bk  k     b     b          491   50   50 Ac 4h Kd 5c
+sebus     991859661  3  1 Bc  b     b     b          491   60  130 4h 7s 3s 4c
+sebus     991859692  3  3 c   b     b     k          561   40   60 6d Ks 6s Qs
+sebus     991859738  3  2 Bk  c     b     b          581   60  140 
+sebus     991859777  3  1 Bc  kc    bc    bc         661  100    0 Kc Jc 3d 2d
+sebus     991859804  3  3 cc  f     -     -          561   20    0 
+sebus     991859845  3  2 Bk  k     kc    kc         541   70  105 2d 2c 7d 2s
+sebus     991859896  3  1 Bc  bc    kc    b          576   70  150 7s Qs 6c 5d
+sebus     991859936  3  3 cc  c     c     f          656   50    0 
+sebus     991859988  3  2 Bk  c     c     c          606   60    0 Tc Kh 7h 8h
+sebus     991860033  3  1 Bc  k     kc    kc         546   50  100 Qh Jc Kc 4s
+sebus     991860079  3  3 cc  k     f     -          596   20    0 
+sebus     991860105  3  2 Bk  kf    -     -          576   10    0 
+sebus     991860147  3  1 Bcc bc    kc    kc         566   80    0 4c Jh Qd Ah
+sebus     991860185  3  3 rc  c     f     -          486   40    0 
+sebus     991860216  3  2 Bk  f     -     -          446   10    0 
+sebus     991860239  3  1 Bc  b     b     kc         436   60   90 8c Ad 7c Td
+sebus     991860278  3  3 c   c     c     c          466   60   80 7c Ks 6c 7h
+sebus     991860321  3  2 Bk  kc    kc    kc         486   60    0 Js 4d 2h 9c
+sebus     991860372  3  1 Bc  kc    kc    k          426   40   40 4h 3d Qs 4c
+sebus     991860400  3  3 c   k     f     -          426   10    0 
+sebus     991860429  3  2 Bk  b     bc    k          416   60  140 Jc 9c Js Ts
+sebus     991860483  3  1 Bc  bc    bc    kc         496  100    0 2d 6s 4d 5d
+sebus     991860527  3  3 c   c     k     f          396   20    0 
+sebus     991860585  3  2 Bk  kf    -     -          376   10    0 
+sebus     991860624  3  1 Bcf -     -     -          366   10    0 
+sebus     991860641  4  4 cc  c     c     c          356   70    0 5c 8d 7c Qc
+sebus     991860694  4  3 cc  kf    -     -          286   20    0 
+sebus     991860738  4  2 Bk  k     r     b          266   70  210 Jh 7d 4s Js
+sebus     991860775  4  1 Bc  kc    kc    kf         406   40    0 
+sebus     991860818  4  4 c   b     -     -          366   20   50 
+sebus     991860866  3  2 c   c     kc    kf         396   40    0 
+sebus     991860904  4  2 Bk  f     -     -          356   10    0 
+sebus     991860923  4  1 Bc  k     kf    -          346   20    0 
+sebus     991860968  4  4 c   c     rc    r          326  130  240 7c Ts 5c 2s
+sebus     991861016  4  3 c   b     kc    kc         436   60    0 Kh 9d Jc Jd
+sebus     991861093  4  2 Bk  kc    br    kc         376  100  190 Qd 4d 2s 3d
+sebus     991861170  5  1 Bc  bc    kc    kc         466   70    0 Qd 5h Js 5s
+sebus     991861221  4  4 c   b     b     -          396   40   80 
+sebus     991861254  4  3 c   r     b     c          436   70  110 5c 7d Kh Kd
+sebus     991861300  4  2 Bk  k     r     b          476   70  160 4c 7c Kd 2d
+sebus     991861343  5  1 Bf  -     -     -          566    5    0 
+sebus     991861379  5  5 c   k     c     f          561   30    0 
+sebus     991861428  5  4 c   c     c     f          531   50    0 
+sebus     991861491  5  3 c   c     k     k          481   20    0 9c Ac 8s 7s
+sebus     991861556  5  2 Bk  k     kc    kc         461   50   60 Kc 3c 6c 7s
+sebus     991861598  5  1 Bc  k     kc    kc         471   50  170 4s 7d 4d Tc
+sebus     991861645  5  5 c   f     -     -          591   20    0 
+sebus     991861681  5  4 c   k     k     k          571   10   22 Ah 6d Qh Jd
+sebus     991861722  6  3 cc  b     k     k          583   30    0 Jc Qd 9s 2h
+sebus     991861778  6  2 Bk  b     k     k          553   20    0 7h 3c Ks Jd
+sebus     991861840  6  1 Br  k     kc    k          533   40    0 Jh Ah As 2d
+sebus     991861927  5  5 c   k     b     -          493   30   60 
+sebus     991861959  5  5 c   k     f     -          523   10    0 
+sebus     991861988  5  4 c   r     c     c          513   70    0 Th 5s Ks Ah
+sebus     991862046  5  3 c   fQ    -     -          443   10    0 
+sebus     991863600  3  1 Bc  kf    -     -          433   10    0 
+sebus     991863631  3  3 c   b     b     -          423   40   70 
+sebus     991863659  3  2 Bk  kc    k     bc         453   60    0 Jc Th 9c 3s
+sebus     991863694  4  1 Bc  kc    kc    k          393   40  140 8h 5s Td 7s
+sebus     991863746  4  4 c   k     c     c          493   50    0 Jd 6d 7h 9h
+sebus     991863780  6  5 r   c     rc    rc         443  150    0 Qd Ac 3h 2h
+sebus     991863850  5  3 c   k     k     c          293   30   80 Th Qs 8c 8h
+sebus     991863892  5  3 c   c     k     c          343   40   82 Ad 9c 8c 7h
+sebus     991863941  6  2 Bk  b     b     b          385   60  100 8d 3d 9h 9d
+sebus     991864010  6  1 Bc  b     kc    kcf        425   80    0 
+sebus     991864071  6  6 c   cc    c     f          345   80    0 
+sebus     991864139  6  3 Q   -     -     -          265    0    0 
+sebus     991948084  8  2 Bc  k     k     kc         265   40   90 7h 3h Qs Kd
+sebus     991948149  8  1 Bc  k     k     k          315   10    0 5s Ks 5h 6d
+sebus     991948204  9  9 f   -     -     -          305    0    0 
+sebus     991948310  8  7 c   c     c     c          305   60  108 Qc 5s 4d 5c
+sebus     991948369  8  6 f   -     -     -          353    0    0 
+sebus     991948429  9  6 c   k     b     k          353   30  110 5h 4c 6h Th
+sebus     991948559  6  3 cc  k     k     b          433   40  120 
+sebus     991948621  6  3 cc  b     b     b          513   70   83 6h 7c 9d 8h
+sebus     991948660  6  2 Bk  kc    kc    b          526   60   63 Qc Th 4h 5h
+sebus     991948745  7  1 Bc  kf    -     -          529   10    0 
+sebus     991948785  7  7 r   c     b     -          519   60  145 
+sebus     991948827  8  6 c   kcc   kc    kc         604   80  185 Kd Ac 5h 8c
+sebus     991948933  9  6 c   b     k     r          709   60  190 Ac Jd Qs 6h
+sebus     991949051 10  6 ccc cf    -     -          839   50    0 
+sebus     991949141 10  5 f   -     -     -          789    0    0 
+sebus     991949205  9  4 c   kf    -     -          789   10    0 
+sebus     991949336  9  3 c   k     b     rc         779   90   91 Ks 4s 9c Tc
+sebus     991949399  9  2 Bk  kf    -     -          780   10    0 
+sebus     991949462  9  1 Br  kc    kc    k          770   60    0 As Td Ks Ah
+sebus     991949510 10 10 c   c     c     k          710   50    0 Qc 3c Qs 7c
+sebus     991949565  9  8 c   b     c     cc         660  140    0 9h 4s Ad Kd
+sebus     991949630  9  5 Q   -     -     -          520    0    0 
+sebus     992104548  3  1 BKQ -     -     -          520    5    0 
+sebus     992104662  4  3 cc  f     -     -          515   20    0 
+sebus     992104701  4  2 Bc  c     c     kc         495   70    0 5c 2s 9c 3s
+sebus     992104736  4  1 Bc  kf    -     -          425   30    0 
+sebus     992104771  4  4 c   c     c     cc         395  140    0 Ad 6s 9s Qc
+sebus     992104815  3  3 cc  k     c     c          255   70    0 9s Kc Th 2h
+sebus     992104856  4  2 Bc  f     -     -          185   20    0 
+sebus     992104879  4  1 Bc  kc    kf    -          165   30    0 
+sebus     992104940  4  4 c   k     c     f          135   40    0 
+sebus     992104990  4  3 cc  c     k     k           95   30    0 2c 3h 7d 5s
+sebus     992105036  4  2 Bf  -     -     -           65   10    0 
+sebus     992105065  4  1 Bc  kc    kc    kcA         55   55   65 8h Js 2h Td
+sebus     992105100  4  4 c   c     c     cA          65   65    0 4d Js 7d 7s
+sebus     992106372  4  4 f   -     -     -         1000    0    0 
+sebus     992106403  4  3 cc  c     rc    bc        1000  130    0 5s Th 4h 3d
+sebus     992106449  4  2 Bc  f     -     -          870   30    0 
+sebus     992106481  4  1 Bc  kf    -     -          840   30    0 
+sebus     992106507  4  4 c   rc    c     b          810  100  270 7s 4s 3c 5h
+sebus     992106549  4  3 rc  rc    c     c          980  100    0 Kh Ah Qh 7d
+sebus     992106574  4  2 Bc  c     c     k          880   60    0 2s Td 3c 8d
+sebus     992106596  4  1 Bc  kc    k     kc         820   50   45 Kh Ah 5c 5h
+sebus     992106648  4  4 f   -     -     -          815    0    0 
+sebus     992106701  4  3 cc  cc    rc    b          815  130  360 6h Ah 8d Td
+sebus     992106756  4  2 Bc  rc    c     kc        1045  110  160 Ah 5d 8h 5s
+sebus     992106802  4  1 Brc bc    kc    k         1095   80    0 3d As 7d 8c
+sebus     992106863  4  4 cc  f     -     -         1015   20    0 
+sebus     992106930  4  3 cc  f     -     -          995   20    0 
+sebus     992106976  4  2 Bc  kc    kc    k          975   50    0 2c As 9c Kd
+sebus     992107033  4  1 Bf  -     -     -          925    5    0 
+sebus     992107076  4  4 rc  c     rc    rc         920  160  180 9h Ah Ad 5h
+sebus     992107115  5  3 cc  c     k     r          940   70    0 Ad 7h 4s 5h
+sebus     992107174  5  2 Bc  kccc  kcc   kc         870  160  233 8d Ac 3d Qh
+sebus     992107225  6  1 Bf  -     -     -          943    5    0 
+sebus     992107269  6  6 c   rc    rr    b          938  150  470 Tc Ks Kc 9d
+sebus     992107344  6  5 f   -     -     -         1258    0    0 
+sebus     992107381  6  4 cc  cc    rc    b         1258  140  410 Qd Ac 8c 6s
+sebus     992107448  6  3 cc  ccc   f     -         1528   60    0 
+sebus     992107517  6  2 Bc  kc    kc    kc        1468   70    0 8d 2h Ac 5h
+sebus     992107554  6  1 Bf  -     -     -         1398    5    0 
+sebus     992107618  5  5 rc  c     c     b         1393   90  175 
+sebus     992107656  6  5 rc  c     c     c         1478   80    0 Ah Ac 8d 7h
+sebus     992107727  5  3 f   -     -     -         1398    0    0 
+sebus     992107760  5  2 Bcc kcc   krc   kcc       1398  240  390 Js 3c Qc 2c
+sebus     992107835  5  1 Bc  kc    kc    kf        1548   50    0 
+sebus     992107889  5  5 f   -     -     -         1498    0    0 
+sebus     992107928  5  4 cc  f     -     -         1498   20    0 
+sebus     992107961  5  3 cc  c     kc    kc        1478   70    0 Kd Ac Jh 6c
+sebus     992108040  5  3 c   b     b     b         1408   60  145 Jc Th Td Kd
+sebus     992108094  5  2 BQ  -     -     -         1493   10    0 
+sebus     992117041  2  1 B   -     -     -         1483    5   15 
+sebus     992135363  2  1 Brc brc   brc   brc       1493  230  115 2h 8h 3h 7c
+sebus     992135414  2  2 Brc rr    rr    rf        1378  200    0 
+sebus     992135473  2  1 Brr brc   brc   brf       1178  220    0 
+sebus     992135524  2  2 Brc rr    rr    rr         958  240    0 3c 6d Tc Ah
+sebus     992135581  3  1 Br  br    kc    bf         718  100    0 
+sebus     992135644  3  3 r   f     -     -          618   20    0 
+sebus     992135682  3  2 Brc br    bc    bf         598  130    0 
+sebus     992135730  3  1 Brc br    brc   brc        468  220    0 8s 2d Kh 5h
+sebus     992135786  3  3 rr  r     rc    rf         248  160    0 
+sebus     992135840  3  2 Br  brc   bA    -           88   88  206 2d 5s 7c 3d
+sebus     992135888  3  1 Brc br    brc   bc         206  190    0 Kd 7s 3s Ts
+sebus     992135953  3  3 rA  -     -     -           16   16    0 5d Ac 3c 7c
+sebus     992313950  5  5 c   f     -     -         1000   10    0 
+sebus     992313971  5  4 rc  b     r     b          990  100  260 Qd Ah Td Ts
+sebus     992314036  7  3 c   c     f     -         1150   20    0 
+sebus     992314096  7  2 Bk  k     kc    k         1130   30    0 6d As Th Td
+sebus     992314147  6  1 Bc  b     k     k         1100   20    0 As 9h 2s Tc
+sebus     992314195  6  6 c   k     r     r         1080  100  160 Kd 2d Ac 6d
+sebus     992314261  8  7 c   c     c     c         1140   60    0 5s 2h Qs 7d
+sebus     992314319  8  6 c   b     b     b         1080   60  125 
+sebus     992314376  8  5 r   k     f     -         1145   20    0 
+sebus     992314454  8  4 c   f     -     -         1125   10    0 
+sebus     992314526  8  3 c   b     kc    k         1115   40    0 Qc 3d 2c 8h
+sebus     992314573  7  2 Bc  kc    c     k         1075   50  110 5d 6s 9s 7c
+sebus     992314634  7  1 Bc  k     k     k         1135   10    0 3c 8d As 7d
+sebus     992314702  8  8 c   rc    c     b         1125   90  310 2h 2s Jh 7d
+sebus     992314760  9  8 c   f     -     -         1345   10    0 
+sebus     992314803  9  7 cc  k     k     f         1335   20    0 
+sebus     992314842  9  6 c   r     b     b         1315   70  320 9c 5c Jh 4c
+sebus     992314915 10  5 c   c     kc    rr        1565  120  142 4d 4s 2h Ad
+sebus     992314996  9  3 c   c     f     -         1587   20    0 
+sebus     992315096  9  2 Bc  k     kc    b         1567   60  225 
+sebus     992315155 10  1 Bcc kc    kf    -         1732   40    0 
+sebus     992315252 10  4 Q   -     -     -         1692    0    0 
+sebus     992316518  6  5 c   b     b     r         1692   80  110 2c 2d 5c Js
+sebus     992316572  6  4 c   kc    kf    -         1722   30    0 
+sebus     992316601  6  3 rc  kf    -     -         1692   40    0 
+sebus     992316720  6  2 Bc  b     c     c         1652   70    0 6d Kh Js As
+sebus     992316793  6  1 Bc  k     kf    -         1582   10    0 
+sebus     992316851  7  7 c   f     -     -         1572   20    0 
+sebus     992316915  6  5 c   c     k     k         1552   20   50 Kd 9s Jh 7s
+sebus     992316969  6  4 c   kf    -     -         1582   10    0 
+sebus     992317076  7  4 c   k     k     b         1572   30   50 4s 3s 3h 8d
+sebus     992317159  6  3 fQ  -     -     -         1592    0    0 
+sebus     992317650  7  5 c   k     k     b         1592   30    0 2h Ac 8h 2d
+sebus     992317698  7  4 c   c     kf    -         1562   20    0 
+sebus     992317772  7  3 cc  c     c     f         1542   70    0 
+sebus     992317816  6  2 Bk  brc   brc   brc       1472  210  225 4d Qs Td 8h
+sebus     992317870  6  1 Bc  kc    b     b         1487   60    0 2s Tc Ah As
+sebus     992317908  6  6 c   f     -     -         1427   10    0 
+sebus     992317959  6  5 f   -     -     -         1417    0    0 
+sebus     992318016  6  4 cc  c     b     b         1417   70  265 3h 8s Jc 4h
+sebus     992318077  6  3 c   k     c     c         1612   50    0 3s Th 7s 2h
+sebus     992318136  6  2 Bk  b     b     b         1562   60  130 
+sebus     992318187  7  1 Bf  -     -     -         1632    5    0 
+sebus     992318283  7  7 f   -     -     -         1627    0    0 
+sebus     992318352  7  6 c   b     b     b         1627   60   75 Tc 7s Ad Jh
+sebus     992318399  7  5 c   k     k     b         1642   30    0 Kc 3d 4d 5s
+sebus     992318454  8  4 cc  b     k     kcc       1612   90    0 Qc 3d 9c Ks
+sebus     992318531  8  3 f   Q     -     -         1522    0    0 
+sebus     992402702  5  3 c   c     bc    bc        1522  100    0 5c 3c Tc 4d
+sebus     992402749  5  2 Bk  k     kc    b         1422   50   70 Kd 5d 5h 7h
+sebus     992402802  5  1 Bc  k     k     k         1442   10   20 Td 4c 2d 4h
+sebus     992402832  5  5 c   k     k     rc        1452   70  140 Ad Ts Kc 3d
+sebus     992402872  5  4 c   rc    c     k         1522   60    0 3s Qh 3h 4c
+sebus     992402905  5  3 c   f     -     -         1462   10    0 
+sebus     992402922  5  2 Bk  k     f     -         1452   10    0 
+sebus     992402946  5  1 Bc  k     k     b         1442   30   35 9d 6s 2d 7d
+sebus     992402969  5  5 f   -     -     -         1447    0    0 
+sebus     992402994  5  4 f   -     -     -         1447    0    0 
+sebus     992403012  5  3 c   k     kc    kf        1447   30    0 
+sebus     992403058  5  2 Bk  kc    k     k         1417   20    0 3d 2h 2d 9s
+sebus     992403084  6  1 Bc  k     k     k         1397   10   30 Th 9h Kc 6c
+sebus     992403129  6  6 c   r     c     c         1417   80    0 9d 7c Ad 8s
+sebus     992403190  6  5 c   k     k     k         1337   10    0 4h Ac 8d 8s
+sebus     992403233  7  4 r   b     b     -         1327   50  130 
+sebus     992403272  8  3 c   kf    Q     -         1407   10    0 
+sebus     992403631 10  9 c   k     Q     -         1397   20    0 
+sebus     992404910  9  1 Bc  kc    kc    kc        1377   70  110 3s 5s 8h 4c
+sebus     992404973  8  8 f   -     -     -         1417    0    0 
+sebus     992405076  8  7 cc  b     b     r         1417   90  245 Ts 9d 8h Kd
+sebus     992405179  7  5 cc  k     k     b         1572   40  150 7h 9h 5s Ad
+sebus     992405267  8  5 r   bc    kc    b         1682   80  380 Qh Kh Qs Jh
+sebus     992405416  9  4 r   c     kc    b         1982   70  340 6c 6d Kh Kc
+sebus     992405496  9  3 f   -     -     -         2252    0    0 
+sebus     992405564  9  2 Bc  kc    kQ    -         2252   30    0 
+sebus     992405882  4  4 r   k     c     f         2222   40    0 
+sebus     992405908  4  3 Q   -     -     -         2182    0    0 
+sebus     992464249  3  3 c   b     -     -         2202   20   40 
+sebus     992464282  3  2 c   k     k     k         2222   10   20 Ah 9c Ts 7c
+sebus     992464311  4  2 Bc  bc    kc    kc        2232   80    0 4c Td Ac Jc
+sebus     992464348  4  1 Bcc k     b     b         2152   60  140 8s 7h Qs 4c
+sebus     992464379  4  4 cc  c     c     f         2232   50    0 
+sebus     992464415  4  3 rr  b     br    r         2182  150  350 Kd Qc Ad Jc
+sebus     992464467  4  2 Bf  -     -     -         2382   10    0 
+sebus     992464502  4  1 Bcc k     kf    -         2372   20    0 
+sebus     992464529  4  4 c   f     -     -         2352   10    0 
+sebus     992464573  4  3 c   b     k     brc       2342  100  230 Td 6d 5d 4d
+sebus     992464616  5  2 Bk  kf    -     -         2472   10    0 
+sebus     992464690  4  1 Bc  k     k     kf        2462   10    0 
+sebus     992464717  4  4 f   -     -     -         2452    0    0 
+sebus     992464768  4  3 c   kc    kc    c         2452   60    0 2h Js 7s 4c
+sebus     992464821  4  2 Bk  kc    kc    kc        2392   60   65 Ks 5c 9c 3s
+sebus     992464852  4  1 Bc  kc    kf    -         2397   20    0 
+sebus     992464876  4  4 c   f     -     -         2377   10    0 
+sebus     992464903  4  3 c   k     b     kc        2367   50   70 3c As 7c Qh
+sebus     992464943  4  2 Bc  kc    kc    kc        2387   70    0 8s 3h 7h Jc
+sebus     992464975  4  1 Bc  kc    b     bc        2317   80  100 6d 3s 8h As
+sebus     992465017  4  4 c   c     r     b         2337   80  260 
+sebus     992465076  4  3 c   kf    -     -         2517   10    0 
+sebus     992465109  4  2 Bk  kc    k     kc        2507   40    0 5d 3d 5c 6s
+sebus     992465147  4  1 Br  k     b     bc        2467  100    0 Ah 4s Qh 6h
+sebus     992465203  4  4 cc  k     c     f         2367   40    0 
+sebus     992465244  4  3 r   -     -     -         2327   20   35 
+sebus     992465252  3  2 Br  b     c     c         2342   70    0 2h 3h Ts 4h
+sebus     992465294  3  1 Bc  kc    bc    bc        2272  100    0 Jc Td 5h Qh
+sebus     992465332  4  3 c   k     k     c         2172   30    0 Ts 9s 2s 4h
+sebus     992465362  4  2 Bk  rc    kc    r         2142  100  300 9d Kh Qs 7h
+sebus     992465405  4  1 Bc  bc    krc   br        2342  150  230 8d 6d Ad 7s
+sebus     992465464  4  4 c   f     -     -         2422   10    0 
+sebus     992465484  4  3 r   c     f     -         2412   30    0 
+sebus     992465534  4  2 Bk  k     k     k         2382   10    0 Js Kh 9d 4c
+sebus     992465581  4  1 Bc  k     b     b         2372   50   60 Js 7h 6c Qs
+sebus     992465618  4  4 r   k     b     -         2382   40   70 
+sebus     992465645  4  3 rc  kc    kc    kf        2412   60    0 
+sebus     992465677  5  2 Bk  kf    -     -         2352   10    0 
+sebus     992465725  5  1 Bc  b     b     bc        2342   80    0 6c 7h Ac 2c
+sebus     992465761  6  6 c   r     k     k         2262   40    0 3d Js 2h Qd
+sebus     992465820  6  5 c   k     k     k         2222   10    0 Jc As Jh 9s
+sebus     992465868  6  4 r   k     kc    rr        2212  120    0 Ac Js Qh Jc
+sebus     992465948  6  3 cf  Q     -     -         2092   10    0 
+sebus     992468511  2  1 B   -     -     -         2082    5   15 
+sebus     992470807  4  1 BKQ -     -     -         2092    5    0 
+sebus     992490426  7  5 r   b     k     b         2087   50  155 
+sebus     992490560  7  3 r   bc    kc    kf        2192   60    0 
+sebus     992490637  7  2 Bk  kc    bc    b         2132   80  168 9d 7h 9s 5c
+sebus     992490703  7  1 Bc  b     b     b         2220   60  105 As 2s 7c 8d
+sebus     992490744  7  7 c   c     f     -         2265   30    0 
+sebus     992490807  7  6 c   k     k     f         2235   10    0 
+sebus     992490879  7  5 c   c     b     k         2225   40  115 5s Ts 8c Ad
+sebus     992490941  7  4 c   kf    -     -         2300   10    0 
+sebus     992490996  7  3 rc  kc    k     b         2290   60  115 Kd 2s 9c Ac
+sebus     992491077  7  2 Br  b     k     kc        2345   50    0 Jd Ks 4h Kc
+sebus     992491130  7  1 Bc  k     kc    k         2295   50  210 Kd 3h 8h Ts
+sebus     992491171  7  7 c   r     k     c         2455   50    0 Kh 7c 7d 9s
+sebus     992491230  7  6 c   k     kc    k         2405   30    0 2d Th 7c As
+sebus     992491294  7  5 r   b     b     b         2375   70  175 5d Ah Ac Ad
+sebus     992491328  7  4 cc  kc    kc    kcc       2480  130    8 Qc Kc 2d 6h
+sebus     992491383  8  3 c   k     kc    k         2358   30    0 Jd 6d Kc Ts
+sebus     992491439  8  2 Bk  k     k     k         2328   10    0 5d 3s 5s 3c
+sebus     992491478  8  1 Bc  kc    kr    k         2318   60    0 Th 9h Js 8s
+sebus     992491522  8  8 f   -     -     -         2258    0    0 
+sebus     992491594  8  7 c   c     f     -         2258   30    0 
+sebus     992491646  8  6 c   k     c     k         2228   40    0 Kd Ts 6d 4s
+sebus     992491690  8  5 c   c     c     c         2188   80   81 5h 5d 3h Th
+sebus     992491738  9  5 c   c     k     k         2189   20    0 6s 4s Jh 4h
+sebus     992491804  9  4 r   b     r     k         2169   70    0 Kh 7h Ks 9s
+sebus     992491863  9  3 c   k     k     b         2099   30   83 Ah Jc 4c 6d
+sebus     992491932  9  2 Bk  kc    k     kc        2152   50    0 Qh Qd 4c 3s
+sebus     992492013  9  1 Bc  k     b     b         2102   50   70 9s Jd 7s 7h
+sebus     992492084  9  9 c   Q     -     -         2122   10    0 
+sebus     992492433  8  5 c   cf    -     -         2112   30    0 
+sebus     992492495  8  4 c   rc    k     ccc       2082  130    0 Kc 4c 5c 3h
+sebus     992492575  8  3 c   k     k     kf        1952   10    0 
+sebus     992492638  7  1 Bk  b     br    b         1942  100  155 6h 2c 5d Ac
+sebus     992492713  7  1 Bc  kc    kc    k         1997   40  140 Jd 9d 8h 7s
+sebus     992492776  7  7 c   k     r     b         2097   80  360 
+sebus     992492862  7  6 c   c     c     f         2377   40    0 
+sebus     992492958  6  4 f   Q     -     -         2337    0    0 
+sebus     992551026  3  2 B   -     -     -         2337   10   15 
+sebus     992551045  2  1 Bc  k     k     b         2342   30   40 
+sebus     992551060  2  2 Bk  b     b     k         2352   40    0 Ks Jh Qc 4h
+sebus     992551093  2  1 Bc  b     -     -         2312   20   30 
+sebus     992551105  2  2 Bk  c     c     k         2322   40   40 6d 9d Kc 2s
+sebus     992551129  3  1 Bc  b     -     -         2322   20   30 
+sebus     992551144  3  3 c   k     r     k         2332   50  105 5h 3d Ad 5d
+sebus     992551169  3  2 BQ  -     -     -         2387   10    0 
+sebus     992552562  4  3 c   rc    k     c         2377   60    0 3h 4c Js 7d
+sebus     992552594  4  2 Bk  b     k     k         2317   20   40 4h Tc Ad 7d
+sebus     992552621  4  1 Bc  kc    kc    kf        2337   40    0 
+sebus     992552660  4  4 c   f     -     -         2297   10    0 
+sebus     992552690  4  3 c   c     rc    k         2287   80  165 2c 7c 2d Tc
+sebus     992552719  4  2 Bk  c     c     ccc       2372  120    0 7h 5s Kd 2c
+sebus     992552766  4  1 Bc  b     bc    kc        2252   80   85 8s 4c Jh Ah
+sebus     992552803  5  5 c   k     c     k         2257   30    0 5h Ts 4h Qh
+sebus     992552857  4  3 c   k     k     b         2227   30   45 
+sebus     992552892  4  2 Bk  k     k     k         2242   10    0 2c 2d Ah 6h
+sebus     992552932  5  1 BQ  -     -     -         2232    5    0 
+sebus     992553061  3  3 c   c     c     c         2227   60    0 3s 3c Js 6d
+sebus     992553090  4  2 Bk  cc    kc    kc        2167   70   85 7c 6d Qh 9d
+sebus     992553142  5  1 Br  b     k     b         2182   50  140 9s Kc 8s Kh
+sebus     992553198  5  5 c   k     f     -         2272   10    0 
+sebus     992553244  5  4 rr  c     c     k         2262   70    0 As Jc Ac Tc
+sebus     992553307  5  3 cc  k     kf    -         2192   20    0 
+sebus     992553371  6  3 c   k     c     k         2172   30    0 Kc 9c 7h 8h
+sebus     992553436  6  3 r   kc    kc    fQ        2142   50    0 
+sebus     992896928  6  5 c   k     k     k         2092   10    0 Th 3d 2s 8c
+sebus     992896968  7  4 c   k     f     -         2082   10    0 
+sebus     992897008  7  3 c   k     k     k         2072   10   55 6s 3h As 3c
+sebus     992897047  6  2 Bc  b     kc    f         2117   70    0 
+sebus     992897092  5  1 Bc  b     k     k         2047   20   80 As Kh 4c 8d
+sebus     992897129  5  5 c   r     k     c         2107   50    0 Ad Qd Kd 4h
+sebus     992897172  6  5 c   b     b     k         2057   40  100 4s Ad As 4c
+sebus     992897213  6  4 cc  f     -     -         2117   20    0 
+sebus     992897257  6  3 r   k     b     k         2097   40    0 5d Kh Kd 6d
+sebus     992897309  7  2 Bk  bc    kc    kc        2057   70    0 6c Kc 9c Th
+sebus     992897350  9  1 Bc  b     b     bc        1987   90    0 Ac Ks Kd 4s
+sebus     992897414  9  9 f   -     -     -         1897    0    0 
+sebus     992897461  9  8 cc  c     f     -         1897   30    0 
+sebus     992897525  9  7 c   k     b     c         1867   50    0 Ac 8s Kc 3c
+sebus     992897603  9  6 c   k     c     c         1817   50    0 Qd 9d Kc Js
+sebus     992897660  9  5 f   -     -     -         1767    0    0 
+sebus     992897765  9  5 c   r     b     bc        1767   90  240 Qd 7h 2s Qs
+sebus     992897824  9  4 c   k     kf    -         1917   10    0 
+sebus     992897890  9  3 c   kc    kf    -         1907   20    0 
+sebus     992897975  9  2 Bf  -     -     -         1887   10    0 
+sebus     992898038  9  1 Bc  krc   kc    k         1877   60  220 5c Jh 2s 8d
+sebus     992898101  9  9 c   r     b     r         2037   90  145 7d 6c 8s Jc
+sebus     992898189  9  8 c   k     k     c         2092   30    0 7c Ad 8s 8h
+sebus     992898251  9  7 c   k     kf    -         2062   10    0 
+sebus     992898312  8  6 c   b     b     c         2052   60    0 8s 5h As Ks
+sebus     992898370  8  5 c   kf    -     -         1992   10    0 
+sebus     992898410  8  3 f   -     -     -         1982    0    0 
+sebus     992898432  8  3 c   k     k     k         1982   10   11 4d Ks 6d 8c
+sebus     992898480  8  2 Bk  kc    kf    -         1983   20    0 
+sebus     992898521  8  1 Bc  k     b     b         1963   50  130 2c Tc 8d 5c
+sebus     992898563  8  8 cc  c     b     -         2043   50  135 
+sebus     992898623  8  7 c   rc    c     c         2128   90    0 Th 8d 5h Js
+sebus     992898688 10  8 c   f     -     -         2038   10    0 
+sebus     992898745 10  7 cc  r     b     k         2028   60    0 3c Ad Qc Kc
+sebus     992898817 10  6 cc  c     f     -         1968   30    0 
+sebus     992898891 10  5 c   kc    kf    -         1938   20    0 
+sebus     992898971 10  4 c   bc    bc    kc        1918  110  207 Qd Js 3s 2s
+sebus     992899049 10  3 c   kc    k     k         2015   20  110 8d 7s Qh Ks
+sebus     992899126 10  2 Bc  k     kf    -         2105   20    0 
+sebus     992899233  9  1 Bc  kc    kc    kf        2085   50    0 
+sebus     992899290 10 10 c   k     k     f         2035   10    0 
+sebus     992899349 10  9 c   k     c     f         2025   30    0 
+sebus     992899435 10  8 c   c     f     -         1995   20    0 
+sebus     992899481 10  7 c   b     b     b         1975   60  200 Ks 9h Qd 5s
+sebus     992899532 10  6 c   b     k     kc        2115   40  140 Qh Js Ac 4d
+sebus     992899592 10  5 f   -     -     -         2215    0    0 
+sebus     992899655 10  4 c   f     -     -         2215   10    0 
+sebus     992899732 10  3 c   bc    bc    kf        2205   70    0 
+sebus     992899808 10  2 Bk  k     kc    bc        2135   70   54 Qh 6h 5h Qc
+sebus     992899854 10  1 Bc  bc    b     kc        2119  100    0 8h Ad Kd 5d
+sebus     992899910 10 10 cc  c     b     b         2019   70  250 Js 2s Ah 7d
+sebus     992899964 10  9 f   -     -     -         2199    0    0 
+sebus     992900015 10  8 cc  rc    b     b         2199  100  103 Tc Ac Jc 4d
+sebus     992900108 10  7 c   kc    kc    brc       2202  120  265 Jd 8d 3c Jc
+sebus     992900183 10  6 c   f     -     -         2347   10    0 
+sebus     992900234 10  5 c   kf    -     -         2337   10    0 
+sebus     992900282 10  4 f   -     -     -         2327    0    0 
+sebus     992900368  9  2 Bk  kc    kf    -         2327   20    0 
+sebus     992900460  9  1 Bc  b     kc    kc        2307   70    0 2h Qd 8s Qc
+sebus     992900524  8  8 rc  c     c     c         2237   80    0 Jh Js Qc Qd
+sebus     992900588  8  7 c   k     k     k         2157   10    0 2s 8s 6d Qs
+sebus     992900636  9  7 c   kc    f     -         2147   20    0 
+sebus     992900716 10  6 c   kc    f     -         2127   20    0 
+sebus     992900804  9  6 r   b     kc    kf        2107   50    0 
+sebus     992900870  8  4 c   f     -     -         2057   10    0 
+sebus     992900945  8  3 c   f     -     -         2047   10    0 
+sebus     992900992  8  2 Bc  kf    -     -         2037   20    0 
+sebus     992901065  9  1 Bc  kf    -     -         2017   10    0 
+sebus     992901213  9  9 c   k     c     b         2007   50    0 Tc 2c 4c 4s
+sebus     992901270  9  3 Q   -     -     -         1957    0    0 
+sebus     992982260  8  7 c   KQ    -     -         1957   10    0 
+sebus     992982403  9  6 c   c     c     c         1947   60    0 Jc 8d 5h Kd
+sebus     992982446 10  6 c   k     kc    r         1887   80  150 8s 3s Ad Jh
+sebus     992982494 10  5 cc  b     br    b         1957  110  630 Js 5d 8h 2d
+sebus     992982579 10  4 f   -     -     -         2477    0    0 
+sebus     992982623 10  3 c   kc    bc    kc        2477   80   88 Ac 3d 9s 5d
+sebus     992982697 10  2 Bk  kcc   kc    br        2485  140  222 Ah Kc 4c 2h
+sebus     992982758 10  1 Bc  kc    kc    kf        2567   40    0 
+sebus     992982833 10 10 c   k     c     r         2527   70  150 5c 8d 2h 8c
+sebus     992982904  9  8 c   c     kc    kf        2607   40    0 
+sebus     992982985 10  8 c   b     b     k         2567   40  110 7d 3c Td Th
+sebus     992983070 10  7 f   -     -     -         2637    0    0 
+sebus     992983118 10  6 c   cf    -     -         2637   20    0 
+sebus     992983205 10  5 f   -     -     -         2617    0    0 
+sebus     992983268 10  4 c   b     b     kcc       2617   80    0 6s 2h Ah Kd
+sebus     992983334 10  4 c   c     f     -         2537   20    0 
+sebus     992983389 10  2 Bk  bc    b     k         2517   60  285 Qd Kh 7d 5d
+sebus     992983454 10  1 Bc  kcc   kc    kf        2742   60    0 
+sebus     992983589  9  9 c   c     c     f         2682   40    0 
+sebus     992983637  8  7 Q   -     -     -         2642    0    0 
+sebus     992985261  8  5 c   c     c     cf        2642   60    0 
+sebus     992985311  9  4 c   c     f     -         2582   30    0 
+sebus     992985352  9  3 f   -     -     -         2552    0    0 
+sebus     992985399  9  2 Bk  k     c     kf        2552   30    0 
+sebus     992985483  9  1 Bc  b     k     kc        2522   40    0 Qh Jh Qc As
+sebus     992985538  9  9 f   -     -     -         2482    0    0 
+sebus     992985604  9  8 c   r     rc    c         2482  110    0 5c 6s 8d Ts
+sebus     992985671  9  7 c   b     k     c         2372   40  125 9h 2d Ah Ks
+sebus     992985726  9  6 cc  kc    k     k         2457   30    0 Kh 7s Jd Jc
+sebus     992985798  9  5 c   kc    bc    k         2427   60  155 Ad 5s 4c 8s
+sebus     992985874  9  4 c   kf    -     -         2522   10    0 
+sebus     992985925  9  3 c   r     b     k         2512   50    0 6d 2c Tc Ad
+sebus     992985994  7  2 Bc  f     -     -         2462   20    0 
+sebus     992986029  7  1 Bc  b     b     b         2442   60  220 Qc As 6s 9d
+sebus     992986074  6  6 c   c     k     c         2602   40    0 Td Tc Ah 5c
+sebus     992986133  7  6 c   c     c     c         2562   60    0 Tc 3s 5d 6d
+sebus     992986185  7  5 cc  k     f     -         2502   20    0 
+sebus     992986232  7  4 c   bc    kc    b         2482   70  245 4c Jh Td Jd
+sebus     992986290  7  3 f   -     -     -         2657    0    0 
+sebus     992986345  7  2 Br  c     rr    rr        2657  190  305 Jc 4c Ac Js
+sebus     992986413  7  1 Br  k     kf    -         2772   20    0 
+sebus     992986485  7  7 c   r     k     f         2752   30    0 
+sebus     992986540  7  6 c   r     k     f         2722   30    0 
+sebus     992986587  8  6 f   -     -     -         2692    0    0 
+sebus     992986652  8  5 cc  c     r     b         2692   90  185 7d Qc Qh 5d
+sebus     992986751  7  4 c   c     rr    rr        2787  180  260 4c 7s 8h As
+sebus     992986853  7  3 c   c     c     c         2867   60   95 Qc 3h Ah Ac
+sebus     992986923  7  2 Bk  b     b     k         2902   40    0 Ac 6c Th 4h
+sebus     992986989  7  1 Bc  k     b     b         2862   50  130 
+sebus     992987058  7  7 c   c     r     b         2942   80  245 3d Kh Js Qc
+sebus     992987132  7  6 cc  k     c     f         3107   40    0 
+sebus     992987182  7  5 c   k     b     brc       3067  110  190 6h Qs 4d Kh
+sebus     992987276  7  4 c   c     c     f         3147   50    0 
+sebus     992987325  7  3 c   f     -     -         3097   10    0 
+sebus     992987370  7  2 Bk  c     f     -         3087   20    0 
+sebus     992987419  8  1 Bc  bc    kc    kc        3067   80    0 Ts 6c 4h 4c
+sebus     992987488  8  8 c   k     k     k         2987   10   45 Qd 3s Qs 8h
+sebus     992987545  8  7 c   b     kc    b         3022   60  185 8c 4h 8h Ks
+sebus     992987601  8  6 c   c     f     -         3147   20    0 
+sebus     992987692  9  5 r   b     b     kc        3127   70    0 Ks Jc Kc Qh
+sebus     992987788  8  4 Q   -     -     -         3057    0    0 
+sebus     993007636 10  2 Bcc kc    k     kf        3057   40    0 
+sebus     993007711  9  1 Bc  kc    kcc   kf        3017   80    0 
+sebus     993007767  9  9 c   c     r     c         2937   90    0 Jc Tc 8c 4s
+sebus     993007830  8  7 c   b     r     rr        2847  140  215 Ks 2s Td 3h
+sebus     993007904  8  6 c   cc    c     c         2922   90    0 6s Tc 5s 4s
+sebus     993007973  8  5 c   k     c     c         2832   70  150 3c Qh Ts Ah
+sebus     993008065 10  5 ccc f     -     -         2912   40    0 
+sebus     993008230 10  4 f   -     -     -         2872    0    0 
+sebus     993008344  9  2 Bc  k     b     kc        2872   60   77 Js 4h 3c Kd
+sebus     993008421  9  1 Bc  k     k     kfQ       2889   10    0 
+sebus     993071292  9  3 f   -     -     -         2879    0    0 
+sebus     993071371  9  2 Bk  k     kc    kf        2879   30    0 
+sebus     993071446  9  1 Bc  k     kc    kc        2849   50  150 6d 5s Th Jc
+sebus     993071522  9  9 c   k     c     f         2949   30    0 
+sebus     993071587 10  9 c   c     rc    c         2919  100  150 Ts 6s 8s Ah
+sebus     993071655 10  8 c   b     k     f         2969   20    0 
+sebus     993071756 10  8 c   c     c     f         2949   40    0 
+sebus     993071831 10  6 c   Q     -     -         2909   10    0 
+sebus     993154826  3  3 cQ  -     -     -         2899   10    0 
+sebus     993155909  2  2 B   -     -     -         2889   10   15 
+sebus     993155921  2  1 Bc  b     b     k         2894   40   80 3d Kd 2h Ad
+sebus     993155951  5  3 f   -     -     -         2934    0    0 
+sebus     993156001  6  3 c   k     c     k         2934   30   70 2h 9c 9d Kd
+sebus     993156038  6  2 Bk  k     b     -         2974   30   45 
+sebus     993156066  6  1 Bc  bc    kc    kc        2989   70    0 6h Jh Qh Kc
+sebus     993156128  7  7 c   c     f     -         2919   20    0 
+sebus     993156198  7  6 c   c     cc    f         2899   60    0 
+sebus     993156265  7  5 c   k     b     -         2839   30   45 
+sebus     993156294  7  4 c   c     c     rr        2854  120   93 5h As 3h 8h
+sebus     993156372  7  3 c   c     c     k         2827   40   90 Qh Qc Ks 5s
+sebus     993156417  7  2 Bk  kr    -     -         2877   30   80 
+sebus     993156455  7  1 Bc  kc    b     k         2927   40   80 2d 2c Qh Js
+sebus     993156526  7  7 c   k     b     b         2967   50  100 
+sebus     993156612  8  7 c   k     k     k         3017   10    0 Ks 3c Jh Jd
+sebus     993156692  8  6 c   b     c     rr        3007  120  133 6d Kd 8d Ah
+sebus     993156746  8  5 c   k     c     bc        3020   70    0 3s Td 5s 4c
+sebus     993156804  7  5 c   k     k     r         2950   50   60 Ac 4c 8c As
+sebus     993156849  7  4 c   c     r     b         2960   80  210 9d Td Th Js
+sebus     993156908  7  3 c   k     kc    kc        3090   50    0 2d Ah Ac 8h
+sebus     993156976  8  2 Bc  b     kc    kc        3040   70    0 3c Jd Th 6h
+sebus     993157031  9  1 Bc  kc    kc    kc        2970   60  220 Ah 7d 5h Qs
+sebus     993157106  9  9 c   f     -     -         3130   10    0 
+sebus     993157191  9  8 c   f     -     -         3120   10    0 
+sebus     993157242  9  7 c   bc    c     c         3110   70   57 8s Qs 7s 6c
+sebus     993157309  9  6 c   c     r     b         3097   80  100 Ad Ah 8h Ks
+sebus     993157354 10  6 c   kc    kc    b         3117   60   70 5s 2c Qc 3s
+sebus     993157426 10  5 cc  kc    k     kc        3127   50    0 8c Jd Js 7s
+sebus     993157512 10  4 cc  kc    kc    kc        3077   70    0 2h 7d Jc 3s
+sebus     993157567 10  3 f   -     -     -         3007    0    0 
+sebus     993157620 10  2 Bc  k     kc    kf        3007   40    0 
+sebus     993157678 10  1 Bc  k     k     k         2967   10   25 Qd 6d 3s 9d
+sebus     993157728 10 10 c   k     k     f         2982   10    0 
+sebus     993157808 10  9 c   cf    -     -         2972   20    0 
+sebus     993157915 10  8 c   c     k     k         2952   20    0 Qc 2s 8s 5d
+sebus     993157972  9  6 cc  c     kf    -         2932   40    0 
+sebus     993158085  9  5 f   -     -     -         2892    0    0 
+sebus     993158147  9  4 cc  br    kcc   bc        2892  200  438 8d Th Td 2h
+sebus     993158264  9  3 c   kc    kr    k         3130   60   66 8c 9s 4h 2c
+sebus     993158343  9  2 Bk  kc    bc    c         3136   80  210 6h 5h 7h 4h
+sebus     993158435  8  1 Bc  k     kc    bcc       3266  110    0 3h 5h 7s Js
+sebus     993158488  8  8 c   r     b     k         3156   50  130 4h Tc Jh 4s
+sebus     993158561  8  7 c   b     k     c         3236   40    0 2c Tc Js 3c
+sebus     993158625  8  6 c   k     b     b         3196   50  160 
+sebus     993158686  8  5 c   b     kc    kc        3306   60    0 2d 9c Ad 3c
+sebus     993158745  8  4 c   k     f     -         3246   10    0 
+sebus     993158803  9  3 c   kc    kf    -         3236   20    0 
+sebus     993158884  8  2 Bk  k     c     cc        3216   70    0 8h 7d 2s 8c
+sebus     993158927  8  1 Bc  k     k     kf        3146   10    0 
+sebus     993158984  8  8 c   k     f     -         3136   10    0 
+sebus     993159064  8  7 f   -     -     -         3126    0    0 
+sebus     993159111  8  6 c   k     k     k         3126   10    0 9d 3c 9s Ac
+sebus     993159143  8  5 c   f     -     -         3116   10    0 
+sebus     993159199  8  4 c   k     k     b         3106   30   95 Jh 5d 3c 4h
+sebus     993159273  8  3 c   kc    kc    kf        3171   40    0 
+sebus     993159356  8  2 Bk  kf    -     -         3131   10    0 
+sebus     993159446  8  1 Bc  k     k     kf        3121   10    0 
+sebus     993159499  9  9 c   b     k     rc        3111   80  185 2d Jd 5c 3h
+sebus     993159579  9  8 c   b     c     cc        3216  100    0 Ah 8s 9s 6c
+sebus     993159690  8  6 c   b     c     c         3116   60    0 Tc 8d 8h Qs
+sebus     993159741  8  5 c   k     k     k         3056   10    0 Qh Th Ad Ks
+sebus     993159811  8  4 c   Q     -     -         3046   10    0 
+sebus     993433942  4  2 Bk  kf    -     -         3036   10    0 
+sebus     993433981  4  1 Bc  k     bc    kc        3026   70    0 9d Jd 3d Ac
+sebus     993434012  4  4 c   k     k     k         2956   10   15 Jh 6d 9s 5s
+sebus     993434043  4  3 c   k     k     b         2961   30   80 2c Qc 8s 6c
+sebus     993434099  4  2 Bk  f     -     -         3011   10    0 
+sebus     993434134  4  1 Bc  k     kc    kc        3001   50    0 2d Jh 4h Kd
+sebus     993434165  4  4 c   k     b     k         2951   30    0 Jd 3c Tc 7h
+sebus     993434197  4  3 c   k     f     -         2921   10    0 
+sebus     993434228  4  2 Bk  k     kf    -         2911   10    0 
+sebus     993434272  4  1 Br  b     b     b         2901   70  150 
+sebus     993434302  3  3 c   b     b     b         2981   60  160 5h Ac 8d 9d
+sebus     993434332  3  2 Bk  k     k     k         3081   10    0 3d Td 2c 4s
+sebus     993434366  3  1 Bc  b     k     k         3071   20   40 3d 8d Qh Td
+sebus     993434400  3  3 r   k     b     k         3091   40  120 As 5h 6h 4d
+sebus     993434446  3  2 Bk  b     k     br        3171   80   90 5d Th Kh Jd
+sebus     993434481  3  1 Bc  b     b     b         3181   60  130 Qc 7c Ad Jd
+sebus     993434503  3  3 c   k     k     k         3251   10    0 Jh 7d Ks Jc
+sebus     993434542  3  2 Bk  k     c     c         3241   50    0 8s 9c Qd 5h
+sebus     993434571  3  1 Bc  kf    -     -         3191   10    0 
+sebus     993434595  2  2 c   r     f     -         3181   30    0 
+sebus     993434617  2  2 Brc k     k     b         3151   50  100 Kh 5h 9h Qh
+sebus     993434644  2  1 Bc  kf    -     -         3201   10    0 
+sebus     993434661  2  2 Bk  r     b     b         3191   70   70 2h 2d 9d Ac
+sebus     993434690  2  1 Brc b     b     b         3191   80  160 2d Tc Qh 3h
+sebus     993434712  2  2 Bk  k     b     c         3271   50   50 7h 9c Kc Qd
+sebus     993434742  2  1 Br  k     k     k         3271   20   10 Qc 7c Kh Ac
+sebus     993434762  3  2 Bk  k     b     b         3261   50  100 6s Jc 9s 3h
+sebus     993434791  3  1 Bc  bc    bc    br        3311  130  195 3c 2s Qh Qd
+sebus     993434830  3  3 c   b     b     -         3376   40   80 
+sebus     993434859  3  2 Br  c     f     -         3416   50    0 
+sebus     993434900  3  1 Bc  b     b     bc        3366   80  100 4d Qc 6h Ts
+sebus     993434938  3  3 rr  b     r     k         3386   90   22 Ks As 4c Qs
+sebus     993434978  3  2 Bc  c     k     c         3318   50   65 Td 8c 9d 7s
+sebus     993435008  3  1 Bcc k     k     k         3333   20    0 5c Qd 6h 5s
+sebus     993435046  3  3 cc  f     -     -         3313   20    0 
+sebus     993435082  3  2 Br  b     brc   b         3293  130  330 Ad 2d Js Jc
+sebus     993435125  3  1 Bc  k     k     k         3493   10    0 3s 4h Ts Ks
+sebus     993435151  3  3 cc  b     k     k         3483   40    0 2c 6c 3h Tc
+sebus     993435186  3  2 Bk  rc    cc    rc        3443  150    0 4c Ah 9c 9h
+sebus     993435241  3  1 Bc  b     k     k         3293   20   60 3h Jd Ts Kh
+sebus     993435272  3  3 cc  c     c     c         3333   70    0 Ah Ts 7c 2s
+sebus     993435300  3  2 Bk  k     k     k         3263   10    0 3c Kh 6s As
+sebus     993435320  3  1 Bcc k     k     b         3253   40   40 5d Ks 7c 4c
+sebus     993435338  3  3 c   k     k     k         3253   10    0 Qc 9c 5c Jh
+sebus     993435362  3  2 Bk  kf    -     -         3243   10    0 
+sebus     993435380  3  1 Bcc kf    -     -         3233   20    0 
+sebus     993435390  3  3 f   -     -     -         3213    0    0 
+sebus     993435405  3  2 Bc  k     c     c         3213   60   80 4c Jc Kc 5d
+sebus     993435434  3  1 Bc  k     k     k         3233   10    0 8c 7d Qs Ah
+sebus     993435465  3  3 f   -     -     -         3223    0    0 
+sebus     993435484  3  2 Bk  c     c     c         3223   60    0 8d 7s Jd Kh
+sebus     993435527  3  1 Bc  kf    -     -         3163   10    0 
+sebus     993435581  3  3 c   rc    c     r         3153  100  105 Td Qs 9d 7h
+sebus     993435607  3  2 Br  k     k     k         3158   20   60 Qs Qc Td Qh
+sebus     993435654  3  1 Bcc kc    k     k         3198   30    0 2s 7c 8d Qd
+sebus     993435694  3  3 rc  b     b     b         3168   80  170 
+sebus     993435735  3  2 Br  kc    b     br        3258  120  150 6s 5h 8c 8d
+sebus     993435794  4  1 Bcc kc    kc    kc        3288   70    0 Kd 5s Qs 3c
+sebus     993435894  4  4 cc  f     -     -         3218   20    0 
+sebus     993435970  3  2 c   kc    b     br        3198  100  240 Jc 6h Jh 2c
+sebus     993436013  5  2 Br  br    k     b         3338   70   92 7h 3s Kc Ah
+sebus     993436074  6  1 Bc  kc    kc    br        3360  120  210 5c 7c 6s Td
+sebus     993436171  7  7 f   -     -     -         3450    0    0 
+sebus     993436232  7  6 c   c     f     -         3450   20    0 
+sebus     993436311  6  4 c   b     b     b         3430   60    0 2s Qc Js 2d
+sebus     993436360  5  2 c   c     cc    Q         3370   80    0 
+sebus     993502468 10  2 Bk  k     kc    kf        3290   30    0 
+sebus     993502533 10  1 Bc  kc    kcc   kf        3260  120    0 
+sebus     993502649 10 10 c   c     cc    c         3140  160    0 3c 8d Kh Ah
+sebus     993502726 10  9 f   -     -     -         2980    0    0 
+sebus     993502817 10  8 f   -     -     -         2980    0    0 
+sebus     993502903 10  7 f   -     -     -         2980    0    0 
+sebus     993502990 10  6 c   k     kc    kf        2980   30    0 
+sebus     993503086 10  5 f   -     -     -         2950    0    0 
+sebus     993503141 10  4 c   r     b     kc        2950   70    0 As 3d Jc Kc
+sebus     993503220 10  3 c   ccc   cc    brc       2880  170  310 Qs 6h 3h 2d
+sebus     993503311 10  2 Bk  krc   kc    kf        3020   70    0 
+sebus     993503421 10  1 Bc  kf    -     -         2950   10    0 
+sebus     993503524 10 10 c   b     br    b         2940  100  134 4c 6c Th 2c
+sebus     993503636  6  6 r   c     c     f         2974   50    0 
+sebus     993503709  7  7 c   c     f     -         2924   20    0 
+sebus     993503768  8  6 f   -     -     -         2904    0    0 
+sebus     993503832  8  5 r   b     c     r         2904   90    0 Ts 5s 3s 2s
+sebus     993503922  9  4 c   cc    c     rr        2814  180  410 6c As 4d Tc
+sebus     993504019 10  3 f   -     -     -         3044    0    0 
+sebus     993504114 10  2 Bk  cc    k     f         3044   30    0 
+sebus     993504195 10  1 Bc  kf    -     -         3014   20    0 
+sebus     993504298 10 10 f   -     -     -         2994    0    0 
+sebus     993504469  9  8 c   c     b     b         2994   70  140 4s Kd 3d 6h
+sebus     993504543  8  6 c   c     c     c         3064   70    0 Ts Tc Td 7d
+sebus     993504594  8  5 c   cc    f     -         2994   50    0 
+sebus     993504678  8  4 rc  c     c     rr        2944  150  245 Qc 5s Kh Jh
+sebus     993504762  8  3 cc  f     -     -         3039   20    0 
+sebus     993504825  8  2 Bc  cf    -     -         3019   30    0 
+sebus     993504904  8  1 BQ  -     -     -         2989    5    0 
+sebus     993508302  2  2 BQ  -     -     -         2984   10    0 
+sebus     993510954  7  6 cc  c     c     c         2974   70    0 Jd 5d 4h Qh
+sebus     993511009  7  5 cc  c     c     cc        2904  120    0 Ks 2d 2s 3c
+sebus     993511078  7  4 c   f     -     -         2784   10    0 
+sebus     993511147  8  3 c   cc    kc    cc        2774   90    0 Tc 6d 6h 8c
+sebus     993511240 10  2 Brc b     kc    kc        2684  110    0 6c Kh Qs Jc
+sebus     993511328 10  1 Bc  bc    kc    kf        2574   80    0 
+sebus     993511409 10  3 Q   -     -     -         2494    0    0 
+sebus     993699036  3  3 c   k     c     b         2494   50   75 4c 9h 2s 9d
+sebus     993699072  3  2 Bk  b     k     k         2519   20   45 Kh As 4c 6d
+sebus     993699098  3  1 Bc  kc    kc    kf        2544   40    0 
+sebus     993699138  4  3 ccc cf    -     -         2504   50    0 
+sebus     993699212  4  2 Bc  kf    -     -         2454   20    0 
+sebus     993699269  4  1 Bc  kcc   kf    -         2434   60    0 
+sebus     993699314  4  4 rc  ccc   cc    rr        2374  236  392 As 2c 3s 9c
+sebus     993699382  4  3 c   k     r     k         2530   50    0 3d Jh Jc Ac
+sebus     993699412  5  2 Bc  kc    kc    kc        2480   70   73 2d 9d 6s 8h
+sebus     993699486  6  1 Brc bc    bcc   kcc       2483  220    0 3c Qc Qh 2d
+sebus     993699572  6  6 r   r     k     r         2263  100  400 2s Qh Ac Qd
+sebus     993699631  5  4 c   f     -     -         2563   20    0 
+sebus     993699674  6  4 cc  f     -     -         2543   20    0 
+sebus     993699737  6  3 rc  rc    rr    bc        2523  180  287 3d 5d 6c 4d
+sebus     993699805  5  2 Br  b     bc    kc        2630  100    0 2s Kc Ac Tc
+sebus     993699860  5  1 Bc  kc    kf    -         2530   20    0 
+sebus     993699926  5  3 Q   -     -     -         2510    0    0 
+sebus     993875204  3  2 Bk  b     -     -         2510   20   40 
+sebus     993875217  3  1 Bc  b     -     -         2530   20   30 
+sebus     993875228  2  2 Bk  k     c     k         2540   30    0 7d Kh 3s Qs
+sebus     993875248  2  1 Bf  -     -     -         2510    5    0 
+sebus     993875255  2  2 Bk  b     b     b         2505   60  120 4c 9s 9d 3d
+sebus     993875281  2  1 Br  k     k     kc        2565   40    0 Ac Jh 6h 4c
+sebus     993875300  2  2 Bk  rc    c     c         2525   80   80 7h 4h 8c 6s
+sebus     993875321  2  1 Bc  k     kc    k         2525   30   60 5d 7h 4h 6s
+sebus     993875343  2  2 Bk  k     k     k         2555   10   20 7c Jh Jc Qh
+sebus     993875362  2  1 Bc  kc    kf    -         2565   20    0 
+sebus     993875379  2  2 Br  k     b     -         2545   40   60 
+sebus     993875395  2  1 Bc  kc    kc    k         2565   40   80 Jh Qd 8d 4c
+sebus     993875416  2  2 Bk  k     f     -         2605   10    0 
+sebus     993875436  2  1 Br  k     b     -         2595   40   60 

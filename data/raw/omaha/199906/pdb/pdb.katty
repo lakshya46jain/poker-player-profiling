@@ -1,0 +1,984 @@
+katty     929799425  3  2 Bk  b     b     b         1000   60  110 
+katty     929799497  3  1 Bc  kc    k     k         1050   20   25 Td 7s 2c Ks
+katty     929799545  3  3 c   k     c     k         1055   30    0 6s 4d Js Jd
+katty     929799580  3  2 Bk  b     -     -         1025   20   40 
+katty     929799599  3  1 Bc  kf    -     -         1045   10    0 
+katty     929799610  3  3 c   f     -     -         1035   10    0 
+katty     929799626  3  2 Bk  k     k     k         1025   10   10 4c Js 3c 2d
+katty     929799645  3  1 Bc  kc    kc    k         1025   40    0 Td Ac Jc 7h
+katty     929799678  3  3 cc  c     c     c          985   70   75 8s 2s Th 5d
+katty     929799704  3  2 Bk  k     k     k          990   10   20 Th Qh Js 6d
+katty     929799723  3  1 Bc  k     kf    -         1000   10    0 
+katty     929799739  3  3 c   c     b     b          990   60   80 5h Qd 8d 8h
+katty     929799768  3  2 Bk  k     cc    f         1010   50    0 
+katty     929799805  3  1 Bc  k     k     k          960   10   15 Td Qs 8c Kh
+katty     929799845  3  3 f   -     -     -          965    0    0 
+katty     929799863  3  2 Bk  k     kc    kc         965   50   55 6s 8d Kh 3h
+katty     929799897  3  1 Bc  k     b     b          970   50  110 7s 2s 4d Kh
+katty     929799939  3  3 cc  f     -     -         1030   20    0 
+katty     929799979  4  2 Bk  k     kf    -         1010   10    0 
+katty     929800018  4  1 Bc  kc    kc    k         1000   40    0 5h Jh Ad 8s
+katty     929800054  4  4 c   k     cc    c          960   70  110 Jc 5h 3c 7s
+katty     929800086  4  4 c   c     c     c         1000   60    0 7c Js 6s 6c
+katty     929800105  4  3 c   k     k     k          940   10    0 Jd 2d 7c 3c
+katty     929800123  4  2 Bk  k     k     k          930   10    0 4s 7c Kh Ah
+katty     929800141  4  1 Bc  k     k     k          920   10    0 3s 7d 5d 6h
+katty     929800166  5  4 c   br    b     b          910   80   90 Td 3c Jd 6s
+katty     929800190  5  3 c   k     c     c          920   50    0 7s 4c Ts Ah
+katty     929800219  5  2 Bc  kf    -     -          870   20    0 
+katty     929800248  5  1 Bc  k     bc    kc         850   70    0 4h Qc 3h Kd
+katty     929800285  5  5 cc  c     c     f          780   50    0 
+katty     929800329  5  4 cc  bc    kf    -          730   40    0 
+katty     929800369  5  3 c   k     kc    bc         690   70   90 8s Qd 7c Td
+katty     929800415  4  2 Bk  kf    -     -          710   10    0 
+katty     929800445  5  1 Bc  k     k     kf         700   10    0 
+katty     929800486  5  5 f   -     -     -          690    0    0 
+katty     929800524  5  4 c   kf    -     -          690   10    0 
+katty     929800554  5  3 c   kf    -     -          680   10    0 
+katty     929800579  5  2 Bk  k     kc    kf         670   30    0 
+katty     929800617  5  1 Bc  kc    kf    -          640   20    0 
+katty     929800648  5  5 c   k     k     b          620   30   50 
+katty     929800669  5  4 c   k     f     -          640   10    0 
+katty     929800692  5  3 cc  f     -     -          630   20    0 
+katty     929800705  5  2 Bk  kf    -     -          610   10    0 
+katty     929800728  5  1 Bc  k     kf    -          600   10    0 
+katty     929800761  5  5 c   c     c     f          590   40    0 
+katty     929800793  5  4 cc  kc    kf    -          550   30    0 
+katty     929800831  5  3 c   f     -     -          520   10    0 
+katty     929800875  5  2 Bk  k     k     r          510   50   55 2s 3h Ad Js
+katty     929800902  5  1 Bc  k     kf    -          515   10    0 
+katty     929800927  5  5 c   k     c     c          505   50   55 Ad 7c 6d 9c
+katty     929800957  5  4 c   kf    -     -          510   10    0 
+katty     929800986  5  3 cc  kf    -     -          500   20    0 
+katty     929801007  5  2 Bk  k     k     k          480   10    0 Jd 7d 4h 3s
+katty     929801033  5  1 Bc  k     k     k          470   10    0 Qc 6s 8h 9s
+katty     929801066  5  5 c   f     -     -          460   10    0 
+katty     929801107  4  3 c   c     c     c          450   60    0 Qh 3s 4c 8s
+katty     929801140  4  3 c   k     c     b          390   50  110 Jh 2h 6c 3d
+katty     929801163  4  2 Bk  k     kr    k          450   50   60 7h 3s 6h 4c
+katty     929801195  4  1 Bc  kc    k     kf         460   20    0 
+katty     929801242  4  4 c   k     k     k          440   10   15 8c 7c 7h 6h
+katty     929801275  4  3 c   c     rc    b          445  100   52 Ad 9h 2h Ac
+katty     929801308  4  2 Bk  k     k     k          397   10    0 Kc 2s 8h 2d
+katty     929801334  4  1 Bc  kf    -     -          387   10    0 
+katty     929801369  4  4 c   k     k     k          377   10    0 9s 6s Th Qh
+katty     929801401  4  3 c   k     k     k          367   10    0 6c 6d Jh 7s
+katty     929801425  4  2 Bk  k     k     k          357   10    0 6c 8s 5h 2s
+katty     929801447  4  1 Bc  k     b     -          347   30   60 
+katty     929801485  4  4 c   k     k     k          377   10    0 Tc Td Kd 6c
+katty     929801504  4  3 c   k     k     k          367   10    0 9s Js As Qd
+katty     929801537  4  2 Bk  k     kf    -          357   10    0 
+katty     929801583  4  1 Bf  -     -     -          347    5    0 
+katty     929801612  4  4 c   k     k     f          342   10    0 
+katty     929801632  4  3 c   k     k     k          332   10   40 Ah 5d As Kc
+katty     929801681  4  2 Bk  k     b     kc         362   50    0 9d Kh 4h 5h
+katty     929801710  4  1 Bc  k     k     kf         312   10    0 
+katty     929801740  4  4 c   k     k     k          302   10   30 4s 9c Jd 2s
+katty     929801758  4  3 c   b     b     -          322   40   70 
+katty     929801786  4  2 Bk  kf    -     -          352   10    0 
+katty     929801810  4  1 Bc  kc    kc    k          342   40   45 Ah 8d 5d 7s
+katty     929801833  4  4 c   c     c     c          347   60    0 Ac 4h Td Js
+katty     929801868  4  3 f   -     -     -          287    0    0 
+katty     929801895  4  2 Bc  kf    -     -          287   20    0 
+katty     929801916  4  1 Bc  k     k     b          267   30   60 
+katty     929801943  4  4 c   k     f     -          297   10    0 
+katty     929801970  4  3 c   f     -     -          287   10    0 
+katty     929801997  4  2 Bk  k     kc    k          277   30    0 5h 8d 9d Jd
+katty     929802032  4  1 Bc  b     b     b          247   60  130 5d Kc 5s Kh
+katty     929802056  4  4 c   k     k     r          317   50   52 4s Js 2s 3c
+katty     929802079  4  3 c   k     k     k          319   10   10 9s As 6h 3s
+katty     929802103  4  2 Bk  k     k     k          319   10   40 7d 8d Ah As
+katty     929802124  4  1 Bc  kc    kc    kc         349   60  130 Ac Jc 4h Ah
+katty     929802145  4  4 cc  c     f     -          419   30    0 
+katty     929802184  4  3 c   k     k     k          389   10    0 6h 6s 3s 5c
+katty     929802204  4  2 Bk  k     kf    -          379   10    0 
+katty     929802233  4  1 Bc  kf    -     -          369   10    0 
+katty     929802252  3  3 c   c     k     k          359   20   50 7d Ah 8c 3d
+katty     929802274  3  2 Bk  k     b     -          389   30   40 
+katty     929802290  3  1 Bc  k     k     k          399   10    0 5d Jc Js 3d
+katty     929802306  3  3 c   k     k     k          389   10   12 Td 8s 2h 3s
+katty     929802321  3  2 Bk  k     b     -          391   30   40 
+katty     929802338  3  1 Bc  k     k     k          401   10    0 6h Tc 3h 3c
+katty     929802356  3  3 c   k     k     k          391   10    0 9h As Jc Qc
+katty     929802374  3  2 Bk  k     k     k          381   10    0 Ad 9c 6h 5d
+katty     929802392  3  1 Bc  k     k     k          371   10   15 Th Qh 8c 7c
+katty     929802409  3  3 c   k     k     k          376   10   25 Jh Qh 5h Jd
+katty     929802430  4  2 Bc  kf    -     -          391   20    0 
+katty     929802461  4  1 Bc  kc    kf    -          371   30    0 
+katty     929802496  4  4 cc  c     c     r          341   90  230 4d Jd 7c Td
+katty     929802527  4  3 cc  c     c     c          481   70    0 Ts Jd 6h Ah
+katty     929802549  4  2 Bc  kf    -     -          411   20    0 
+katty     929802562  4  1 Bc  kc    kc    kc         391   70    0 Qh 9c Qs 3c
+katty     929802583  4  4 c   c     f     -          321   20    0 
+katty     929802601  4  3 c   k     c     r          301   70   80 4s 3d 2d 7c
+katty     929802633  4  2 Bk  k     k     k          311   10    0 Qc As 5c 9c
+katty     929802651  4  1 Bc  k     k     kf         301   10    0 
+katty     929802682  4  4 c   k     c     c          291   50    0 7d 5c 9d 4s
+katty     929802695  4  3 cc  f     -     -          241   20    0 
+katty     929802710  4  2 Bk  kc    kc    kc         221   60    0 Td Jc 9s 8d
+katty     929802728  4  1 Bc  kc    kc    kf         161   60    0 
+katty     929802754  4  4 cc  f     -     -          101   20    0 
+katty     929802779  4  3 c   k     k     k           81   10    0 7c Qs Td 7s
+katty     929802797  4  2 Bc  brc   bA    -           71   71  167 9s Ah 9d 7h
+katty     929802819  4  1 Bc  kc    kc    b          167   60  130 Th 5d 3s Qh
+katty     929802845  4  4 rcc f     -     -          237   40    0 
+katty     929802868  4  3 cc  c     c     c          197   70   75 Qs Ac Qc Kh
+katty     929802887  4  2 Bk  bc    kc    kc         202   70    0 Ts 6c 4d Th
+katty     929802913  4  1 Bc  kc    kc    kf         132   40    0 
+katty     929802936  4  4 c   c     c     f           92   40    0 
+katty     929802953  4  3 c   f     -     -           52   10    0 
+katty     929802962  5  2 Bk  kc    kcA   -           42   42    0 Kd Ad Qs 5h
+katty     929803017  5  5 c   c     f     -         1000   20    0 
+katty     929803053  5  4 c   k     k     c          980   30   45 2h 9h As Kc
+katty     929803094  5  4 cc  k     k     k          995   20   25 6c 9d 4d Ks
+katty     929803122  4  2 Bc  kf    -     -         1000   20    0 
+katty     929803164  4  1 Bc  kc    krc   b          980  100  155 3c 7s 7c 6h
+katty     929803205  4  4 f   -     -     -         1035    0    0 
+katty     929803217  4  3 f   -     -     -         1035    0    0 
+katty     929803223  4  2 Bk  k     kc    kc        1035   50   52 8d 3s 9d 9c
+katty     929803270  4  1 Bc  br    b     b         1037   90  200 7s 8d 7d 6c
+katty     929803299  4  4 c   f     -     -         1147   10    0 
+katty     929803339  4  3 f   -     -     -         1137    0    0 
+katty     929803375  4  2 Bc  kc    kf    -         1137   30    0 
+katty     929803401  4  1 Bc  krr   br    k         1107  110  240 Qh 5c Kc Th
+katty     929803444  4  4 cc  c     rr    b         1237  130  132 2c 4s Ad Jd
+katty     929803476  4  3 c   k     k     f         1239   10    0 
+katty     929803498  4  2 Bc  kc    kc    k         1229   50    0 3h 3s Kd Qh
+katty     929803530  4  1 Bc  brc   brc   k         1179  130  310 3h 4c 8c 2s
+katty     929803565  4  4 cc  k     k     k         1359   20    0 Ah 5h 3d 6c
+katty     929803602  4  3 cc  c     c     c         1339   70   37 Ah Qc 5h 7h
+katty     929803622  4  2 Bc  kf    -     -         1306   20    0 
+katty     929803648  4  1 Bc  k     bc    k         1286   50   60 7c As 4c 7h
+katty     929803682  4  4 c   -     -     -         1296   10   25 
+katty     929803721  3  2 c   b     -     -         1311   20   30 
+katty     929803735  4  2 Bc  kf    -     -         1321   20    0 
+katty     929803770  5  1 Bc  kc    kc    bc        1301   90  140 5h Jh 7s 8s
+katty     929803835  5  5 cc  f     Q     -         1351   20    0 
+katty     929834602  4  2 Bk  kc    br    br        1331  140  155 Qh 2c Th Ks
+katty     929834671  4  1 Bc  kf    -     -         1346   10    0 
+katty     929834696  4  4 c   b     -     -         1336   20   50 
+katty     929834723  4  3 c   k     f     -         1366   10    0 
+katty     929834752  5  2 Bc  f     -     -         1356   20    0 
+katty     929834773  5  1 Bc  kc    kc    kc        1336   60   95 Qh 5c Kh 9s
+katty     929834823  3  3 cc  f     -     -         1371   20    0 
+katty     929834841  3  3 cc  c     c     r         1351   90  202 5c 2d Qs 4s
+katty     929834875  3  2 Bk  k     f     -         1463   10    0 
+katty     929834898  3  1 Bc  kf    -     -         1453   10    0 
+katty     929834917  3  3 cc  c     c     f         1443   50    0 
+katty     929834952  3  2 Bc  c     cc    c         1393  110    0 Tc 2h 3h 5h
+katty     929834982  3  1 Bc  kc    kc    k         1283   40  100 6c 6h 9d 7c
+katty     929835025  3  3 c   k     b     -         1343   30   50 
+katty     929835047  3  2 Bc  kc    k     k         1363   30    0 7d Td Jd Ks
+katty     929835073  3  1 Bc  kf    -     -         1333   10    0 
+katty     929835106  3  3 c   k     k     rr        1323   90  190 2s Ah 2h 6h
+katty     929835141  3  2 Br  kf    -     -         1423   20    0 
+katty     929835207  3  1 Bc  kf    -     -         1403   10    0 
+katty     929835241  3  3 c   k     k     c         1393   30    0 Tc 2s Qh Ac
+katty     929835267  3  2 Bk  k     k     f         1363   10    0 
+katty     929835300  3  1 Bcc kf    -     -         1353   20    0 
+katty     929835322  3  3 cc  k     f     -         1333   30    0 
+katty     929835353  3  2 Bc  kc    kf    -         1303   30    0 
+katty     929835377  3  1 Bc  kc    bc    bc        1273  130   98 Qh 4d 2h Jd
+katty     929835439  3  3 c   c     k     k         1241   20   25 4d 3s Qs Th
+katty     929835477  3  2 Bk  kf    -     -         1246   10    0 
+katty     929835496  3  1 Bf  -     -     -         1236    5    0 
+katty     929835505  3  3 f   -     -     -         1231    0    0 
+katty     929835522  3  2 Bk  f     -     -         1231   10    0 
+katty     929835536  3  1 Bc  k     kc    kc        1221   50   55 9d Jd Ad 4s
+katty     929835568  3  3 c   k     rr    b         1226  110  230 8s 7s As 5c
+katty     929835609  3  2 Bk  k     k     k         1346   10   10 Td 2s Qc 7s
+katty     929835633  3  1 Bc  kc    kc    b         1346   60  110 
+katty     929835673  3  3 c   c     c     c         1396   60    0 3h 9c 5c As
+katty     929835719  3  2 Bk  kc    c     rc        1336  100   55 6c 7c 5h 9h
+katty     929835747  3  1 Bcc b     b     kc        1291   70   70 5c Td 5h 9c
+katty     929835777  3  3 c   k     k     k         1291   10    0 5d Tc 2c Td
+katty     929835829  2  2 Bk  b     b     -         1281   40   60 
+katty     929835877  2  1 Bc  kf    -     -         1301   10    0 
+katty     929835911  2  2 B   -     -     -         1291   10   15 
+katty     929835915  2  1 Bc  b     -     -         1296   20   30 
+katty     929835922  2  2 Bk  k     c     k         1306   30    0 2d 4d Jc 5c
+katty     929835939  2  1 Bc  k     k     b         1276   30   30 4c 5d Ad 8h
+katty     929835958  2  2 Bk  c     k     k         1276   20   40 8c Ts Tc 4s
+katty     929835976  2  1 Bc  k     k     k         1296   10    0 4d 9d Ah 7d
+katty     929835992  2  2 B   -     -     -         1286   10   15 
+katty     929835995  2  1 Bc  kf    -     -         1291   10    0 
+katty     929836005  2  2 Bk  f     -     -         1281   10    0 
+katty     929836018  2  1 Bc  k     k     k         1271   10   20 Tc 5c Ah Ac
+katty     929836040  2  2 Bk  b     b     b         1281   60  100 
+katty     929836058  2  1 Bc  k     k     k         1321   10   10 4s Kd 6h 9h
+katty     929836073  2  2 B   -     -     -         1321   10   15 
+katty     929836078  2  1 Bcc kc    kc    kc        1326   70    0 3s 5h Td 4c
+katty     929836098  2  2 Bk  f     -     -         1256   10    0 
+katty     929836107  2  1 Bc  kc    kc    k         1246   40   40 4d Th 5d 6d
+katty     929836140  2  2 Bk  b     -     -         1246   20   30 
+katty     929836155  2  1 Bc  kf    -     -         1256   10    0 
+katty     929836172  3  3 c   k     b     -         1246   30   50 
+katty     929836197  3  2 Bk  kf    -     -         1266   10    0 
+katty     929836211  3  1 Bc  kc    kc    k         1256   40    0 Ac Ah Kc Qs
+katty     929836240  3  3 c   k     f     -         1216   10    0 
+katty     929836260  3  2 Bk  k     f     -         1206   10    0 
+katty     929836283  3  1 Bf  -     -     -         1196    5    0 
+katty     929836297  3  3 c   k     b     -         1191   30   50 
+katty     929836322  2  1 Bk  k     k     k         1211   10    0 Ts 7h 7s 6h
+katty     929836342  2  1 Bc  k     kc    k         1201   30    0 6d Ac 4s 3c
+katty     929836362  2  2 Bk  f     -     -         1171   10    0 
+katty     929836379  2  1 Bf  -     -     -         1161    5    0 
+katty     929836383  3  3 c   c     c     f         1156   60    0 
+katty     929836418  3  2 Bf  -     -     -         1096   10    0 
+katty     929836433  3  1 Bf  -     -     -         1086    5    0 
+katty     929836442  3  3 c   c     c     r         1081   80   85 Ah 3c Qh 2d
+katty     929836466  3  2 Bc  k     k     f         1086   20    0 
+katty     929836490  3  1 Bc  kc    kc    kc        1066   70  105 2h 3d 5c Jd
+katty     929836517  3  3 c   f     -     -         1101   10    0 
+katty     929836537  3  2 Bc  c     c     c         1091   80  100 3s 6d 4d 5d
+katty     929836557  3  1 Bc  k     b     b         1111   60  130 Qd 4s Jc 5d
+katty     929836580  3  3 cc  k     r     b         1181   80  180 2c Ah 9d 6s
+katty     929836608  3  2 Bc  f     -     -         1281   20    0 
+katty     929836626  3  1 Bc  kf    -     -         1261   20    0 
+katty     929836639  3  3 c   f     -     -         1241   10    0 
+katty     929836657  3  2 Bc  c     c     r         1231   90  115 Qh 7c As Ah
+katty     929836692  3  1 Bc  b     b     b         1256   70  140 
+katty     929836722  3  3 cc  c     c     c         1326   70    0 3h Kd Ah 6d
+katty     929836742  4  2 Bk  k     k     b         1256   30   60 
+katty     929836784  4  1 Bc  k     k     kf        1286   10    0 
+katty     929836822  4  4 c   c     c     c         1276   70    0 Jh Qd 5h Kc
+katty     929836854  4  3 cc  c     c     f         1206   50    0 
+katty     929836902  5  2 Bc  kf    -     -         1156   20    0 
+katty     929836940  4  1 Bc  k     k     kf        1136   20    0 
+katty     929837003  4  4 c   k     f     -         1116   20    0 
+katty     929837044  4  3 cc  cc    kf    -         1096   40    0 
+katty     929837085  4  2 Bc  kc    cc    kc        1056   90  160 Th 4c 9d 3h
+katty     929837155  5  1 Bc  kc    kc    kf        1126   50    0 
+katty     929837237  5  5 c   k     c     c         1076   60  120 3h Ad 5h Kh
+katty     929837296  5  4 c   f     -     -         1136   10    0 
+katty     929837380  5  3 cc  kf    -     -         1126   20    0 
+katty     929837477  5  2 Bc  kc    kf    -         1106   30    0 
+katty     929837585  5  1 Bc  brc   brc   brc       1076  220  760 4s Qd As 3s
+katty     929837688  5  5 c   f     -     -         1616   20    0 
+katty     929837763  5  4 cc  f     -     -         1596   40    0 
+katty     929837828  5  3 cc  c     c     c         1556   70    0 Ts 6c 8d Td
+katty     929837862  4  2 Bc  kr    brc   c         1486  140    0 8d 2c 9s 5d
+katty     929837948  5  1 Bc  kc    kcc   kf        1346   90    0 
+katty     929838026  5  5 c   c     f     -         1256   30    0 
+katty     929838067  5  4 cc  f     -     -         1226   20    0 
+katty     929838129  5  3 cc  kc    kf    -         1206   30    0 
+katty     929838181  5  2 Bc  f     -     -         1176   20    0 
+katty     929838240  5  1 Bf  -     -     -         1156    5    0 
+katty     929838306  5  5 cc  f     -     -         1151   40    0 
+katty     929838367  5  4 f   -     -     -         1111    0    0 
+katty     929838430  5  3 ccc cc    c     c         1111  120  270 5d As 5c 9c
+katty     929838515  5  2 Bc  kf    -     -         1261   20    0 
+katty     929838607  6  1 Bc  kf    -     -         1241   10    0 
+katty     929838671  7  7 c   c     f     -         1231   30    0 
+katty     929838784  8  7 c   k     c     k         1201   30    0 Ad 6h 3s Ks
+katty     929838883  7  6 f   -     -     -         1171    0    0 
+katty     929838941  7  4 cc  c     c     c         1171   70  155 6h 4d 8h 2d
+katty     929839011  7  3 cc  kc    k     k         1256   30  100 3h 3d Ah 6c
+katty     929839074  7  2 Bc  kc    kc    kc        1326   70    0 9h Jc Kc 3d
+katty     929839142  7  1 Bcc kf    -     -         1256   40    0 
+katty     929839254  8  7 c   kc    f     -         1216   30    0 
+katty     929839349 10  8 c   cc    k     rc        1186  130  362 2c Kc Ac 3h
+katty     929839509  9  7 c   f     -     -         1418   20    0 
+katty     929839610  9  6 c   f     -     -         1398   20    0 
+katty     929839656  9  5 cc  cc    f     Q         1378   50    0 
+katty     929840107 10 10 c   k     c     c         1328   50   90 8d Tc Qd Ah
+katty     929840190 10  8 c   k     c     b         1368   50  150 
+katty     929840279 10  7 c   k     f     -         1468   20    0 
+katty     929840384 10  6 cc  bc    b     b         1448   80  222 5c Ah 2c 9s
+katty     929840475 10  5 c   k     f     -         1590   10    0 
+katty     929840580 10  4 c   f     -     -         1580   10    0 
+katty     929840647  9  2 Bk  kc    kc    kc        1570   70    0 3h 8s 9h 6d
+katty     929840708  8  1 Bc  kf    -     -         1500   20    0 
+katty     929840817  7  7 c   k     k     k         1480   10    0 Ts As 2s 4c
+katty     929840866  7  6 c   f     -     -         1470   10    0 
+katty     929840910  7  5 cc  c     c     c         1460   70    0 3d Th 9h 2s
+katty     929841010  7  4 ccc f     -     -         1390   40    0 
+katty     929841115  7  3 c   f     -     -         1350   10    0 
+katty     929841201  8  2 Bk  kc    kcc   kf        1340   80    0 
+katty     929841323  8  1 Bf  -     -     -         1260    5    0 
+katty     929841372  8  8 c   f     -     -         1255   20    0 
+katty     929841437  8  8 c   k     k     b         1235   30   95 6d 6c 2c 5h
+katty     929841517  8  7 c   k     c     b         1300   50  110 2h As Jd 5d
+katty     929841583  9  6 c   kf    -     -         1360   10    0 
+katty     929841654  9  5 c   f     -     -         1350   10    0 
+katty     929841754  9  4 cc  c     f     -         1340   40    0 
+katty     929841807  9  3 c   kc    kc    kf        1300   40    0 
+katty     929841873  9  2 Bk  kc    kc    kf        1260   40    0 
+katty     929841969  9  1 Bf  -     -     -         1220    5    0 
+katty     929842019 10 10 cc  cc    c     c         1215  120    0 Jc Qd 5c Jd
+katty     929842128  9  8 c   f     -     -         1095   20    0 
+katty     929842193 10  8 c   c     f     -         1075   30    0 
+katty     929842291  9  7 cc  f     -     -         1045   40    0 
+katty     929842434  9  6 c   cc    k     f         1005   60    0 
+katty     929842535  9  5 f   -     -     -          945    0    0 
+katty     929842588 10  4 c   k     f     -          945   20    0 
+katty     929842632 10  3 f   -     -     -          925    0    0 
+katty     929842737 10  2 Bc  kc    kc    kc         925   70    0 Ad 7c Td 2h
+katty     929842837  8  1 Bc  k     k     k          855   20   60 Jd 2h 5s Qc
+katty     929842964  8  8 f   -     -     -          895    0    0 
+katty     929843021  8  7 c   f     -     -          895   20    0 
+katty     929843081  8  6 f   -     -     -          875    0    0 
+katty     929843138  8  5 cc  f     -     -          875   40    0 
+katty     929843223 10  4 cc  c     f     -          835   60    0 
+katty     929843302  9  3 cc  kf    -     -          775   30    0 
+katty     929843409  9  2 Bc  kf    -     -          745   20    0 
+katty     929843465  8  1 Bc  kcc   kc    k          725   70  330 7d 6d 7c 9c
+katty     929843555  7  7 c   k     k     k          985   20   40 9d 4d 6h 4s
+katty     929843620  7  7 c   f     -     -         1005   20    0 
+katty     929843662  7  6 c   k     c     f          985   50    0 
+katty     929843718  7  4 c   c     f     -          935   20    0 
+katty     929843773  7  3 c   k     k     k          915   10    6 Ac 8c 6c Ks
+katty     929843809  7  2 Bf  -     -     -          911   10    0 
+katty     929843907  7  1 Bc  kc    kc    b          901   60  130 8s 3d Td Qd
+katty     929843975  5  5 f   -     -     -          971    0    0 
+katty     929844001  5  4 c   k     k     k          971   10    0 5s 3c 4h 2d
+katty     929844074  4  2 c   c     b     b          961   60  150 8h 4s 9s As
+katty     929844121  4  2 Bk  b     b     b         1051   60   65 8d 2d 3c 7c
+katty     929844151  3  1 Bc  k     k     k         1056   10   15 8h 2h Qc 7h
+katty     929844170  3  3 c   c     k     k         1061   20   25 6s 8c Qd 3d
+katty     929844198  4  2 Bk  c     k     kf        1066   20    0 
+katty     929844237  4  1 Bc  k     k     k         1046   10   15 3d 3c 4c Tc
+katty     929844261  3  3 c   f     -     -         1051   10    0 
+katty     929844296  3  3 cc  c     k     f         1041   40    0 
+katty     929844336  3  2 Bc  kf    -     -         1001   20    0 
+katty     929844365  4  1 Bc  bc    b     bc         981   90  135 2s Ac Jd 3s
+katty     929844401  4  4 f   -     -     -         1026    0    0 
+katty     929844429  4  3 f   -     -     -         1026    0    0 
+katty     929844450  4  2 Bk  k     k     k         1026   10    0 4h 7c 7d 9s
+katty     929844480  4  1 Bc  br    br    kc        1016  120    0 2h Td Tc Ac
+katty     929844543  5  5 c   b     -     -          896   20   40 
+katty     929844576  5  4 c   k     b     b          916   50  100 
+katty     929844612  6  4 c   f     -     -          966   10    0 
+katty     929844646  6  3 Q   -     -     -          956    0    0 
+katty     929853158  3  2 Bk  k     b     b          956   50  100 4h 3c 8c 5s
+katty     929853188  3  1 Bcc kf    -     -         1006   20    0 
+katty     929853209  3  3 f   -     -     -          986    0    0 
+katty     929853228  3  2 Bf  -     -     -          986   10    0 
+katty     929853250  3  1 Bc  kc    kc    k          976   40   20 3c 3h Ks Jh
+katty     929853279  3  3 c   f     -     -          956   10    0 
+katty     929853322  3  2 Bc  kf    -     -          946   20    0 
+katty     929853343  3  1 Bcc kc    kc    kc         926   70   70 Qh Ad 9c Js
+katty     929853382  3  3 cc  c     c     c          926   70   75 Ac Qc 9d 5d
+katty     929853405  3  2 Bk  k     bc    c          931   70   75 5d Ac 4d Ts
+katty     929853442  3  1 Bc  kc    kc    k          936   50  120 Tc Ah 2s Td
+katty     929853479  3  3 c   k     f     -         1006   10    0 
+katty     929853513  3  2 Bc  kc    kc    k          996   50   60 Qh 6h Ad 4c
+katty     929853545  3  1 Bc  b     -     -         1006   20   30 
+katty     929853557  3  3 c   b     b     b         1016   60  120 
+katty     929853606  3  2 Bk  kf    -     -         1076   10    0 
+katty     929853643  3  1 Bc  kf    -     -         1066   20    0 
+katty     929853686  3  3 f   -     -     -         1046    0    0 
+katty     929853709  3  2 Bc  bc    kc    kc        1046   80   83 Qc As Ks Jh
+katty     929853748  3  1 Bc  kc    kc    kc        1049   70  120 6c 4h Jh Ad
+katty     929853781  3  3 cc  c     c     r         1099   90   95 Ts Jc Ad 2d
+katty     929853820  3  2 Bc  f     -     -         1104   20    0 
+katty     929853857  3  1 Bf  -     -     -         1084    5    0 
+katty     929853876  3  3 f   -     -     -         1079    0    0 
+katty     929853910  4  2 Bk  bc    b     b         1079   70  125 
+katty     929853950  4  1 Bcc kc    kc    kc        1134   70   95 2d 4c Ts 6s
+katty     929853993  5  5 c   k     b     ccc       1159  130    0 6s 6d 3d Qs
+katty     929854067  6  5 f   -     -     -         1029    0    0 
+katty     929854106  6  4 c   f     -     -         1029   10    0 
+katty     929854180  4  2 cc  kf    -     -         1019   20    0 
+katty     929854211  4  2 Bc  kf    -     -          999   20    0 
+katty     929854240  4  1 Bc  kc    kc    k          979   40   80 Th 9c 8s 7s
+katty     929854288  4  4 c   f     -     -         1019   10    0 
+katty     929854312  4  3 f   -     -     -         1009    0    0 
+katty     929854347  4  2 Bk  kc    kc    kc        1009   60  113 5s Th 3c Jc
+katty     929854392  3  1 Bc  k     k     kf        1062   10    0 
+katty     929854443  3  3 c   f     -     -         1052   10    0 
+katty     929854482  3  2 Bc  kc    bc    k         1042   70  170 9c 4c 2h 8c
+katty     929854511  3  1 Bc  kf    -     -         1142   20    0 
+katty     929854526  4  4 c   k     f     -         1122   10    0 
+katty     929854564  4  3 f   -     -     -         1112    0    0 
+katty     929854608  4  2 Bk  kf    -     -         1112   10    0 
+katty     929854663  4  1 Bc  k     kc    kf        1102   30    0 
+katty     929854711  6  5 c   k     k     k         1072   10   11 Tc Ad 7h 8d
+katty     929854747  5  3 cc  k     kf    -         1073   20    0 
+katty     929854811  5  3 cc  b     bc    b         1053   90  275 8s Tc 8h Js
+katty     929854858  5  2 Bk  k     k     r         1238   50  120 Qh 6d As 5c
+katty     929854889  5  1 Bcc k     kf    -         1308   20    0 
+katty     929854924  5  5 f   -     -     -         1288    0    0 
+katty     929854966  5  4 c   c     c     f         1288   40    0 
+katty     929855028  6  3 c   k     kc    kf        1248   30    0 
+katty     929855085  5  2 Bc  kf    -     -         1218   20    0 
+katty     929855156  5  1 Bc  kf    -     -         1198   10    0 
+katty     929855218  5  5 c   k     cc    r         1188  110  400 2d Ad 4h 8h
+katty     929855286  5  4 c   f     -     -         1478   10    0 
+katty     929855345  6  3 c   kc    k     k         1468   20    0 Ts 4s 6d 3s
+katty     929855415  6  2 Bk  kc    kc    k         1448   40   80 3d 8d Ad Qs
+katty     929855477  6  1 Bf  -     -     -         1488    5    0 
+katty     929855579  6  6 ccc k     f     -         1483   40    0 
+katty     929855643  6  5 c   k     c     c         1443   50    0 6c 9h 2c 5s
+katty     929855699  6  4 f   -     -     -         1393    0    0 
+katty     929855810  5  3 c   kc    kc    kf        1393   40    0 
+katty     929855887  5  2 Bk  kc    b     b         1353   60   75 Jh 3c 4s 7d
+katty     929855945  6  1 Bc  k     k     k         1368   10   25 4d 2s Ks Qh
+katty     929855998  6  6 f   -     -     -         1383    0    0 
+katty     929856057  6  5 c   k     c     f         1383   30    0 
+katty     929856107  6  4 c   k     f     -         1353   10    0 
+katty     929856176  6  3 f   -     -     -         1343    0    0 
+katty     929856208  6  2 Bk  k     k     k         1343   10   40 Ad Ah 5h Qs
+katty     929856254  7  1 Bc  b     bc    kc        1373   80    0 7s Kh 9d As
+katty     929856311  7  7 f   -     -     -         1293    0    0 
+katty     929856341  7  6 f   -     -     -         1293    0    0 
+katty     929856402  6  5 c   f     -     -         1293   10    0 
+katty     929856451  6  4 c   kc    kc    k         1283   40   87 5d 8s 3c 8d
+katty     929856502  6  3 c   k     k     f         1330   10    0 
+katty     929856551  6  2 Bk  k     kf    -         1320   10    0 
+katty     929856604  6  1 Bc  k     k     k         1310   10    0 7h As 3s 7c
+katty     929856646  6  6 c   f     -     -         1300   10    0 
+katty     929856679  5  4 c   c     f     -         1290   20    0 
+katty     929856730  6  3 c   k     k     k         1270   10   25 Tc Ts 7d 8h
+katty     929856769  6  2 Bk  k     k     k         1285   10    0 Qs 7s 8c 4h
+katty     929856808  7  1 Bc  k     kf    -         1275   10    0 
+katty     929856883  6  6 c   f     -     -         1265   10    0 
+katty     929856917  6  5 cc  kc    f     -         1255   50    0 
+katty     929856977  6  4 cc  c     c     r         1205  100  165 3d 3s Ad 2s
+katty     929857022  6  3 c   k     b     b         1270   50  110 Ac Tc 8h 5s
+katty     929857054  6  2 Bk  kc    kc    b         1330   60    0 Qh 9c Jd 7s
+katty     929857106  5  1 Bf  -     -     -         1270    5    0 
+katty     929857166  5  5 f   -     -     -         1265    0    0 
+katty     929857217  5  4 f   -     -     -         1265    0    0 
+katty     929857261  5  3 c   k     k     k         1265   10    0 2h Kd 3d Qs
+katty     929857302  5  2 Bc  b     -     -         1255   30   55 
+katty     929857332  5  1 Bc  kf    -     -         1280   10    0 
+katty     929857360  4  4 cc  f     -     -         1270   20    0 
+katty     929857376  5  4 c   kf    -     -         1250   10    0 
+katty     929857398  5  3 c   k     kc    k         1240   30    0 Kh 2c Tc Th
+katty     929857435  5  2 Bk  kf    -     -         1210   10    0 
+katty     929857475  6  1 Bf  -     -     -         1200    5    0 
+katty     929857502  6  6 c   f     -     -         1195   10    0 
+katty     929857559  7  6 cc  c     c     f         1185   70    0 
+katty     929857613  7  5 f   -     -     -         1115    0    0 
+katty     929857671  8  5 cc  f     -     -         1115   20    0 
+katty     929857741  8  4 c   k     c     f         1095   30    0 
+katty     929857814  7  2 c   kf    -     -         1065   10    0 
+katty     929857875  6  2 Bc  k     kc    k         1055   40   42 3c Qd Ts 4d
+katty     929857911  7  1 Bc  kf    -     -         1057   20    0 
+katty     929857965  7  7 c   f     -     -         1037   10    0 
+katty     929858059  7  6 f   -     -     -         1027    0    0 
+katty     929858114  7  5 c   k     f     -         1027   10    0 
+katty     929858146  7  4 c   kc    b     b         1017   70  210 3d 6d 3s 4h
+katty     929858226  7  3 cc  kc    kc    b         1157   90  300 3s Ts Kc 4d
+katty     929858298  7  2 Bc  k     k     kf        1367   20    0 
+katty     929858389  7  1 Bf  -     -     -         1347    5    0 
+katty     929858425  6  6 c   c     c     f         1342   50    0 
+katty     929858479  6  5 ccc cc    f     -         1292   80    0 
+katty     929858569  7  4 f   -     -     -         1212    0    0 
+katty     929858631  7  3 f   -     -     -         1212    0    0 
+katty     929858674  6  2 Bk  b     k     kc        1212   40    0 Qd 4s 9c 9d
+katty     929858722  6  1 Bcc bc    kc    kc        1172  100  320 Kd 7s 5c 5d
+katty     929858783  6  6 c   f     -     -         1392   20    0 
+katty     929858826  5  4 c   f     -     -         1372   10    0 
+katty     929858844  5  3 cc  c     c     c         1362   70  120 6d 5c 4s Ks
+katty     929858907  5  2 Bk  k     b     b         1412   50  100 
+katty     929858968  5  1 Bc  k     kf    -         1462   10    0 
+katty     929859031  4  4 c   f     -     -         1452   10    0 
+katty     929859064  4  3 c   f     -     -         1442   10    0 
+katty     929859084  4  2 Bk  k     k     b         1432   30   60 3h 7h 3c 3d
+katty     929859108  4  1 Bf  -     -     -         1462    5    0 
+katty     929859149  4  4 f   -     -     -         1457    0    0 
+katty     929859182  4  3 c   k     f     -         1457   10    0 
+katty     929859214  4  2 Bk  c     c     r         1447   80  160 4d 9h 2h Td
+katty     929859245  4  1 Bc  kc    kf    -         1527   20    0 
+katty     929859291  5  5 c   c     f     -         1507   20    0 
+katty     929859320  5  4 c   k     k     f         1487   10    0 
+katty     929859349  5  3 cc  f     -     -         1477   20    0 
+katty     929859404  5  2 Bk  k     c     c         1457   50   75 Ad 5d Ac 5s
+katty     929859434  5  1 Bf  -     -     -         1482    5    0 
+katty     929859466  5  5 c   c     c     f         1477   70    0 
+katty     929859509  5  4 c   f     -     -         1407   20    0 
+katty     929859547  4  2 Bk  k     k     b         1387   30   40 
+katty     929859573  4  1 Bc  kf    -     -         1397   10    0 
+katty     929859601  4  4 c   f     -     -         1387   10    0 
+katty     929859648  4  3 f   -     -     -         1377    0    0 
+katty     929859681  4  2 Bk  k     f     -         1377   10    0 
+katty     929859698  4  1 Bc  kf    -     -         1367   10    0 
+katty     929859721  4  4 c   c     c     r         1357   80  180 Tc Ac 7c 4h
+katty     929859756  4  3 cc  f     -     -         1457   20    0 
+katty     929859812  4  2 Bk  c     f     -         1437   20    0 
+katty     929859839  3  1 Bcc k     kc    k         1417   40    0 2s Jh 4d Qh
+katty     929859875  3  3 cc  c     r     c         1377   90  100 As Jc Ad 3c
+katty     929859920  3  2 Bk  kc    k     k         1387   20   60 2c 5c Ad Kd
+katty     929859948  3  1 Bc  kf    -     -         1427   10    0 
+katty     929859992  3  3 c   k     k     k         1417   10   30 Th Jh 3c Jd
+katty     929860020  4  3 c   f     -     -         1437   10    0 
+katty     929860062  4  2 Bf  -     -     -         1427   10    0 
+katty     929860099  4  1 Bf  -     -     -         1417    5    0 
+katty     929860132  4  4 f   -     -     -         1412    0    0 
+katty     929860165  4  3 cc  kf    -     -         1412   20    0 
+katty     929860197  4  2 Bk  kf    -     -         1392   10    0 
+katty     929860230  4  1 Bf  -     -     -         1382    5    0 
+katty     929860268  4  4 cc  f     -     -         1377   20    0 
+katty     929860315  5  3 c   f     -     -         1357   10    0 
+katty     929860368  5  2 Bk  kc    kc    kf        1347   40    0 
+katty     929860423  4  1 Bc  kf    -     -         1307   10    0 
+katty     929860473  4  4 f   -     -     -         1297    0    0 
+katty     929860516  4  3 c   k     k     k         1297   10    0 7c 4s Jd 2h
+katty     929860561  4  2 Bk  kc    k     k         1287   20    0 7c Ad Qc Jh
+katty     929860613  4  1 Bc  k     b     b         1267   60   80 2d 7c As Kc
+katty     929860665  4  4 c   f     -     -         1287   10    0 
+katty     929860695  4  3 f   -     -     -         1277    0    0 
+katty     929860737  4  2 Bk  b     bc    k         1277   60    0 Th Jc Ad 7c
+katty     929860788  5  1 Bc  bcc   kc    kc        1217  100    0 Jc 7h 4d 7s
+katty     929860884  5  5 c   cc    b     b         1117   90  260 Kc 4h 2h Ts
+katty     929860983  4  3 c   k     b     b         1287   50  120 Td 5c Ac 8d
+katty     929861083  3  2 Bk  r     b     rc        1357  110  115 7c 3c 2h 4d
+katty     929861117  3  1 Bc  kc    kf    -         1362   20    0 
+katty     929861163  3  3 c   c     b     k         1342   50    0 Td 7s 7h Ac
+katty     929861230  4  2 Bk  kcc   kc    bc        1292  110    0 6h Tc 2s As
+katty     929861296  4  1 Bf  -     -     -         1182    5    0 
+katty     929861346  4  4 f   -     -     -         1177    0    0 
+katty     929861394  4  3 cc  f     -     -         1177   20    0 
+katty     929861415  5  2 Bc  kc    k     kf        1157   30    0 
+katty     929861457  5  1 Bc  k     kf    -         1127   20    0 
+katty     929861492  5  5 c   f     -     -         1107   10    0 
+katty     929861538  5  4 c   f     -     -         1097   10    0 
+katty     929861588  5  3 c   kc    kc    kf        1087   40    0 
+katty     929861653  6  2 Bc  Q     -     -         1047   20    0 
+katty     929887284  2  1 Bc  k     k     k         1027   10    0 Tc 5d 9h 9d
+katty     929887308  2  2 Bk  k     c     k         1017   30    0 3h 8s 9c Ks
+katty     929887329  2  1 Bc  b     -     -          987   20   30 
+katty     929887340  2  2 Bk  k     k     k          997   10    0 4d 3s 3d Jd
+katty     929887355  2  1 Bc  k     k     k          987   10    0 2c Kh 3c 3d
+katty     929887371  2  2 Bk  k     k     k          977   10   20 5h 2d 9h Qh
+katty     929887392  2  1 Bc  k     k     k          987   10   20 2d Kd 9c 6c
+katty     929887408  2  2 Bk  b     -     -          997   20   30 
+katty     929887458  2  1 Bc  k     k     k         1007   10   20 5d 4h 6h Kh
+katty     929887481  2  2 Bk  k     k     k         1017   10   20 Ad 8h Qc 7s
+katty     929887497  2  1 Bc  k     k     k         1027   10   20 Qd Ah 8d 9h
+katty     929887515  2  2 Bk  k     b     -         1037   30   40 
+katty     929887531  2  1 Bc  k     k     k         1047   10   10 5c 2c 9s 5s
+katty     929887546  2  2 Bk  k     k     k         1047   10   20 5h Th 9s 8d
+katty     929887560  2  1 Bc  k     k     k         1057   10    0 3s 2c 8d 4h
+katty     929887576  2  2 Bk  k     k     f         1047   10    0 
+katty     929887594  2  1 Bc  b     b     b         1037   60   60 8s As Kh 4h
+katty     929887607  2  2 Bk  k     k     k         1037   10    0 Tc Ks Kd Kh
+katty     929887622  2  1 Bc  k     k     k         1027   10   20 8s 8h 5d 5h
+katty     929887637  2  2 Bk  k     k     k         1037   10   10 3h 9s 7h 3c
+katty     929887651  2  1 Bc  k     kf    -         1037   10    0 
+katty     929887667  2  2 Bk  k     k     b         1027   30   40 
+katty     929887685  2  1 Bc  k     k     k         1037   10   10 Qd 6d Kc 7c
+katty     929887698  2  2 Bk  k     k     f         1037   10    0 
+katty     929887719  2  1 Bc  k     k     k         1027   10    0 As 7c 5h 8s
+katty     929887732  2  2 Bk  k     k     k         1017   10   20 Ac 7d 3s 4s
+katty     929887744  2  1 Bc  k     k     kc        1027   30    0 Qc As 7s 3s
+katty     929887765  2  2 Bk  k     k     k          997   10   20 Kh Jc 2h Jh
+katty     929887780  2  1 Bc  k     k     k         1007   10    0 2h Kc 6h Ad
+katty     929887794  2  2 Bk  k     k     k          997   10   20 Qs Qc Jc Kd
+katty     929887811  2  1 Bc  k     k     k         1007   10   10 2h Qs Ac Qd
+katty     929887843  2  2 Bk  k     k     b         1007   30   40 
+katty     929887862  2  1 Bc  k     k     k         1017   10   10 Ah Kc Ac Td
+katty     929887874  2  2 Bk  k     k     k         1017   10   10 8h Kh 9c 6d
+katty     929887891  2  1 Bc  k     b     -         1017   30   40 
+katty     929887907  3  3 c   k     k     k         1027   10   15 As Ah Ac 6d
+katty     929887936  3  2 Bk  k     k     k         1032   10   20 Td 7s 4d 5s
+katty     929887972  4  1 Bc  kf    -     -         1042   20    0 
+katty     929887993  4  4 c   c     k     r         1022   70    0 7s 4d 5c 4s
+katty     929888019  4  3 c   k     k     k          952   10   30 6s 4h Qd 3s
+katty     929888057  4  2 Bk  k     kc    kc         972   70  210 7c 3c 6h 4h
+katty     929888102  4  1 Bc  k     k     kf        1112   10    0 
+katty     929888136  4  4 c   k     f     -         1102   20    0 
+katty     929888159  4  3 c   k     k     k         1082   10    0 3h 2h Ac Td
+katty     929888186  3  1 Bk  k     k     k         1072   10    0 3c 5d Tc Kc
+katty     929888207  3  1 Bc  k     k     k         1062   10    0 Qc 4c Jh Ah
+katty     929888231  3  3 c   k     k     b         1052   30   45 
+katty     929888262  3  2 Bk  k     r     b         1067   70  120 
+katty     929888291  3  1 Bc  k     k     k         1117   10   10 8s 6h 2c 6c
+katty     929888318  3  3 c   k     k     f         1117   10    0 
+katty     929888352  3  2 Bk  k     f     -         1107   10    0 
+katty     929888369  3  1 Bc  k     kf    -         1097   10    0 
+katty     929888395  3  3 c   k     k     k         1087   10   15 Jh Ac 4s Kh
+katty     929888423  3  2 Bk  c     k     k         1092   20   20 3c Ad 8h Ks
+katty     929888448  3  1 Bc  k     k     k         1092   10    0 7c 5h 2c 2s
+katty     929888466  3  3 c   k     b     c         1082   50  110 Jd Tc 4s 7d
+katty     929888505  3  2 Bk  f     -     -         1142   10    0 
+katty     929888519  3  1 Bc  k     k     k         1132   10   20 6h 4c 4s Ah
+katty     929888537  4  4 c   k     k     c         1142   30   40 Qd 5c Th 3s
+katty     929888580  4  3 c   c     k     k         1152   20   30 2d 5s Ah Kh
+katty     929888616  4  2 Bk  k     c     k         1162   30    0 Ah Jd Kh 8d
+katty     929888642  4  1 Bc  kf    -     -         1132   10    0 
+katty     929888660  4  4 c   k     b     -         1122   40   75 
+katty     929888686  4  3 c   kc    k     b         1157   40   75 
+katty     929888709  4  2 Bk  k     k     k         1192   10   30 Qh 9d 9s 6d
+katty     929888733  4  1 Bc  kc    kf    -         1212   20    0 
+katty     929888778  4  4 c   f     -     -         1192   20    0 
+katty     929888811  4  3 c   k     f     -         1172   10    0 
+katty     929888836  4  2 Bk  f     -     -         1162   10    0 
+katty     929888849  4  1 Bc  k     k     b         1152   30   50 
+katty     929888873  4  4 c   k     k     k         1172   10    0 7c 2c 3d Qh
+katty     929888894  4  3 c   c     c     c         1162   60  170 2s Jh 3h 2d
+katty     929888942  5  3 c   k     k     c         1272   30    0 6h 3d 9c Ac
+katty     929888997  5  2 Bk  kf    -     -         1242   10    0 
+katty     929889037  5  1 Bc  kf    -     -         1232   10    0 
+katty     929889080  5  5 c   c     c     r         1222   80  190 
+katty     929889173  4  3 c   k     b     -         1332   30   50 
+katty     929889202  4  2 Bk  f     -     -         1352   10    0 
+katty     929889223  4  1 Bc  kf    -     -         1342   20    0 
+katty     929889235  4  4 c   c     c     c         1322   60   73 8d 6s Jh 5d
+katty     929889274  4  3 cc  c     k     c         1335   50    0 Qs Jh 5h 5s
+katty     929889314  4  2 Bc  bc    kc    kf        1285   60    0 
+katty     929889359  3  1 Bcc kf    -     -         1225   20    0 
+katty     929889379  3  3 cc  f     -     -         1205   20    0 
+katty     929889408  3  2 Bk  k     f     -         1185   10    0 
+katty     929889437  3  1 Bf  -     -     -         1175    5    0 
+katty     929889445  3  3 c   k     f     -         1170   10    0 
+katty     929889464  3  2 Bk  k     k     k         1160   10    0 Th 6h 9s 8d
+katty     929889487  3  1 Bc  b     -     -         1150   20   40 
+katty     929889501  3  3 c   k     k     k         1170   10    0 4h 7c 9h Ad
+katty     929889529  3  2 Bk  k     c     c         1160   50    0 8c 6s 2s Qc
+katty     929889557  3  1 Bc  k     k     k         1110   10   20 2c Ac 4h Ad
+katty     929889574  3  3 c   f     -     -         1120   10    0 
+katty     929889589  3  2 Bk  Q     -     -         1110   10    0 
+katty     930021774  4  3 c   kc    bc    kc        1100   80  140 7d 5d 2s Kd
+katty     930021841  4  2 Bc  f     -     -         1160   20    0 
+katty     930021876  4  1 Bc  kc    kc    kc        1140   60   65 Ah 5s 4c 2s
+katty     930021926  5  5 c   r     b     b         1145   70  100 2s 3s As Qd
+katty     930021984  6  5 c   r     b     b         1175   70  130 Tc Ac 6s 9s
+katty     930022049  6  4 c   k     f     -         1235   10    0 
+katty     930022103  6  3 cc  kc    kc    k         1225   50    0 Ac 2s 7d Jc
+katty     930022175  7  2 Bk  k     k     k         1175   10   25 Ad 8c 3h Th
+katty     930022227  6  1 Bc  kf    -     -         1190   10    0 
+katty     930022289  6  6 c   f     -     -         1180   10    0 
+katty     930022360  6  5 c   k     k     f         1170   10    0 
+katty     930022419  6  4 c   c     c     k         1160   40    0 Kd As Tc 5h
+katty     930022462  6  3 c   kf    -     -         1120   10    0 
+katty     930022527  6  2 Bc  kc    kf    -         1110   40    0 
+katty     930022609  6  1 Bc  kf    -     -         1070   20    0 
+katty     930022653  7  7 c   f     -     -         1050   20    0 
+katty     930022724  7  6 cc  c     c     c         1030   70   95 4c Qc 4d 3s
+katty     930022767  7  5 cc  f     -     -         1055   20    0 
+katty     930022852  7  4 cc  f     -     -         1035   20    0 
+katty     930022927  7  3 cc  f     -     -         1015   20    0 
+katty     930023001  7  2 Bcc f     -     -          995   40    0 
+katty     930023082  7  1 Bc  k     k     kf         955   20    0 
+katty     930023147  7  7 f   -     -     -          935    0    0 
+katty     930023225  7  6 c   c     f     -          935   20    0 
+katty     930023300  7  5 f   -     -     -          915    0    0 
+katty     930023348  7  4 c   f     -     -          915   10    0 
+katty     930023432  6  3 c   kf    -     -          905   10    0 
+katty     930023492  6  2 Bk  c     c     c          895   60   85 3c 5s 6s 6d
+katty     930023540  6  1 Bc  kc    kcc   kc         920  160    0 4h Js 5s Ah
+katty     930023613  6  6 c   b     rr    rr         760  180  275 9c Ah Th 3d
+katty     930023693  5  4 c   f     -     -          855   10    0 
+katty     930023743  5  3 cc  k     k     k          845   20    0 Js 7h Ks 2h
+katty     930023794  5  2 Bk  brc   kc    kc         825   90  105 8s 3s Js 9c
+katty     930023855  7  1 Bc  kf    -     -          840   20    0 
+katty     930023918  9  9 c   c     c     r          820   80  150 Qs Ks Kc Kh
+katty     930023994  9  8 c   f     -     -          890   10    0 
+katty     930024043  9  8 c   f     -     -          880   20    0 
+katty     930024095  9  7 c   kc    kf    -          860   20    0 
+katty     930024174 10  6 cc  kc    kf    -          840   30    0 
+katty     930024287 10  6 c   f     -     -          810   10    0 
+katty     930024381 10  4 cc  ccc   f     -          800   60    0 
+katty     930024510  9  2 Bc  kc    kc    kc         740   70    0 2d Tc 9c 4h
+katty     930024605  9  1 Bc  kf    -     -          670   10    0 
+katty     930024679  9  9 f   -     -     -          660    0    0 
+katty     930024771 10  9 f   -     -     -          660    0    0 
+katty     930024848 10  8 c   rc    c     rc         660  130  152 2c Ts 4s 3h
+katty     930024950 10  7 c   c     c     f          682   50    0 
+katty     930025066  9  6 c   f     -     -          632   10    0 
+katty     930025161 10  5 c   c     c     ccc        622  120    0 4s 2c 9c 5s
+katty     930025271  9  3 cc  f     -     -          502   20    0 
+katty     930025374  8  1 Bk  kc    kc    k          482   40    0 2h Ad 7s 2d
+katty     930025447  9  1 Bc  kf    -     -          442   10    0 
+katty     930025541  8  8 cc  c     f     -          432   30    0 
+katty     930025640  8  7 f   -     -     -          402    0    0 
+katty     930025729  7  5 c   f     -     -          402   10    0 
+katty     930025792  5  4 cc  kf    -     -          392   20    0 
+katty     930025887  6  3 f   -     -     -          372    0    0 
+katty     930025926  6  2 Bk  k     kc    kc         372   70   39 5h 4s Kc Qh
+katty     930026018  5  1 Bc  kc    kc    kf         341   60    0 
+katty     930026100  9  8 cc  c     kf    -          281   30    0 
+katty     930026187  9  7 ccc c     c     k          251   70    0 2d Jh 4d 4h
+katty     930026325  9  6 cc  f     -     -          181   30    0 
+katty     930026451  9  5 f   -     -     -          151    0    0 
+katty     930026526  9  3 c   c     f     -          151   20    0 
+katty     930026603 10  2 Bk  kc    kc    k          131   40  205 5c 3c Ah 9s
+katty     930026702  9  1 Bc  kcc   kcc   kcc        296  210  440 Jc 5c 9s Ts
+katty     930026839  8  8 c   c     b     c          526   60  120 Kc 8c Kd 4h
+katty     930026939  7  7 cc  c     f     -          586   30    0 
+katty     930026994  8  6 c   kf    -     -          556   10    0 
+katty     930027044  8  5 c   k     kc    b          546   50   90 2d Ah 6c 8d
+katty     930027127  8  4 c   f     -     -          586   10    0 
+katty     930027172  8  3 f   -     -     -          576    0    0 
+katty     930027231  8  2 Bk  cc    k     k          576   30    0 Ah 6h 9d 8s
+katty     930027315  8  1 Bc  kf    -     -          546   10    0 
+katty     930027362  8  8 c   f     -     -          536   10    0 
+katty     930027440  9  8 c   f     -     -          526   10    0 
+katty     930027521 10  8 c   f     -     -          516   10    0 
+katty     930027595 10  7 c   c     f     -          506   30    0 
+katty     930027697  9  6 f   -     -     -          476    0    0 
+katty     930027788 10  5 cc  f     -     -          476   20    0 
+katty     930027899  7  3 c   kcc   kf    -          456   30    0 
+katty     930028014 10  2 Bc  cc    c     f          426   80    0 
+katty     930028125 10  1 Bcc kc    kf    -          346   40    0 
+katty     930028256 10 10 c   f     -     -          306   30    0 
+katty     930028346 10  9 c   f     -     -          276   20    0 
+katty     930028465 10  8 cc  f     -     -          256   20    0 
+katty     930028545 10  8 f   -     -     -          236    0    0 
+katty     930028649 10  6 cc  c     c     cc         236  140    0 2d 8d 5s 9c
+katty     930028770 10  5 c   kf    -     -           96   10    0 
+katty     930028883 10  4 cc  kc    kf    -           86   30    0 
+katty     930028998  8  1 Bk  kc    k     kc          56   40  150 4c 4d Qd Th
+katty     930029070  9  1 Bc  kc    kc    kf         166   70    0 
+katty     930029155  8  8 c   c     f     -           96   30    0 
+katty     930029242  7  6 c   kf    -     -           66   10    0 
+katty     930029346  7  5 f   -     -     -           56    0    0 
+katty     930029414  7  4 c   c     cA    -           56   56    0 9h Ad As Ks
+katty     930029521  6  6 c   c     c     k         1000   60  250 Kc 7h 3c As
+katty     930029576  6  5 c   c     c     c         1190   70    0 5s 2h 2c 7s
+katty     930029642  7  4 c   kf    -     -         1120   10    0 
+katty     930029836  7  3 cc  kf    -     -         1110   20    0 
+katty     930029917  5  3 f   -     -     -         1090    0    0 
+katty     930030009  4  2 Bk  f     -     -         1090   10    0 
+katty     930030109  5  1 Bc  k     b     -         1080   30   60 
+katty     930030162  4  4 r   c     c     c         1110   70   47 Ac 3c Td 2d
+katty     930030212  5  4 c   k     f     -         1087   10    0 
+katty     930030269  6  4 c   kc    kc    kc        1077   70  160 3h Ts Ks 9c
+katty     930030340  5  2 Bk  k     k     f         1167   10    0 
+katty     930030406  5  1 Bc  kf    -     -         1157   20    0 
+katty     930030484  5  5 c   k     f     -         1137   10    0 
+katty     930030548  5  4 f   -     -     -         1127    0    0 
+katty     930030643  5  3 c   k     k     k         1127   10    0 Jd Kd Ad Qh
+katty     930030710  5  2 Bc  kf    -     -         1117   20    0 
+katty     930030843  5  1 Bc  kc    kc    kc        1097   70    0 Js 2d 8d 5d
+katty     930030939  4  4 f   -     -     -         1027    0    0 
+katty     930031024  4  4 cc  c     k     c         1027   50    0 9h Ad 7d Ks
+katty     930031102  5  3 cc  b     k     k          977   30  150 4s Ad Ks 2c
+katty     930031194  6  3 cc  b     kc    k         1097   50  210 Qh 2h 2c 6h
+katty     930031303  6  2 Bc  f     -     -         1257   20    0 
+katty     930031459  7  1 Bf  -     -     -         1237    5    0 
+katty     930031596  7  7 f   -     -     -         1232    0    0 
+katty     930031702  8  7 c   f     -     -         1232   10    0 
+katty     930031782  8  6 c   c     k     k         1222   30  140 3c Td Qd 8h
+katty     930031876  7  5 f   -     -     -         1332    0    0 
+katty     930031958  6  3 c   f     -     -         1332   10    0 
+katty     930032001  7  2 Bk  kf    -     -         1322   10    0 
+katty     930032158  6  1 Bcc k     k     kc        1312   40   80 3h 3c 9h As
+katty     930032249  8  8 cc  k     c     k         1352   40    0 Qs 8d 6d Qd
+katty     930032387  9  8 cc  cc    f     -         1312   80    0 
+katty     930032526  8  8 f   -     -     -         1232    0    0 
+katty     930032668  8  8 f   -     -     -         1232    0    0 
+katty     930032838  6  4 f   -     -     -         1232    0    0 
+katty     930032889  6  2 c   kc    k     kc        1232   50    0 6s 8d 5c 2c
+katty     930032971  6  2 Bk  kc    kc    bc        1182   80  160 5c 5h Qc Ks
+katty     930033091  6  1 Bc  kc    kf    -         1262   20    0 
+katty     930033210  5  5 c   k     k     k         1242   20  100 Ah Qh 5c 3c
+katty     930033322  6  5 c   cc    c     k         1322   60    0 3c Tc Ah 7d
+katty     930033391  6  4 c   k     kf    -         1262   10    0 
+katty     930033453  5  2 f   -     -     -         1252    0    0 
+katty     930033510  5  2 Bk  kf    -     -         1252   10    0 
+katty     930033584  5  1 Bc  kc    kf    -         1242   20    0 
+katty     930033644  5  5 cc  c     f     -         1222   30    0 
+katty     930033750  5  4 c   c     f     -         1192   20    0 
+katty     930033804  5  3 c   k     b     b         1172   50  110 
+katty     930033871  5  2 Bcc kc    kf    -         1232   60    0 
+katty     930033987  6  1 Bc  k     kf    -         1172   10    0 
+katty     930034076  5  5 c   k     f     -         1162   10    0 
+katty     930034157  5  5 c   f     -     -         1152   10    0 
+katty     930034203  5  4 c   c     cc    kc        1142   80    0 4h Ts 5h Ks
+katty     930034249  5  3 c   c     k     k         1062   20    0 As 3s 3c 8c
+katty     930034282  3  1 Bk  k     kf    -         1042   10    0 
+katty     930034327  4  1 Bc  kf    -     -         1032   20    0 
+katty     930034356  4  4 f   -     -     -         1012    0    0 
+katty     930034392  4  3 c   c     r     r         1012  100  140 2d Ks 4c Qd
+katty     930034442  5  2 Bk  k     kc    kf        1052   30    0 
+katty     930034511  5  1 Bcc kc    kc    kf        1022   70    0 
+katty     930034623  5  5 f   -     -     -          952    0    0 
+katty     930034672  6  5 c   c     f     -          952   20    0 
+katty     930034757  6  4 cc  k     b     b          932   70  235 
+katty     930034814  5  2 c   kf    -     -         1097   10    0 
+katty     930034884  5  2 Bk  kc    c     kc        1087   60  115 9s Kc Ah 4s
+katty     930034955  6  1 Bc  kc    k     kc        1142   50  130 6d 2h Ks Jc
+katty     930035095  6  6 cc  f     -     -         1222   30    0 
+katty     930035194  6  5 f   -     -     -         1192    0    0 
+katty     930035283  6  5 c   k     k     f         1192   10    0 
+katty     930035329  5  3 f   -     -     -         1182    0    0 
+katty     930035393  5  2 Bc  k     kc    kf        1182   40    0 
+katty     930035445  5  1 Bc  kf    -     -         1142   10    0 
+katty     930035514  4  4 c   k     k     c         1132   30   35 7d 3h 4h 4d
+katty     930035566  3  3 cc  k     c     k         1137   40  120 2s 3s 2d Kd
+katty     930035611  3  2 Bk  b     b     b         1217   60  180 9s Th 9h 6d
+katty     930035655  3  1 Bc  k     k     kc        1337   30   70 Kd 7d Qs 3c
+katty     930035681  2  2 c   k     c     c         1377   50    0 9c 4s 8s 4h
+katty     930035708  2  2 Bc  k     k     k         1327   20   40 Jd Ts Js 7c
+katty     930035733  2  1 Bc  k     k     b         1347   30    0 4c 2d 3s Qh
+katty     930035758  2  2 Bc  f     -     -         1317   20    0 
+katty     930035777  2  1 Bc  kc    kc    b         1297   60  120 Kd Ad 5h 3h
+katty     930035811  2  2 Bk  k     c     rc        1357   90   90 Qd 6d 3h 4c
+katty     930035842  2  1 Bc  k     k     k         1357   10    0 2d Kd Ts 6h
+katty     930035867  2  2 Bk  k     c     c         1347   50   50 Jc 9h 3h 2s
+katty     930035891  2  1 Bcc k     k     kc        1347   40    0 Kc 4s 9h 6d
+katty     930035929  2  2 Bc  c     k     k         1307   30    0 8h Ad Kc 4d
+katty     930035963  2  1 Bc  kf    -     -         1277   10    0 
+katty     930035980  2  2 Bk  bc    k     k         1267   30    0 4c Ad 8s 5c
+katty     930036009  2  1 Bcc kc    k     k         1237   30   60 4s Jd Ah 4d
+katty     930036038  2  2 Bk  bc    b     b         1267   70  140 6c 6s Kh 8h
+katty     930036079  2  1 Bc  k     k     k         1337   10   10 8c Ad Ac 6c
+katty     930036105  2  2 Bk  k     k     c         1337   30   30 Ac 5c 6h 9h
+katty     930036134  3  1 Bc  k     kc    k         1337   30   90 8c Kd 7h Jc
+katty     930036177  3  3 ccc c     c     c         1397   90  135 3c 9h Td 7c
+katty     930036227  3  2 Bk  k     k     k         1442   10    0 7c 6h 7h Qs
+katty     930036258  3  1 Bc  k     kf    -         1432   20    0 
+katty     930036297  3  3 f   -     -     -         1412    0    0 
+katty     930036320  3  2 Bk  k     c     k         1412   30   35 2d 3c 2h Th
+katty     930036359  3  1 Bc  kf    -     -         1417   10    0 
+katty     930036402  3  3 c   k     k     k         1407   10   15 9d 8d 2c 4c
+katty     930036428  3  2 Bc  k     k     f         1412   20    0 
+katty     930036455  3  1 Bc  k     kcc   k         1392   90    0 9s 7s Ts Jd
+katty     930036527  3  3 f   -     -     -         1302    0    0 
+katty     930036542  3  2 Bk  k     c     c         1302   50    0 As Jc Jh 8h
+katty     930036577  3  1 Bc  kc    kc    br        1252  100  130 Ah Th Ac 3h
+katty     930036630  3  3 f   -     -     -         1282    0    0 
+katty     930036666  3  2 Bc  c     rc    bc        1282  130  195 2c 2h Kh 3c
+katty     930036700  4  1 Bc  k     kf    -         1347   10    0 
+katty     930036756  4  4 KQ  -     -     -         1337    0    0 
+katty     930036910  4  4 f   -     -     -         1337    0    0 
+katty     930036954  3  2 Bk  k     -     -         1337   10   30 
+katty     930039164  2  1 Bc  k     k     kf        1357   10    0 
+katty     930039219  2  2 Bk  k     r     b         1347   70   70 Ah 2s 7h Ks
+katty     930039258  2  1 Bcc kf    -     -         1347   20    0 
+katty     930039273  2  2 Bk  c     c     k         1327   40    0 Qc 8s 6d Jc
+katty     930039288  2  1 Bcc kf    -     -         1287   20    0 
+katty     930039306  2  2 B   -     -     -         1267   10   15 
+katty     930039310  2  1 Bc  kc    b     b         1272   60   60 8d Jh 6h 7d
+katty     930039333  2  2 Bk  f     -     -         1272   10    0 
+katty     930039347  2  1 Bc  k     bc    kc        1262   70    0 8d 7c Kc Ac
+katty     930039368  2  2 Bk  k     k     c         1192   30   30 Kh 3d Ad Th
+katty     930039384  2  1 Bc  b     -     -         1192   20   30 
+katty     930039393  2  2 B   -     -     -         1202   10   15 
+katty     930039396  2  1 Bc  k     kc    kf        1207   30    0 
+katty     930039424  2  2 Bk  k     b     b         1177   50   80 
+katty     930039444  2  1 Bc  bc    b     -         1207   50   80 
+katty     930039463  2  2 Bk  k     k     k         1237   10   20 2c Jh Js Kc
+katty     930039490  2  1 Bc  kc    kc    kc        1247   60    0 2h Tc 2c Qs
+katty     930039517  2  2 Bc  c     c     c         1187   70  140 8s 8h 2c Ah
+katty     930039537  2  1 Bc  kc    br    br        1257  140    0 3s 3h 4s 2d
+katty     930039567  2  2 Bk  k     c     c         1117   50   50 3h 6d 9s Kh
+katty     930039588  2  1 Bc  kf    -     -         1117   10    0 
+katty     930039603  2  2 Bk  b     b     b         1107   60   60 4d 8h Kd 8s
+katty     930039620  2  1 Bcc kf    -     -         1107   20    0 
+katty     930039640  2  2 Bk  k     k     k         1087   10   10 3d 7d 7s 2c
+katty     930039661  2  1 Bcc kc    kc    kc        1087   70  140 Qd Ks 8c Qc
+katty     930039685  2  2 Bc  k     b     c         1157   60   60 Ac Ad Kd Js
+katty     930039711  2  1 Bc  kc    kc    b         1157   60  100 
+katty     930039737  2  2 B   -     -     -         1197   10   15 
+katty     930039740  2  1 Bc  k     kr    b         1202   70   70 8h 3h 9d As
+katty     930039772  2  2 Bk  k     b     k         1202   30   30 Th 8d 8c Js
+katty     930039791  2  1 Bc  kc    kc    kc        1202   60   30 2s Js Ks 5d
+katty     930039813  2  2 Bc  k     k     b         1172   40   60 
+katty     930039836  2  1 Bcc bc    b     b         1192   80  140 
+katty     930039860  2  2 Bk  k     c     c         1252   50   50 3c 6d Jc 5d
+katty     930039878  2  1 Bcc bc    kc    k         1252   60  120 8d 8h Kd Jh
+katty     930039906  2  2 Bk  k     k     f         1312   10    0 
+katty     930039931  2  1 Bc  b     bc    k         1302   60   60 8d 9h 9c 2s
+katty     930039955  3  3 c   c     k     k         1302   20    0 5d Kh 6h 2h
+katty     930039978  3  2 Bc  kf    -     -         1282   20    0 
+katty     930040002  3  1 Bc  kc    kc    kc        1262   60    0 7d 8s Ah Qs
+katty     930040027  3  3 cc  c     k     k         1202   30   35 5h 3h 8s Kh
+katty     930040050  2  1 Bc  kc    kf    -         1207   30    0 
+katty     930040074  2  1 Bcc kf    -     -         1177   20    0 
+katty     930040085  2  2 Bk  k     c     f         1157   30    0 
+katty     930040110  2  1 Bc  kc    kc    kr        1127   80   80 Kd 5d 4c 2d
+katty     930040163  3  3 c   bc    b     rr        1127  130    0 2s 6c 7s Ts
+katty     930040196  3  2 Bk  kc    kc    b          997   60  160 6c Js Th As
+katty     930040232  3  1 Bc  k     kc    kf        1097   30    0 
+katty     930040267  3  3 c   k     b     b         1067   50  150 8h Kd 5h 3h
+katty     930040299  3  2 Bc  kf    -     -         1167   20    0 
+katty     930040315  3  1 Bc  kf    -     -         1147   10    0 
+katty     930040332  3  3 c   k     f     -         1137   10    0 
+katty     930040351  3  2 Bc  cc    kc    f         1127   80    0 
+katty     930040403  3  1 Bc  kc    kf    -         1047   20    0 
+katty     930040427  3  3 c   f     -     -         1027   10    0 
+katty     930040448  3  2 Bc  kf    -     -         1017   20    0 
+katty     930040481  3  1 Bc  k     kc    kc         997   50    0 3d 4c Qd Tc
+katty     930040510  3  3 c   k     f     -          947   10    0 
+katty     930040554  3  2 Bk  kc    k     k          937   20   30 Ts 2d Qd 6s
+katty     930040579  3  1 Bc  kc    kc    kf         947   40    0 
+katty     930040620  3  3 c   k     f     -          907   10    0 
+katty     930040643  3  2 Bk  bc    kc    kc         897   70    0 3s Ac 5c 6h
+katty     930040684  3  1 Bc  kf    -     -          827   10    0 
+katty     930040712  3  3 c   f     -     -          817   10    0 
+katty     930040738  3  2 Bk  kc    brc   kc         807  120   63 4c As 2s 7h
+katty     930040767  3  1 Bc  k     b     -          750   30   50 
+katty     930040786  3  3 c   k     c     f          770   30    0 
+katty     930040806  3  2 Bk  kc    kc    k          740   40   60 6h 8d Js 9d
+katty     930040837  3  1 Bc  k     kf    -          760   10    0 
+katty     930040865  3  3 c   k     f     -          750   10    0 
+katty     930040884  3  2 Bk  f     -     -          740   10    0 
+katty     930040904  3  1 Bc  k     k     k          730   10   15 Kd Qh 2c 5s
+katty     930040952  3  3 cc  f     -     -          735   20    0 
+katty     930040977  3  2 Bk  b     -     -          715   20   40 
+katty     930040994  3  1 Bc  k     k     k          735   10   15 Js Jd 3c 8h
+katty     930041043  3  3 c   c     c     c          740   60    0 Ks 2h 3c Qd
+katty     930041068  3  2 Bc  kf    -     -          680   20    0 
+katty     930041088  3  1 Bc  kc    kc    k          660   40   90 2d Ah Ts Jd
+katty     930041124  3  3 cc  cc    cc    cc         710  200    0 Kd Jc 2h 7d
+katty     930041170  3  2 Bk  cc    ccc   f          510  120    0 
+katty     930041216  3  1 Bc  kf    -     -          390   10    0 
+katty     930041252  3  3 cc  c     f     -          380   30    0 
+katty     930041273  3  2 Bc  f     -     -          350   20    0 
+katty     930041295  3  1 Bc  kc    k     k          330   20    0 5s Jd Qc 9s
+katty     930041338  3  3 cc  c     k     c          310   70  190 4s 5d 5c Kh
+katty     930041384  3  2 Bk  kc    kf    -          430   20    0 
+katty     930041408  3  1 Bc  kc    kc    kc         410   60    0 2s Jc Jd 2h
+katty     930041431  3  3 c   c     c     c          350   60   97 5h 6c 8h 3d
+katty     930041451  3  2 Bc  f     -     -          387   20    0 
+katty     930041481  3  1 Bc  kf    -     -          367   10    0 
+katty     930041519  3  3 cc  c     c     c          357   70  105 Ah 8h 7c Kh
+katty     930041549  3  2 Bk  kf    -     -          392   10    0 
+katty     930041578  2  1 Bc  k     kc    kf         382   30    0 
+katty     930041637  2  2 Bk  c     rr    b          352  120  240 5h Qs Qh Ks
+katty     930041665  2  1 Bc  br    b     b          472   80  140 
+katty     930041706  2  2 Bc  k     k     k          532   20   40 Kc Qc 3s Jc
+katty     930041725  2  1 Bc  bc    k     k          552   30   60 5h 9d 3h Ac
+katty     930041749  2  2 Bk  b     b     -          582   40   60 
+katty     930041772  2  1 Bc  kf    -     -          602   10    0 
+katty     930041783  2  2 Bc  c     c     k          592   50   50 7d Qc 8s 8c
+katty     930041799  2  1 Bcc kc    kc    b          592   70  140 6s 2s 6d 5c
+katty     930041822  2  2 Bc  c     f     -          662   30    0 
+katty     930041835  2  1 Bc  kc    kc    kc         632   60   60 3d 4s Th Qh
+katty     930041855  2  2 Bk  b     -     -          632   20   30 
+katty     930041876  2  1 Bcc kc    k     kr         642   70   70 Js Ts Kc 9c
+katty     930041898  3  3 cc  cc    c     c          642  100  150 Qd 8h 6h 2d
+katty     930041934  3  2 Bk  f     -     -          692   10    0 
+katty     930041950  3  1 Bcc kf    -     -          682   20    0 
+katty     930041979  3  3 ccc k     cc    f          662   80    0 
+katty     930042019  3  2 Bk  kc    cc    k          582   80    0 2d Js 3d 3h
+katty     930042054  3  1 Bc  kc    kc    k          502   40  120 4c 5d 4h 6d
+katty     930042087  3  3 cc  f     -     -          582   20    0 
+katty     930042127  3  2 BQ  -     -     -          562   10    0 
+katty     930042374  3  2 Bc  kc    kc    k          552   50  105 Ac 3d Js Ts
+katty     930042395  3  1 Bcc b     k     kc         607   60  150 4d Tc 5s 5d
+katty     930042435  3  3 c   k     c     k          697   30   70 6s Jh As Ah
+katty     930042472  3  2 Bk  k     kc    k          737   30    0 Qh Ah 9h Ad
+katty     930042503  3  1 Bcc kf    -     -          707   20    0 
+katty     930042555  3  3 c   c     c     f          687   60    0 
+katty     930042598  3  2 Bc  b     -     -          627   30   70 
+katty     930042619  3  1 Bc  bc    kc    k          667   50   75 Tc 9s 4s 4h
+katty     930042649  4  4 c   k     k     f          692   10    0 
+katty     930042688  4  3 f   -     -     -          682    0    0 
+katty     930042738  4  2 Bk  kc    kf    -          682   20    0 
+katty     930042766  4  1 Bcc kf    -     -          662   20    0 
+katty     930042803  4  4 c   c     f     -          642   30    0 
+katty     930042851  3  2 cc  kc    kc    kc         612   70    0 6s Kc 8h Ac
+katty     930042873  2  1 Bk  kc    kc    kr         542   80   80 5s 4s Qc 6h
+katty     930042902  2  1 Bc  kc    kc    k          542   40   40 2d Tc 9h Ac
+katty     930042944  2  2 Bk  c     k     b          542   40   60 
+katty     930042980  2  1 Brc kc    kc    kc         562   80  160 7h Ah 9c 3d
+katty     930043014  2  2 Bk  c     c     c          642   60   60 2s 7h Qd 3s
+katty     930043039  2  1 Bcc kr    b     b          642   80   80 3s Jh Ac 6d
+katty     930043068  2  2 Bc  c     c     c          642   70    0 4c 2s 9s 6s
+katty     930043085  2  1 Bcc kf    -     -          572   20    0 
+katty     930043102  2  2 Bc  c     c     c          552   70    0 3c Kd Qd Js
+katty     930043121  2  1 Bcc kc    kf    -          482   30    0 
+katty     930043141  2  2 Bc  c     c     b          452   70  140 5d Js Qd Qh
+katty     930043160  2  1 Bc  k     b     -          522   30   40 
+katty     930043175  2  2 Bc  k     f     -          532   20    0 
+katty     930043190  2  1 Bcc kf    -     -          512   20    0 
+katty     930043205  2  2 Bk  k     f     -          492   10    0 
+katty     930043222  2  1 Bcc kc    kc    kr         482   90  180 2h 3s 9c 6s
+katty     930043269  2  2 Bc  f     -     -          572   20    0 
+katty     930043288  2  1 Bc  -     -     -          552   10   20 

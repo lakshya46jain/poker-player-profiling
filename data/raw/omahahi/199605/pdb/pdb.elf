@@ -1,0 +1,39 @@
+elf       831103356  2  1 Bcc kc    kf    -         1005   30    0 
+elf       831103654  2  2 Brrc rc    c     c          975  130    0 Jc Kc 3h Js
+elf       831103706  2  1 Bcc kc    br    -          845   90  160 
+elf       831103738  2  2 Bc  c     f     -          915   30    0 
+elf       831103763  2  1 Bcc kc    kc    kf         885   50    0 
+elf       831103797  2  2 Brrc rr    b     b          835  140  280 Ad 4c As 9c
+elf       831103854  2  1 Brrr kc    k     kf         975   70    0 
+elf       831103905  2  2 Br  r     b     b          905   90  160 
+elf       831103935  2  1 Bcc bc    br    br         975  160  320 Qc 8c 6c As
+elf       831103986  2  2 Bc  f     -     -         1135   20    0 
+elf       831104043  2  1 Brrrrrc bc    kc    kr        1115  190  380 Qd 4d 7c Kc
+elf       831104099  2  2 Bc  f     -     -         1305   20    0 
+elf       831104113  2  1 Br  kc    kc    kc        1285   70  140 8c Ad 5d Ts
+elf       831104153  2  2 Br  b     -     -         1355   40   70 
+elf       831104171  2  1 Bcc kf    -     -         1385   20    0 
+elf       831104190  2  2 Bc  c     r     b         1365   90  180 9h 8s 4h 8d
+elf       831104217  2  1 Brr bc    kc    kf        1455   80    0 
+elf       831104256  2  2 Brrrrrrrrr rrrrr rrrc  c         1375  450  900 2c Ad Qh Jc
+elf       831104307  2  1 Bf  -     -     -         1825    5    0 
+elf       831104319  2  2 Bc  c     f     -         1820   30    0 
+elf       831104335  2  1 Bcc kf    -     -         1790   20    0 
+elf       831104354  2  2 Bc  c     c     r         1770   90  180 2c Td Kh 7s
+elf       831104407  2  1 Bf  -     -     -         1860    5    0 
+elf       831104416  2  2 Brrrrrrr -     -     -         1855  150    0 5d Th Ks Ah
+elf       831104445  2  1 Brr bc    kc    kc        1705  100    0 Ad 7s 8h 6s
+elf       831104482  2  2 Bc  c     f     -         1605   30    0 
+elf       831104500  2  1 Br  b     b     kc        1575   70  140 Ac 5s Qd Kh
+elf       831104532  2  2 Bc  c     k     b         1645   50   80 
+elf       831104564  2  1 Bf  -     -     -         1675    5    0 
+elf       831104573  2  2 Brrr b     -     -         1670   80  150 
+elf       831104591  2  1 Brrrr br    kc    kc        1740  150  300 Qd 3s Ks Ad
+elf       831104633  2  2 Br  r     b     -         1890   70  120 
+elf       831104656  2  1 Bcc kc    kf    -         1940   30    0 
+elf       831104683  2  2 Bc  rrrr  -     -         1910  100    5 7c 3d Qc 8h
+elf       831104710  2  1 Br  k     b     -         1815   40   60 
+elf       831104725  2  2 Br  c     c     f         1835   60    0 
+elf       831104749  2  1 Brrrrc kc    kr    bc        1775  180  360 Jh 6s Jc Tc
+elf       831104800  2  2 Bf  -     -     -         1955   10    0 
+elf       831104813  2  1 Bcc k     k     k         1945   20   40 4h 4d 8s 5c

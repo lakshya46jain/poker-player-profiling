@@ -1,0 +1,33 @@
+bspice    942044900  7  2 Bc  kc    kc    b         1420   70  335 Kh 9s Kc Td
+bspice    942045002  7  1 Bc  kf    -     -         1685   10    0 
+bspice    942045088  7  7 cc  f     -     -         1675   40    0 
+bspice    942045213  7  6 c   k     c     f         1635   30    0 
+bspice    942045257  7  5 cc  c     c     f         1605   50    0 
+bspice    942045325  7  4 c   kc    c     cc        1555  100    0 6h 6d Ac 2d
+bspice    942045420  7  3 c   f     -     -         1455   10    0 
+bspice    942045495  7  2 Bc  ccc   k     b         1445  100  470 4h 7d Tc 9s
+bspice    942045657  7  1 Bc  kcc   kf    -         1815   50    0 
+bspice    942045755  6  6 c   c     k     c         1765   50    0 2h Ah 5d 4d
+bspice    942045852  6  5 cc  cc    b     b         1715   90  195 9s 6h Tc 6c
+bspice    942045954  6  4 c   cc    f     -         1820   30    0 
+bspice    942046041  7  3 ccc kf    -     -         1790   40    0 
+bspice    942046122  7  2 Bc  cc    kf    -         1750   40    0 
+bspice    942046200  8  1 Bc  k     b     b         1710   50  170 8s 6d 6s 3h
+bspice    942046290 10  9 c   f     -     -         1830   30    0 
+bspice    942046430 10  8 cc  cc    kc    brc       1800  170    0 2h As 9c 7d
+bspice    942046616 10  7 c   r     k     b         1630   50  160 
+bspice    942046720 10  6 cc  cc    c     bc        1740  130  240 Qd 8s 5d 6d
+bspice    942046813 10  5 c   k     kf    -         1850   10    0 
+bspice    942046945  9  4 c   f     -     -         1840   20    0 
+bspice    942047079  9  3 c   f     -     -         1820   10    0 
+bspice    942047192  9  2 Bc  cc    ccc   kf        1810  140    0 
+bspice    942047341  9  1 Bcc kc    kf    -         1670   50    0 
+bspice    942047530 10 10 cc  f     -     -         1620   50    0 
+bspice    942047747 10  9 c   f     -     -         1570   20    0 
+bspice    942047833 10  8 cc  bc    c     c         1550  100    0 8d Kc Ks Tc
+bspice    942047952 10  7 Q   -     -     -         1450    0    0 
+bspice    943741421  6  6 c   k     c     k         1450   60    0 5c 3c Qc 8d
+bspice    943741467  6  5 cc  c     c     k         1390   50    0 Qs 9s Qc Qh
+bspice    943741532  8  6 c   c     k     cc        1340   90    0 Jc Td 9c Ad
+bspice    943741593  8  5 cc  k     k     k         1250   20    0 2c As Ks Qd
+bspice    943741691  8  4 fQ  -     -     -         1230    0    0 
