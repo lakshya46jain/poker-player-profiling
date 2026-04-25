@@ -1,0 +1,151 @@
+\documentclass[11pt]{extarticle}
+\usepackage[utf8]{inputenc}
+\usepackage{cite}
+\usepackage{geometry}
+\geometry{a4paper,left=2cm,right=2cm,top=1.5cm,bottom=1.5cm}
+\usepackage{xcolor}
+
+\title{Poker Player Profiling: Heuristics vs. K-Means Clustering}
+\author{\textbf{Team Members}: Lakshya J., Aryan S., Shreya A., Claire S.\\}
+\date{}
+
+\begin{document}
+\maketitle
+
+\section{Dataset Description}
+We use the IRC Poker Database provided by the University of Alberta \cite{irc_poker_dataset}, which contains over 10 million hands of Texas Hold'em poker played on Internet Relay Chat (IRC) servers. This dataset is well-suited for our problem as it provides large-scale behavioral data that can be used to analyze and profile player strategies.
+
+The dataset consists of raw hand history logs, where each entry corresponds to a single hand and includes a unique hand identifier, the number of players, aggregated betting information across different rounds (pre-flop, flop, turn, and river), and the list of participating players. In poker, a hand history represents a complete record of actions taken by players during a single round of play, making it a useful source for extracting behavioral features.
+
+An example of the raw data format is shown in Table~\ref{tab:dataset_sample}. Each row represents a single hand, with entries such as ``2/50'' indicating the number of bets and the corresponding pot size at a given stage. Since the dataset is unstructured and does not directly provide player-level statistics, we preprocess it by parsing hand histories and aggregating player actions across multiple hands to construct behavioral features such as VPIP and PFR.
+
+The dataset contains hands played between 1995 and 2001. Due to its historical nature, the results of our analysis may not fully reflect modern poker strategies. Additionally, because of the large scale of the original dataset, a randomly sampled subset was used for initial data exploration to ensure computational feasibility while preserving representative player behavior.
+
+\begin{table}[h]
+\centering
+\small
+\begin{tabular}{c c c c c c}
+\hline
+Hand ID & \#Players & Pre-Flop & Flop & Turn & River \\
+\hline
+797223441 & 3 & 2/20 & 2/40 & 0/0 & 0/0 \\
+797223474 & 6 & 2/50 & 2/70 & 2/110 & 2/190 \\
+797223636 & 7 & 4/80 & 4/120 & 2/160 & 2/200 \\
+797223883 & 7 & 5/50 & 5/50 & 4/130 & 2/170 \\
+\hline
+\end{tabular}
+\caption{Sample Entries from the IRC Poker Dataset}
+\label{tab:dataset_sample}
+\end{table}
+
+\section{Data Structure and Representation}
+\subsection{Raw Data Format}
+The raw data is stored in IRC Texas Hold'em poker log files within a \texttt{pdb/} directory, consisting of both plain text files and gzip-compressed files. Each file contains unstructured hand history logs, where each entry corresponds to a single poker hand.
+
+Each hand record includes information such as a unique hand identifier, the number of players involved, and sequences of player actions across different stages of the game (pre-flop, flop, turn, and river). Player names and actions are embedded within text strings, requiring parsing to extract meaningful information.
+
+\subsection{Structured Representation}
+The raw hand histories are parsed and transformed into a structured tabular format. Each record corresponds to a player-hand instance and includes fields such as the player’s name, hand ID, number of players in the hand, player position, and action sequences for each stage of the game (pre-flop, flop, turn, and river).
+
+This structured representation enables aggregation at the player level, where each player is ultimately represented by derived behavioral features such as VPIP and PFR.
+
+\section{Data Pre-processing and Feature Engineering}
+\subsection{Data Pre-processing}
+A custom parsing function was developed to extract two key poker statistics: VPIP (Voluntarily Put Money in Pot) and PFR (Pre-Flop Raise). Regular expressions were applied to pre-flop action strings to identify whether a player voluntarily contributed chips (excluding forced blind posts) and whether they raised.
+
+These binary indicators were aggregated at the player level across all hands to compute overall VPIP and PFR percentages. To ensure statistical reliability, players with fewer than 30 hands were excluded from the dataset.
+
+\subsection{Feature Engineering}
+Each player is represented using two behavioral features: VPIP and PFR. VPIP captures the frequency of voluntary participation in hands, while PFR reflects pre-flop aggressiveness. Both features are computed as percentages over all hands played and serve as inputs for clustering and heuristic-based analysis.
+
+\section{Exploratory Data Analysis}
+\subsection{Feature Distributions}
+After filtering, the dataset contains 2,148 players. The average VPIP is approximately 46.22\%, while the average PFR is significantly lower at 12.01\%, indicating that many players enter pots without raising.
+
+VPIP values are broadly distributed, with most players falling between 30\% and 60\%, suggesting diverse participation styles. In contrast, PFR values are concentrated at lower levels, indicating that aggressive pre-flop play is less common.
+
+The distribution of hands played per player is heavily right-skewed, with most players participating in relatively few hands and a small number of players accounting for a large volume of hands. This supports the decision to filter out players with limited participation.
+
+\subsection{Behavioral Patterns}
+VPIP and PFR jointly capture participation and aggressiveness, providing a compact representation of player behavior. A consistency check confirms that PFR does not exceed VPIP for any player, validating the feature extraction process.
+
+The two features exhibit a moderate positive correlation (approximately 0.455), indicating that more active players tend to be more aggressive, although the relationship is not strictly linear. This variation suggests the presence of distinct behavioral groups, supporting the use of clustering methods to identify player types.
+
+\section{K-Means Clustering Methodology}
+The primary model used in this project is K-Means Clustering, an unsupervised machine learning algorithm. This approach is well-suited for our problem, as it groups players based on behavioral similarity without requiring predefined labels. To evaluate its effectiveness, we compare its results against a heuristic baseline method that assigns players to categories using fixed VPIP and PFR thresholds.
+
+Each player in the dataset is represented as a feature vector consisting of their VPIP and PFR statistics. K-Means partitions these feature vectors into \( K \) clusters by grouping players with similar playing behaviors. The algorithm operates by initializing \( K \) cluster centroids, assigning each player to the nearest centroid (using Euclidean distance), and then updating the centroids based on the resulting groupings. This process is repeated iteratively until the cluster assignments converge.
+
+Since K-Means is an unsupervised method, no labels are used during training. Once the clusters are formed, we interpret them by analyzing the average VPIP and PFR values within each group and comparing these patterns to established poker player types such as Tight-Aggressive (TAG), Loose-Aggressive (LAG), Loose-Passive (Fish), and Tight-Passive (Rock).
+
+\section{Heuristic Baseline Method}
+To provide a point of comparison, we implement a heuristic baseline that classifies players based on fixed thresholds of VPIP and PFR.
+
+Players are assigned to one of four common poker types:
+\begin{itemize}
+    \item Tight-Aggressive (TAG): Low VPIP, high PFR
+    \item Loose-Aggressive (LAG): High VPIP, high PFR
+    \item Loose-Passive (Fish): High VPIP, low PFR
+    \item Tight-Passive (Rock): Low VPIP, low PFR
+\end{itemize}
+
+This rule-based approach is simple and interpretable but does not capture nuanced behavioral patterns, making it a useful baseline for comparison with the clustering method.
+
+\section{Mathematical Foundations}
+The VPIP and PFR features are first normalized using \texttt{StandardScaler} to ensure both features contribute equally to distance calculations.
+
+K-Means clustering partitions the data into \( K \) clusters by minimizing the within-cluster variance, defined as the sum of squared Euclidean distances between each data point and its assigned centroid:
+
+\[
+J = \sum_{k=1}^{K} \sum_{x_i \in C_k} \| x_i - \mu_k \|^2
+\]
+
+The algorithm iteratively assigns each point to the nearest centroid and updates centroids as the mean of assigned points until convergence.
+
+In this project, \( K = 4 \) is used to reflect the four common poker player types. The quality of clustering is evaluated using the Silhouette Score, which measures how well-separated the resulting clusters are.
+
+\section{Implementation Plan}
+We plan to implement the clustering pipeline in Python using \texttt{pandas} and \texttt{NumPy} for data processing and \texttt{scikit-learn} for modeling and evaluation. After parsing the raw logs and extracting player-level VPIP and PFR features, the resulting numerical feature vectors will be normalized using \texttt{StandardScaler}. We will then apply K-Means clustering to group players based on behavioral similarity and compare the results against the heuristic baseline. Model quality will be evaluated using silhouette analysis, including both the overall silhouette score and per-sample silhouette values from \texttt{sklearn.metrics}.
+
+\section{Evaluation Metrics}
+The primary evaluation metric used in this project is the Silhouette Score, which measures the quality of clustering results. The score ranges from -1 to +1, where higher values indicate better-defined and more well-separated clusters, while lower values indicate overlapping or poorly separated clusters.
+
+In this context, the Silhouette Score evaluates how well each player fits within its assigned cluster relative to other clusters. This metric enables a quantitative comparison between the clustering approach and the heuristic-based method, allowing us to assess whether the data-driven approach produces more coherent groupings.
+
+\section{Model Output}
+The output of the model is a cluster assignment for each player in the dataset, where each player is assigned to one of \( K \) clusters based on behavioral similarity.
+
+These assignments partition the players into distinct groups, with each group representing players who exhibit similar playing characteristics. Since the approach is unsupervised, the clusters do not have predefined labels, and no ground truth classification is used during training.
+
+\section{Implementation Challenges}
+The full dataset contains approximately 67,000 files, making parsing highly resource-intensive. To address this bottleneck, the current implementation used for the in-class demo randomly sampled a subset of the data (four months) and cached the resulting parsed records, totaling over 1 million rows, in a CSV file to avoid reparsing the raw logs on every run. Reading the raw text files also required defensive programming techniques, such as error replacement and careful string parsing, because the log lines vary in length depending on how far a hand progressed.
+
+\section{Evaluation and Performance Considerations}
+This section describes the framework used to evaluate the performance of the proposed approach, including the criteria for success, expected performance, and considerations for interpreting clustering results.
+
+\subsection{Success Criteria}
+The success of our approach is evaluated using both quantitative and qualitative measures that reflect the effectiveness of clustering player behaviors. From a quantitative perspective, the model is considered successful if it achieves a higher Silhouette Score than the heuristic-based grouping, indicating improved cluster quality.
+
+Qualitatively, success is determined by the degree to which the resulting clusters exhibit clear separation between player groups in the feature space. Interpreting clusters in an unsupervised setting involves a degree of subjectivity, particularly when relating cluster groupings to known poker player categories.
+
+\subsection{Expected Performance and Limitations}
+Since this is an unsupervised approach, there are no ground truth labels available to compute traditional accuracy. Instead, performance is evaluated based on cluster quality, and the model is expected to outperform the heuristic baseline by producing more well-defined groupings.
+
+We expect the model to produce clusters that reflect broad behavioral differences between players, although some overlap between clusters is anticipated due to the natural variability in gameplay data. In practice, the clustering is expected to capture meaningful distinctions in player behavior, even if boundaries between groups are not perfectly separable.
+
+There are several limitations to this approach. First, the use of a limited feature set (VPIP and PFR) may not fully capture the complexity of player behavior, potentially leading to oversimplified groupings. Second, the dataset consists of hands played between 1995 and 2001, which may limit the applicability of the results to modern poker environments. Finally, the K-Means algorithm assumes clusters are roughly spherical and equally sized, which may not accurately reflect the true distribution of player behaviors. Future work may involve incorporating more recent datasets and additional features to improve the robustness and relevance of the results.
+
+Additionally, the current implementation introduces several limitations. The current feature extraction process calculates statistics only from pre-flop actions and ignores the available flop, turn, and river actions, meaning the model does not capture a substantial amount of post-flop strategy. Furthermore, the data is grouped by player and aggregated into a single set of overall percentages across each player’s entire observed history. This static representation does not capture variability in player behavior, adaptation to different table sizes, or changes in strategy over time.
+
+Although traditional accuracy metrics are not applicable in this unsupervised setting, we expect to achieve a positive and relatively high Silhouette Score, indicating well-separated clusters. The goal is to outperform the heuristic baseline in terms of cluster cohesion and separation.
+
+\subsection{Subjective Evaluation}
+Interpreting clusters in an unsupervised setting involves a degree of subjectivity, particularly when relating cluster groupings to known poker player categories. Since the model does not produce labeled outputs, assigning meaning to each cluster requires post hoc analysis of the feature distributions within each group.
+
+To ensure consistency in this interpretation, we analyze aggregate statistics (e.g., average VPIP and PFR values) for each cluster and compare them across clusters. This allows us to identify relative differences in player behavior and assign interpretations based on consistent feature patterns.
+
+Additionally, visualizations such as scatter plots of the feature space are used to support interpretation and verify that clusters exhibit coherent structure. By relying on consistent feature-based comparisons and visual validation, we aim to minimize subjective bias and ensure that cluster interpretations are reproducible and well-justified.
+
+\bibliographystyle{plain}
+\bibliography{reference}
+\end{document}
