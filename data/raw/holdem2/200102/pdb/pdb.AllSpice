@@ -1,0 +1,343 @@
+AllSpice  983136023  4  4 c   c     c     k         2140  120  120 Ah 8h
+AllSpice  983136059  5  4 f   -     -     -         2140    0    0 
+AllSpice  983136078  5  3 f   -     -     -         2140    0    0 
+AllSpice  983136126  5  2 Bk  kf    -     -         2140   20    0 
+AllSpice  983136140  5  1 Bf  -     -     -         2120   10    0 
+AllSpice  983136145  5  5 c   c     c     k         2110   80  200 9d Ad
+AllSpice  983136179  5  4 f   -     -     -         2230    0    0 
+AllSpice  983136192  5  3 ccc cc    kc    k         2230  160    0 7d 6d
+AllSpice  983136242  5  2 Bc  k     k     b         2070  100  260 Qc Ac
+AllSpice  983136279  5  1 Bf  -     -     -         2230   10    0 
+AllSpice  983136320  5  5 cc  b     b     -         2220  100  200 
+AllSpice  983136359  5  4 f   -     -     -         2320    0    0 
+AllSpice  983136398  7  5 c   k     kf    -         2320   20    0 
+AllSpice  983136454  7  4 f   -     -     -         2300    0    0 
+AllSpice  983136507  7  3 f   -     -     -         2300    0    0 
+AllSpice  983136523  6  2 Bf  -     -     -         2300   20    0 
+AllSpice  983136553  6  1 Bf  -     -     -         2280   10    0 
+AllSpice  983136565  6  6 f   -     -     -         2270    0    0 
+AllSpice  983136605  6  5 f   -     -     -         2270    0    0 
+AllSpice  983136617  6  4 f   -     -     -         2270    0    0 
+AllSpice  983136678  6  3 f   -     -     -         2270    0    0 
+AllSpice  983136697  6  2 Bk  k     k     k         2270   20   50 6h 7h
+AllSpice  983136731  6  1 Bf  -     -     -         2300   10    0 
+AllSpice  983136773  6  6 f   -     -     -         2290    0    0 
+AllSpice  983136806  6  5 f   -     -     -         2290    0    0 
+AllSpice  983136845  6  4 f   -     -     -         2290    0    0 
+AllSpice  983136855  4  3 c   k     k     f         2290   20    0 
+AllSpice  983136882  4  2 B   -     -     -         2270   20   30 
+AllSpice  983136888  4  1 Bc  k     k     k         2280   20   60 Ad 5c
+AllSpice  983136923  4  4 f   -     -     -         2320    0    0 
+AllSpice  983136932  4  3 f   -     -     -         2320    0    0 
+AllSpice  983136937  4  2 Bk  b     b     -         2320   80  140 
+AllSpice  983136967  4  1 Bf  -     -     -         2380   10    0 
+AllSpice  983136977  4  4 f   -     -     -         2370    0    0 
+AllSpice  983136990  4  3 c   b     b     b         2370  120  220 
+AllSpice  983137026  4  2 Bk  bc    kc    kc        2470  140    0 5d Qs
+AllSpice  983137045  4  1 Bc  b     -     -         2330   40   60 
+AllSpice  983137056  4  4 f   -     -     -         2350    0    0 
+AllSpice  983137078  4  3 f   -     -     -         2350    0    0 
+AllSpice  983137082  4  2 Bk  k     k     k         2350   20    0 2d 8h
+AllSpice  983137105  4  1 Bc  k     k     kf        2330   20    0 
+AllSpice  983137141  5  4 c   k     kf    -         2310   20    0 
+AllSpice  983137203  5  3 c   b     -     -         2290   40   90 
+AllSpice  983137230  5  2 Bc  kc    kc    kc        2340  140    0 Ah Kd
+AllSpice  983137257  5  1 Bc  k     b     -         2200   60  100 
+AllSpice  983137286  5  5 c   k     k     f         2240   20    0 
+AllSpice  983137324  5  4 f   -     -     -         2220    0    0 
+AllSpice  983137358  5  3 f   -     -     -         2220    0    0 
+AllSpice  983137390  4  2 Bk  k     k     k         2220   20    0 9c 7d
+AllSpice  983137427  4  1 Bc  b     kc    kf        2200   80    0 
+AllSpice  983137463  4  4 f   -     -     -         2120    0    0 
+AllSpice  983137480  5  3 f   Q     -     -         2120    0    0 
+AllSpice  983143328  3  3 c   k     k     k         2120   20   50 As 2c
+AllSpice  983143385  2  2 B   -     -     -         2150   20   30 
+AllSpice  983143392  2  1 Bc  k     k     kf        2160   20    0 
+AllSpice  983143408  2  2 Bk  b     -     -         2140   40   60 
+AllSpice  983143421  2  1 Bf  -     -     -         2160   10    0 
+AllSpice  983143424  2  2 Bk  k     k     f         2150   20    0 
+AllSpice  983143436  2  1 Bc  b     -     -         2130   40   60 
+AllSpice  983143444  2  2 Bk  k     k     k         2150   20    0 7d Td
+AllSpice  983143460  2  1 Bf  -     -     -         2130   10    0 
+AllSpice  983143464  2  2 Bk  f     -     -         2120   20    0 
+AllSpice  983143472  2  1 Bc  b     -     -         2100   40   60 
+AllSpice  983143481  2  2 Bk  k     k     k         2120   20    0 2s 8h
+AllSpice  983143492  2  1 Bf  -     -     -         2100   10    0 
+AllSpice  983143497  2  2 Bk  k     f     -         2090   20    0 
+AllSpice  983143509  2  1 Bf  -     -     -         2070   10    0 
+AllSpice  983143511  2  2 Bk  b     k     b         2060   80  120 
+AllSpice  983143527  2  1 Bf  -     -     -         2100   10    0 
+AllSpice  983143531  2  2 Bk  f     -     -         2090   20    0 
+AllSpice  983143540  2  1 Bc  kf    -     -         2070   20    0 
+AllSpice  983143550  2  2 Bk  k     f     -         2050   20    0 
+AllSpice  983143563  2  1 Bf  -     -     -         2030   10    0 
+AllSpice  983143567  2  2 Bk  r     b     -         2020  100  160 
+AllSpice  983143587  2  1 Bf  -     -     -         2080   10    0 
+AllSpice  983143589  2  2 B   -     -     -         2070   20   30 
+AllSpice  983143591  2  1 Bc  k     k     k         2080   20   40 Kh 4h
+AllSpice  983143608  2  2 Bk  f     -     -         2100   20    0 
+AllSpice  983143621  2  1 Bf  -     -     -         2080   10    0 
+AllSpice  983143623  2  2 Bk  k     k     f         2070   20    0 
+AllSpice  983143639  2  1 Bf  -     -     -         2050   10    0 
+AllSpice  983143643  2  2 Bk  b     -     -         2040   40   60 
+AllSpice  983143657  2  1 Bc  b     kc    kf        2060   80    0 
+AllSpice  983143677  2  2 Br  b     bc    c         1980  180    0 Qd Qs
+AllSpice  983143699  2  1 Bf  -     -     -         1800   10    0 
+AllSpice  983143704  2  2 B   -     -     -         1790   20   30 
+AllSpice  983143705  2  1 Bc  b     kc    kf        1800   80    0 
+AllSpice  983143724  2  2 Bk  c     c     f         1720   80    0 
+AllSpice  983143746  2  1 Bf  -     -     -         1640   10    0 
+AllSpice  983143748  2  2 B   -     -     -         1630   20   30 
+AllSpice  983143752  2  1 Bf  -     -     -         1640   10    0 
+AllSpice  983143761  2  2 Bk  c     c     f         1630   80    0 
+AllSpice  983143777  2  1 Bc  k     kf    -         1550   20    0 
+AllSpice  983143788  2  2 Bk  k     k     k         1530   20    0 5c 6h
+AllSpice  983143800  2  1 Br  -     -     -         1510   40   60 
+AllSpice  983143807  2  2 Bk  b     -     -         1530   40   60 
+AllSpice  983143819  2  1 Bc  k     k     k         1550   20    0 Th 5h
+AllSpice  983143832  2  2 Bk  k     f     -         1530   20    0 
+AllSpice  983143842  2  1 Bf  -     -     -         1510   10    0 
+AllSpice  983143844  2  2 Br  b     k     b         1500  100  160 
+AllSpice  983143869  2  1 Bc  kf    -     -         1560   20    0 
+AllSpice  983143878  2  2 B   -     -     -         1540   20   30 
+AllSpice  983143881  2  1 Bf  -     -     -         1550   10    0 
+AllSpice  983143884  2  2 Bk  k     f     -         1540   20    0 
+AllSpice  983143895  2  1 Bf  -     -     -         1520   10    0 
+AllSpice  983143897  2  2 B   -     -     -         1510   20   30 
+AllSpice  983143900  2  1 Bf  -     -     -         1520   10    0 
+AllSpice  983143903  2  2 Bk  c     b     -         1510   80  120 
+AllSpice  983143918  2  1 Bc  k     k     k         1550   20    0 Kh 9c
+AllSpice  983143930  2  2 B   -     -     -         1530   20   30 
+AllSpice  983143935  2  1 Bc  kf    -     -         1540   20    0 
+AllSpice  983143943  2  2 Bk  k     c     k         1520   60   60 3d Kd
+AllSpice  983143955  2  1 Bc  kf    -     -         1520   20    0 
+AllSpice  983143967  2  2 Bk  b     -     -         1500   40   60 
+AllSpice  983143974  2  1 Bf  -     -     -         1520   10    0 
+AllSpice  983143976  2  2 B   -     -     -         1510   20   30 
+AllSpice  983143979  2  1 Bf  -     -     -         1520   10    0 
+AllSpice  983143983  2  2 Bk  c     f     -         1510   40    0 
+AllSpice  983143994  2  1 Bc  kf    -     -         1470   20    0 
+AllSpice  983144004  2  2 Bk  k     b     -         1450   60   80 
+AllSpice  983144017  2  1 Bf  -     -     -         1470   10    0 
+AllSpice  983144020  2  2 Bk  k     k     k         1460   20    0 Th 5c
+AllSpice  983144032  2  1 Bf  -     -     -         1440   10    0 
+AllSpice  983144038  2  2 Br  b     b     b         1430  140  240 
+AllSpice  983144058  2  1 Bc  k     k     kf        1530   20    0 
+AllSpice  983144072  2  2 Bk  b     b     -         1510   80  120 
+AllSpice  983144087  2  1 Bf  -     -     -         1550   10    0 
+AllSpice  983144090  2  2 Bk  k     c     k         1540   60    0 Jc Qc
+AllSpice  983144107  2  1 Bc  b     -     -         1480   40   60 
+AllSpice  983144118  2  2 B   -     -     -         1500   20   30 
+AllSpice  983144120  2  1 Bf  -     -     -         1510   10    0 
+AllSpice  983144121  2  2 Bk  k     c     f         1500   60    0 
+AllSpice  983144138  2  1 Bf  -     -     -         1440   10    0 
+AllSpice  983144142  2  2 Br  b     b     b         1430  140  240 
+AllSpice  983144168  2  1 Bf  -     -     -         1530   10    0 
+AllSpice  983144172  2  2 Bk  k     b     -         1520   60   80 
+AllSpice  983144190  2  1 Bc  b     -     -         1540   40   60 
+AllSpice  983144198  2  2 Bk  k     k     k         1560   20   20 Qh 4d
+AllSpice  983144215  2  1 Bf  -     -     -         1560   10    0 
+AllSpice  983144221  2  2 Bk  f     -     -         1550   20    0 
+AllSpice  983144230  2  1 Bf  -     -     -         1530   10    0 
+AllSpice  983144233  2  2 Bk  f     -     -         1520   20    0 
+AllSpice  983144244  2  1 Br  b     b     b         1500  140  240 
+AllSpice  983144256  2  2 Bk  k     k     k         1600   20   20 8s 3s
+AllSpice  983144276  2  1 Bf  -     -     -         1600   10    0 
+AllSpice  983144660  2  2 Bk  f     -     -         1590   20    0 
+AllSpice  983144796  2  1 Bc  k     k     k         1570   20   40 Js 9s
+AllSpice  983144833  2  2 Bk  b     -     -         1590   40   60 
+AllSpice  983144853  2  1 Bf  -     -     -         1610   10    0 
+AllSpice  983144857  2  2 Bk  k     k     k         1600   20    0 Jd 8s
+AllSpice  983144873  2  1 Bf  -     -     -         1580   10    0 
+AllSpice  983144877  2  2 Bk  f     -     -         1570   20    0 
+AllSpice  983144883  2  1 Bc  k     k     k         1550   20    0 Qd 8h
+AllSpice  983144902  2  2 Bk  f     -     -         1530   20    0 
+AllSpice  983144912  2  1 Bc  b     -     -         1510   40   60 
+AllSpice  983144927  2  2 Bk  k     k     b         1530   60   80 
+AllSpice  983144964  2  1 Bc  b     kc    k         1550   80    0 5h 5d
+AllSpice  983144981  2  2 Bk  c     f     -         1470   40    0 
+AllSpice  983144998  2  1 Bf  -     -     -         1430   10    0 
+AllSpice  983145000  2  2 Bk  k     k     k         1420   20    0 3c 9s
+AllSpice  983145023  2  1 Br  -     -     -         1400   40   60 
+AllSpice  983145029  2  2 Bk  c     b     b         1420  120  200 
+AllSpice  983145056  2  1 Bc  kf    -     -         1500   20    0 
+AllSpice  983145065  2  2 Bk  b     -     -         1480   40   60 
+AllSpice  983145075  2  1 Bc  k     b     -         1500   60   80 
+AllSpice  983145089  2  2 Bk  k     f     -         1520   20    0 
+AllSpice  983145100  2  1 Bc  k     kc    kf        1500   60    0 
+AllSpice  983145118  2  2 Br  b     -     -         1440   60  100 
+AllSpice  983145138  2  1 Bf  -     -     -         1480   10    0 
+AllSpice  983145142  2  2 Bk  b     k     k         1470   40   80 6c 8s
+AllSpice  983145185  3  1 Bf  -     -     -         1510   10    0 
+AllSpice  983145201  3  3 f   -     -     -         1500    0    0 
+AllSpice  983145220  3  2 Bk  kf    -     -         1500   20    0 
+AllSpice  983145251  3  1 Bf  -     -     -         1480   10    0 
+AllSpice  983145254  3  3 f   -     -     -         1470    0    0 
+AllSpice  983145274  3  2 Bk  b     bc    f         1470  120    0 
+AllSpice  983145303  3  1 Bf  -     -     -         1350   10    0 
+AllSpice  983145325  3  3 r   c     c     c         1340  140    0 8h 8d
+AllSpice  983145358  3  2 Br  b     f     -         1200   60    0 
+AllSpice  983145515  2  1 Bc  Q     -     -         1140   20    0 
+AllSpice  983315941  4  4 cc  c     c     k         2092   62  186 8s As
+AllSpice  983315963  3  3 f   -     -     -         2216    0    0 
+AllSpice  983315983  4  2 Bk  k     k     k         2216   20    0 8d 3c
+AllSpice  983316019  4  1 Bcc k     k     kf        2196   40    0 
+AllSpice  983316060  4  4 f   -     -     -         2156    0    0 
+AllSpice  983316113  4  3 r   b     b     b         2156  140  290 Th Tc
+AllSpice  983316163  4  2 Br  bc    cc    k         2306  160  480 Ks Kd
+AllSpice  983316213  5  1 Bc  kf    -     -         2626   20    0 
+AllSpice  983316271  5  5 f   -     -     -         2606    0    0 
+AllSpice  983316303  5  4 f   -     -     -         2606    0    0 
+AllSpice  983316330  5  3 f   -     -     -         2606    0    0 
+AllSpice  983316364  5  2 Bk  kc    kf    -         2606   40    0 
+AllSpice  983316398  5  1 Bc  k     kf    -         2566   20    0 
+AllSpice  983316439  5  5 f   -     -     -         2546    0    0 
+AllSpice  983316462  5  4 f   -     -     -         2546    0    0 
+AllSpice  983316519  5  3 c   k     f     -         2546   20    0 
+AllSpice  983316541  5  2 Bf  -     -     -         2526   20    0 
+AllSpice  983316583  6  1 Bf  -     -     -         2506   10    0 
+AllSpice  983316639  6  6 f   -     -     -         2496    0    0 
+AllSpice  983316675  6  5 f   -     -     -         2496    0    0 
+AllSpice  983316713  6  4 f   -     -     -         2496    0    0 
+AllSpice  983316735  6  3 f   -     -     -         2496    0    0 
+AllSpice  983316744  6  2 Bf  -     -     -         2496   20    0 
+AllSpice  983316795  6  1 Bf  -     -     -         2476   10    0 
+AllSpice  983316830  6  6 f   -     -     -         2466    0    0 
+AllSpice  983316860  6  5 f   -     -     -         2466    0    0 
+AllSpice  983316894  6  4 f   -     -     -         2466    0    0 
+AllSpice  983316967  6  3 f   -     -     -         2466    0    0 
+AllSpice  983317009  6  2 Bf  -     -     -         2466   20    0 
+AllSpice  983317066  7  1 Bc  k     kf    -         2446   20    0 
+AllSpice  983317116  7  7 c   k     k     f         2426   20    0 
+AllSpice  983317160  7  3 Q   -     -     -         2406    0    0 
+AllSpice  983321251  6  5 f   -     -     -         2406    0    0 
+AllSpice  983321290  6  4 f   -     -     -         2406    0    0 
+AllSpice  983321324  6  3 f   -     -     -         2406    0    0 
+AllSpice  983321350  6  2 Bk  k     f     -         2406   20    0 
+AllSpice  983321381  6  1 Bcc kf    -     -         2386   40    0 
+AllSpice  983321394  6  6 f   -     -     -         2346    0    0 
+AllSpice  983321434  6  5 f   -     -     -         2346    0    0 
+AllSpice  983321445  6  4 f   -     -     -         2346    0    0 
+AllSpice  983321460  6  3 cc  kf    -     -         2346   40    0 
+AllSpice  983321502  6  2 Bf  -     -     -         2306   20    0 
+AllSpice  983321530  6  1 Bf  -     -     -         2286   10    0 
+AllSpice  983321553  6  6 f   -     -     -         2276    0    0 
+AllSpice  983321575  6  5 f   -     -     -         2276    0    0 
+AllSpice  983321599  6  4 f   -     -     -         2276    0    0 
+AllSpice  983321621  6  3 f   -     -     -         2276    0    0 
+AllSpice  983321646  6  2 Bk  kf    -     -         2276   20    0 
+AllSpice  983321674  6  1 Bf  -     -     -         2256   10    0 
+AllSpice  983321704  6  5 Q   -     -     -         2246    0    0 
+AllSpice  983406752  6  3 f   -     -     -         2796    0    0 
+AllSpice  983406775  5  1 Bk  kf    -     -         2796   20    0 
+AllSpice  983406788  5  1 Bf  -     -     -         2776   10    0 
+AllSpice  983406804  4  4 f   -     -     -         2766    0    0 
+AllSpice  983406836  5  4 f   -     -     -         2766    0    0 
+AllSpice  983406855  5  3 f   -     -     -         2766    0    0 
+AllSpice  983406879  5  2 Bk  kf    -     -         2766   20    0 
+AllSpice  983406906  5  1 Bf  -     -     -         2746   10    0 
+AllSpice  983406943  5  5 fQ  -     -     -         2736    0    0 
+AllSpice  983407263  5  5 cc  c     c     c         2736  140  380 7d 7c
+AllSpice  983407321  4  3 f   -     -     -         2976    0    0 
+AllSpice  983407334  4  2 Bc  bc    kc    kc        2976  160  330 Td Ad
+AllSpice  983407354  5  1 Bf  -     -     -         3146   10    0 
+AllSpice  983407363  5  5 f   -     -     -         3136    0    0 
+AllSpice  983407400  5  4 f   -     -     -         3136    0    0 
+AllSpice  983407408  5  3 f   -     -     -         3136    0    0 
+AllSpice  983407441  5  2 Bk  kf    -     -         3136   20    0 
+AllSpice  983407474  5  1 Bc  kc    kc    kc        3116  120    0 Jh Ad
+AllSpice  983407509  5  5 f   -     -     -         2996    0    0 
+AllSpice  983407526  6  4 cc  kf    -     -         2996   40    0 
+AllSpice  983407564  6  3 f   -     -     -         2956    0    0 
+AllSpice  983407596  6  2 Bc  kc    kf    -         2956   60    0 
+AllSpice  983407609  6  1 Bf  -     -     -         2896   10    0 
+AllSpice  983407623  6  6 f   -     -     -         2886    0    0 
+AllSpice  983407656  6  5 f   -     -     -         2886    0    0 
+AllSpice  983407685  6  4 f   -     -     -         2886    0    0 
+AllSpice  983407711  6  3 f   -     -     -         2886    0    0 
+AllSpice  983407726  6  2 Bk  kf    -     -         2886   20    0 
+AllSpice  983407751  5  1 Bf  -     -     -         2866   10    0 
+AllSpice  983407754  5  5 f   -     -     -         2856    0    0 
+AllSpice  983407793  5  4 f   -     -     -         2856    0    0 
+AllSpice  983407804  5  3 c   b     -     -         2856   40   70 
+AllSpice  983407817  5  2 Bk  k     k     k         2886   20   60 3h 7c
+AllSpice  983407834  5  1 Bf  -     -     -         2926   10    0 
+AllSpice  983407889  5  5 f   -     -     -         2916    0    0 
+AllSpice  983407915  5  4 f   -     -     -         2916    0    0 
+AllSpice  983407929  5  3 f   -     -     -         2916    0    0 
+AllSpice  983407986  5  2 Bc  kf    -     -         2916   40    0 
+AllSpice  983408011  5  1 Bf  -     -     -         2876   10    0 
+AllSpice  983408031  5  5 f   -     -     -         2866    0    0 
+AllSpice  983408056  5  4 c   c     f     Q         2866   40    0 
+AllSpice  983408441  5  2 Bk  k     kf    -         2826   20    0 
+AllSpice  983408468  5  1 Bf  -     -     -         2806   10    0 
+AllSpice  983408482  5  5 f   -     -     -         2796    0    0 
+AllSpice  983408493  5  4 c   c     c     k         2796   80  190 Th Kc
+AllSpice  983408537  6  3 cc  kc    kc    k         2906  100  230 Qc Jh
+AllSpice  983408564  6  2 Bc  c     cc    kf        3036  140    0 
+AllSpice  983408626  6  1 Bf  -     -     -         2896   10    0 
+AllSpice  983408654  7  7 f   -     -     -         2886    0    0 
+AllSpice  983408696  7  6 c   c     k     c         2886   80    0 8h 8c
+AllSpice  983408746  7  5 f   -     -     -         2806    0    0 
+AllSpice  983408783  7  4 f   -     -     -         2806    0    0 
+AllSpice  983408811  7  3 rr  kc    k     k         2806  100  490 Js Jd
+AllSpice  983408865  6  2 Bc  kr    b     -         3196  120  250 
+AllSpice  983408898  6  1 Bf  -     -     -         3326   10    0 
+AllSpice  983408927  6  6 c   k     f     -         3316   20    0 
+AllSpice  983408956  6  5 cc  cc    kf    -         3296   80    0 
+AllSpice  983409015  8  6 f   -     -     -         3216    0    0 
+AllSpice  983409065  9  6 f   -     -     -         3216    0    0 
+AllSpice  983409112  9  6 f   -     -     -         3216    0    0 
+AllSpice  983409161  8  4 f   -     -     -         3216    0    0 
+AllSpice  983409181  8  3 cc  kc    kf    -         3216   60    0 
+AllSpice  983409203  8  2 Bk  kf    -     -         3156   20    0 
+AllSpice  983409250  8  1 Bf  -     -     -         3136   10    0 
+AllSpice  983409289  8  8 c   b     k     f         3126   40    0 
+AllSpice  983409321  8  7 f   -     -     -         3086    0    0 
+AllSpice  983409349  8  6 f   -     -     -         3086    0    0 
+AllSpice  983409379  8  5 f   -     -     -         3086    0    0 
+AllSpice  983409438 10  5 cc  k     k     k         3086   40   65 Ad 2d
+AllSpice  983409472 10  4 cc  kc    kc    k         3111  100    0 Kh 6h
+AllSpice  983409511  9  2 Bf  -     -     -         3011   20    0 
+AllSpice  983409572  9  1 Bc  kc    kf    -         2991   60    0 
+AllSpice  983409639  9  9 f   -     -     -         2931    0    0 
+AllSpice  983409701  9  8 f   -     -     -         2931    0    0 
+AllSpice  983409774  9  7 f   -     -     -         2931    0    0 
+AllSpice  983409819  9  6 c   k     k     f         2931   20    0 
+AllSpice  983409872  9  5 f   -     -     -         2911    0    0 
+AllSpice  983409889  9  4 f   -     -     -         2911    0    0 
+AllSpice  983409957  7  3 f   -     -     -         2911    0    0 
+AllSpice  983410001  8  3 c   b     b     b         2911  120  280 Qc 9c
+AllSpice  983410047  9  2 Bk  kf    -     -         3071   20    0 
+AllSpice  983410090 10  1 Bc  bc    kc    kc        3051  140  330 Td 8h
+AllSpice  983410176 10 10 c   c     f     -         3241   40    0 
+AllSpice  983410228  9  8 f   -     -     -         3201    0    0 
+AllSpice  983410275  9  8 f   -     -     -         3201    0    0 
+AllSpice  983410308  9  7 c   c     c     f         3201   80    0 
+AllSpice  983410370  8  5 f   -     -     -         3121    0    0 
+AllSpice  983410401  8  4 cc  f     -     -         3121   40    0 
+AllSpice  983410449  8  3 f   -     -     -         3081    0    0 
+AllSpice  983410493  8  2 Bf  -     -     -         3081   20    0 
+AllSpice  983410526  8  1 Bf  -     -     -         3061   10    0 
+AllSpice  983410576  8  8 c   f     -     -         3051   20    0 
+AllSpice  983410634  9  7 f   -     -     -         3031    0    0 
+AllSpice  983410678  9  6 f   -     -     -         3031    0    0 
+AllSpice  983410729 10  6 f   -     -     -         3031    0    0 
+AllSpice  983410759 10  5 cc  kc    k     kc        3031  100  290 9s Ks
+AllSpice  983410825 10  4 f   -     -     -         3221    0    0 
+AllSpice  983410882 10  3 c   b     -     -         3221   40   70 
+AllSpice  983410919 10  2 Bf  -     -     -         3251   20    0 
+AllSpice  983410988 10  1 Bf  -     -     -         3231   10    0 
+AllSpice  983411038 10 10 f   -     -     -         3221    0    0 
+AllSpice  983411080 10  9 f   -     -     -         3221    0    0 
+AllSpice  983411138 10  8 rr  r     b     b         3221  200  660 Kh Ah
+AllSpice  983411219 10  7 f   -     -     -         3681    0    0 
+AllSpice  983411265 10  6 f   -     -     -         3681    0    0 
+AllSpice  983411289 10  5 f   -     -     -         3681    0    0 
+AllSpice  983411347 10  4 cc  brr   b     b         3681  220  490 Qh 7h
+AllSpice  983411417 10  3 cc  kc    k     k         3951   60    0 7d 7s
+AllSpice  983411459 10  2 Br  bc    kcc   kc        3891  200    0 Kd Kc
+AllSpice  983411560 10  1 Bf  -     -     -         3691   10    0 
+AllSpice  983411632 10 10 c   c     f     -         3681   40    0 
+AllSpice  983411696 10  9 f   -     -     -         3641    0    0 
+AllSpice  983411791 10  6 Q   -     -     -         3641    0    0 

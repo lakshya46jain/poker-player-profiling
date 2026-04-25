@@ -1,0 +1,91 @@
+KinkPin   931053519  8  8 f   -     -     -         2040    0    0 
+KinkPin   931053579  9  7 f   -     -     -         2040    0    0 
+KinkPin   931053601  8  6 f   -     -     -         2040    0    0 
+KinkPin   931053647  9  5 f   -     Q     -         2040    0    0 
+KinkPin   931053879 10  3 f   -     -     -         2040    0    0 
+KinkPin   931053905 10  2 Bf  -     -     -         2040   20    0 
+KinkPin   931053934 10  1 Bf  -     -     -         2020   10    0 
+KinkPin   931053945 10 10 f   -     -     -         2010    0    0 
+KinkPin   931053984 10  9 f   -     -     -         2010    0    0 
+KinkPin   931054004 10  8 rrr b     b     b         2010  220  470 Jc Ks
+KinkPin   931054033 10  7 rc  f     -     -         2260   80    0 
+KinkPin   931054105  9  5 f   -     -     -         2180    0    0 
+KinkPin   931054145  9  5 f   -     -     -         2180    0    0 
+KinkPin   931054186  8  3 f   -     -     -         2180    0    0 
+KinkPin   931054242  9  2 Bf  -     -     -         2180   20    0 
+KinkPin   931054304  8  1 Bf  -     -     -         2160   10    0 
+KinkPin   931054380  8  8 f   -     -     -         2150    0    0 
+KinkPin   931054403  7  6 f   -     -     -         2150    0    0 
+KinkPin   931054428  7  5 KQ  -     -     -         2150    0    0 
+KinkPin   931269561  5  4 f   -     -     -         2150    0    0 
+KinkPin   931269593  5  2 Bk  b     -     -         2150   40   70 
+KinkPin   931269600  5  1 Bf  -     -     -         2180   10    0 
+KinkPin   931269619  4  4 c   k     k     k         2170   20    0 7h 6h
+KinkPin   931269632  4  4 f   -     -     -         2150    0    0 
+KinkPin   931269644  4  3 f   -     -     -         2150    0    0 
+KinkPin   931269650  4  2 Bf  -     -     -         2150   20    0 
+KinkPin   931269673  4  1 Bc  bf    -     -         2130   40    0 
+KinkPin   931269697  5  5 f   -     -     -         2090    0    0 
+KinkPin   931269742  6  4 f   -     -     -         2090    0    0 
+KinkPin   931269772  6  3 fQ  -     -     -         2090    0    0 
+KinkPin   931282490 10  5 f   -     -     -         2090    0    0 
+KinkPin   931282518 10  4 f   -     -     -         2090    0    0 
+KinkPin   931282559 10  3 f   -     -     -         2090    0    0 
+KinkPin   931282606 10  2 B   -     -     -         2090   20   30 
+KinkPin   931282617 10  1 Bc  b     k     b         2100  100  360 Jh Kc
+KinkPin   931282677 10 10 r   br    r     k         2360  180    0 Ad 7d
+KinkPin   931282703 10  9 r   c     b     k         2180  100  310 As 7h
+KinkPin   931282760 10  8 r   r     k     k         2390   80    0 Kd 7d
+KinkPin   931282799 10  7 rc  f     -     -         2310   80    0 
+KinkPin   931282867 10  6 rc  r     bc    f         2230  200    0 
+KinkPin   931282968 10  6 f   -     -     -         2030    0    0 
+KinkPin   931282985  9  4 rc  b     -     -         2030   80  290 
+KinkPin   931283014 10  3 r   r     b     b         2240  160    0 Kd Qh
+KinkPin   931283049 10  2 Bc  b     k     b         2080  100    0 Td As
+KinkPin   931283088 10  1 Br  b     b     -         1980  100  260 
+KinkPin   931283122 10 10 c   r     f     -         2140   60    0 
+KinkPin   931283162 10  6 Q   -     -     -         2080    0    0 
+KinkPin   931288409  8  8 f   -     -     -         2080    0    0 
+KinkPin   931288434  8  7 c   c     c     c         2080  140    0 9s Jc
+KinkPin   931288459  8  6 r   br    c     f         1940  140    0 
+KinkPin   931288491  8  5 f   -     -     -         1800    0    0 
+KinkPin   931288521  8  4 r   r     br    b         1800  240    0 Qc Ad
+KinkPin   931288565 10  3 rr  b     b     -         1560  140  270 
+KinkPin   931288607  9  2 Br  kr    -     -         1690  100  190 
+KinkPin   931288630  8  1 Br  br    b     b         1780  180  340 
+KinkPin   931288684  8  8 r   b     b     b         1940  140  310 8c As
+KinkPin   931288722  9  8 c   rc    c     c         2110  160    0 4d As
+KinkPin   931288763  9  7 r   rc    c     r         1950  220    0 Qc 7s
+KinkPin   931288812  9  6 c   b     b     b         1730  120  300 
+KinkPin   931288865 10  5 f   -     -     -         1910    0    0 
+KinkPin   931288883  9  3 r   b     k     k         1910   60  160 Qh 2h
+KinkPin   931288910  9  2 B   -     -     -         2010   20   30 
+KinkPin   931288927  9  1 Bc  b     bc    kc        2020  180    0 6h Th
+KinkPin   931288961  9  9 r   f     -     -         1840   40    0 
+KinkPin   931288985  9  8 f   -     -     -         1800    0    0 
+KinkPin   931289013  7  5 rr  r     k     b         1800  160    0 Ac Td
+KinkPin   931289047  7  4 r   -     -     -         1640   40   70 
+KinkPin   931289079  7  3 cc  bc    kc    kf        1670  120    0 
+KinkPin   931289112  7  2 Bc  kf    -     -         1550   40    0 
+KinkPin   931289141  7  1 Br  k     k     kf        1510   40    0 
+KinkPin   931289186  5  5 r   -     -     -         1470   40   60 
+KinkPin   931289196  4  4 r   r     r     b         1490  220  460 8d Kh
+KinkPin   931289217  5  5 rc  r     c     c         1730  200    0 3s 6s
+KinkPin   931289239  6  5 rr  kf    -     -         1530   80    0 
+KinkPin   931289270  6  4 r   br    b     b         1450  180  550 Qd Qc
+KinkPin   931289323  6  3 rc  kf    -     -         1820   60    0 
+KinkPin   931289362  7  3 r   b     k     k         1760   60   75 Ad 3c
+KinkPin   931289398  7  2 Bc  kc    kf    -         1775   60    0 
+KinkPin   931289425  7  1 Brc kc    kf    -         1715   80    0 
+KinkPin   931289494  8  7 rc  f     -     -         1635   80    0 
+KinkPin   931289517  8  6 r   -     -     -         1555   40   70 
+KinkPin   931289535  8  5 rc  c     c     f         1585  180    0 
+KinkPin   931289588  8  4 r   k     b     b         1405  120    0 4c Kd
+KinkPin   931289631  8  3 rr  b     brr   b         1285  340    0 2d 8c
+KinkPin   931289678  7  1 Br  b     b     b          945  140  280 9h 5c
+KinkPin   931289710  7  1 Br  b     b     bc        1085  180    0 8s 4h
+KinkPin   931289734  8  8 rc  r     brc   rrr        905  520    0 9h 6s
+KinkPin   931289822  8  7 r   b     b     -          385  100  210 
+KinkPin   931289878  8  5 r   r     r     b          495  220    0 Jc 8h
+KinkPin   931289900  8  4 rr  b     bc    c          275  220    0 Qh 4s
+KinkPin   931289949  8  3 r   bA    -     -           55   55    0 3s Ad

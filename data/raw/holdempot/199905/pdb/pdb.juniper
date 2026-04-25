@@ -1,0 +1,2848 @@
+juniper   925772612  5  4 f   -     -     -        19026    0    0 
+juniper   925772628  5  3 f   -     -     -        19026    0    0 
+juniper   925772673  5  2 Bk  f     -     -        19026   10    0 
+juniper   925772688  5  1 Bf  -     -     -        19016    5    0 
+juniper   925772695  5  5 c   c     f     -        19011   50    0 
+juniper   925772719  5  4 c   rf    -     -        18961  110    0 
+juniper   925772737  5  3 f   -     -     -        18851    0    0 
+juniper   925772762  5  2 Bk  kc    kf    -        18851   50    0 
+juniper   925772810  5  1 Bc  kc    kc    kf       18801  130    0 
+juniper   925772835  5  5 c   c     c     f        18671  210    0 
+juniper   925772864  5  4 f   -     -     -        18461    0    0 
+juniper   925772895  5  3 cc  kc    k     k        18461  150  158 Kd As
+juniper   925772919  5  2 Bk  kc    kf    -        18469   40    0 
+juniper   925772954  5  1 Bc  k     kf    -        18429   10    0 
+juniper   925772975  5  5 f   -     -     -        18419    0    0 
+juniper   925772998  5  4 f   -     -     -        18419    0    0 
+juniper   925773020  5  3 c   c     c     b        18419  335  450 
+juniper   925773052  5  2 Bk  kc    f     -        18534   50    0 
+juniper   925773077  5  1 Bc  kf    -     -        18484   45    0 
+juniper   925773121  4  4 c   k     c     k        18439   40    0 2s As
+juniper   925773164  5  3 f   -     -     -        18399    0    0 
+juniper   925773177  5  2 Bc  kc    kf    -        18399  140    0 
+juniper   925773210  5  1 Bc  k     kc    kf       18259   40    0 
+juniper   925773239  5  5 c   k     b     k        18219   35   75 7h Th
+juniper   925773262  4  4 c   c     k     k        18259   45  105 Ks 8s
+juniper   925773287  4  3 c   b     k     f        18319   35    0 
+juniper   925773305  4  2 Bc  f     -     -        18284   35    0 
+juniper   925773317  5  1 Bf  -     -     -        18249    5    0 
+juniper   925773351  5  5 c   k     f     -        18244   10    0 
+juniper   925773372  5  4 f   -     -     -        18234    0    0 
+juniper   925773395  5  3 c   b     -     -        18234   35   50 
+juniper   925773407  5  2 B   -     -     -        18249   10   15 
+juniper   925773410  5  1 Bc  k     kf    -        18254   10    0 
+juniper   925773427  5  5 c   b     b     -        18244  150  210 
+juniper   925773441  5  4 c   c     b     -        18304  210  320 
+juniper   925773459  5  3 c   k     c     f        18414   40    0 
+juniper   925773479  6  2 Bk  kf    -     -        18374   10    0 
+juniper   925773495  6  1 Bc  kc    kf    -        18364   40    0 
+juniper   925773530  6  6 f   -     -     -        18324    0    0 
+juniper   925773537  6  5 f   -     -     -        18324    0    0 
+juniper   925773552  6  4 f   -     -     -        18324    0    0 
+juniper   925773569  6  3 c   k     k     f        18324   10    0 
+juniper   925773600  7  2 Bk  kf    -     -        18314   10    0 
+juniper   925773652  7  1 Bf  -     -     -        18304    5    0 
+juniper   925773666  7  7 c   k     k     k        18299   10    0 8d Jc
+juniper   925773706  7  6 c   k     k     k        18289   10   45 8c Ad
+juniper   925773731  7  5 c   k     k     k        18324   10    0 Qs 5s
+juniper   925773765  7  4 f   -     -     -        18314    0    0 
+juniper   925773796  7  3 cc  k     kf    -        18314   45    0 
+juniper   925773816  7  2 Bk  k     k     k        18269   10   45 Qs 3c
+juniper   925773843  8  1 Bc  k     k     k        18304   10    0 Jc 7d
+juniper   925773921  8  8 f   -     -     -        18294    0    0 
+juniper   925773967  8  7 f   -     -     -        18294    0    0 
+juniper   925773984  8  6 c   b     -     -        18294   45   70 
+juniper   925774003  8  5 f   -     -     -        18319    0    0 
+juniper   925774029  8  4 f   -     -     -        18319    0    0 
+juniper   925774062  9  4 f   -     -     -        18319    0    0 
+juniper   925774090  9  3 f   -     -     -        18319    0    0 
+juniper   925774117  9  2 B   -     -     -        18319   10   15 
+juniper   925774122  9  1 Bf  -     -     -        18324    5    0 
+juniper   925774157  9  9 f   -     -     -        18319    0    0 
+juniper   925774191  9  8 f   -     -     -        18319    0    0 
+juniper   925774224  9  7 f   -     -     -        18319    0    0 
+juniper   925774274  9  6 cc  kf    -     -        18319   55    0 
+juniper   925774323  9  5 f   -     -     -        18264    0    0 
+juniper   925774383  9  4 f   -     -     -        18264    0    0 
+juniper   925774422  9  3 c   k     b     b        18264  210  300 
+juniper   925774471  8  1 Bk  k     kf    -        18354   10    0 
+juniper   925774499  8  1 Bf  -     -     -        18344    5    0 
+juniper   925774562  8  8 c   f     -     -        18339   10    0 
+juniper   925774605  6  6 f   -     -     -        18329    0    0 
+juniper   925774621  6  5 c   k     k     k        18329   10    0 Js 9d
+juniper   925774675  7  5 f   -     -     -        18319    0    0 
+juniper   925774712  7  4 f   -     -     -        18319    0    0 
+juniper   925774740  7  3 f   -     -     -        18319    0    0 
+juniper   925774763  7  2 Bk  kf    -     -        18319   10    0 
+juniper   925774816  8  1 Bc  kf    -     -        18309   10    0 
+juniper   925774850  8  8 c   k     k     k        18299   10    0 Jc Ks
+juniper   925774898  8  7 f   -     -     -        18289    0    0 
+juniper   925774963  8  6 c   f     -     -        18289   10    0 
+juniper   925775028  9  5 c   k     f     -        18279   10    0 
+juniper   925775092  8  4 c   b     b     k        18269  515 1080 Ks As
+juniper   925775133  8  3 f   -     -     -        18834    0    0 
+juniper   925775166  7  1 B   -     -     -        18834   10   10 
+juniper   925775180  7  1 Bf  -     -     -        18834    5    0 
+juniper   925775197  7  7 c   k     f     -        18829   10    0 
+juniper   925775233  7  6 c   KQ    -     -        18819   10    0 
+juniper   925775356  7  2 Bk  kf    -     -        18809   10    0 
+juniper   925775394  7  1 Bf  -     -     -        18799    5    0 
+juniper   925775414  7  7 c   c     c     k        18794  190  405 Kc 2c
+juniper   925775459  7  6 f   -     -     -        19009    0    0 
+juniper   925775506  8  5 c   kf    -     -        19009   10    0 
+juniper   925775566  8  3 cc  kc    kc    k        18999  840    0 2h Ah
+juniper   925775612  8  3 c   kc    kc    kf       18159  190    0 
+juniper   925775668  8  2 Bk  kf    -     -        17969   10    0 
+juniper   925775716  8  1 Bc  kc    kr    b        17959 4235 5670 
+juniper   925775771  8  8 c   b     -     -        19394   35   50 
+juniper   925775797  8  7 f   -     -     -        19409    0    0 
+juniper   925775835  9  7 f   -     -     -        19409    0    0 
+juniper   925775869  9  6 c   b     -     -        19409   45   70 
+juniper   925775912  9  5 cc  k     f     -        19434   65    0 
+juniper   925775968 10  4 f   -     -     -        19369    0    0 
+juniper   925775997 10  3 f   -     -     -        19369    0    0 
+juniper   925776062 10  2 Bk  kf    -     -        19369   10    0 
+juniper   925776086 10  1 Bc  kf    -     -        19359   10    0 
+juniper   925776128 10 10 c   f     -     -        19349   35    0 
+juniper   925776173 10  9 f   -     -     -        19314    0    0 
+juniper   925776221 10  4 Q   -     -     -        19314    0    0 
+juniper   925852145  3  3 f   -     -     -        19314    0    0 
+juniper   925852158  3  2 Bk  c     c     c        19314  400    0 2s 8c
+juniper   925852172  3  1 Bc  bc    kc    k        18914 1075 2160 8c 7c
+juniper   925852194  3  3 cc  k     k     b        19999  110  150 
+juniper   925852217  3  2 Bf  -     -     -        20039   10    0 
+juniper   925852231  3  1 Bc  b     -     -        20029   30   40 
+juniper   925852237  3  3 cc  f     -     -        20039   40    0 
+juniper   925852266  3  2 Bc  kc    kc    k        19999  335    0 6s As
+juniper   925852286  4  1 Bcc k     kf    -        19664  140    0 
+juniper   925852309  4  4 r   f     -     -        19524   35    0 
+juniper   925852318  4  3 c   cf    -     -        19489   50    0 
+juniper   925852340  4  2 Bc  kf    -     -        19439   40    0 
+juniper   925852351  4  1 Bc  k     kf    -        19399   35    0 
+juniper   925852375  4  4 c   f     -     -        19364   35    0 
+juniper   925852389  4  3 f   -     -     -        19329    0    0 
+juniper   925852393  4  2 Bf  -     -     -        19329   10    0 
+juniper   925852417  4  1 Bf  -     -     -        19319    5    0 
+juniper   925852434  4  4 c   f     -     -        19314   35    0 
+juniper   925852447  4  3 cc  kc    k     bc       19279 1410    0 4h 4s
+juniper   925852473  4  2 Bf  -     -     -        17869   10    0 
+juniper   925852494  4  1 Bcc kf    -     -        17859   30    0 
+juniper   925852505  4  4 f   -     -     -        17829    0    0 
+juniper   925852524  4  3 cc  f     -     -        17829   45    0 
+juniper   925852560  4  2 Bf  -     -     -        17784   10    0 
+juniper   925852575  4  1 Bc  kc    k     k        17774  225    0 Ks Ac
+juniper   925852608  5  5 f   -     -     -        17549    0    0 
+juniper   925852646  5  4 c   b     -     -        17549   35   50 
+juniper   925852659  6  4 cc  c     b     -        17564  690  960 
+juniper   925852699  6  3 f   -     -     -        17834    0    0 
+juniper   925852729  6  2 Bc  kf    -     -        17834   35    0 
+juniper   925852745  6  1 Bf  -     -     -        17799    5    0 
+juniper   925852815  6  6 f   -     -     -        17794    0    0 
+juniper   925852829  6  5 f   -     -     -        17794    0    0 
+juniper   925852839  6  4 f   -     -     -        17794    0    0 
+juniper   925852876  6  3 c   c     f     -        17794   40    0 
+juniper   925852902  6  2 Bc  kc    k     kf       17754  110    0 
+juniper   925852925  6  1 Bf  -     -     -        17644    5    0 
+juniper   925852931  6  6 c   f     -     -        17639   35    0 
+juniper   925852997  6  5 f   -     -     -        17604    0    0 
+juniper   925853019  6  4 f   -     -     -        17604    0    0 
+juniper   925853036  6  3 f   -     -     -        17604    0    0 
+juniper   925853060  6  2 Bc  kf    -     -        17604   45    0 
+juniper   925853109  6  1 Bc  kc    k     b        17559  560  840 
+juniper   925853154  6  6 cc  c     f     -        17839  360    0 
+juniper   925853210  7  6 c   c     c     k        17479  190    0 7s 9s
+juniper   925853242  7  5 c   f     -     -        17289   10    0 
+juniper   925853280  7  4 f   -     -     -        17279    0    0 
+juniper   925853348  7  3 c   f     -     -        17279   10    0 
+juniper   925853447  6  2 Bc  kf    -     -        17269   35    0 
+juniper   925853458  7  1 Bc  k     b     -        17234   30   40 
+juniper   925853475  7  7 c   k     k     k        17244   10    0 5h Jh
+juniper   925853544  7  5 Q   -     -     -        17234    0    0 
+juniper   925853655  6  2 Bc  kc    kf    -        17234  110    0 
+juniper   925853679  6  1 Bc  kf    -     -        17124   10    0 
+juniper   925853716  7  7 f   -     -     -        17114    0    0 
+juniper   925853768  7  6 f   -     -     -        17114    0    0 
+juniper   925853800  7  5 f   -     -     -        17114    0    0 
+juniper   925853840  7  4 f   -     -     -        17114    0    0 
+juniper   925853871  7  3 f   -     -     -        17114    0    0 
+juniper   925853918  7  2 Bc  cc    kf    -        17114 1445    0 
+juniper   925853968  6  1 Br  b     -     -        15669  360  600 
+juniper   925854005  6  6 f   -     -     -        15909    0    0 
+juniper   925854029  5  4 f   -     -     -        15909    0    0 
+juniper   925854036  5  4 f   -     -     -        15909    0    0 
+juniper   925854051  5  3 f   -     -     -        15909    0    0 
+juniper   925854088  5  2 Bc  c     c     k        15909  765    0 8h Kh
+juniper   925854127  5  1 Bcc bc    k     b        15144 2650 3600 
+juniper   925854171  4  4 c   c     f     -        16094   40    0 
+juniper   925854191  4  4 f   -     -     -        16054    0    0 
+juniper   925854211  4  3 cc  c     c     c        16054 1600 3240 4d Kd
+juniper   925854240  4  2 Bc  f     -     -        17694   85    0 
+juniper   925854275  4  1 Bc  kf    -     -        17609   10    0 
+juniper   925854306  4  4 c   c     f     -        17599  145    0 
+juniper   925854324  4  3 f   -     -     -        17454    0    0 
+juniper   925854334  4  2 B   -     -     -        17454   10   15 
+juniper   925854342  4  1 Bf  -     -     -        17459    5    0 
+juniper   925854367  4  4 c   k     k     k        17454   10    0 Js 9d
+juniper   925854402  4  3 f   -     -     -        17444    0    0 
+juniper   925854420  4  2 Bc  kc    kf    -        17444  185    0 
+juniper   925854451  4  1 Bf  -     -     -        17259    5    0 
+juniper   925854489  4  4 c   k     b     -        17254   50   80 
+juniper   925854527  4  3 c   c     c     b        17284  400  540 
+juniper   925854557  4  2 Br  c     k     b        17424  270  360 
+juniper   925854586  4  1 Bcc kc    k     b        17514  520  720 
+juniper   925854621  4  4 cc  c     c     f        17714  455    0 
+juniper   925854650  4  3 c   b     -     -        17259   40   60 
+juniper   925854667  4  2 Bc  kf    -     -        17279   25    0 
+juniper   925854679  4  1 Bcc kf    -     -        17254   40    0 
+juniper   925854705  4  4 c   f     -     -        17214   35    0 
+juniper   925854715  4  3 f   -     -     -        17179    0    0 
+juniper   925854751  4  2 Bk  b     b     k        17179  160  480 6c 5s
+juniper   925854792  3  1 Bc  kc    kf    -        17499   40    0 
+juniper   925854812  3  3 cc  f     -     -        17459   40    0 
+juniper   925854825  3  2 Bc  kf    -     -        17419   35    0 
+juniper   925854841  3  1 Bf  -     -     -        17384    5    0 
+juniper   925854844  3  3 c   c     f     -        17379   40    0 
+juniper   925854884  4  2 Bc  c     k     k        17339   90   90 6h Ac
+juniper   925854906  4  1 Bf  -     -     -        17339    5    0 
+juniper   925854921  4  4 r   b     -     -        17334  150  210 
+juniper   925854943  4  3 f   -     -     -        17394    0    0 
+juniper   925854982  4  2 Bk  b     -     -        17394   35   50 
+juniper   925854997  4  1 Br  b     -     -        17409  130  180 
+juniper   925855014  4  4 c   c     f     -        17459  145    0 
+juniper   925855037  4  3 f   -     -     -        17314    0    0 
+juniper   925855065  4  2 B   -     -     -        17314   10   15 
+juniper   925855073  4  1 Bc  kf    -     -        17319   35    0 
+juniper   925855093  4  4 c   f     -     -        17284   10    0 
+juniper   925855121  4  3 f   -     -     -        17274    0    0 
+juniper   925855131  4  2 B   -     -     -        17274   10   15 
+juniper   925855139  4  1 Bc  kf    -     -        17279   35    0 
+juniper   925855161  4  4 f   -     -     -        17244    0    0 
+juniper   925855175  4  3 f   -     -     -        17244    0    0 
+juniper   925855211  4  2 B   -     -     -        17244   10   15 
+juniper   925855221  4  1 Bcf -     -     -        17249   10    0 
+juniper   925855250  4  4 c   k     k     k        17239   35    0 7s 8c
+juniper   925855279  4  3 f   -     -     -        17204    0    0 
+juniper   925855303  4  2 Bc  f     -     -        17204   35    0 
+juniper   925855387  4  1 Bc  kf    -     -        17169   10    0 
+juniper   925855420  4  4 f   -     -     -        17159    0    0 
+juniper   925855427  4  3 f   -     -     -        17159    0    0 
+juniper   925855439  4  2 Bc  c     b     k        17159 1840    0 9d Ks
+juniper   925855484  4  1 Bc  b     -     -        15319   40   60 
+juniper   925855498  4  4 f   -     -     -        15339    0    0 
+juniper   925855517  4  3 c   b     -     -        15339   50   80 
+juniper   925855532  4  2 Bk  kc    k     kf       15369   40    0 
+juniper   925855566  4  1 Bc  kc    k     b        15329   90    0 Qc Kc
+juniper   925855587  4  4 c   f     -     -        15239   10    0 
+juniper   925855609  5  3 f   -     -     -        15229    0    0 
+juniper   925855636  6  2 Bc  kf    -     -        15229   45    0 
+juniper   925855694  7  1 Bc  kf    -     -        15184   35    0 
+juniper   925855710  7  7 f   -     -     -        15149    0    0 
+juniper   925855738  7  6 f   -     -     -        15149    0    0 
+juniper   925855784  7  5 c   c     r     b        15149 9310 12600 
+juniper   925855854  8  5 c   k     k     k        18439   10    0 Th 9c
+juniper   925855887  8  4 cc  k     kf    -        18429   70    0 
+juniper   925855932  8  3 c   b     -     -        18359   50   80 
+juniper   925855952  8  2 Bk  kc    k     kc       18389  185  210 3h 6c
+juniper   925856012  8  1 Bc  k     k     k        18414   10    0 As 3s
+juniper   925856037  8  8 f   -     -     -        18404    0    0 
+juniper   925856095  8  7 f   -     -     -        18404    0    0 
+juniper   925856128  8  6 f   -     -     -        18404    0    0 
+juniper   925856175  7  4 c   b     k     b        18404  130  180 
+juniper   925856216  8  4 f   -     -     -        18454    0    0 
+juniper   925856240  8  3 f   -     -     -        18454    0    0 
+juniper   925856268  8  2 Bf  -     -     -        18454   10    0 
+juniper   925856292  7  1 Bf  -     -     -        18444    5    0 
+juniper   925856316  7  7 c   b     k     k        18439   55    0 Tc 2c
+juniper   925856354  7  6 f   -     -     -        18384    0    0 
+juniper   925856389  7  5 f   -     -     -        18384    0    0 
+juniper   925856460  8  4 f   -     -     -        18384    0    0 
+juniper   925856536  7  3 f   -     -     -        18384    0    0 
+juniper   925856567  6  2 Bk  f     -     -        18384   10    0 
+juniper   925856585  6  1 Bf  -     -     -        18374    5    0 
+juniper   925856620  8  8 f   -     -     -        18369    0    0 
+juniper   925856666  8  7 c   c     b     k        18369  515 1080 Ah As
+juniper   925856726  8  6 c   kc    kf    -        18934   45    0 
+juniper   925856790  8  5 c   b     cc    kf       18889  850    0 
+juniper   925856864  8  4 f   -     -     -        18039    0    0 
+juniper   925856939  8  3 f   -     -     -        18039    0    0 
+juniper   925856972  9  2 Bk  kf    -     -        18039   10    0 
+juniper   925857046  9  1 Bc  kf    -     -        18029   55    0 
+juniper   925857123  9  9 f   -     -     -        17974    0    0 
+juniper   925857162  9  8 c   c     c     f        17974  785    0 
+juniper   925857254  9  7 c   c     c     c        17189  790 1620 Td Jc
+juniper   925857316  9  6 f   -     -     -        18019    0    0 
+juniper   925857376  9  5 c   b     k     b        18019  290  420 
+juniper   925857450  9  4 c   b     kc    kf       18149  430    0 
+juniper   925857577 10  4 cc  kf    -     -        17719   45    0 
+juniper   925857620 10  3 cc  kf    -     -        17674   45    0 
+juniper   925857648  9  2 Bc  k     f     -        17629   35    0 
+juniper   925857682 10  1 Bc  kf    -     -        17594   10    0 
+juniper   925857750 10 10 c   k     k     k        17584   10    0 Ks 9h
+juniper   925857817 10  9 f   -     -     -        17574    0    0 
+juniper   925857841 10  8 cc  k     kf    -        17574   65    0 
+juniper   925857965 10  7 c   k     k     k        17509   10    0 As 8h
+juniper   925858024 10  6 f   -     -     -        17499    0    0 
+juniper   925858090 10  5 f   -     -     -        17499    0    0 
+juniper   925858157 10  4 c   kf    -     -        17499   10    0 
+juniper   925858223 10  3 f   -     -     -        17489    0    0 
+juniper   925858290 10  2 Bk  kf    -     -        17489   10    0 
+juniper   925858354 10  1 Bf  -     -     -        17479    5    0 
+juniper   925858421 10 10 c   c     f     -        17474   70    0 
+juniper   925858526 10  9 f   -     -     -        17404    0    0 
+juniper   925858613 10  8 f   -     -     -        17404    0    0 
+juniper   925858680 10  7 c   k     kf    -        17404   10    0 
+juniper   925858819 10  6 f   -     -     -        17394    0    0 
+juniper   925858852 10  5 c   kQ    -     -        17394   10    0 
+juniper   925861883  7  3 c   k     b     -        17384   55   90 
+juniper   925861910  6  2 Bk  k     k     k        17419   10   15 9d 2c
+juniper   925861950  6  1 Bf  -     -     -        17424    5    0 
+juniper   925861967  6  6 f   -     -     -        17419    0    0 
+juniper   925861988  6  5 f   -     -     -        17419    0    0 
+juniper   925862010  6  4 f   -     -     -        17419    0    0 
+juniper   925862035  6  3 c   k     kf    -        17419   10    0 
+juniper   925862070  6  2 Bk  k     b     k        17409   35   38 Th 2s
+juniper   925862091  6  1 Bc  kf    -     -        17412   55    0 
+juniper   925862128  6  6 f   -     -     -        17357    0    0 
+juniper   925862158  6  5 f   -     -     -        17357    0    0 
+juniper   925862198  6  4 cc  kf    -     -        17357   45    0 
+juniper   925862220  5  3 r   k     k     b        17312  145  220 
+juniper   925862256  5  2 Bk  k     b     -        17387   35   50 
+juniper   925862276  5  1 Bc  b     -     -        17402   50   80 
+juniper   925862293  6  6 f   -     -     -        17432    0    0 
+juniper   925862313  6  5 c   k     k     cf       17432   45    0 
+juniper   925862346  6  4 c   kf    -     -        17387   10    0 
+juniper   925862391  6  3 c   c     k     k        17377   50    0 7h As
+juniper   925862464  6  2 Bk  f     -     -        17327   10    0 
+juniper   925862496  6  1 Bc  b     k     k        17317   50    0 5c Jc
+juniper   925862524  6  6 c   k     f     -        17267   10    0 
+juniper   925862554  6  5 f   -     -     -        17257    0    0 
+juniper   925862599  6  5 c   k     k     k        17257   10    0 6s 7c
+juniper   925862634  5  2 Bk  kf    -     -        17247   10    0 
+juniper   925862659  5  1 Bc  k     b     -        17237   50   80 
+juniper   925862682  6  6 c   b     -     -        17267   60  100 
+juniper   925862704  6  5 f   -     -     -        17307    0    0 
+juniper   925862754  6  4 f   -     -     -        17307    0    0 
+juniper   925862798  6  3 c   b     -     -        17307   50   80 
+juniper   925862828  6  2 Bk  k     k     kf       17337   10    0 
+juniper   925862872  5  1 Bc  k     k     kf       17327   10    0 
+juniper   925862900  6  6 c   b     b     k        17317  190  405 7s Js
+juniper   925862927  6  5 cc  k     f     -        17532   40    0 
+juniper   925862952  7  4 cc  kf    -     -        17492   55    0 
+juniper   925862980  7  3 f   -     -     -        17437    0    0 
+juniper   925863012  6  2 Bk  f     -     -        17437   10    0 
+juniper   925863040  5  1 Bc  k     b     k        17427   40   90 2c 8c
+juniper   925863075  5  5 c   k     b     -        17477   55   90 
+juniper   925863108  5  4 c   b     -     -        17512   60  100 
+juniper   925863146  6  3 f   -     -     -        17552    0    0 
+juniper   925863172  6  2 Bc  kf    -     -        17552   35    0 
+juniper   925863210  7  1 Bc  kf    -     -        17517   45    0 
+juniper   925863234  7  7 c   k     c     k        17472   50    0 Jh Th
+juniper   925863273  7  6 c   k     k     kf       17422   10    0 
+juniper   925863310  7  5 f   -     -     -        17412    0    0 
+juniper   925863333  7  4 f   -     -     -        17412    0    0 
+juniper   925863398  7  3 cc  f     -     -        17412   55    0 
+juniper   925863460  7  2 Bc  kf    -     -        17357   45    0 
+juniper   925863517  7  1 Bc  k     k     b        17312   60  150 Td Tc
+juniper   925863582  7  7 c   k     k     f        17402   10    0 
+juniper   925863606  7  6 c   b     b     -        17392  210  300 
+juniper   925863656  6  4 cc  kf    -     -        17482   45    0 
+juniper   925863688  6  3 f   -     -     -        17437    0    0 
+juniper   925863718  6  2 Bf  -     -     -        17437   10    0 
+juniper   925863745  6  1 Bc  b     b     kc       17427  690 1440 9h Js
+juniper   925863813  5  5 f   -     -     -        18177    0    0 
+juniper   925863840  6  5 f   -     -     -        18177    0    0 
+juniper   925863929  6  4 f   -     -     -        18177    0    0 
+juniper   925863972  6  3 c   k     k     f        18177   10    0 
+juniper   925864016  7  3 c   k     b     b        18167  170  240 
+juniper   925864082  7  2 Bk  k     kc    kf       18237   65    0 
+juniper   925864135  7  1 Bc  kf    -     -        18172   10    0 
+juniper   925864177  7  7 f   -     -     -        18162    0    0 
+juniper   925864203  7  6 c   kf    -     -        18162   10    0 
+juniper   925864229  7  5 c   k     f     -        18152   10    0 
+juniper   925864249  7  4 f   -     -     -        18142    0    0 
+juniper   925864277  7  3 f   -     -     -        18142    0    0 
+juniper   925864311  7  2 Bc  kf    -     -        18142  120    0 
+juniper   925864341  8  1 Bf  -     -     -        18022    5    0 
+juniper   925864375  8  4 Q   -     -     -        18017    0    0 
+juniper   925947271  8  5 f   -     -     -        18017    0    0 
+juniper   925947288  8  5 f   -     -     -        18017    0    0 
+juniper   925947322  8  4 c   k     k     k        18017   10    0 6s 6d
+juniper   925947361  9  3 f   -     -     -        18007    0    0 
+juniper   925947406  9  2 Bf  -     -     -        18007   10    0 
+juniper   925947447  9  1 Bf  -     -     -        17997    5    0 
+juniper   925947509  9  8 f   -     -     -        17992    0    0 
+juniper   925947554  9  7 f   -     -     -        17992    0    0 
+juniper   925947612  9  6 f   -     -     -        17992    0    0 
+juniper   925947654  9  6 f   -     -     -        17992    0    0 
+juniper   925947702  9  5 c   f     -     -        17992   10    0 
+juniper   925947727  9  4 f   -     -     -        17982    0    0 
+juniper   925947780  9  3 c   f     -     -        17982   10    0 
+juniper   925947809  9  2 Bk  kc    kf    -        17972   35    0 
+juniper   925947830  9  1 Bf  -     -     -        17937    5    0 
+juniper   925947865  9  8 f   -     -     -        17932    0    0 
+juniper   925947906  9  7 f   -     -     -        17932    0    0 
+juniper   925947948  9  6 c   k     c     f        17932   55    0 
+juniper   925948000 10  6 c   k     c     k        17877   55    0 Qc 9h
+juniper   925948045 10  5 f   -     -     -        17822    0    0 
+juniper   925948100 10  4 f   -     -     -        17822    0    0 
+juniper   925948159 10  3 f   -     -     -        17822    0    0 
+juniper   925948193 10  2 Bf  -     -     -        17822   10    0 
+juniper   925948236 10  1 Bc  kc    kr    -        17812  715  960 
+juniper   925948261 10  9 r   -     -     -        18057   35   50 
+juniper   925948276 10  8 f   -     -     -        18072    0    0 
+juniper   925948358  9  5 f   -     -     -        18002    0    0 
+juniper   925948391  9  5 f   -     -     -        18002    0    0 
+juniper   925948410  9  4 c   k     b     kf       18002   45    0 
+juniper   925948445  9  3 f   -     -     -        17957    0    0 
+juniper   925948474  9  2 Bk  b     b     b        17957  335  675 7c Ac
+juniper   925948514  9  1 Bf  -     -     -        18297    5    0 
+juniper   925948545  9  8 f   -     -     -        18292    0    0 
+juniper   925948586  9  7 f   -     -     -        18292    0    0 
+juniper   925948629  8  6 f   -     -     -        18292    0    0 
+juniper   925948704  7  5 c   k     k     b        18292   50   80 
+juniper   925948750  7  4 c   c     k     c        18322  250  600 As 5s
+juniper   925948794  7  3 f   -     -     -        18672    0    0 
+juniper   925948827  7  2 Bf  -     -     -        18672   10    0 
+juniper   925948886  7  1 Bc  kf    -     -        18662   35    0 
+juniper   925948914  7  6 c   k     c     b        18627  615  870 
+juniper   925948951  7  5 f   -     -     -        18882    0    0 
+juniper   925948973  7  4 f   -     -     -        18882    0    0 
+juniper   925949013  7  4 f   -     -     -        18882    0    0 
+juniper   925949065  7  3 cc  c     b     k        18882  335    0 9d Qs
+juniper   925949095  7  2 Bc  b     kc    b        18547 2240 3360 
+juniper   925949139  7  1 Bc  b     k     b        19667  310  750 Qd 7s
+juniper   925949190  7  6 f   -     -     -        20107    0    0 
+juniper   925949222  7  5 f   -     -     -        20107    0    0 
+juniper   925949247  7  4 f   -     -     -        20107    0    0 
+juniper   925949290  7  4 f   -     -     -        20107    0    0 
+juniper   925949355  7  3 r   c     k     b        20107  615 1305 As Ks
+juniper   925949423  6  1 Bf  -     -     -        20737    5    0 
+juniper   925949447  6  5 f   -     -     -        20732    0    0 
+juniper   925949492  6  4 f   -     -     -        20732    0    0 
+juniper   925949516  6  4 c   f     -     -        20732   10    0 
+juniper   925949532  6  3 cc  kc    kc    kf       20722  765    0 
+juniper   925949563  6  2 Bk  KQ    -     -        19957   10    0 
+juniper   925949687  5  3 Q   -     -     -        19947    0    0 
+juniper   925949776  5  3 c   bf    -     -        19947   45    0 
+juniper   925949797  5  3 f   -     -     -        19902    0    0 
+juniper   925949874  7  1 Bc  b     k     b        19762  635  900 
+juniper   925949918  7  6 c   k     k     k        20027   10    0 Jc 5s
+juniper   925949940  7  5 c   f     -     -        20017   45    0 
+juniper   925949976  7  5 c   b     b     bc       19972 1010    0 Jc Qh
+juniper   925950024  7  4 f   -     -     -        18962    0    0 
+juniper   925950142  8  2 Bk  f     -     -        18952   10    0 
+juniper   925950189  8  1 Bc  k     k     k        18942   10    0 5h 4d
+juniper   925950222  8  7 f   -     -     -        18932    0    0 
+juniper   925950245  8  6 f   -     -     -        18932    0    0 
+juniper   925950284  8  6 f   -     -     -        18932    0    0 
+juniper   925950344  8  5 c   k     c     b        18932  260  400 
+juniper   925950397  8  4 f   -     -     -        19072    0    0 
+juniper   925950432  8  3 f   -     -     -        19072    0    0 
+juniper   925950453  8  2 Bk  k     k     kf       19072   10    0 
+juniper   925950495  9  1 Bc  kf    -     -        19062   10    0 
+juniper   925950529  9  8 c   f     -     -        19052   32    0 
+juniper   925950586  9  7 c   f     -     -        19020   10    0 
+juniper   925950630  8  6 f   -     -     -        19010    0    0 
+juniper   925950673  8  5 f   -     -     -        19010    0    0 
+juniper   925950702  8  4 cc  kc    kf    -        19010  190    0 
+juniper   925950741  7  3 f   -     -     -        18820    0    0 
+juniper   925950831  7  6 c   c     b     -        18780  645  900 
+juniper   925950926  7  5 f   -     -     -        19025    0    0 
+juniper   925950944  7  4 c   k     kf    -        19025   10    0 
+juniper   925950992  7  3 f   -     -     -        19015    0    0 
+juniper   925951064  7  1 Bc  kf    -     -        19005   10    0 
+juniper   925951082  7  6 f   -     -     -        18995    0    0 
+juniper   925951113  7  5 c   b     -     -        18995   60  100 
+juniper   925951140  8  6 c   kc    kc    kc       19035  660 1350 5d 7d
+juniper   925951184  9  6 c   b     b     k        19725  230  247 8d 5d
+juniper   925951228  9  5 f   -     -     -        19742    0    0 
+juniper   925951273  9  4 f   -     -     -        19742    0    0 
+juniper   925951315  9  3 c   kc    f     -        19742   60    0 
+juniper   925951362  9  2 Bk  k     b     k        19682   50  200 5s 9d
+juniper   925951438  9  8 f   -     -     -        19827    0    0 
+juniper   925951518 10  8 f   -     -     -        19817    0    0 
+juniper   925951564 10  7 c   k     b     kc       19817  170  360 7d 8d
+juniper   925951630 10  6 c   b     -     -        20007   55   90 
+juniper   925951674 10  5 c   kf    -     -        20042   10    0 
+juniper   925951738 10  4 cc  kf    -     -        20032   55    0 
+juniper   925951780 10  3 f   -     -     -        19977    0    0 
+juniper   925951820 10  2 Bc  kf    -     -        19977   35    0 
+juniper   925951851 10  1 Bf  -     -     -        19942    5    0 
+juniper   925951898 10  9 f   -     -     -        19937    0    0 
+juniper   925951956 10  8 c   c     c     c        19937  648 1336 Ac 9d
+juniper   925952038 10  7 f   -     -     -        20615    0    0 
+juniper   925952090 10  6 f   -     -     -        20615    0    0 
+juniper   925952118 10  5 c   kf    -     -        20615   10    0 
+juniper   925952176 10  3 f   -     -     -        20605    0    0 
+juniper   925952204 10  2 Bk  kf    -     -        20605   10    0 
+juniper   925952240 10  1 Bc  kf    -     -        20595   45    0 
+juniper   925952277 10  9 f   -     -     -        20550    0    0 
+juniper   925952324 10  8 f   -     -     -        20550    0    0 
+juniper   925952359 10  8 f   -     -     -        20550    0    0 
+juniper   925952389 10  7 c   k     f     -        20550   10    0 
+juniper   925952446 10  6 f   -     -     -        20540    0    0 
+juniper   925952485 10  5 c   k     b     b        20540  230  330 
+juniper   925952539 10  4 c   b     kc    kf       20640  210    0 
+juniper   925952601 10  3 c   c     b     f        20430  170    0 
+juniper   925952648 10  2 Bf  -     -     -        20260   10    0 
+juniper   925952696 10  1 Bf  -     -     -        20250    5    0 
+juniper   925952751 10  9 f   -     -     -        20245    0    0 
+juniper   925952802 10  8 c   f     -     -        20245   35    0 
+juniper   925952853 10  8 c   k     c     c        20210  150  315 Th 8d
+juniper   925952937 10  7 c   f     -     -        20375   10    0 
+juniper   925952979 10  6 f   Q     -     -        20365    0    0 
+juniper   926030353  4  2 Bk  kc    k     k        20365   35   75 3d Kh
+juniper   926030385  5  1 Br  k     k     k        20405   50    0 Kc As
+juniper   926030432  5  5 f   -     -     -        20355    0    0 
+juniper   926030464  6  5 f   -     -     -        20355    0    0 
+juniper   926030481  6  4 cc  k     kf    -        20355   55    0 
+juniper   926030509  6  3 f   -     -     -        20300    0    0 
+juniper   926030530  6  2 Bc  kc    kc    k        20300  775    0 6h 6s
+juniper   926030567  6  1 Bf  -     -     -        19525    5    0 
+juniper   926030582  6  6 cc  f     -     -        19520   40    0 
+juniper   926030613  6  5 f   -     -     -        19480    0    0 
+juniper   926030671  7  5 f   -     -     -        19480    0    0 
+juniper   926030723  8  5 f   -     -     -        19480    0    0 
+juniper   926030753  8  4 cc  k     b     b        19480  785  833 Qc Js
+juniper   926030803  8  3 cc  f     -     -        19528   50    0 
+juniper   926030827  8  2 Bf  -     -     -        19478   10    0 
+juniper   926030857  8  1 Bf  -     -     -        19468    5    0 
+juniper   926030896  8  8 c   f     -     -        19463   10    0 
+juniper   926030988  7  6 c   k     k     kf       19453   10    0 
+juniper   926031039  8  6 f   -     -     -        19443    0    0 
+juniper   926031063  9  7 c   k     f     -        19443   45    0 
+juniper   926031162  7  5 f   -     -     -        19398    0    0 
+juniper   926031179  7  4 c   k     k     k        19398   10    0 6s 5d
+juniper   926031195  7  3 f   -     -     -        19388    0    0 
+juniper   926031211  7  2 Bc  kf    -     -        19388   35    0 
+juniper   926031239  7  1 Bf  -     -     -        19353    5    0 
+juniper   926031263  7  7 c   c     k     f        19348   50    0 
+juniper   926031289  7  6 f   -     -     -        19298    0    0 
+juniper   926031302  7  5 c   b     b     -        19298  150  210 
+juniper   926031323  7  4 c   c     b     -        19358  785 1200 
+juniper   926031354  7  3 f   -     -     -        19773    0    0 
+juniper   926031385  7  2 B   -     -     -        19773   10   15 
+juniper   926031392  7  1 Bc  kf    -     -        19778   35    0 
+juniper   926031421  7  7 f   -     -     -        19743    0    0 
+juniper   926031465  6  5 c   c     cf    -        19743  340    0 
+juniper   926031504  6  4 f   -     -     -        19403    0    0 
+juniper   926031526  6  3 f   -     -     -        19403    0    0 
+juniper   926031537  6  2 Bc  k     bc    kf       19403  595    0 
+juniper   926031570  6  1 Bcc kf    -     -        18808   40    0 
+juniper   926031597  6  6 c   f     -     -        18768   10    0 
+juniper   926031628  6  5 f   -     -     -        18758    0    0 
+juniper   926031659  6  4 f   -     -     -        18758    0    0 
+juniper   926031682  6  3 cf  -     -     -        18758   10    0 
+juniper   926031715  6  2 Bk  k     c     c        18748   90    0 9s Ah
+juniper   926031737  7  1 Bf  -     -     -        18658    5    0 
+juniper   926031770  7  7 f   -     -     -        18653    0    0 
+juniper   926031801  7  6 f   -     -     -        18653    0    0 
+juniper   926031867  8  5 c   c     kf    -        18653   55    0 
+juniper   926031909  8  4 c   b     k     b        18598  495  690 
+juniper   926031933  9  4 c   b     -     -        18793   40   60 
+juniper   926031961  9  3 r   c     f     -        18813  180    0 
+juniper   926031991  9  2 Bf  -     -     -        18633   10    0 
+juniper   926032041  9  1 Bf  -     -     -        18623    5    0 
+juniper   926032081  9  9 f   -     -     -        18618    0    0 
+juniper   926032099  9  8 c   b     k     k        18618   60    0 8d 9d
+juniper   926032151  9  7 c   b     k     f        18558   80    0 
+juniper   926032213  9  6 r   kf    -     -        18478   45    0 
+juniper   926032285 10  6 c   kf    -     -        18433   10    0 
+juniper   926032314  9  4 c   k     f     -        18423   35    0 
+juniper   926032379  9  3 cc  b     k     c        18388  955 2025 Ah Jh
+juniper   926032417  9  2 Bk  f     -     -        19458   10    0 
+juniper   926032442  9  1 Bc  b     kf    -        19448   70    0 
+juniper   926032475  9  9 f   -     -     -        19378    0    0 
+juniper   926032505  9  8 f   -     -     -        19378    0    0 
+juniper   926032544  9  7 c   k     f     -        19378   10    0 
+juniper   926032569  9  6 c   b     kc    b        19368  660  900 
+juniper   926032595 10  6 r   -     -     -        19608   35   50 
+juniper   926032605 10  5 f   -     -     -        19623    0    0 
+juniper   926032633 10  4 c   k     f     -        19623   35    0 
+juniper   926032662 10  3 cc  kf    -     -        19588   75    0 
+juniper   926032712 10  2 Bk  k     b     -        19513   60  100 
+juniper   926032778  9  1 Bf  -     -     -        19553    5    0 
+juniper   926032805 10 10 f   -     -     -        19548    0    0 
+juniper   926032833 10  9 f   -     -     -        19548    0    0 
+juniper   926032895 10  8 f   -     -     -        19548    0    0 
+juniper   926032915 10  7 cc  f     -     -        19548   35    0 
+juniper   926032933 10  6 f   -     -     -        19513    0    0 
+juniper   926032957 10  5 f   -     -     -        19513    0    0 
+juniper   926032985 10  4 c   kf    -     -        19513   10    0 
+juniper   926033020 10  3 f   -     -     -        19503    0    0 
+juniper   926033060 10  2 Bk  kf    -     -        19503   10    0 
+juniper   926033092 10  1 Bf  -     -     -        19493    5    0 
+juniper   926033134 10 10 f   -     -     -        19488    0    0 
+juniper   926033160 10  9 f   -     -     -        19488    0    0 
+juniper   926033192 10  8 r   b     kc    k        19488 1755    0 Ks Ad
+juniper   926033234 10  7 f   -     -     -        17733    0    0 
+juniper   926033258 10  6 c   b     k     k        17733   40   90 9c 9d
+juniper   926033286 10  5 f   -     -     -        17783    0    0 
+juniper   926033302 10  4 f   -     -     -        17783    0    0 
+juniper   926033347 10  3 c   k     k     k        17783   10    0 Qs 2s
+juniper   926033383  9  1 Bk  kf    -     -        17773   10    0 
+juniper   926033421  9  1 Bc  kc    k     kf       17763   40    0 
+juniper   926033463  9  9 f   -     -     -        17723    0    0 
+juniper   926033502  8  7 f   -     -     -        17723    0    0 
+juniper   926033532  8  6 f   -     -     -        17723    0    0 
+juniper   926033560  8  5 c   k     k     k        17723   10   11 9c Qs
+juniper   926033591  8  4 f   -     -     -        17724    0    0 
+juniper   926033616  8  3 cf  -     -     -        17724   10    0 
+juniper   926033634  8  2 Bk  k     k     k        17714   10    0 Jc 3c
+juniper   926033663  8  1 Bc  b     b     -        17704  210  320 
+juniper   926033689  8  8 rc  c     k     c        17814 3805    0 9s 9h
+juniper   926033748  8  7 c   f     -     -        14009   10    0 
+juniper   926033784  8  6 r   c     k     r        13999 3115 6480 Jc Jd
+juniper   926033836  8  5 f   -     -     -        17364    0    0 
+juniper   926033867  8  4 f   -     -     -        17364    0    0 
+juniper   926033895  8  3 f   -     -     -        17364    0    0 
+juniper   926033939  8  2 Bk  kc    kf    -        17364   45    0 
+juniper   926034037  8  1 Bc  k     b     k        17319   60    0 6h 4h
+juniper   926034084  8  3 Q   -     -     -        17259    0    0 
+juniper   926365121  9  5 f   -     -     -        17259    0    0 
+juniper   926365154  9  4 c   f     -     -        17259   10    0 
+juniper   926365214  9  3 f   -     -     -        17249    0    0 
+juniper   926365306  8  2 Bc  f     -     -        17249   45    0 
+juniper   926365370  7  1 Bf  -     -     -        17204    5    0 
+juniper   926365403  6  6 c   c     k     f        17199   50    0 
+juniper   926365474  8  7 c   f     -     -        17149   35    0 
+juniper   926365503  8  6 f   -     -     -        17114    0    0 
+juniper   926365550  8  5 c   f     -     -        17114   35    0 
+juniper   926365586  8  4 cc  kf    -     -        17079   85    0 
+juniper   926365656  8  3 c   b     kc    kc       16994  775    0 Ah Ts
+juniper   926365722  8  3 c   kf    -     -        16219   10    0 
+juniper   926365759  8  2 Bc  kf    -     -        16209   35    0 
+juniper   926365795  8  1 Bcf -     -     -        16174   10    0 
+juniper   926365824  8  8 c   k     b     k        16164   70  180 Ad 4d
+juniper   926365879  8  7 cc  f     -     -        16274   55    0 
+juniper   926365911  8  6 cc  f     -     -        16219   50    0 
+juniper   926365929  8  5 c   k     b     -        16169   40   60 
+juniper   926365956  8  4 f   -     -     -        16189    0    0 
+juniper   926365972  8  3 f   -     -     -        16189    0    0 
+juniper   926366005  9  2 Bc  kc    kc    kf       16189  735    0 
+juniper   926366039  8  1 Bf  -     -     -        15454    5    0 
+juniper   926366076  8  8 c   f     -     -        15449   10    0 
+juniper   926366107  8  7 c   c     b     -        15439  475  660 
+juniper   926366132  8  6 cc  f     -     -        15624   40    0 
+juniper   926366149  8  5 f   -     -     -        15584    0    0 
+juniper   926366184  9  4 f   -     -     -        15584    0    0 
+juniper   926366243  9  3 f   -     -     -        15584    0    0 
+juniper   926366283  9  2 Bk  kf    -     -        15584   10    0 
+juniper   926366321  9  1 Bc  kc    k     kf       15574   70    0 
+juniper   926366437  9  8 c   c     k     c        15194  965    0 Ks 6s
+juniper   926366479  9  7 f   -     -     -        14229    0    0 
+juniper   926366510  9  6 f   -     -     -        14229    0    0 
+juniper   926366538  9  5 f   -     -     -        14229    0    0 
+juniper   926366596  8  4 f   -     -     -        14229    0    0 
+juniper   926366648  8  3 f   -     -     -        14229    0    0 
+juniper   926366698  8  2 Bc  k     k     k        14229   45    0 Qd Th
+juniper   926366754  9  1 Bf  -     -     -        14184    5    0 
+juniper   926366787  8  8 c   k     c     k        14179  240    0 6c 7d
+juniper   926366854  8  7 f   -     -     -        13939    0    0 
+juniper   926366911  8  5 f   -     -     -        13929    0    0 
+juniper   926366951  8  4 f   -     -     -        13929    0    0 
+juniper   926367001  8  3 cc  kf    -     -        13929   45    0 
+juniper   926367031  8  2 Bc  kf    -     -        13884   45    0 
+juniper   926367119  8  8 c   k     f     -        13834   10    0 
+juniper   926367154  8  7 r   -     -     -        13824   35   50 
+juniper   926367169  8  6 r   f     -     -        13839   55    0 
+juniper   926367257  8  4 c   b     kf    -        13549   45    0 
+juniper   926367292  8  3 f   -     -     -        13504    0    0 
+juniper   926367340  9  2 Bc  b     -     -        13504  190  270 
+juniper   926367373  9  1 Bc  kc    k     k        13584   60    0 8c Jh
+juniper   926367427  8  8 f   -     -     -        13524    0    0 
+juniper   926367477  8  7 f   -     -     -        13524    0    0 
+juniper   926367555  8  6 f   -     -     -        13524    0    0 
+juniper   926367594  8  5 f   -     -     -        13524    0    0 
+juniper   926367640  8  4 c   kc    k     b        13524  270  390 
+juniper   926367700  8  3 c   b     k     k        13644   80    0 8s 8h
+juniper   926367759  8  2 Bf  -     -     -        13564   10    0 
+juniper   926367829  7  1 Bc  b     b     b        13554 4900 6840 
+juniper   926367889  7  7 r   k     k     k        15494   65  137 4s As
+juniper   926367946  7  6 r   b     k     b        15566  995 1410 
+juniper   926368008  8  6 c   k     c     b        15981  250  540 Kh 4h
+juniper   926368095  7  5 cc  kf    -     -        16271   75    0 
+juniper   926368147  9  5 f   -     -     -        16196    0    0 
+juniper   926368187  9  4 f   -     -     -        16196    0    0 
+juniper   926368207  9  3 cc  kf    -     -        16196   65    0 
+juniper   926368266  9  2 Bk  kc    kf    -        16131   35    0 
+juniper   926368301 10  1 Bf  -     -     -        16096    5    0 
+juniper   926368345 10 10 f   -     -     -        16091    0    0 
+juniper   926368382 10  9 c   c     c     b        16091 2580 5265 Js 6s
+juniper   926368444 10  8 f   -     -     -        18776    0    0 
+juniper   926368497 10  7 f   -     -     -        18776    0    0 
+juniper   926368621 10  6 f   -     -     -        18776    0    0 
+juniper   926368670 10  5 cf  -     -     -        18776   10    0 
+juniper   926368715 10  4 f   -     -     -        18766    0    0 
+juniper   926368764 10  3 cc  kc    kf    -        18766  315    0 
+juniper   926368853 10  2 Bc  b     b     kc       18451 7195 22000 4d 4c
+juniper   926368912 10  1 Bc  kf    -     -        33256   45    0 
+juniper   926369022  9  8 f   -     -     -        33211    0    0 
+juniper   926369063  9  7 f   -     -     -        33211    0    0 
+juniper   926369125 10  7 c   c     k     c        33211  635 1350 Kh 4h
+juniper   926369165 10  6 f   -     -     -        33926    0    0 
+juniper   926369236 10  5 c   f     -     -        33926   10    0 
+juniper   926369290 10  4 c   c     f     -        33916  100    0 
+juniper   926369346 10  3 c   kf    -     -        33816   10    0 
+juniper   926369384 10  2 Bc  kc    kc    kf       33806  815    0 
+juniper   926369487 10 10 f   -     -     -        32981    0    0 
+juniper   926369534 10  9 f   -     -     -        32981    0    0 
+juniper   926369630 10  8 f   -     -     -        32981    0    0 
+juniper   926369694 10  7 f   -     -     -        32981    0    0 
+juniper   926369740 10  6 c   b     b     -        32981  250  360 
+juniper   926369794 10  5 c   k     f     -        33091   10    0 
+juniper   926369827 10  4 cc  kf    -     -        33081   70    0 
+juniper   926369876 10  3 cc  b     -     -        33011  285  440 
+juniper   926369933 10  2 Bk  kf    -     -        33166   10    0 
+juniper   926370027 10  1 Bf  -     -     -        33156    5    0 
+juniper   926370069 10 10 f   -     -     -        33151    0    0 
+juniper   926370123 10  9 c   f     -     -        33151   45    0 
+juniper   926370170 10  8 f   -     -     -        33106    0    0 
+juniper   926370209 10  7 f   -     -     -        33106    0    0 
+juniper   926370291 10  6 f   -     -     -        33106    0    0 
+juniper   926370327 10  5 cc  k     f     -        33106   60    0 
+juniper   926370364 10  4 f   -     -     -        33046    0    0 
+juniper   926370440 10  3 c   b     b     -        33046  130  180 
+juniper   926370469 10  2 Bc  kc    kf    -        33096  270    0 
+juniper   926370573  9  9 c   f     -     -        32616   10    0 
+juniper   926370595  9  8 c   k     f     -        32606   10    0 
+juniper   926370627  9  7 c   f     -     -        32596   45    0 
+juniper   926370717  9  6 c   b     -     -        32551   50   80 
+juniper   926370799  9  4 f   -     -     -        32581    0    0 
+juniper   926370818 10  4 f   -     -     -        32581    0    0 
+juniper   926370861 10  3 f   -     -     -        32581    0    0 
+juniper   926370922 10  2 Bk  k     kf    -        32581   10    0 
+juniper   926370970 10  1 Bf  -     -     -        32571    5    0 
+juniper   926371033 10 10 c   f     -     -        32566   10    0 
+juniper   926371133 10  9 c   f     -     -        32556   10    0 
+juniper   926371168 10  8 f   -     -     -        32546    0    0 
+juniper   926371228 10  7 f   -     -     -        32546    0    0 
+juniper   926371300 10  6 f   -     -     -        32546    0    0 
+juniper   926371357 10  5 c   f     -     -        32546   10    0 
+juniper   926371385 10  4 cc  c     b     -        32536 1310 2000 
+juniper   926371435 10  3 f   -     -     -        33226    0    0 
+juniper   926371539 10  1 Bc  b     b     k        33166  805    0 9d 9c
+juniper   926371597 10 10 c   f     -     -        32361   10    0 
+juniper   926371644 10  9 cc  f     -     -        32351   85    0 
+juniper   926371770 10  8 c   f     -     -        32266   45    0 
+juniper   926371815 10  7 c   c     b     c        32221 2050    0 4s 4c
+juniper   926371862 10  6 c   k     r     b        30171 2050 2790 
+juniper   926371908 10  5 cc  f     -     -        30911   75    0 
+juniper   926371960 10  4 f   -     -     -        30836    0    0 
+juniper   926371995 10  3 f   -     -     -        30836    0    0 
+juniper   926372061 10  2 Bc  kf    -     -        30836   65    0 
+juniper   926372112 10  1 Bcc k     k     k        30771   70    0 7c Ah
+juniper   926372180 10 10 c   k     k     k        30701   10    0 5h 4c
+juniper   926372259 10  9 cc  k     k     f        30691   65    0 
+juniper   926372329 10  8 f   -     -     -        30626    0    0 
+juniper   926372382 10  7 c   f     -     -        30626   35    0 
+juniper   926372422 10  6 f   -     -     -        30591    0    0 
+juniper   926372507  9  5 c   f     -     -        30591   10    0 
+juniper   926372557  9  4 f   -     -     -        30581    0    0 
+juniper   926372603  9  3 f   -     -     -        30581    0    0 
+juniper   926372652  9  2 Bk  k     bc    k        30581  250  540 As Td
+juniper   926372714  9  1 Bc  kf    -     -        30871   45    0 
+juniper   926372788  9  9 f   -     -     -        30826    0    0 
+juniper   926372822  9  8 f   -     -     -        30826    0    0 
+juniper   926372867  9  7 c   f     -     -        30826   45    0 
+juniper   926372940  8  5 c   c     b     k        30781  210    0 Td Kc
+juniper   926372994  8  5 f   -     -     -        30571    0    0 
+juniper   926373063  8  4 f   -     -     -        30571    0    0 
+juniper   926373100  8  3 f   -     -     -        30571    0    0 
+juniper   926373143  8  2 Bc  b     -     -        30571  185  280 
+juniper   926373171  8  1 Bc  b     -     -        30666  190  290 
+juniper   926373201  8  8 f   -     -     -        30766    0    0 
+juniper   926373232  8  7 f   -     -     -        30766    0    0 
+juniper   926373279  7  5 f   -     -     -        30766    0    0 
+juniper   926373309  7  4 cc  f     -     -        30766   20    0 
+juniper   926373344  7  3 cc  k     b     -        30746  190  290 
+juniper   926373399  8  2 Bc  b     -     -        30846  110  150 
+juniper   926373422 10  1 Bc  kf    -     -        30886   35    0 
+juniper   926373499 10 10 f   -     -     -        30851    0    0 
+juniper   926373563 10  9 c   k     kc    k        30851  285    0 6s Ah
+juniper   926373612  9  7 c   kf    -     -        30566   35    0 
+juniper   926373654  9  6 cc  f     -     -        30531   60    0 
+juniper   926373692  7  4 f   -     -     -        30471    0    0 
+juniper   926373750  7  3 cc  k     kc    k        30471  150  315 Ks Th
+juniper   926373780  7  2 Bf  -     -     -        30636   10    0 
+juniper   926373830  7  1 Bc  k     kf    -        30626   45    0 
+juniper   926373865  7  7 f   -     -     -        30581    0    0 
+juniper   926373892  7  6 c   b     k     k        30581  155  480 4d Ah
+juniper   926373928  7  5 f   -     -     -        30906    0    0 
+juniper   926373960  7  4 cc  k     f     -        30906   60    0 
+juniper   926373995  7  3 cf  -     -     -        30846   10    0 
+juniper   926374028  7  2 Bf  -     -     -        30836   10    0 
+juniper   926374069  7  1 Bc  kc    kc    k        30826  765    0 Ts 2s
+juniper   926374105  7  7 f   -     -     -        30061    0    0 
+juniper   926374136  7  6 c   f     -     -        30061   10    0 
+juniper   926374160  7  5 f   -     -     -        30051    0    0 
+juniper   926374206  7  4 f   -     -     -        30051    0    0 
+juniper   926374242  7  3 cf  -     -     -        30051   10    0 
+juniper   926374290  7  2 Bc  kc    kc    k        30041  475  990 Kd 8h
+juniper   926374315  6  1 Bc  k     k     kf       30556   45    0 
+juniper   926374365  6  6 c   f     -     -        30511   35    0 
+juniper   926374383  6  5 f   -     -     -        30476    0    0 
+juniper   926374399  6  4 cc  c     r     -        30476 2130 2880 
+juniper   926374439  6  3 f   -     -     -        31226    0    0 
+juniper   926374457  6  2 Bc  kc    kf    -        31226  330    0 
+juniper   926374515  6  1 Bc  k     kf    -        30896   35    0 
+juniper   926374530  6  6 c   k     c     k        30861  145  440 Jd 8c
+juniper   926374557  6  5 f   -     -     -        31156    0    0 
+juniper   926374583  6  4 cc  c     c     b        31156 1710 2400 
+juniper   926374619  6  3 cc  bf    -     -        31846  285    0 
+juniper   926374638  6  2 Bc  k     k     k        31561   35   38 8s 7d
+juniper   926374655  6  1 Bc  k     k     kf       31564   35    0 
+juniper   926374683  7  7 c   k     c     f        31529  155    0 
+juniper   926374710  6  5 c   c     c     b        31374 1595 2160 
+juniper   926374729  6  4 c   c     f     -        31939   65    0 
+juniper   926374762  6  3 cc  b     -     -        31874  160  240 
+juniper   926374788  6  2 Bf  -     -     -        31954   10    0 
+juniper   926374821  7  1 Bf  -     -     -        31944    5    0 
+juniper   926374847  6  6 f   -     -     -        31939    0    0 
+juniper   926374876  5  4 cc  c     c     c        31939 1865 3780 4c Jc
+juniper   926374899  6  3 cc  f     -     -        33854   50    0 
+juniper   926374923  6  2 Bc  kf    -     -        33804   45    0 
+juniper   926374945  7  1 Bc  k     k     k        33759   45    0 Jh 6s
+juniper   926374969  7  7 c   r     b     -        33714 2595 3900 
+juniper   926375000  7  6 c   c     f     -        35019   75    0 
+juniper   926375036  7  5 f   -     -     -        34944    0    0 
+juniper   926375058  7  4 cc  c     c     k        34944 1310    0 Ah Jh
+juniper   926375086  7  3 f   -     -     -        33634    0    0 
+juniper   926375129  7  2 Bc  k     br    -        33634 3630 4950 
+juniper   926375172  6  1 Bf  -     -     -        34954    5    0 
+juniper   926375212  6  6 f   -     -     -        34949    0    0 
+juniper   926375277  6  5 c   c     cf    -        34949  235    0 
+juniper   926375340  5  4 cc  c     c     f        34714 1250    0 
+juniper   926375375  5  3 cc  kc    kf    -        33464  225    0 
+juniper   926375406  5  2 Bc  bc    k     k        33239  475 1430 Th 5h
+juniper   926375443  6  1 Bc  kf    -     -        34194   35    0 
+juniper   926375466  6  6 cc  b     -     -        34159 3030 4850 
+juniper   926375490  6  5 f   -     -     -        35979    0    0 
+juniper   926375493  5  3 f   -     -     -        35979    0    0 
+juniper   926375497  5  3 f   -     -     -        35979    0    0 
+juniper   926375521  5  2 Bc  kf    -     -        35979   35    0 
+juniper   926375530  5  1 Bf  -     -     -        35944    5    0 
+juniper   926375561  5  5 f   -     -     -        35939    0    0 
+juniper   926375574  5  4 c   b     -     -        35939   45   70 
+juniper   926375593  6  3 f   -     -     -        35964    0    0 
+juniper   926375645  6  2 f   -     -     -        35964    0    0 
+juniper   926375656  6  2 Bc  b     -     -        35964  145  220 
+juniper   926375666  6  1 Bf  -     -     -        36039    5    0 
+juniper   926375670  6  6 cc  c     f     -        36034  210    0 
+juniper   926375690  6  5 f   -     -     -        35824    0    0 
+juniper   926375722  6  4 c   c     k     k        35824   45    0 Qd Tc
+juniper   926375741  6  3 f   -     -     -        35779    0    0 
+juniper   926375763  6  2 Bk  b     -     -        35779   50   80 
+juniper   926375775  5  1 Bc  kc    kc    b        35809 1075 2160 9c Ks
+juniper   926375793  5  5 c   f     -     -        36894   35    0 
+juniper   926375808  4  3 r   b     k     c        36859  735    0 Ad Ah
+juniper   926375834  4  2 Bc  kc    kc    k        36124  520    0 9s 7s
+juniper   926375861  4  1 Bc  k     b     -        35604   30   40 
+juniper   926375875  4  4 r   b     -     -        35614  150  210 
+juniper   926375885  4  3 c   b     -     -        35674   35   50 
+juniper   926375892  4  2 Br  b     b     kc       35689 1865    0 Kd As
+juniper   926375918  4  1 Bf  -     -     -        33824    5    0 
+juniper   926375925  4  4 cc  c     f     -        33819  130    0 
+juniper   926375939  5  4 f   -     -     -        33689    0    0 
+juniper   926375964  5  3 c   b     k     k        33689   40   90 6s 6c
+juniper   926375984  5  2 Bk  k     kf    -        33739   10    0 
+juniper   926376037  5  1 Bc  kf    -     -        33729   35    0 
+juniper   926376052  5  5 c   c     k     r        33694  530    0 Ah Td
+juniper   926376080  5  4 c   b     -     -        33164   35   50 
+juniper   926376095  5  3 c   k     c     b        33179  210  320 
+juniper   926376119  5  2 Br  k     f     -        33289   30    0 
+juniper   926376140  5  1 Bc  kf    -     -        33259   10    0 
+juniper   926376161  6  6 c   c     b     f        33249  235    0 
+juniper   926376204  6  5 f   -     -     -        33014    0    0 
+juniper   926376225  6  4 c   k     k     k        33014   10    0 Qs Kd
+juniper   926376241  6  3 f   -     -     -        33004    0    0 
+juniper   926376291  6  2 Bf  -     -     -        33004   10    0 
+juniper   926376331  6  1 Bf  -     -     -        32994    5    0 
+juniper   926376366  7  7 fQ  -     -     -        32989    0    0 
+juniper   926464013  6  3 cc  k     kf    -        32979   65    0 
+juniper   926464060  6  2 Bk  bc    k     k        32914  230    0 9d Td
+juniper   926464086  7  1 Bc  k     kc    k        32684   50    0 Th 2h
+juniper   926464120  6  5 f   -     -     -        32634    0    0 
+juniper   926464139  6  4 f   -     -     -        32634    0    0 
+juniper   926464157  6  3 cc  k     kf    -        32634   55    0 
+juniper   926464178  6  3 f   -     -     -        32579    0    0 
+juniper   926464189  6  2 Bc  kf    -     -        32579   45    0 
+juniper   926464212  6  1 Bc  kf    -     -        32534   35    0 
+juniper   926464227  7  6 f   -     -     -        32499    0    0 
+juniper   926464257  7  5 f   -     -     -        32499    0    0 
+juniper   926464293  8  4 f   -     -     -        32499    0    0 
+juniper   926464326  8  3 c   f     -     -        32499   10    0 
+juniper   926464350  8  3 f   -     -     -        32489    0    0 
+juniper   926464386  8  2 Bk  b     kc    bc       32489 1010    0 Tc Kc
+juniper   926464410  8  1 Bc  kc    k     k        31479  340    0 As 9s
+juniper   926464452  8  7 c   b     -     -        31139   55   90 
+juniper   926464478  9  7 f   -     -     -        31174    0    0 
+juniper   926464510  8  5 cc  c     f     -        31174  395    0 
+juniper   926464557  7  4 f   -     -     -        30779    0    0 
+juniper   926464588  7  3 r   k     kr    bc       30779 2675 5400 Ac Qs
+juniper   926464625  7  2 f   -     -     -        33504    0    0 
+juniper   926464645  7  2 Bf  -     -     -        33504   10    0 
+juniper   926464670  7  1 Bc  kf    -     -        33494   45    0 
+juniper   926464696  7  6 f   -     -     -        33449    0    0 
+juniper   926464730  7  5 c   f     -     -        33449   10    0 
+juniper   926464752  7  4 f   -     -     -        33439    0    0 
+juniper   926464771  6  3 r   b     b     kc       33439 3035    0 Ad Kc
+juniper   926464805  6  2 f   -     -     -        30404    0    0 
+juniper   926464827  6  2 Bc  kf    -     -        30404   55    0 
+juniper   926464850  7  1 Bf  -     -     -        30349    5    0 
+juniper   926464889  7  6 cc  c     f     -        30344  185    0 
+juniper   926464941  6  5 cc  b     b     k        30159  850 1800 Th Ts
+juniper   926464978  6  4 cc  k     b     -        31109  190  290 
+juniper   926465039  6  2 Bc  k     k     k        31209   35  140 8d 6c
+juniper   926465093  6  5 f   -     -     -        31309    0    0 
+juniper   926465106  6  4 c   c     c     b        31309  465  945 8s Ad
+juniper   926465133  7  3 c   c     f     -        31789   60    0 
+juniper   926465170  8  3 f   -     -     -        31729    0    0 
+juniper   926465207  8  2 Bc  kf    -     -        31729   55    0 
+juniper   926465228  8  1 Bc  b     k     kf       31674   50    0 
+juniper   926465253  8  7 f   -     -     -        31624    0    0 
+juniper   926465284  7  5 f   -     -     -        31624    0    0 
+juniper   926465307  7  4 c   c     c     c        31624  860    0 9h Qh
+juniper   926465338  7  3 c   b     k     b        30764  210  450 Td As
+juniper   926465384  7  3 f   -     -     -        31004    0    0 
+juniper   926465419  7  2 Bc  kf    -     -        31004   55    0 
+juniper   926465455  8  1 Bc  kc    kf    -        30949  465    0 
+juniper   926465509  9  8 c   c     k     b        30484  260  400 
+juniper   926465541  9  7 c   b     b     -        30624  230  330 
+juniper   926465565  9  6 r   cf    -     -        30724  175    0 
+juniper   926465601  9  5 c   k     f     -        30549   10    0 
+juniper   926465662  9  3 f   -     -     -        30539    0    0 
+juniper   926465695  9  3 f   -     -     -        30539    0    0 
+juniper   926465715 10  2 Bc  kf    -     -        30539   55    0 
+juniper   926465742 10  1 Bc  k     kc    k        30484  340    0 Ah 6s
+juniper   926465788 10  9 f   -     -     -        30144    0    0 
+juniper   926465812 10  8 c   b     b     -        30144  270  390 
+juniper   926465853 10  7 c   f     -     -        30264   10    0 
+juniper   926465961 10  5 c   k     f     -        30254   10    0 
+juniper   926466035 10  4 c   k     f     -        30244   10    0 
+juniper   926466092 10  3 c   k     f     -        30234   10    0 
+juniper   926466156 10  3 f   -     -     -        30224    0    0 
+juniper   926466197 10  2 Bf  -     -     -        30224   10    0 
+juniper   926466229 10  1 Bc  kf    -     -        30214   55    0 
+juniper   926466268 10  9 f   -     -     -        30159    0    0 
+juniper   926466318 10  8 f   -     -     -        30159    0    0 
+juniper   926466362 10  7 c   f     -     -        30159   10    0 
+juniper   926466381 10  6 r   b     f     -        30149  110    0 
+juniper   926466398 10  5 f   -     -     -        30039    0    0 
+juniper   926466430 10  4 c   kc    kf    -        30039   70    0 
+juniper   926466498 10  3 cc  kf    -     -        29969   65    0 
+juniper   926466560 10  2 Bk  kf    -     -        29904   10    0 
+juniper   926466607 10  1 Bf  -     -     -        29894    5    0 
+juniper   926466653 10  9 f   -     -     -        29889    0    0 
+juniper   926466701 10  8 f   -     -     -        29889    0    0 
+juniper   926466733 10  7 f   -     -     -        29889    0    0 
+juniper   926466784 10  6 cc  f     -     -        29889   70    0 
+juniper   926466843 10  5 f   -     -     -        29819    0    0 
+juniper   926466912 10  4 cc  kc    k     k        29819  340    0 Qh Td
+juniper   926466981 10  3 f   -     -     -        29479    0    0 
+juniper   926467019 10  3 c   kc    k     kf       29479   60    0 
+juniper   926467071 10  2 Bf  -     -     -        29419   10    0 
+juniper   926467119 10  1 Bc  k     kf    -        29409   10    0 
+juniper   926467189 10  9 f   -     -     -        29399    0    0 
+juniper   926467212 10  8 f   -     -     -        29399    0    0 
+juniper   926467292 10  8 f   -     -     -        29399    0    0 
+juniper   926467354 10  6 cc  c     cc    -        29399 4121    0 As 6s
+juniper   926467416 10  6 f   -     -     -        25278    0    0 
+juniper   926467445 10  5 c   b     kc    kf       25278  290    0 
+juniper   926467499 10  4 f   -     -     -        24988    0    0 
+juniper   926467569 10  3 f   -     -     -        24988    0    0 
+juniper   926467644 10  2 Bc  kf    -     -        24988   55    0 
+juniper   926467703 10  1 Bc  k     kf    -        24933   10    0 
+juniper   926467760 10 10 c   f     -     -        24923   45    0 
+juniper   926467801 10  9 f   -     -     -        24878    0    0 
+juniper   926467834  8  6 c   bc    kf    -        24878  360    0 
+juniper   926467889  8  5 f   -     -     -        24518    0    0 
+juniper   926467926  7  4 c   f     -     -        24518   10    0 
+juniper   926467952  8  4 cc  kf    -     -        24508   55    0 
+juniper   926467985  8  3 cc  kf    -     -        24453   45    0 
+juniper   926468003  8  2 Bk  kc    kf    -        24408   40    0 
+juniper   926468032  8  1 Bf  -     -     -        24368    5    0 
+juniper   926468047  9  9 c   k     f     -        24363   10    0 
+juniper   926468080  9  8 c   c     k     k        24353  240    0 9d 6d
+juniper   926468112  9  7 f   -     -     -        24113    0    0 
+juniper   926468148  9  6 c   k     k     f        24113   10    0 
+juniper   926468192  9  5 cc  b     c     k        24103 1118    0 Kh Qd
+juniper   926468248  9  4 f   -     -     -        22985    0    0 
+juniper   926468286  9  3 f   -     -     -        22985    0    0 
+juniper   926468344  9  2 Bcc kf    -     -        22985  185    0 
+juniper   926468385  9  1 Bf  -     -     -        22800    5    0 
+juniper   926468411 10 10 c   f     -     -        22795   10    0 
+juniper   926468461 10  9 f   -     -     -        22785    0    0 
+juniper   926468511 10  8 f   -     -     -        22785    0    0 
+juniper   926468546 10  7 f   -     -     -        22785    0    0 
+juniper   926468576 10  6 f   -     -     -        22785    0    0 
+juniper   926468608 10  5 f   -     -     -        22785    0    0 
+juniper   926468691 10  4 f   -     -     -        22785    0    0 
+juniper   926468728 10  3 f   -     -     -        22785    0    0 
+juniper   926468780 10  2 Bc  kf    -     -        22785   35    0 
+juniper   926468827 10  1 Bc  kf    -     -        22750   10    0 
+juniper   926468887 10 10 c   f     -     -        22740   10    0 
+juniper   926468940 10  9 f   -     -     -        22730    0    0 
+juniper   926469001 10  8 f   -     -     -        22730    0    0 
+juniper   926469046 10  7 cc  k     k     k        22730   85    0 9d As
+juniper   926469117 10  6 cc  kf    -     -        22645   60    0 
+juniper   926469214 10  5 c   c     f     -        22585   55    0 
+juniper   926469255 10  4 c   kc    kc    k        22530  310    0 6c 5s
+juniper   926469289 10  3 f   -     -     -        22220    0    0 
+juniper   926469355 10  2 Bk  kc    kf    -        22220   80    0 
+juniper   926469408 10  1 Bc  kc    k     b        22140 1430 2200 
+juniper   926469474 10 10 c   f     -     -        22910   35    0 
+juniper   926469520 10  9 c   f     -     -        22875   10    0 
+juniper   926469586 10  8 c   f     -     -        22865   10    0 
+juniper   926469633 10  7 cc  k     c     b        22855 1870 2880 
+juniper   926469705 10  6 c   kf    -     -        23865   10    0 
+juniper   926469782 10  5 c   kf    -     -        23855   10    0 
+juniper   926469843 10  4 c   kc    kf    -        23845   70    0 
+juniper   926469889 10  3 cc  f     -     -        23775   65    0 
+juniper   926469946 10  2 Bc  k     k     k        23710   75    0 5s 6h
+juniper   926470042 10  1 Bc  kf    -     -        23635   45    0 
+juniper   926470092 10 10 c   c     f     -        23590   45    0 
+juniper   926470130 10  9 f   -     -     -        23545    0    0 
+juniper   926470169 10  9 c   c     f     -        23545   65    0 
+juniper   926470200 10  7 f   -     -     -        23480    0    0 
+juniper   926470223 10  6 c   k     k     k        23480   35    0 6s Qs
+juniper   926470257 10  5 f   -     -     -        23445    0    0 
+juniper   926470287 10  4 cc  kc    kf    -        23445  235    0 
+juniper   926470338 10  3 f   -     -     -        23210    0    0 
+juniper   926470365 10  2 Bf  -     -     -        23210   10    0 
+juniper   926470396 10  1 Bf  -     -     -        23200    5    0 
+juniper   926470440 10 10 f   -     -     -        23195    0    0 
+juniper   926470463 10  9 f   -     -     -        23195    0    0 
+juniper   926470502  9  8 c   c     c     c        23195 2831    0 Kh Qs
+juniper   926470541  9  7 f   -     -     -        20364    0    0 
+juniper   926470587 10  6 c   b     -     -        20364   80  140 
+juniper   926470624 10  5 f   -     -     -        20424    0    0 
+juniper   926470684 10  4 f   -     -     -        20424    0    0 
+juniper   926470721 10  3 cc  kc    kc    kf       20424 1425    0 
+juniper   926470785 10  2 Bc  b     -     -        18999  175  280 
+juniper   926470814 10  1 Bf  Q     -     -        19104    5    0 
+juniper   926537356 10  3 f   -     -     -        19599    0    0 
+juniper   926537390 10  2 Bf  -     -     -        19599   10    0 
+juniper   926537426 10  1 Bc  bc    b     -        19589 8450 16932 Td 9d
+juniper   926537455 10  9 c   bc    k     f        28071  515    0 
+juniper   926537511 10  8 f   -     -     -        27556    0    0 
+juniper   926537549 10  7 f   -     -     -        27556    0    0 
+juniper   926537630 10  6 ccc f     -     -        27556  310    0 
+juniper   926537688  9  5 cc  k     f     -        27246   55    0 
+juniper   926537748  9  4 cc  kc    kc    b        27191 3045 4140 
+juniper   926537801  9  4 f   -     -     -        28286    0    0 
+juniper   926537843  9  3 f   -     -     -        28286    0    0 
+juniper   926537932  9  1 Bc  kf    -     -        28276   75    0 
+juniper   926538010  9  8 f   -     -     -        28201    0    0 
+juniper   926538095  7  5 c   c     c     k        28201  630 1485 Ac Ad
+juniper   926538172  7  5 cc  c     b     -        29056 4250 6800 
+juniper   926538225  8  5 f   -     -     -        31606    0    0 
+juniper   926538281  9  5 cc  kf    -     -        31606   75    0 
+juniper   926538338 10  4 f   -     -     -        31531    0    0 
+juniper   926538447 10  4 f   -     -     -        31531    0    0 
+juniper   926538476 10  3 cc  f     -     -        31531  195    0 
+juniper   926538525 10  2 Bc  kf    -     -        31336   55    0 
+juniper   926538560 10  1 Bc  bc    kc    kc       31281 15855 15998 Jd Th
+juniper   926538605 10  9 f   -     -     -        31424    0    0 
+juniper   926538653 10  8 f   -     -     -        31424    0    0 
+juniper   926538697 10  7 c   c     c     k        31424  150  315 6d 7s
+juniper   926538736 10  6 f   -     -     -        31589    0    0 
+juniper   926538813 10  5 f   -     -     -        31589    0    0 
+juniper   926538844 10  4 f   -     -     -        31589    0    0 
+juniper   926538944 10  4 f   -     -     -        31589    0    0 
+juniper   926539005 10  3 f   -     -     -        31589    0    0 
+juniper   926539037 10  2 Bf  -     -     -        31589   10    0 
+juniper   926539127 10  1 Bc  k     kc    kf       31579  185    0 
+juniper   926539160 10  9 f   -     -     -        31394    0    0 
+juniper   926539197 10  8 f   -     -     -        31394    0    0 
+juniper   926539254 10  7 cc  c     c     k        31394 2297 7796 4d 6d
+juniper   926539312  9  5 f   -     -     -        36893    0    0 
+juniper   926539372 10  5 cc  f     -     -        36893  250    0 
+juniper   926539481 10  4 f   -     -     -        36643    0    0 
+juniper   926539547 10  4 f   -     -     -        36643    0    0 
+juniper   926539593 10  3 f   -     -     -        36643    0    0 
+juniper   926539635 10  2 Bc  kc    k     kf       36643  185    0 
+juniper   926539691 10  1 Bc  kf    -     -        36458   45    0 
+juniper   926539717 10 10 c   k     f     -        36413   65    0 
+juniper   926539786 10  9 c   f     -     -        36348   35    0 
+juniper   926539831 10  8 c   kf    -     -        36313   35    0 
+juniper   926539860 10  7 f   -     -     -        36278    0    0 
+juniper   926539897 10  6 r   c     b     k        36278  615 1305 Jc Jh
+juniper   926539932 10  5 f   -     -     -        36968    0    0 
+juniper   926539985 10  4 c   bc    b     -        36968  920 1260 
+juniper   926540045 10  3 f   -     -     -        37308    0    0 
+juniper   926540075 10  2 Bc  kf    -     -        37308   45    0 
+juniper   926540111 10  1 Bf  -     -     -        37263    5    0 
+juniper   926540176 10 10 c   f     -     -        37258   45    0 
+juniper   926540224 10  9 f   -     -     -        37213    0    0 
+juniper   926540252 10  8 f   -     -     -        37213    0    0 
+juniper   926540292 10  7 c   kc    k     k        37213  155    0 Jc Ah
+juniper   926540340 10  6 f   -     -     -        37058    0    0 
+juniper   926540380 10  5 f   -     -     -        37058    0    0 
+juniper   926540422 10  4 f   -     -     -        37058    0    0 
+juniper   926540518 10  3 f   -     -     -        37058    0    0 
+juniper   926540570 10  2 BKQ -     -     -        37058   10    0 
+juniper   926545705  7  3 f   -     -     -        37048    0    0 
+juniper   926545763  7  2 Bf  -     -     -        37048   10    0 
+juniper   926545838  7  1 Bc  k     k     b        37038  190  290 
+juniper   926545884  7  7 f   -     -     -        37138    0    0 
+juniper   926545912  7  6 r   b     b     k        37138  995    0 Th Td
+juniper   926545966  7  5 c   k     k     k        36143   10    0 8c 7s
+juniper   926546012  7  4 f   -     -     -        36133    0    0 
+juniper   926546051  7  3 f   -     -     -        36133    0    0 
+juniper   926546091  7  2 Bf  -     -     -        36133   10    0 
+juniper   926546147  8  1 Bf  -     -     -        36123    5    0 
+juniper   926546168  7  7 c   f     -     -        36118   35    0 
+juniper   926546231  7  6 f   -     -     -        36083    0    0 
+juniper   926546260  7  5 f   -     -     -        36083    0    0 
+juniper   926546291  6  3 f   -     -     -        36083    0    0 
+juniper   926546337  6  2 Bc  kf    -     -        36083   35    0 
+juniper   926546376  6  1 Bc  kf    -     -        36048   45    0 
+juniper   926546394  6  6 c   f     -     -        36003   10    0 
+juniper   926546417  6  5 f   -     -     -        35993    0    0 
+juniper   926546440  6  4 r   c     c     b        35993 1010 1012 Th Qh
+juniper   926546480  6  3 f   -     -     -        35995    0    0 
+juniper   926546504  6  2 Bk  b     k     c        35995   90    0 6c Ad
+juniper   926546529  6  1 Bc  kc    kr    b        35905  810 1620 4h 5s
+juniper   926546567  6  6 c   b     b     b        36715  335  450 
+juniper   926546613  6  5 f   -     -     -        36830    0    0 
+juniper   926546654  6  4 c   c     c     kf       36830  185    0 
+juniper   926546716  6  3 f   -     -     -        36645    0    0 
+juniper   926546737  6  2 Bk  kc    kf    -        36645   45    0 
+juniper   926546766  6  1 Br  b     kc    k        36600  270    0 Jc Qc
+juniper   926546803  6  6 r   KQ    -     -        36330   45    0 
+juniper   926548494  8  3 f   -     -     -        36285    0    0 
+juniper   926548553  8  2 Bk  cf    -     -        36285   50    0 
+juniper   926548626  8  1 Bc  k     k     kc       36235   40   40 4h 3s
+juniper   926548667  8  8 f   -     -     -        36235    0    0 
+juniper   926548711  8  7 f   -     -     -        36235    0    0 
+juniper   926548765  8  6 f   -     -     -        36235    0    0 
+juniper   926548809  8  5 f   -     -     -        36235    0    0 
+juniper   926548906  8  4 f   -     -     -        36235    0    0 
+juniper   926548937  8  3 f   -     -     -        36235    0    0 
+juniper   926548997  8  2 Bk  kf    -     -        36235   10    0 
+juniper   926549037  8  1 Br  b     b     k        36225 1060 2250 Js As
+juniper   926549092  9  9 f   -     -     -        37415    0    0 
+juniper   926549162  9  8 f   -     -     -        37415    0    0 
+juniper   926549195  9  7 c   k     k     k        37415   10    0 8s Ts
+juniper   926549264  9  6 f   -     -     -        37405    0    0 
+juniper   926549341  8  5 f   -     -     -        37405    0    0 
+juniper   926549370  8  4 c   k     k     k        37405   35   42 3c Kc
+juniper   926549390  8  3 c   f     -     -        37412   10    0 
+juniper   926549481  8  2 Bk  kf    -     -        37402   10    0 
+juniper   926549509  8  1 Bf  -     -     -        37392    5    0 
+juniper   926549554  8  8 f   -     -     -        37387    0    0 
+juniper   926549566  8  7 c   f     -     -        37387   45    0 
+juniper   926549624  8  7 f   -     -     -        37342    0    0 
+juniper   926549658  8  6 f   -     -     -        37342    0    0 
+juniper   926549700  8  5 f   -     -     -        37342    0    0 
+juniper   926549878  8  4 f   -     -     -        37342    0    0 
+juniper   926549952  8  3 f   -     -     -        37342    0    0 
+juniper   926550000  8  2 Bf  -     -     -        37342   10    0 
+juniper   926550055  7  1 Bc  bc    kc    kf       37332  400    0 
+juniper   926550088  7  7 c   k     k     k        36932   10    0 8h Jc
+juniper   926550131  7  6 cc  kf    -     -        36922  155    0 
+juniper   926550171  7  5 r   b     b     -        36767  765 1080 
+juniper   926550247  7  4 f   -     -     -        37082    0    0 
+juniper   926550299  8  3 KQ  -     -     -        37082    0    0 
+juniper   926557230  2  2 Bk  c     c     k        36902   90    0 4h 9d
+juniper   926557251  2  1 Br  b     -     -        36812   90  120 
+juniper   926557263  2  2 Bk  k     k     k        36842   10    0 7d 3s
+juniper   926557276  2  1 Bcc kf    -     -        36832   30    0 
+juniper   926557289  2  2 Br  -     -     -        36802   30   40 
+juniper   926557295  2  1 Br  -     -     -        36812   30   40 
+juniper   926557299  2  2 Bk  c     r     b        36822  810 1620 9d Jh
+juniper   926557316  2  1 Bcc kf    -     -        37632   30    0 
+juniper   926557328  2  2 Bk  f     -     -        37602   10    0 
+juniper   926557339  2  1 Bc  b     k     b        37592   90    0 6d 7h
+juniper   926557355  2  2 Bc  c     b     k        37502  270  540 4h 3h
+juniper   926557378  2  1 Br  k     k     kf       37772   30    0 
+juniper   926557398  2  2 Bc  k     k     c        37742   90  180 2c 5c
+juniper   926557409  2  1 Bf  -     -     -        37832    5    0 
+juniper   926557414  2  2 Bc  k     k     k        37827   30   60 2d Jd
+juniper   926557428  2  1 Bf  -     -     -        37857    5    0 
+juniper   926557432  2  2 B   -     -     -        37852   10   15 
+juniper   926557437  2  1 Bf  -     -     -        37857    5    0 
+juniper   926557439  2  2 Bk  f     -     -        37852   10    0 
+juniper   926557448  2  1 Bf  -     -     -        37842    5    0 
+juniper   926557451  2  2 Bc  f     -     -        37837   30    0 
+juniper   926557457  3  1 Bc  b     k     k        37807   30    0 9s Ad
+juniper   926557494  5  5 c   f     -     -        37777   35    0 
+juniper   926557508  5  4 f   -     -     -        37742    0    0 
+juniper   926557512  5  3 f   -     -     -        37742    0    0 
+juniper   926557545  5  2 Bk  k     kf    -        37742   10    0 
+juniper   926557586  6  1 Bc  b     b     -        37732  355  480 
+juniper   926557606  6  6 c   k     f     -        37857   10    0 
+juniper   926557632  6  5 c   f     -     -        37847   35    0 
+juniper   926557658  6  4 f   -     -     -        37812    0    0 
+juniper   926557696  7  4 f   -     -     -        37812    0    0 
+juniper   926557717  7  3 f   -     -     -        37812    0    0 
+juniper   926557744  7  2 Bc  b     b     k        37812  520 1080 Ad 4d
+juniper   926557777  7  1 Bc  kf    -     -        38372   10    0 
+juniper   926557814  7  7 f   -     -     -        38362    0    0 
+juniper   926557866  7  6 f   -     -     -        38362    0    0 
+juniper   926557909  7  5 f   -     -     -        38362    0    0 
+juniper   926557946  7  4 f   -     -     -        38362    0    0 
+juniper   926557995  7  3 c   bc    kc    kf       38362 1270    0 
+juniper   926558049  7  2 Bf  -     -     -        37092   10    0 
+juniper   926558093  6  1 Bf  -     -     -        37082    5    0 
+juniper   926558115  6  6 r   k     c     c        37077  955    0 Kh Jd
+juniper   926558147  6  5 c   f     -     -        36122   10    0 
+juniper   926558162  6  4 c   c     b     b        36112  520  720 
+juniper   926558196  6  3 f   -     -     -        36312    0    0 
+juniper   926558219  6  2 Bk  kf    -     -        36312   10    0 
+juniper   926558249  6  1 Bf  -     -     -        36302    5    0 
+juniper   926558282  6  6 f   -     -     -        36297    0    0 
+juniper   926558321  6  5 f   -     -     -        36297    0    0 
+juniper   926558338  5  3 f   -     -     -        36297    0    0 
+juniper   926558367  5  2 Bc  kf    -     -        36297   35    0 
+juniper   926558383  5  1 Bf  -     -     -        36262    5    0 
+juniper   926558440  5  5 c   c     b     k        36257  475  990 Ac 5c
+juniper   926558471  5  4 c   c     f     -        36772  180    0 
+juniper   926558490  5  3 cc  f     -     -        36592   50    0 
+juniper   926558520  4  1 Br  b     k     k        36542  520    0 Kc Ac
+juniper   926558550  4  1 Bc  b     -     -        36022   30   40 
+juniper   926558561  4  4 c   k     f     -        36032   10    0 
+juniper   926558576  4  3 c   c     c     k        36022  210    0 8s 7d
+juniper   926558598  4  2 Bf  -     -     -        35812   10    0 
+juniper   926558608  4  1 Bc  k     k     b        35802  150  230 
+juniper   926558630  4  4 c   r     b     -        35882  465  630 
+juniper   926558653  4  3 c   k     k     k        36047   10    0 Th 8c
+juniper   926558672  4  2 Bc  c     b     -        36037  270  360 
+juniper   926558690  4  1 Bc  b     kf    -        36127   50    0 
+juniper   926558712  4  4 f   -     -     -        36077    0    0 
+juniper   926558731  4  3 c   c     c     k        36077  160    0 Kh 7h
+juniper   926558763  4  2 Bc  f     -     -        35917   30    0 
+juniper   926558778  4  1 Bf  -     -     -        35887    5    0 
+juniper   926558791  4  4 c   f     -     -        35882   35    0 
+juniper   926558803  4  3 f   -     -     -        35847    0    0 
+juniper   926558814  4  2 Bk  c     b     -        35847   90  120 
+juniper   926558836  4  1 Bc  k     k     k        35877   10    0 5c As
+juniper   926558884  5  5 c   c     f     -        35867  120    0 
+juniper   926558900  5  4 c   k     k     k        35747   10   25 Ac 7h
+juniper   926558930  5  3 c   k     k     k        35762   10    0 Kd 9s
+juniper   926558974  5  2 Bk  k     kf    -        35752   10    0 
+juniper   926559003  5  1 Bc  kf    -     -        35742   35    0 
+juniper   926559036  5  5 f   -     -     -        35707    0    0 
+juniper   926559052  5  4 f   -     -     -        35707    0    0 
+juniper   926559064  5  3 f   -     -     -        35707    0    0 
+juniper   926559091  5  2 Bf  -     -     -        35707   10    0 
+juniper   926559114  5  1 Bf  -     -     -        35697    5    0 
+juniper   926559124  5  5 f   -     -     -        35692    0    0 
+juniper   926559135  5  4 f   -     -     -        35692    0    0 
+juniper   926559148  5  3 f   -     -     -        35692    0    0 
+juniper   926559172  5  2 Bk  b     -     -        35692   35   50 
+juniper   926559185  5  1 Bc  bc    kc    k        35707  520    0 Qh Ac
+juniper   926559208  5  3 Q   -     -     -        35187    0    0 
+juniper   926981573  4  2 Br  b     -     -        35647   90  120 
+juniper   926981588  4  1 B   -     -     -        35677    5   15 
+juniper   926981591  3  3 c   c     c     k        35687  390    0 Jd 6c
+juniper   926981608  3  3 r   b     b     c        35297 1075 2160 Ad 9s
+juniper   926981637  3  2 Bk  k     k     f        36382   10    0 
+juniper   926981656  3  1 Bf  -     -     -        36372    5    0 
+juniper   926981664  3  3 c   c     k     b        36367  110    0 8s Td
+juniper   926981677  3  2 Bk  k     c     c        36257  130    0 Qd 2c
+juniper   926981693  3  1 Bc  b     -     -        36127   30   40 
+juniper   926981702  3  3 c   k     c     k        36137   40   90 5d Td
+juniper   926981718  3  2 Bc  f     -     -        36187   30    0 
+juniper   926981726  3  1 Bc  b     -     -        36157   40   60 
+juniper   926981733  3  3 c   k     k     k        36177   10   15 Kd 7s
+juniper   926981747  3  2 Bk  b     -     -        36182   35   50 
+juniper   926981757  3  1 Bf  -     -     -        36197    5    0 
+juniper   926981767  3  3 f   -     -     -        36192    0    0 
+juniper   926981776  3  2 Bk  c     kf    -        36192   40    0 
+juniper   926981795  3  1 Bf  -     -     -        36152    5    0 
+juniper   926981798  3  3 c   c     k     c        36147  130  270 Ah 6d
+juniper   926981813  3  2 Br  b     b     k        36287  640 1440 Qs Qc
+juniper   926981842  3  1 Bc  b     b     -        37087  130  180 
+juniper   926981857  4  3 f   -     -     -        37137    0    0 
+juniper   926981872  4  2 Bk  b     -     -        37137   50   80 
+juniper   926981882  4  1 Bc  kf    -     -        37167   10    0 
+juniper   926981897  4  4 c   b     -     -        37157   40   60 
+juniper   926981909  4  3 f   -     -     -        37177    0    0 
+juniper   926981923  4  2 Bk  b     b     k        37177  210    0 Kc Qh
+juniper   926981950  4  1 Bc  bc    kf    -        36967  170    0 
+juniper   926981970  4  4 f   -     -     -        36797    0    0 
+juniper   926981990  4  3 cc  kf    -     -        36797   45    0 
+juniper   926982026  3  2 B   -     -     -        36752   10   15 
+juniper   926982030  3  1 Bf  -     -     -        36757    5    0 
+juniper   926982041  3  3 c   c     f     -        36752   40    0 
+juniper   926982055  3  2 Bk  b     -     -        36712   30   40 
+juniper   926982061  3  1 Bc  kf    -     -        36722   10    0 
+juniper   926982070  4  4 f   -     -     -        36712    0    0 
+juniper   926982074  4  3 r   b     b     bc       36712 6130    0 Qc Kc
+juniper   926982109  4  2 Bk  c     k     k        30582   30    0 7c Qh
+juniper   926982132  4  1 Bc  kf    -     -        30552   35    0 
+juniper   926982146  4  4 c   k     f     -        30517   10    0 
+juniper   926982159  4  3 f   -     -     -        30507    0    0 
+juniper   926982189  4  2 Bk  b     -     -        30507   50   80 
+juniper   926982205  5  1 Bf  -     -     -        30537    5    0 
+juniper   926982231  5  5 f   -     -     -        30532    0    0 
+juniper   926982254  5  4 c   c     c     f        30532  210    0 
+juniper   926982281  6  4 f   -     -     -        30322    0    0 
+juniper   926982290  6  3 cc  kc    k     k        30322  185    0 Js 6s
+juniper   926982316  7  2 Bk  k     k     k        30137   10    0 2s 6s
+juniper   926982352  7  1 Bf  -     -     -        30127    5    0 
+juniper   926982376  7  7 f   -     -     -        30122    0    0 
+juniper   926982394  8  7 c   b     -     -        30122   60  100 
+juniper   926982435  8  6 f   -     -     -        30162    0    0 
+juniper   926982466  8  5 f   -     -     -        30162    0    0 
+juniper   926982515  8  4 c   cf    -     -        30162   65    0 
+juniper   926982561  8  3 f   -     -     -        30097    0    0 
+juniper   926982597  9  2 Bk  c     kf    -        30097   50    0 
+juniper   926982632 10  1 Bf  -     -     -        30047    5    0 
+juniper   926982663  9  9 f   -     -     -        30042    0    0 
+juniper   926982693  9  8 f   -     -     -        30042    0    0 
+juniper   926982743  9  7 f   -     -     -        30042    0    0 
+juniper   926982786  9  6 r   k     kf    -        30042   45    0 
+juniper   926982818  9  5 cc  kf    -     -        29997   50    0 
+juniper   926982867  9  4 f   -     -     -        29947    0    0 
+juniper   926982944 10  3 c   kc    kf    -        29947   65    0 
+juniper   926982999 10  2 Bc  kf    -     -        29882   45    0 
+juniper   926983030 10  1 Bc  k     k     kf       29837   10    0 
+juniper   926983069 10 10 c   k     f     -        29827   35    0 
+juniper   926983127 10 10 c   KQ    -     -        29792   10    0 
+juniper   927068946  8  2 Bk  k     kf    -        30612   10    0 
+juniper   927068983  8  1 Bf  -     -     -        30602    5    0 
+juniper   927069015  8  8 c   f     -     -        30597   35    0 
+juniper   927069046  8  7 f   -     -     -        30562    0    0 
+juniper   927069075  8  6 r   k     c     c        30562 1175 2520 Kd Qs
+juniper   927069106  8  5 f   -     -     -        31907    0    0 
+juniper   927069149  8  4 f   -     -     -        31907    0    0 
+juniper   927069177  8  3 f   -     -     -        31907    0    0 
+juniper   927069209  9  2 Bf  -     -     -        31907   10    0 
+juniper   927069238  9  1 Bcc b     b     b        31897 8320 13140 
+juniper   927069292  9  9 r   b     bc    f        36717 3045    0 
+juniper   927069325  9  8 f   -     -     -        33672    0    0 
+juniper   927069359  9  7 f   -     -     -        33672    0    0 
+juniper   927069408  9  6 f   -     -     -        33672    0    0 
+juniper   927069443  9  5 f   -     -     -        33672    0    0 
+juniper   927069477  9  4 f   -     -     -        33672    0    0 
+juniper   927069512  9  3 f   -     -     -        33672    0    0 
+juniper   927069557  9  2 Bk  kf    -     -        33672   10    0 
+juniper   927069579  9  1 Bf  -     -     -        33662    5    0 
+juniper   927069607 10 10 c   k     c     k        33657   50    0 8h Tc
+juniper   927069640 10  9 c   f     -     -        33607   55    0 
+juniper   927069701 10  8 c   c     kf    -        33552   80    0 
+juniper   927069744 10  7 c   k     rc    rc       33472 29130 29160 Ad 9h
+juniper   927069796 10  6 f   -     -     -        33502    0    0 
+juniper   927069847 10  5 f   -     -     -        33502    0    0 
+juniper   927069897 10  4 cc  kf    -     -        33502   55    0 
+juniper   927069920 10  3 f   -     -     -        33447    0    0 
+juniper   927069955 10  2 Bc  kf    -     -        33447   45    0 
+juniper   927070014 10  1 Bc  b     k     k        33402  185  600 9c Jc
+juniper   927070046 10 10 f   -     -     -        33817    0    0 
+juniper   927070091 10  9 f   -     -     -        33817    0    0 
+juniper   927070159  9  7 f   -     -     -        33817    0    0 
+juniper   927070189  9  6 f   -     -     -        33817    0    0 
+juniper   927070232  9  5 c   b     k     f        33817   80    0 
+juniper   927070278  9  4 f   -     -     -        33737    0    0 
+juniper   927070311  9  3 c   kf    -     -        33737   10    0 
+juniper   927070352  9  2 Br  kc    kf    -        33727  360    0 
+juniper   927070409  9  1 Bf  -     -     -        33367    5    0 
+juniper   927070440 10 10 KQ  -     -     -        33362    0    0 
+juniper   927129313  4  4 c   f     -     -        33362   10    0 
+juniper   927129337  4  3 f   -     -     -        33352    0    0 
+juniper   927129369  3  2 Bk  kf    -     -        33352   10    0 
+juniper   927129399  3  1 Bf  -     -     -        33342    5    0 
+juniper   927129457  3  3 c   b     -     -        33337   40   60 
+juniper   927129507  4  2 Bk  b     bc    k        33357  335  675 5h 2h
+juniper   927129530  4  1 Bc  b     b     -        33697   90  120 
+juniper   927129552  4  4 c   c     c     k        33727  150    0 9d 6d
+juniper   927129597  4  3 f   -     -     -        33577    0    0 
+juniper   927129619  4  2 Bk  b     k     b        33577   90  120 
+juniper   927129642  4  1 Bc  k     kf    -        33607   10    0 
+juniper   927129680  4  4 f   -     -     -        33597    0    0 
+juniper   927129695  4  3 cc  kc    k     k        33597  150    0 9c Jd
+juniper   927129721  4  2 Br  b     kc    kc       33447 1600 3240 Jd Jc
+juniper   927129751  3  1 Br  b     -     -        35087  130  180 
+juniper   927129764  3  3 f   -     -     -        35137    0    0 
+juniper   927129782  3  2 Bk  k     b     -        35137   40   60 
+juniper   927129800  3  1 Bc  b     b     b        35157  400  810 5s Ah
+juniper   927129822  3  3 r   b     k     k        35567  115  240 Th Ad
+juniper   927129842  3  2 Bk  k     f     -        35692   10    0 
+juniper   927129853  3  1 Bc  b     k     kf       35682   40    0 
+juniper   927129874  3  3 r   -     -     -        35642   35   50 
+juniper   927129878  3  2 Bk  b     b     k        35657  130    0 2c 5h
+juniper   927129898  3  1 Bc  kf    -     -        35527   10    0 
+juniper   927129913  3  3 f   -     -     -        35517    0    0 
+juniper   927129915  3  2 B   -     -     -        35517   10   15 
+juniper   927129920  3  1 Bc  k     k     kf       35522   10    0 
+juniper   927129937  3  3 r   -     -     -        35512   35   50 
+juniper   927129941  3  2 Bc  f     -     -        35527   25    0 
+juniper   927129948  3  1 Bcc k     kf    -        35502   30    0 
+juniper   927129961  3  3 c   b     k     k        35472   40   90 6d 8c
+juniper   927129980  3  2 Bc  kf    -     -        35522   35    0 
+juniper   927129992  3  1 Bf  -     -     -        35487    5    0 
+juniper   927130005  3  3 r   k     k     k        35482   35   80 Jc Kc
+juniper   927130027  3  2 Bc  kc    b     k        35527  560 1260 Kc 5s
+juniper   927130053  3  1 Bf  -     -     -        36227    5    0 
+juniper   927130059  3  3 c   k     k     k        36222   10    0 9h Kd
+juniper   927130076  3  2 Bk  f     -     -        36212   10    0 
+juniper   927130100  3  1 Bc  b     b     b        36202  270  540 Ad 3h
+juniper   927130116  3  3 f   -     -     -        36472    0    0 
+juniper   927130130  3  2 Bc  k     k     f        36472   35    0 
+juniper   927130164  3  1 Bc  b     -     -        36437   30   40 
+juniper   927130175  3  3 c   f     -     -        36447   10    0 
+juniper   927130184  3  2 Bk  b     -     -        36437   30   40 
+juniper   927130193  3  1 Bc  k     b     -        36447   30   40 
+juniper   927130211  3  3 r   b     k     k        36457  110  112 Kc Ah
+juniper   927130231  3  2 Bc  c     c     k        36459  225    0 As 8s
+juniper   927130246  3  1 Bf  -     -     -        36234    5    0 
+juniper   927130252  3  3 c   b     -     -        36229   40   60 
+juniper   927130278  3  2 Bc  f     -     -        36249   35    0 
+juniper   927130288  3  1 Bf  -     -     -        36214    5    0 
+juniper   927130304  3  3 c   b     b     k        36209  110  225 7h 8s
+juniper   927130319  3  2 Bk  bc    k     kf       36324  130    0 
+juniper   927130340  3  1 Bf  -     -     -        36194    5    0 
+juniper   927130344  3  3 f   -     -     -        36189    0    0 
+juniper   927130358  3  2 Bc  kf    -     -        36189   35    0 
+juniper   927130367  3  1 Bc  b     b     b        36154  805 1620 3h 3s
+juniper   927130384  3  3 cc  k     f     -        36969   40    0 
+juniper   927130401  3  2 Bk  c     c     k        36929  130    0 9c 7s
+juniper   927130419  3  1 Bc  k     k     k        36799   10   20 Jc 5h
+juniper   927130436  3  3 c   k     f     -        36809   10    0 
+juniper   927130456  3  2 Bf  -     -     -        36799   10    0 
+juniper   927130478  3  1 Bf  -     -     -        36789    5    0 
+juniper   927130501  3  3 f   -     -     -        36784    0    0 
+juniper   927130517  3  2 Brc k     bf    -        36784  335    0 
+juniper   927130534  3  1 Bf  -     -     -        36449    5    0 
+juniper   927130543  3  3 c   b     k     k        36444   40    0 Qd 6c
+juniper   927130561  3  2 Bk  b     k     b        36404  160  240 
+juniper   927130594  3  1 Bf  -     -     -        36484    5    0 
+juniper   927130613  3  3 c   f     -     -        36479   10    0 
+juniper   927130624  3  2 Bk  k     f     -        36469   10    0 
+juniper   927130641  3  1 Bc  kf    -     -        36459   10    0 
+juniper   927130650  3  3 cc  c     r     b        36449 3640 7290 Ad 8s
+juniper   927130671  3  2 Bk  b     b     -        40099  130  180 
+juniper   927130690  3  1 Bc  b     -     -        40149   30   40 
+juniper   927130697  3  3 c   k     b     -        40159   35   50 
+juniper   927130710  3  2 Bk  r     bc    k        40174  940    0 Kh 8c
+juniper   927130737  3  1 Bc  k     k     k        39234   10    0 7c Jc
+juniper   927130773  3  3 c   c     k     k        39224   35   75 Qs 7h
+juniper   927130789  3  2 Bk  c     kf    -        39264   40    0 
+juniper   927130807  3  1 Bf  -     -     -        39224    5    0 
+juniper   927130810  3  3 c   b     k     f        39219   40    0 
+juniper   927130831  3  2 Bk  k     f     -        39179   10    0 
+juniper   927130849  3  1 Br  b     -     -        39169   90  120 
+juniper   927130859  3  3 c   b     k     b        39199  130  180 
+juniper   927130883  3  2 B   -     -     -        39249   10   15 
+juniper   927130890  3  1 Bc  kf    -     -        39254   10    0 
+juniper   927130899  3  3 r   -     -     -        39244   35   50 
+juniper   927130905  3  2 Bk  b     k     k        39259   40  120 5h Tc
+juniper   927130923  3  1 Bc  kf    -     -        39339   10    0 
+juniper   927130935  3  3 r   -     -     -        39329   35   50 
+juniper   927130940  3  2 B   -     -     -        39344   10   15 
+juniper   927130944  3  1 Bc  bc    k     k        39349  130  270 9s Jc
+juniper   927130962  3  3 f   -     -     -        39489    0    0 
+juniper   927130967  3  2 Bk  b     -     -        39489   35   50 
+juniper   927130973  3  1 Bc  k     k     k        39504   10    0 6h 5c
+juniper   927130988  3  3 f   -     -     -        39494    0    0 
+juniper   927131014  3  2 Bk  k     k     k        39494   10   30 6d Ac
+juniper   927131030  3  1 Bc  b     -     -        39514   30   40 
+juniper   927131039  3  3 c   b     -     -        39524   35   50 
+juniper   927131047  3  2 Bc  c     f     -        39539   75    0 
+juniper   927131057  3  1 Bc  k     kf    -        39464   10    0 
+juniper   927131076  3  3 c   k     k     b        39454   40   60 
+juniper   927131098  3  2 Bk  b     b     bc       39474 1077    0 7c 5s
+juniper   927131124  3  1 Bf  -     -     -        38397    5    0 
+juniper   927131143  3  3 r   b     b     k        38392  355    0 Qh Qd
+juniper   927131174  3  2 Bk  c     c     c        38037  270    0 Th 5d
+juniper   927131191  3  1 Bc  b     -     -        37767   30   40 
+juniper   927131199  3  3 r   -     -     -        37777   35   50 
+juniper   927131203  3  2 Bk  f     -     -        37792   10    0 
+juniper   927131210  3  1 Br  b     k     b        37782  270  540 Jc Tc
+juniper   927131226  4  4 f   -     -     -        38052    0    0 
+juniper   927131250  4  3 c   f     -     -        38052   10    0 
+juniper   927131266  4  2 Bc  bc    k     bc       38042 2189    0 2s Ks
+juniper   927131293  4  1 Bc  b     k     b        35853  325  450 
+juniper   927131316  4  4 c   k     k     k        35978   10    0 3c 2h
+juniper   927131336  4  3 cc  k     kc    b        35968  465  630 
+juniper   927131353  4  2 Bk  kf    -     -        36133   10    0 
+juniper   927131381  4  1 Bf  -     -     -        36123    5    0 
+juniper   927131402  4  4 c   k     k     f        36118   10    0 
+juniper   927131423  4  3 c   b     -     -        36108   50   80 
+juniper   927131437  4  2 Bk  k     b     -        36138   35   50 
+juniper   927131456  4  1 Bc  kf    -     -        36153   25    0 
+juniper   927131465  4  4 f   -     -     -        36128    0    0 
+juniper   927131491  4  3 c   f     -     -        36128   10    0 
+juniper   927131510  4  2 Bc  kc    kf    -        36118  140    0 
+juniper   927131529  4  1 Bc  k     k     kf       35978   10    0 
+juniper   927131546  4  4 f   -     -     -        35968    0    0 
+juniper   927131576  3  2 Bc  kf    -     -        35968   35    0 
+juniper   927131586  3  1 Bcc k     b     b        35933  270  360 
+juniper   927131599  3  3 c   k     f     -        36023   10    0 
+juniper   927131620  3  2 Bk  k     f     -        36013   10    0 
+juniper   927131635  3  1 Br  -     -     -        36003   40   60 
+juniper   927131642  3  3 c   f     -     -        36023   10    0 
+juniper   927131666  3  2 B   -     -     -        36013   10   15 
+juniper   927131673  3  1 Bc  k     k     k        36018   10    0 9c 4d
+juniper   927131683  3  3 c   k     k     k        36008   10    0 5c Qs
+juniper   927131697  3  2 Bk  c     b     -        35998   90  120 
+juniper   927131714  3  1 Bc  kc    k     k        36028  115    0 Js Kh
+juniper   927131733  3  3 f   -     -     -        35913    0    0 
+juniper   927131745  3  2 Bc  kf    -     -        35913   35    0 
+juniper   927131754  3  1 Bcc kc    kc    k        35878  270  540 Qh Jc
+juniper   927131770  3  3 c   b     -     -        36148   35   50 
+juniper   927131780  3  2 Bk  f     -     -        36163   10    0 
+juniper   927131788  3  1 Br  b     b     bc       36153 2430    0 Qd Qs
+juniper   927131806  3  3 f   -     -     -        33723    0    0 
+juniper   927131822  3  2 B   -     -     -        33723   10   15 
+juniper   927131825  3  1 Bc  k     k     k        33728   10   20 5s 4d
+juniper   927131836  3  3 c   f     -     -        33738   10    0 
+juniper   927131847  3  2 B   -     -     -        33728   10   15 
+juniper   927131851  3  1 Bcc k     kf    -        33733   30    0 
+juniper   927131865  3  3 c   f     -     -        33703   10    0 
+juniper   927131891  3  2 Bk  k     r     -        33693   90  120 
+juniper   927131909  3  1 Br  b     -     -        33723  380  530 
+juniper   927131920  3  3 c   c     b     -        33873  110  150 
+juniper   927131936  3  2 Bk  k     k     k        33913   10    0 6s 4d
+juniper   927131951  3  1 Bc  k     k     k        33903   35    0 7h 2h
+juniper   927131978  3  3 c   c     c     f        33868  130    0 
+juniper   927132001  3  2 Bk  c     k     k        33738   40    0 7c 8h
+juniper   927132018  3  1 Bcc kf    -     -        33698   30    0 
+juniper   927132028  3  3 c   f     -     -        33668   10    0 
+juniper   927132050  3  2 Bk  k     f     -        33658   10    0 
+juniper   927132062  3  1 Bf  -     -     -        33648    5    0 
+juniper   927132071  3  3 f   -     -     -        33643    0    0 
+juniper   927132073  3  2 Bf  -     -     -        33643   10    0 
+juniper   927132078  3  1 Bc  bc    k     b        33633 1400 1890 
+juniper   927132100  3  3 c   r     -     -        34123  130  180 
+juniper   927132114  3  2 Bf  -     -     -        34173   10    0 
+juniper   927132129  3  1 Bc  k     k     k        34163   10   20 9s Qc
+juniper   927132139  3  3 cc  f     -     -        34173   35    0 
+juniper   927132153  3  2 Bk  k     k     k        34138   10   30 8d 5d
+juniper   927132167  3  1 Bc  b     b     -        34158  355  480 
+juniper   927132184  3  3 cc  c     b     -        34283  520  720 
+juniper   927132214  3  2 Bk  k     k     k        34483   10    0 6s 3h
+juniper   927132228  3  1 Bc  b     -     -        34473   30   40 
+juniper   927132244  3  3 f   -     -     -        34483    0    0 
+juniper   927132262  3  2 Bc  kf    -     -        34483   35    0 
+juniper   927132270  3  1 Bc  kc    k     b        34448  355  480 
+juniper   927132288  3  3 c   k     k     f        34573   10    0 
+juniper   927132310  3  2 Bk  b     b     -        34563  160  240 
+juniper   927132327  3  1 Bc  kf    -     -        34643   35    0 
+juniper   927132337  3  3 f   -     -     -        34608    0    0 
+juniper   927132339  3  2 Bc  b     k     k        34608  110  225 Ad Kh
+juniper   927132354  3  1 Bc  b     -     -        34723   30   40 
+juniper   927132364  3  3 c   c     k     f        34733   40    0 
+juniper   927132384  3  2 Bc  kf    -     -        34693   35    0 
+juniper   927132402  3  1 Bc  k     k     b        34658  140  210 
+juniper   927132425  3  3 c   f     -     -        34728   10    0 
+juniper   927132432  3  2 Br  -     -     -        34718   30   40 
+juniper   927132440  3  1 Bc  k     kf    -        34728   35    0 
+juniper   927132455  3  3 c   f     -     -        34693   10    0 
+juniper   927132517  3  2 Bk  k     k     k        34683   10    0 5d 7c
+juniper   927132547  3  1 Bc  k     b     k        34673  115    0 3h 4h
+juniper   927132567  3  3 c   b     -     -        34558   35   50 
+juniper   927132578  3  2 Bc  r     -     -        34573  270  360 
+juniper   927132592  3  1 Bc  kc    kf    -        34663  115    0 
+juniper   927132605  3  3 c   k     k     k        34548   10    0 2s Jh
+juniper   927132623  3  2 B   -     -     -        34538   10   15 
+juniper   927132628  3  1 Bc  k     k     k        34543   10   20 5s Jc
+juniper   927132637  3  3 c   k     k     k        34553   10    0 6h 5d
+juniper   927132651  3  2 Bc  c     c     k        34543  270  540 2d Jh
+juniper   927132669  3  1 Bc  b     -     -        34813   30   40 
+juniper   927132677  3  3 f   -     -     -        34823    0    0 
+juniper   927132689  3  2 Bc  b     -     -        34823   90  120 
+juniper   927132700  3  1 Bc  kf    -     -        34853   35    0 
+juniper   927132709  3  3 c   c     f     -        34818   40    0 
+juniper   927132724  3  2 Bc  c     b     -        34778  270  360 
+juniper   927132740  3  1 Br  -     -     -        34868  115  160 
+juniper   927132747  3  3 c   c     k     b        34913  110  150 
+juniper   927132763  3  2 Bk  b     k     b        34953  110  150 
+juniper   927132779  3  1 Brc k     b     -        34993 1175 1590 
+juniper   927132794  3  3 f   -     -     -        35408    0    0 
+juniper   927132806  3  2 Bc  kc    kf    -        35408  110    0 
+juniper   927132815  3  1 Bc  b     -     -        35298   30   40 
+juniper   927132821  3  3 cc  f     -     -        35308   40    0 
+juniper   927132852  3  2 Bk  bc    k     kc       35268  335    0 Jc 7c
+juniper   927132871  3  1 Bc  kf    -     -        34933   10    0 
+juniper   927132889  3  3 c   k     k     k        34923   10    0 Td 3d
+juniper   927132909  3  2 B   -     -     -        34913   10   15 
+juniper   927132914  3  1 Bcc kc    k     k        34918   90    0 Qh 8h
+juniper   927132929  3  3 rc  k     f     -        34828  115    0 
+juniper   927132947  3  2 B   -     -     -        34713   10   15 
+juniper   927132952  3  1 Bc  k     kr    -        34718   90  120 
+juniper   927132968  3  3 f   -     -     -        34748    0    0 
+juniper   927132982  3  2 B   -     -     -        34748   10   15 
+juniper   927132986  3  1 Bf  -     -     -        34753    5    0 
+juniper   927132989  3  3 c   b     -     -        34748   40   60 
+juniper   927133003  3  2 Bc  f     -     -        34768   30    0 
+juniper   927133012  3  1 Bcc b     kf    -        34738  560    0 
+juniper   927133036  3  3 c   c     c     b        34178  400  540 
+juniper   927133057  3  2 Bc  k     k     b        34318  140  210 
+juniper   927133078  3  1 Bc  b     b     kf       34388   90    0 
+juniper   927133094  3  3 c   k     f     -        34298   10    0 
+juniper   927133105  4  3 f   -     -     -        34288    0    0 
+juniper   927133111  4  2 Bc  kf    -     -        34288   35    0 
+juniper   927133123  4  1 Bc  kc    k     kf       34253  140    0 
+juniper   927133146  4  4 c   k     k     f        34113   10    0 
+juniper   927133169  4  3 c   kc    kf    -        34103   50    0 
+juniper   927133204  4  2 Bk  b     k     k        34053   40   90 Ac 8h
+juniper   927133232  4  1 Bc  b     b     kf       34103   90    0 
+juniper   927133249  4  4 f   -     -     -        34013    0    0 
+juniper   927133280  4  3 c   k     b     k        34013   40    0 4s 3d
+juniper   927133319  4  2 Bk  k     k     k        33973   10    0 7c 4s
+juniper   927133358  4  1 Bc  b     -     -        33963   30   40 
+juniper   927133368  4  4 c   b     b     -        33973  150  210 
+juniper   927133388  4  3 f   -     -     -        34033    0    0 
+juniper   927133401  4  2 Bk  b     k     c        34033  130  270 3h Td
+juniper   927133422  4  1 Bc  kf    -     -        34173   35    0 
+juniper   927133434  4  4 r   b     -     -        34138  225  360 
+juniper   927133453  4  3 c   r     f     -        34273  110    0 
+juniper   927133467  4  2 Bk  rc    b     f        34163  630    0 
+juniper   927133489  4  1 Bf  -     -     -        33533    5    0 
+juniper   927133493  4  4 c   c     b     b        33528  850 1800 6s Jc
+juniper   927133527  4  3 c   b     -     -        34478   35   50 
+juniper   927133539  4  2 Bf  -     -     -        34493   10    0 
+juniper   927133551  4  1 Bc  k     kc    b        34483  130  180 
+juniper   927133577  4  4 r   k     f     -        34533   35    0 
+juniper   927133589  4  3 cc  k     b     k        34498  250  600 3c 4s
+juniper   927133618  4  2 Bc  k     b     -        34848  140  210 
+juniper   927133641  4  1 Bc  kc    kc    b        34918  270  360 
+juniper   927133659  4  4 f   -     -     -        35008    0    0 
+juniper   927133681  4  3 cc  kf    -     -        35008   45    0 
+juniper   927133705  4  2 Bc  kf    -     -        34963   35    0 
+juniper   927133722  4  1 Bc  kc    k     k        34928   50    0 5s Qd
+juniper   927133752  4  4 cc  c     b     -        34878  335  450 
+juniper   927133775  4  3 c   b     k     f        34993   40    0 
+juniper   927133803  4  2 Bc  bc    k     bf       34953 1010    0 
+juniper   927133838  5  1 Bf  -     -     -        33943    5    0 
+juniper   927133854  5  5 c   k     k     b        33938   45   70 
+juniper   927133879  5  4 c   k     kf    -        33963   10    0 
+juniper   927133902  5  3 f   -     -     -        33953    0    0 
+juniper   927133910  5  2 Bk  kf    -     -        33953   10    0 
+juniper   927133949  5  1 Bf  -     -     -        33943    5    0 
+juniper   927133973  5  5 c   c     c     f        33938  130    0 
+juniper   927133995  5  4 f   -     -     -        33808    0    0 
+juniper   927134000  5  3 cc  k     c     c        33808  625    0 Ts Qc
+juniper   927134025  5  2 Bk  b     k     f        33183   30    0 
+juniper   927134053  6  1 Bc  kc    kc    br       33153 7060 9600 
+juniper   927134134  7  7 f   -     -     -        35693    0    0 
+juniper   927134177  5  4 f   -     -     -        35693    0    0 
+juniper   927134192  5  4 c   c     f     -        35693   60    0 
+juniper   927134212  5  3 f   -     -     -        35633    0    0 
+juniper   927134231  5  2 Bk  kf    -     -        35633   10    0 
+juniper   927134270  5  1 Bc  b     -     -        35623   40   60 
+juniper   927134281  5  5 c   k     k     k        35643   10    0 9h 4h
+juniper   927134299  5  4 c   b     b     k        35633  170  360 Kd 9c
+juniper   927134329  6  3 cc  kc    k     kf       35823   92    0 
+juniper   927134363  6  2 Bc  kQ    -     -        35731   35    0 
+juniper   927140283  5  5 f   -     -     -        35696    0    0 
+juniper   927140309  5  4 cf  -     -     -        35696   10    0 
+juniper   927140336  5  3 f   -     -     -        35686    0    0 
+juniper   927140362  5  2 Bc  kf    -     -        35686   35    0 
+juniper   927140381  5  1 Bc  kf    -     -        35651   35    0 
+juniper   927140409  6  5 cf  -     -     -        35616   35    0 
+juniper   927140469  7  4 f   -     -     -        35581    0    0 
+juniper   927140515  6  3 KQ  -     -     -        35581    0    0 
+juniper   927144170  4  3 c   b     -     -        35581   35   50 
+juniper   927144192  4  2 Bf  -     -     -        35596   10    0 
+juniper   927144217  4  1 Bc  kf    -     -        35586   35    0 
+juniper   927144231  4  4 cc  k     b     -        35551  110  150 
+juniper   927144283  4  3 f   -     -     -        35591    0    0 
+juniper   927144311  4  2 Bc  k     f     -        35591   25    0 
+juniper   927144348  4  1 Bcf -     -     -        35566   35    0 
+juniper   927144494  3  3 cc  f     -     -        35531   35    0 
+juniper   927144521  3  2 Bc  b     -     -        35496  110  150 
+juniper   927144532  3  1 Bc  kc    kf    -        35536  115    0 
+juniper   927144551  3  3 f   -     -     -        35421    0    0 
+juniper   927144567  3  2 B   -     -     -        35421   10   15 
+juniper   927144572  3  1 Bc  kf    -     -        35426   35    0 
+juniper   927144630  3  3 c   b     -     -        35391   35   50 
+juniper   927144655  3  2 B   -     -     -        35406   10   15 
+juniper   927144689  3  1 Bf  -     -     -        35411    5    0 
+juniper   927144701  3  3 c   k     KQ    -        35406   10    0 
+juniper   927159435  2  2 Bk  c     c     c        35396  270    0 3s 9s
+juniper   927159955  2  1 Br  b     kc    kc       35126  810    0 Ad Qc
+juniper   927159980  2  2 B   -     -     -        34316   10   15 
+juniper   927159987  2  1 Br  kf    -     -        34321   30    0 
+juniper   927159998  2  2 Bk  k     k     b        34291   30   40 
+juniper   927160017  2  1 Bf  -     -     -        34301    5    0 
+juniper   927160020  2  2 Bk  k     f     -        34296   10    0 
+juniper   927160032  2  1 Bf  -     -     -        34286    5    0 
+juniper   927160033  2  2 Bk  k     k     b        34281   30   40 
+juniper   927160048  2  1 Bc  b     b     b        34291  270  360 
+juniper   927160062  2  2 Bk  b     k     k        34381   30   60 2h 5d
+juniper   927160080  2  1 Bcc k     kf    -        34411   30    0 
+juniper   927160096  2  2 Bc  c     k     b        34381  270  360 
+juniper   927160116  3  1 Bc  k     k     k        34471   10    0 6s 5s
+juniper   927160134  2  2 Bk  k     k     k        34461   10   20 3d 9d
+juniper   927160152  2  1 Bcc kc    kr    b        34471 2430 4860 5d 8d
+juniper   927160179  3  3 cc  bc    c     c        36901 3015    0 9c Kh
+juniper   927160209  3  2 Bk  b     -     -        33886   40   60 
+juniper   927160230  3  1 Bc  k     k     k        33906   10    0 6s Kh
+juniper   927160246  4  4 f   -     -     -        33896    0    0 
+juniper   927160277  4  3 c   f     -     -        33896   10    0 
+juniper   927160294  4  2 Bk  k     k     kf       33886   10    0 
+juniper   927160319  4  1 Bc  k     k     kf       33876   10    0 
+juniper   927160345  4  4 c   k     k     k        33866   10   30 Ah 3s
+juniper   927160372  4  3 r   b     k     f        33886  175    0 
+juniper   927160406  4  2 Bk  kf    -     -        33711   10    0 
+juniper   927160415  4  1 Bc  k     b     b        33701  130    0 9c 7s
+juniper   927160436  4  4 f   -     -     -        33571    0    0 
+juniper   927160460  4  3 f   -     -     -        33571    0    0 
+juniper   927160476  4  2 Bk  b     b     -        33571  130  180 
+juniper   927160493  4  1 Bcc kf    -     -        33621   40    0 
+juniper   927160517  4  4 c   k     f     -        33581   10    0 
+juniper   927160532  4  3 f   -     -     -        33571    0    0 
+juniper   927160551  4  2 Bc  k     kf    -        33571   35    0 
+juniper   927160578  6  1 Bc  k     k     kf       33536   10    0 
+juniper   927160604  5  5 r   b     -     -        33526  140  210 
+juniper   927160619  5  4 c   k     b     -        33596   35   50 
+juniper   927160633  5  3 c   k     k     k        33611   10    0 9c 3c
+juniper   927160648  6  2 Bk  k     k     f        33601   10    0 
+juniper   927160667  7  1 Bc  b     kc    kf       33591  170    0 
+juniper   927160709  7  7 c   c     c     c        33421  790    0 7d 5d
+juniper   927160774  7  6 f   -     -     -        32631    0    0 
+juniper   927160820  7  5 c   k     kf    -        32631   10    0 
+juniper   927160837  7  4 c   k     k     f        32621   10    0 
+juniper   927160861  7  3 c   f     -     -        32611   10    0 
+juniper   927160881  7  2 Bk  b     kf    -        32601   40    0 
+juniper   927160914  6  1 Bc  kf    -     -        32561   10    0 
+juniper   927160948  6  6 r   -     -     -        32551   35   50 
+juniper   927160961  6  5 f   -     -     -        32566    0    0 
+juniper   927160978  7  5 cc  c     b     -        32566  605  840 
+juniper   927161019  7  4 f   -     -     -        32801    0    0 
+juniper   927161068  7  3 f   -     -     -        32801    0    0 
+juniper   927161084  7  2 Bf  -     -     -        32801   10    0 
+juniper   927161105  8  1 Bf  -     -     -        32791    5    0 
+juniper   927161145  8  8 c   k     k     k        32786   35    0 Ad 5d
+juniper   927161179  8  7 c   kf    -     -        32751   10    0 
+juniper   927161220  8  6 f   -     -     -        32741    0    0 
+juniper   927161232  8  5 f   -     -     -        32741    0    0 
+juniper   927161262  8  4 f   -     -     -        32741    0    0 
+juniper   927161278  9  4 f   -     -     -        32741    0    0 
+juniper   927161309 10  4 f   -     -     -        32741    0    0 
+juniper   927161340 10  3 f   -     -     -        32741    0    0 
+juniper   927161352 10  2 Bk  k     b     k        32741   50    0 7s Qd
+juniper   927161385 10  1 Bc  kf    -     -        32691   10    0 
+juniper   927161413 10 10 f   -     -     -        32681    0    0 
+juniper   927161438  9  8 c   f     -     -        32681   10    0 
+juniper   927161480  9  7 c   f     -     -        32671   55    0 
+juniper   927161536  9  6 cc  kc    k     kf       32616  235    0 
+juniper   927161576  8  5 f   -     -     -        32381    0    0 
+juniper   927161617  8  4 c   k     k     k        32381   10    0 3h 4s
+juniper   927161668  8  3 f   -     -     -        32371    0    0 
+juniper   927161706  8  2 Bf  -     -     -        32371   10    0 
+juniper   927161748  8  1 Bf  -     -     -        32361    5    0 
+juniper   927161785  8  8 f   -     -     -        32356    0    0 
+juniper   927161808  8  7 f   -     -     -        32356    0    0 
+juniper   927161834  8  6 f   -     -     -        32356    0    0 
+juniper   927161891  7  5 cc  k     kf    -        32356   45    0 
+juniper   927161924  6  3 c   kf    -     -        32311   10    0 
+juniper   927161970  7  3 cf  -     -     -        32301   10    0 
+juniper   927161995  7  2 Bc  kf    -     -        32291   45    0 
+juniper   927162014  6  1 Bc  b     kc    kf       32246   90    0 
+juniper   927162032  6  6 cc  c     c     k        32156 1060    0 Td 9d
+juniper   927162072  6  5 cc  k     kf    -        31096   60    0 
+juniper   927162106  7  4 f   -     -     -        31036    0    0 
+juniper   927162116  7  3 f   -     -     -        31036    0    0 
+juniper   927162140  8  2 BKQ -     -     -        31036   10    0 
+juniper   927589426  9  8 f   -     -     -        30676    0    0 
+juniper   927589478  9  7 c   f     -     -        30676   10    0 
+juniper   927589551  8  5 f   -     -     -        30666    0    0 
+juniper   927589605  8  4 f   -     -     -        30666    0    0 
+juniper   927589627  8  3 f   -     -     -        30666    0    0 
+juniper   927589699  8  2 Bk  k     kf    -        30666   10    0 
+juniper   927589732  8  1 Bcf -     -     -        30656   10    0 
+juniper   927589757  8  8 f   -     -     -        30646    0    0 
+juniper   927589785  8  7 c   k     k     k        30646   35   38 Js 7s
+juniper   927589830  8  6 f   -     -     -        30649    0    0 
+juniper   927589863  8  5 r   b     k     k        30649  230  740 Js Ks
+juniper   927589901  8  4 f   -     -     -        31159    0    0 
+juniper   927589931  8  3 f   -     -     -        31159    0    0 
+juniper   927589961  8  2 Bk  k     kf    -        31159   10    0 
+juniper   927589986  8  1 Bc  kc    kf    -        31149  115    0 
+juniper   927590021  8  8 c   k     c     f        31034   80    0 
+juniper   927590109  8  7 c   c     b     -        30954  585  880 
+juniper   927590139  7  5 f   -     -     -        31249    0    0 
+juniper   927590178  7  4 c   b     -     -        31249   45   70 
+juniper   927590204  7  3 c   b     b     k        31274  210    0 7h Qh
+juniper   927590264  5  2 Bk  b     k     b        31064  110  225 Ts Ah
+juniper   927590289  5  1 Bcc k     k     k        31179   50    0 9d Js
+juniper   927590329  5  5 c   k     f     -        31129   10    0 
+juniper   927590366  5  4 c   b     k     b        31119  160  480 Tc Td
+juniper   927590401  5  3 f   -     -     -        31439    0    0 
+juniper   927590435  5  2 Bf  -     -     -        31439   10    0 
+juniper   927590453  5  1 Bf  -     -     -        31429    5    0 
+juniper   927590462  5  5 c   f     -     -        31424   10    0 
+juniper   927590486  5  4 c   k     f     -        31414   10    0 
+juniper   927590526  5  3 f   -     -     -        31404    0    0 
+juniper   927590538  5  2 Bc  kf    -     -        31404   35    0 
+juniper   927590558  5  1 Bcc b     -     -        31369  160  240 
+juniper   927590577  5  5 f   -     -     -        31449    0    0 
+juniper   927590583  5  4 c   b     -     -        31449   35   50 
+juniper   927590598  4  2 Bk  b     b     b        31464  400  540 
+juniper   927590622  4  1 Bf  -     -     -        31604    5    0 
+juniper   927590628  3  3 cc  f     -     -        31599  130    0 
+juniper   927590640  3  2 B   -     -     -        31469   10   15 
+juniper   927590643  3  1 Bc  b     -     -        31474   30   40 
+juniper   927590652  3  3 r   b     b     -        31484  335  450 
+juniper   927590661  3  2 Br  b     -     -        31599   90  120 
+juniper   927590669  3  1 Bc  kf    -     -        31629   35    0 
+juniper   927590675  3  3 f   -     -     -        31594    0    0 
+juniper   927590683  3  2 Br  b     k     b        31594  270  540 Qh As
+juniper   927590699  3  1 Bc  kf    -     -        31864   10    0 
+juniper   927590716  3  3 c   k     k     k        31854   10   25 9c Kh
+juniper   927590732  3  2 B   -     -     -        31869   10   15 
+juniper   927590749  3  1 Bc  b     b     -        31874   90  120 
+juniper   927590762  3  3 c   k     f     -        31904   10    0 
+juniper   927590775  3  2 Bk  kf    -     -        31894   10    0 
+juniper   927590787  3  1 Bf  -     -     -        31884    5    0 
+juniper   927590791  3  3 f   -     -     -        31879    0    0 
+juniper   927590808  3  2 B   -     -     -        31879   10   15 
+juniper   927590812  3  1 Br  b     kc    k        31884  400    0 Kh As
+juniper   927590832  3  3 cc  k     k     f        31484   40    0 
+juniper   927590847  3  2 Bc  k     k     b        31444  140  210 
+juniper   927590864  3  1 Bc  kf    -     -        31514   10    0 
+juniper   927590874  3  3 c   k     k     k        31504   10    0 Js 7d
+juniper   927590886  3  2 Bf  -     -     -        31494   10    0 
+juniper   927590896  3  1 Bc  k     k     k        31484   10    0 6s Ts
+juniper   927590911  3  3 c   b     k     k        31474   35    0 2c As
+juniper   927590926  3  2 Bk  k     k     k        31439   10    0 Ad 3c
+juniper   927590936  3  1 Bc  kc    k     k        31429   30    0 Kc Ts
+juniper   927590955  3  3 c   k     k     f        31399   10    0 
+juniper   927590970  3  2 Bk  k     f     -        31389   10    0 
+juniper   927590978  3  1 Bcc kf    -     -        31379   40    0 
+juniper   927590991  3  3 cc  b     k     b        31339  520  720 
+juniper   927591016  4  3 cc  k     b     k        31539  150  315 9c 3c
+juniper   927591046  4  2 Bk  k     f     -        31704   10    0 
+juniper   927591070  4  1 Bcc k     kf    -        31694   30    0 
+juniper   927591091  4  4 f   -     -     -        31664    0    0 
+juniper   927591097  4  3 f   -     -     -        31664    0    0 
+juniper   927591113  4  2 B   -     -     -        31664   10   15 
+juniper   927591123  4  1 Bc  kc    k     b        31669  235  320 
+juniper   927591152  4  4 c   b     k     k        31754   35    0 8h Qh
+juniper   927591175  5  4 f   -     -     -        31719    0    0 
+juniper   927591215  6  4 c   kc    k     k        31719   60    0 8s Qh
+juniper   927591262  6  3 f   -     -     -        31659    0    0 
+juniper   927591322  6  2 Bf  -     -     -        31659   10    0 
+juniper   927591339  6  1 Bc  k     k     k        31649   10    0 6d 4h
+juniper   927591362  6  6 r   -     -     -        31639   35   50 
+juniper   927591373  6  5 r   b     k     b        31654  465    0 Tc Ts
+juniper   927591395  6  4 c   c     k     k        31189   40   60 4d Ks
+juniper   927591433  5  3 f   -     -     -        31209    0    0 
+juniper   927591452  5  2 Bk  k     k     kf       31209   10    0 
+juniper   927591474  5  1 Bf  -     -     -        31199    5    0 
+juniper   927591486  4  4 c   c     b     -        31194  100  150 
+juniper   927591518  4  4 c   b     -     -        31244   40   60 
+juniper   927591534  4  3 cc  kc    k     b        31264  465  630 
+juniper   927591555  4  2 B   -     -     -        31429   10   15 
+juniper   927591561  4  1 Bf  -     -     -        31434    5    0 
+juniper   927591575  4  4 c   k     f     -        31429   10    0 
+juniper   927591597  4  3 f   -     -     -        31419    0    0 
+juniper   927591634  4  2 Br  k     b     k        31419   90    0 Kh As
+juniper   927591657  4  1 Bc  b     -     -        31329   50   80 
+juniper   927591673  4  4 c   b     -     -        31359   35   50 
+juniper   927591688  4  3 r   c     f     -        31374  110    0 
+juniper   927591698  4  2 Bk  k     k     k        31264   10    0 Td Ks
+juniper   927591709  4  1 Bc  kf    -     -        31254   10    0 
+juniper   927591739  4  4 f   -     -     -        31244    0    0 
+juniper   927591764  4  3 cf  -     -     -        31244   10    0 
+juniper   927591777  4  2 Bc  k     kf    -        31234   45    0 
+juniper   927591794  4  1 Bc  b     -     -        31189   40   60 
+juniper   927591803  4  4 r   c     r     -        31209 2985 4480 
+juniper   927591838  4  3 f   -     -     -        32704    0    0 
+juniper   927591853  4  2 Bk  kf    -     -        32704   10    0 
+juniper   927591864  4  1 Bf  -     -     -        32694    5    0 
+juniper   927591878  4  4 c   k     b     k        32689   40   45 Kd 8h
+juniper   927591901  4  3 cc  kc    kc    b        32694 1279    0 9s Jd
+juniper   927591932  4  2 Bk  k     b     f        31415   30    0 
+juniper   927591954  3  1 Bcc kc    kf    -        31385  160    0 
+juniper   927591981  4  4 f   -     -     -        31225    0    0 
+juniper   927591995  4  3 r   k     f     -        31225   35    0 
+juniper   927592009  4  2 Bk  kf    -     -        31190   10    0 
+juniper   927592029  3  1 Bf  -     -     -        31180    5    0 
+juniper   927592032  3  3 c   f     -     -        31175   10    0 
+juniper   927592040  3  2 Bk  b     k     c        31165  130  270 8d Ts
+juniper   927592057  3  1 Bc  b     -     -        31305   40   60 
+juniper   927592075  3  3 cc  f     -     -        31325   40    0 
+juniper   927592094  3  2 Bf  -     -     -        31285   10    0 
+juniper   927592114  3  1 Bf  -     -     -        31275    5    0 
+juniper   927592128  3  3 c   c     c     k        31270  130    0 6c 7s
+juniper   927592142  3  2 Br  k     c     c        31140  270  270 Ah Js
+juniper   927592159  3  1 Br  b     k     k        31140  130  270 Ts Kh
+juniper   927592184  3  3 c   k     f     -        31280   10    0 
+juniper   927592196  3  2 Bc  k     k     k        31270   35    0 4s 7s
+juniper   927592212  3  1 Bc  kf    -     -        31235   10    0 
+juniper   927592220  3  3 c   k     r     f        31225  130    0 
+juniper   927592237  3  2 Bk  kc    k     b        31095  130  135 Kh 6h
+juniper   927592254  3  1 Bcc kf    -     -        31100   40    0 
+juniper   927592265  3  3 c   k     f     -        31060   10    0 
+juniper   927592275  3  2 Bk  k     k     b        31050   35   50 
+juniper   927592288  3  1 Bc  k     kf    -        31065   10    0 
+juniper   927592301  3  3 f   -     -     -        31055    0    0 
+juniper   927592313  3  2 Bk  k     k     k        31055   10    0 5d Jh
+juniper   927592329  3  1 Bf  -     -     -        31045    5    0 
+juniper   927592334  3  3 c   k     c     k        31040   40    0 Kd 7d
+juniper   927592347  3  2 Bk  kc    k     b        31000  130  270 6s 2s
+juniper   927592363  3  1 Br  kc    kf    -        31140  160    0 
+juniper   927592385  3  3 cc  f     -     -        30980   40    0 
+juniper   927592391  3  2 Br  b     -     -        30940   90  120 
+juniper   927592403  3  1 Bc  k     k     k        30970   10   20 7c 9c
+juniper   927592413  3  3 r   c     c     k        30980  455    0 Ac Qs
+juniper   927592429  3  2 Br  bc    k     k        30525  520 1080 Ah Qh
+juniper   927592445  3  1 Bc  b     -     -        31085   30   40 
+juniper   927592455  3  3 cc  k     f     -        31095   40    0 
+juniper   927592463  3  2 Bc  kf    -     -        31055   35    0 
+juniper   927592471  3  1 Bf  -     -     -        31020    5    0 
+juniper   927592483  3  3 c   k     f     -        31015   10    0 
+juniper   927592496  3  2 Bk  b     kc    k        31005  110  225 2s 8d
+juniper   927592508  3  1 Bc  kc    k     kf       31120   30    0 
+juniper   927592524  3  3 cc  f     -     -        31090   40    0 
+juniper   927592543  3  2 Bc  k     k     b        31050  110  150 
+juniper   927592558  3  1 Bcc k     kc    k        31090  160  360 2d Ad
+juniper   927592574  3  3 f   -     -     -        31290    0    0 
+juniper   927592604  3  2 Bk  k     k     k        31290   10    0 Ts 7h
+juniper   927592620  3  1 Bc  b     -     -        31280   30   40 
+juniper   927592628  3  3 cc  c     c     b        31290 1210 1215 4s Qc
+juniper   927592641  3  2 Bc  kc    k     bf       31295  455    0 
+juniper   927592659  3  1 Br  kc    kr    b        30840 2430 3240 
+juniper   927592677  3  3 c   c     b     f        31650  160    0 
+juniper   927592700  3  2 Bf  -     -     -        31490   10    0 
+juniper   927592704  3  1 Brc kc    kc    kc       31480 2430    0 Tc Kc
+juniper   927592719  3  3 c   f     -     -        29050   10    0 
+juniper   927592731  3  2 Bk  b     b     k        29040  110    0 6c 2h
+juniper   927592742  3  1 Bf  -     -     -        28930    5    0 
+juniper   927592758  3  3 f   -     -     -        28925    0    0 
+juniper   927592766  3  2 Bf  -     -     -        28925   10    0 
+juniper   927592776  3  1 Bc  b     -     -        28915   30   40 
+juniper   927592782  3  3 c   k     k     k        28925   10   15 7c Ah
+juniper   927592795  3  2 Bc  k     b     k        28930  140  420 Qh 7h
+juniper   927592812  3  1 Bcc b     k     b        29210  270  360 
+juniper   927592826  3  3 f   -     -     -        29300    0    0 
+juniper   927592835  3  2 Bk  bc    k     b        29300  400  540 
+juniper   927592852  3  1 Bcc b     kf    -        29440  160    0 
+juniper   927592873  3  3 c   k     k     k        29280   10    0 Tc 7c
+juniper   927592890  3  2 Bc  kf    -     -        29270   35    0 
+juniper   927592898  3  1 Bc  b     -     -        29235   30   40 
+juniper   927592904  3  3 f   -     -     -        29245    0    0 
+juniper   927592911  3  2 Bc  k     kc    k        29245  110  225 Td 3h
+juniper   927592922  3  1 Bf  -     -     -        29360    5    0 
+juniper   927592928  3  3 c   f     -     -        29355   10    0 
+juniper   927592934  3  2 Bk  b     -     -        29345   40   60 
+juniper   927592946  3  1 Bc  kf    -     -        29365   10    0 
+juniper   927592950  3  3 r   c     b     b        29355 1075 1440 
+juniper   927592965  3  2 B   -     -     -        29720   10   15 
+juniper   927592968  3  1 Bf  -     -     -        29725    5    0 
+juniper   927592984  3  3 f   -     -     -        29720    0    0 
+juniper   927592995  3  2 Bk  c     b     k        29720   90  180 9c Jc
+juniper   927593013  4  1 Bf  -     -     -        29810    5    0 
+juniper   927593034  4  4 f   -     -     -        29805    0    0 
+juniper   927593039  4  3 f   -     -     -        29805    0    0 
+juniper   927593066  5  3 cc  k     b     -        29805  190  290 
+juniper   927593085  4  2 Bc  k     k     k        29905   30    0 5c 7h
+juniper   927593098  5  1 Bc  kc    kf    -        29875   60    0 
+juniper   927593129  5  5 c   k     b     k        29815   45  105 Jd 9s
+juniper   927593150  5  4 f   -     -     -        29875    0    0 
+juniper   927593171  5  3 f   -     -     -        29875    0    0 
+juniper   927593182  5  2 Bc  b     -     -        29875  485  730 
+juniper   927593191  5  1 Bcc bc    k     k        30120  520 1080 Ac 8c
+juniper   927593211  6  6 f   -     -     -        30680    0    0 
+juniper   927593234  6  5 c   f     -     -        30680   10    0 
+juniper   927593251  6  4 f   -     -     -        30670    0    0 
+juniper   927593273  6  3 f   -     -     -        30670    0    0 
+juniper   927593284  6  2 Bc  kf    -     -        30670   35    0 
+juniper   927593296  6  1 Bcc kf    -     -        30635   60    0 
+juniper   927593315  6  6 f   -     -     -        30575    0    0 
+juniper   927593334  6  5 c   f     -     -        30575   10    0 
+juniper   927593355  6  4 cc  kf    -     -        30565   45    0 
+juniper   927593376  6  3 f   -     -     -        30520    0    0 
+juniper   927593398  6  2 Bc  kc    kf    -        30520  110    0 
+juniper   927593414  5  1 Bc  k     kr    bf       30410  400    0 
+juniper   927593439  5  5 c   c     k     b        30010  130  180 
+juniper   927593456  5  4 c   b     -     -        30060   45   70 
+juniper   927593466  5  3 c   k     f     -        30085   10    0 
+juniper   927593483  5  2 Br  k     k     k        30075   40    0 Ac Qc
+juniper   927593500  5  1 Bcc kf    -     -        30035  175    0 
+juniper   927593531  5  5 r   k     k     k        29860   45  140 As Td
+juniper   927593555  5  4 c   k     f     -        29955   10    0 
+juniper   927593572  5  3 cc  f     -     -        29945   45    0 
+juniper   927593611  5  2 Bk  k     k     k        29900   10    0 7h 5h
+juniper   927593627  5  1 Bc  b     kc    b        29890  690 1440 Jh 4h
+juniper   927593648  5  5 c   k     k     f        30640   10    0 
+juniper   927593671  5  4 c   c     r     -        30630 2810 3900 
+juniper   927593700  5  3 f   -     -     -        31720    0    0 
+juniper   927593730  5  2 Bk  b     -     -        31720   50   80 
+juniper   927593745  5  1 Bf  -     -     -        31750    5    0 
+juniper   927593759  5  5 c   f     -     -        31745   10    0 
+juniper   927593778  5  4 c   b     b     k        31735  170  360 Kd 6s
+juniper   927593795  5  3 f   -     -     -        31925    0    0 
+juniper   927593812  5  2 Bc  b     -     -        31925  175  280 
+juniper   927593825  5  1 Bc  b     k     bf       32030  310    0 
+juniper   927593846  5  5 r   c     r     b        31720 4245 4252 Qd Jd
+juniper   927593863  5  4 f   -     -     -        31727    0    0 
+juniper   927593876  5  3 cc  c     k     k        31727  210  640 5d 2d
+juniper   927593912  5  2 Bk  k     k     k        32157   10    0 2d 7s
+juniper   927593936  5  1 Bc  k     kf    -        32147   10    0 
+juniper   927593956  5  3 Q   -     -     -        32137    0    0 
+juniper   927658457  7  2 Br  bc    k     k        32137  335  675 Ts Ks
+juniper   927658486  8  1 Bf  -     -     -        32477    5    0 
+juniper   927658527  8  8 f   -     -     -        32472    0    0 
+juniper   927658541  8  7 cf  -     -     -        32472   10    0 
+juniper   927658586  8  6 f   -     -     -        32462    0    0 
+juniper   927658599  8  5 f   -     -     -        32462    0    0 
+juniper   927658637  8  4 cc  kf    -     -        32462   55    0 
+juniper   927658663  8  3 cc  k     kf    -        32407   45    0 
+juniper   927658700  8  2 Bc  k     kf    -        32362  120    0 
+juniper   927658780  9  1 Bcc k     br    -        32242 1085 1500 
+juniper   927658850  9  9 c   f     -     -        32657  185    0 
+juniper   927658909  9  8 f   -     -     -        32472    0    0 
+juniper   927658947  9  7 f   -     -     -        32472    0    0 
+juniper   927658991  9  6 c   b     k     k        32472  355  900 Th Jc
+juniper   927659045  9  5 fQ  -     -     -        33017    0    0 
+juniper   927682201  7  2 Bc  kf    -     -        33017   45    0 
+juniper   927682217  7  1 Bc  k     kf    -        32972   10    0 
+juniper   927682241  7  7 f   -     -     -        32962    0    0 
+juniper   927682260  8  6 f   -     -     -        32962    0    0 
+juniper   927682289  8  5 c   c     c     b        32962  725    0 9d 8d
+juniper   927682314  8  4 f   -     -     -        32237    0    0 
+juniper   927682343  8  3 f   -     -     -        32237    0    0 
+juniper   927682364  8  2 Bf  -     -     -        32237   10    0 
+juniper   927682391  8  1 Bc  k     k     k        32227   10    0 Kd 7c
+juniper   927682433  8  8 c   b     -     -        32217   65  110 
+juniper   927682470  8  7 f   -     -     -        32262    0    0 
+juniper   927682498  8  6 c   kc    k     k        32262   50    0 Ks Jc
+juniper   927682538  9  5 f   -     -     -        32212    0    0 
+juniper   927682566  9  4 r   k     f     -        32212   35    0 
+juniper   927682619  9  3 f   -     -     -        32177    0    0 
+juniper   927682647  9  2 Bk  bc    kc    k        32177  790    0 Ad Kd
+juniper   927682694 10  1 Bc  k     k     k        31387   35    0 9d Jh
+juniper   927682736 10 10 f   -     -     -        31352    0    0 
+juniper   927682789 10  9 f   -     -     -        31352    0    0 
+juniper   927682825 10  8 f   -     -     -        31352    0    0 
+juniper   927682858 10  7 c   kf    -     -        31352   35    0 
+juniper   927683011 10  6 c   f     -     -        31317   10    0 
+juniper   927683071 10  5 f   -     -     -        31307    0    0 
+juniper   927683125 10  4 f   -     -     -        31307    0    0 
+juniper   927683158 10  3 f   -     -     -        31307    0    0 
+juniper   927683195 10  2 Bf  -     -     -        31307   10    0 
+juniper   927683234 10  1 Bf  -     -     -        31297    5    0 
+juniper   927683249 10 10 c   f     -     -        31292   35    0 
+juniper   927683288 10  9 f   -     -     -        31257    0    0 
+juniper   927683320 10  8 f   -     -     -        31257    0    0 
+juniper   927683361 10  7 f   -     -     -        31257    0    0 
+juniper   927683392 10  6 f   -     -     -        31257    0    0 
+juniper   927683450 10  5 c   k     k     k        31257   10    0 3h Kh
+juniper   927683499 10  4 f   -     -     -        31247    0    0 
+juniper   927683550 10  3 f   -     -     -        31247    0    0 
+juniper   927683598 10  2 Bf  -     -     -        31247   10    0 
+juniper   927683633 10  1 Bc  k     b     k        31237   70   90 3d 4h
+juniper   927683677 10 10 f   -     -     -        31257    0    0 
+juniper   927683707 10  9 c   kf    -     -        31257   45    0 
+juniper   927683732 10  8 c   b     -     -        31212   45   70 
+juniper   927683762 10  7 f   -     -     -        31237    0    0 
+juniper   927683825 10  6 r   b     -     -        31237  335  560 
+juniper   927683904 10  5 c   r     b     -        31462 1595 2160 
+juniper   927683937 10  4 f   -     -     -        32027    0    0 
+juniper   927683981 10  3 f   -     -     -        32027    0    0 
+juniper   927684089 10  2 Bc  kf    -     -        32027  200    0 
+juniper   927684214 10  1 Bf  -     -     -        31827    5    0 
+juniper   927684233 10 10 f   -     -     -        31822    0    0 
+juniper   927684244 10  9 f   -     -     -        31822    0    0 
+juniper   927684262  9  7 cc  kf    -     -        31822   60    0 
+juniper   927684266  9  7 f   -     -     -        31762    0    0 
+juniper   927684272 10  6 f   -     -     -        31762    0    0 
+juniper   927684280 10  5 f   -     -     -        31762    0    0 
+juniper   927684296 10  4 cc  KQ    -     -        31762   75    0 
+juniper   927767643 10 10 f   -     -     -        31687    0    0 
+juniper   927767684 10  9 c   f     -     -        31687   55    0 
+juniper   927767761  9  7 c   c     b     k        31632 1085    0 Td Qs
+juniper   927767804  8  5 f   -     -     -        30547    0    0 
+juniper   927767883  9  5 f   -     -     -        30547    0    0 
+juniper   927767970  9  4 f   -     -     -        30547    0    0 
+juniper   927768010  9  3 cc  c     b     -        30547  850 1280 
+juniper   927768039  8  2 Bf  -     -     -        30977   10    0 
+juniper   927768077  9  1 Bc  kf    -     -        30967  240    0 
+juniper   927768127 10 10 f   -     -     -        30727    0    0 
+juniper   927768191 10  9 f   -     -     -        30727    0    0 
+juniper   927768226 10  8 c   k     c     r        30727 3620 3712 Jc Ah
+juniper   927768291 10  7 f   -     -     -        30819    0    0 
+juniper   927768337 10  6 c   kc    k     k        30819  320    0 Ks As
+juniper   927768388 10  5 f   -     -     -        30499    0    0 
+juniper   927768440 10  4 cc  kc    kf    -        30499  730    0 
+juniper   927768510 10  3 f   -     -     -        29769    0    0 
+juniper   927768540  9  2 Bc  kc    kf    -        29769  280    0 
+juniper   927768601 10  1 Bc  kf    -     -        29489   65    0 
+juniper   927768665  8  8 c   k     f     -        29424  155    0 
+juniper   927768713  8  7 c   c     b     -        29269  645  900 
+juniper   927768747  8  6 c   c     f     -        29524   50    0 
+juniper   927768785  8  5 c   kf    -     -        29474   35    0 
+juniper   927768820  8  4 f   -     -     -        29439    0    0 
+juniper   927768848  8  3 f   -     -     -        29439    0    0 
+juniper   927768894  8  2 Bc  kf    -     -        29439   60    0 
+juniper   927768949  9  1 Bcc b     -     -        29379  625 1021 2h 2c
+juniper   927769001  8  8 f   -     -     -        29775    0    0 
+juniper   927769046  8  8 c   f     -     -        29775   55    0 
+juniper   927769084  8  7 f   -     -     -        29720    0    0 
+juniper   927769111  8  6 c   k     b     kf       29720   45    0 
+juniper   927769145  8  5 f   -     -     -        29675    0    0 
+juniper   927769165  8  4 f   -     -     -        29675    0    0 
+juniper   927769199  8  3 f   -     -     -        29675    0    0 
+juniper   927769231  8  2 Bc  kc    kc    kf       29675  745    0 
+juniper   927769270  7  1 Bf  -     -     -        28930    5    0 
+juniper   927769298  8  7 f   -     -     -        28925    0    0 
+juniper   927769343 10  8 f   -     -     -        28925    0    0 
+juniper   927769394 10  7 f   -     -     -        28925    0    0 
+juniper   927769444 10  6 c   b     k     k        28925   50  120 4c 6c
+juniper   927769479 10  5 f   -     -     -        28995    0    0 
+juniper   927769516  9  4 f   -     -     -        28995    0    0 
+juniper   927769545  9  3 c   f     -     -        28995   10    0 
+juniper   927769600  9  2 Bk  b     b     k        28985  130  270 Qc 9h
+juniper   927769639 10  1 Bc  kf    -     -        29125   10    0 
+juniper   927769663 10 10 c   f     -     -        29115  120    0 
+juniper   927769692 10  9 f   -     -     -        28995    0    0 
+juniper   927769738 10  8 f   -     -     -        28995    0    0 
+juniper   927769761 10  7 rc  kc    k     bf       28995 1140    0 
+juniper   927769795 10  6 f   -     -     -        27855    0    0 
+juniper   927769839 10  5 cc  b     -     -        27855  185  280 
+juniper   927769860 10  4 r   -     -     -        27950   35   50 
+juniper   927769875 10  3 cc  kf    -     -        27965   45    0 
+juniper   927769905 10  2 Bf  -     -     -        27920   10    0 
+juniper   927769938 10  1 Bcf -     -     -        27910   10    0 
+juniper   927769986 10 10 r   c     b     k        27900  560    0 Kd Kh
+juniper   927770023  9  8 f   -     -     -        27340    0    0 
+juniper   927770039  9  7 r   k     kc    b        27340  615 1305 Kc Qs
+juniper   927770077  9  6 r   b     b     -        28030  635  960 
+juniper   927770114  9  5 f   -     -     -        28355    0    0 
+juniper   927770174  8  4 cc  kc    k     k        28355  235    0 Td Kc
+juniper   927770218  9  3 f   -     -     -        28120    0    0 
+juniper   927770249  9  2 Bk  kf    -     -        28120   10    0 
+juniper   927770267  9  1 Bc  kf    -     -        28110   55    0 
+juniper   927770311  9  9 cc  f     -     -        28055   50    0 
+juniper   927770330  9  8 f   -     -     -        28005    0    0 
+juniper   927770394  9  7 cc  kf    -     -        28005   55    0 
+juniper   927770441  9  6 c   k     k     b        27950  155  240 
+juniper   927770474  9  5 f   -     -     -        28035    0    0 
+juniper   927770489  9  4 r   b     -     -        28035  150  230 
+juniper   927770521  9  3 f   -     -     -        28115    0    0 
+juniper   927770550  9  2 Bc  f     -     -        28115   45    0 
+juniper   927770588  9  1 Bf  -     -     -        28070    5    0 
+juniper   927770635  9  9 f   -     -     -        28065    0    0 
+juniper   927770655  9  8 f   -     -     -        28065    0    0 
+juniper   927770673  9  7 f   -     -     -        28065    0    0 
+juniper   927770700  9  7 cc  b     k     k        28065  285  660 4d 6d
+juniper   927770740  8  5 f   -     -     -        28440    0    0 
+juniper   927770777  9  4 cc  kc    k     k        28440  390 1340 7d 8c
+juniper   927770820  9  3 rc  cc    k     b        29390 19191 30000 Ad As
+juniper   927770891  9  2 Bc  kf    -     -        40199   45    0 
+juniper   927770929  9  1 Bf  -     -     -        40154    5    0 
+juniper   927770946  8  8 f   -     -     -        40149    0    0 
+juniper   927770979  8  7 f   -     -     -        40149    0    0 
+juniper   927771008  7  5 cc  bc    kc    k        40149 1410    0 Kc 4c
+juniper   927771048  7  3 f   -     -     -        38739    0    0 
+juniper   927771070  7  2 Bk  k     k     k        38739   10    0 3d 5d
+juniper   927771091  8  1 Bc  kf    -     -        38729   10    0 
+juniper   927771129  8  8 f   -     -     -        38719    0    0 
+juniper   927771177  8  7 f   -     -     -        38719    0    0 
+juniper   927771216  8  6 c   k     c     b        38719  235  540 Qd Jc
+juniper   927771258  9  6 c   f     -     -        39024   10    0 
+juniper   927771294  9  5 f   -     -     -        39014    0    0 
+juniper   927771379  8  3 f   -     -     -        39014    0    0 
+juniper   927771418  9  3 c   f     -     -        39014   10    0 
+juniper   927771457  9  2 Bk  kc    kf    -        39004   45    0 
+juniper   927771491  9  1 Bc  bc    k     k        38959  210  640 4h Ah
+juniper   927771535  7  7 f   -     -     -        39389    0    0 
+juniper   927771558  7  6 c   b     k     b        39389  190  405 2d 3d
+juniper   927771590  8  5 f   -     -     -        39604    0    0 
+juniper   927771651  8  4 f   -     -     -        39604    0    0 
+juniper   927771681  9  3 c   kc    k     k        39604   75    0 4c Ac
+juniper   927771729  9  2 Bk  k     k     k        39529   10    0 5d 8d
+juniper   927771788 10  1 Bf  -     -     -        39519    5    0 
+juniper   927771819 10 10 f   -     -     -        39514    0    0 
+juniper   927771846 10  9 f   -     -     -        39514    0    0 
+juniper   927771903 10  8 c   f     -     -        39514   10    0 
+juniper   927771955 10  7 f   -     -     -        39504    0    0 
+juniper   927772024 10  6 f   -     -     -        39504    0    0 
+juniper   927772060 10  5 cf  -     -     -        39504   10    0 
+juniper   927772087 10  4 cc  b     kc    k        39494 2340 5460 9h As
+juniper   927772153 10  3 c   f     -     -        42614   10    0 
+juniper   927772217 10  2 Bc  kc    b     k        42604  935 2160 4c 3c
+juniper   927772272 10  1 Bcc kf    -     -        43829   80    0 
+juniper   927772319 10 10 KQ  -     -     -        43749    0    0 
+juniper   927834286  5  3 c   b     -     -        43749   35   50 
+juniper   927834302  5  2 Bk  kc    kf    -        43764   45    0 
+juniper   927834323  5  1 Bc  kf    -     -        43719   35    0 
+juniper   927834345  5  5 f   -     -     -        43684    0    0 
+juniper   927834349  5  4 c   k     k     f        43684   10    0 
+juniper   927834378  6  3 c   k     b     b        43674  110  150 
+juniper   927834403  6  2 Bk  kc    kf    -        43714   50    0 
+juniper   927834435  7  1 Bf  -     -     -        43664    5    0 
+juniper   927834464  8  8 c   f     -     -        43659   10    0 
+juniper   927834502  7  7 c   f     -     -        43649   10    0 
+juniper   927834558  7  6 f   -     -     -        43639    0    0 
+juniper   927834592  7  5 f   -     -     -        43639    0    0 
+juniper   927834618  7  4 c   f     -     -        43639   10    0 
+juniper   927834637  7  3 f   -     -     -        43629    0    0 
+juniper   927834677  7  2 Bf  -     -     -        43629   10    0 
+juniper   927834706  8  1 Bcc kf    -     -        43619   70    0 
+juniper   927834796  8  8 f   -     -     -        43549    0    0 
+juniper   927834839  8  7 f   -     -     -        43549    0    0 
+juniper   927834868  7  5 f   -     -     -        43549    0    0 
+juniper   927834875  7  4 c   f     -     -        43549   10    0 
+juniper   927834924  8  3 f   -     -     -        43539    0    0 
+juniper   927834962  7  2 Bk  k     kf    -        43539   10    0 
+juniper   927834992  7  1 Bc  kc    k     b        43529  455  630 
+juniper   927835018  7  7 f   -     -     -        43704    0    0 
+juniper   927835047  7  6 c   b     k     k        43704   45    0 9d Td
+juniper   927835088  7  5 f   -     -     -        43659    0    0 
+juniper   927835110  7  4 f   -     -     -        43659    0    0 
+juniper   927835195  8  3 f   -     -     -        43659    0    0 
+juniper   927835269  8  2 Bf  -     -     -        43659   10    0 
+juniper   927835300  8  1 Bf  -     -     -        43649    5    0 
+juniper   927835328  8  8 c   c     c     f        43644  170    0 
+juniper   927835380  8  7 f   -     -     -        43474    0    0 
+juniper   927835418  8  6 c   c     k     b        43474  210  480 Kd 8d
+juniper   927835484  8  5 f   -     -     -        43744    0    0 
+juniper   927835522  8  4 f   -     -     -        43744    0    0 
+juniper   927835576  8  3 f   -     -     -        43744    0    0 
+juniper   927835617  8  2 Bk  k     k     k        43744   10   40 2h Js
+juniper   927835681  9  1 Bf  -     -     -        43774    5    0 
+juniper   927835741  8  8 f   -     -     -        43769    0    0 
+juniper   927835785  9  8 c   k     f     -        43769   10    0 
+juniper   927835887 10  8 f   -     -     -        43759    0    0 
+juniper   927835924 10  7 f   -     -     -        43759    0    0 
+juniper   927835992  7  4 f   -     -     -        43759    0    0 
+juniper   927836028  7  3 f   -     -     -        43759    0    0 
+juniper   927836063  7  2 Bc  kc    kf    -        43759  185    0 
+juniper   927836101  7  1 Bc  b     -     -        43574   50   80 
+juniper   927836200  8  8 c   c     f     -        43604   70    0 
+juniper   927836267  8  7 f   -     -     -        43534    0    0 
+juniper   927836305  8  6 f   -     -     -        43534    0    0 
+juniper   927836368  9  5 f   -     -     -        43534    0    0 
+juniper   927836412  9  5 c   f     -     -        43534   10    0 
+juniper   927836456  9  4 f   -     -     -        43524    0    0 
+juniper   927836540 10  3 f   -     -     -        43524    0    0 
+juniper   927836578 10  2 Bf  -     -     -        43524   10    0 
+juniper   927836643 10  1 Bc  kc    kf    -        43514   50    0 
+juniper   927836741  9  9 f   -     -     -        43464    0    0 
+juniper   927836773  9  8 f   -     -     -        43464    0    0 
+juniper   927836796  9  7 cc  f     -     -        43464   55    0 
+juniper   927836823  8  6 c   k     f     -        43409   10    0 
+juniper   927836871  8  5 c   f     -     -        43399   10    0 
+juniper   927836911  8  4 f   -     -     -        43389    0    0 
+juniper   927836943  9  3 f   -     -     -        43389    0    0 
+juniper   927836985  9  2 Bf  -     -     -        43389   10    0 
+juniper   927837063  8  1 Bc  k     bc    k        43379  210    0 6h Jh
+juniper   927837131  8  8 f   -     -     -        43169    0    0 
+juniper   927837228  8  7 c   k     k     f        43169   10    0 
+juniper   927837325  9  6 f   -     -     -        43159    0    0 
+juniper   927837379 10  5 f   -     -     -        43159    0    0 
+juniper   927837435 10  4 c   kc    k     k        43159   85    0 8s 9h
+juniper   927837517 10  4 f   -     -     -        43074    0    0 
+juniper   927837563  8  2 Bk  k     k     k        43074   10   50 3s 5c
+juniper   927837612  8  1 Bf  -     -     -        43114    5    0 
+juniper   927837628  8  8 f   -     -     -        43109    0    0 
+juniper   927837672  8  7 f   -     -     -        43109    0    0 
+juniper   927837737  8  6 f   -     -     -        43109    0    0 
+juniper   927837781  8  5 f   -     -     -        43109    0    0 
+juniper   927837825  8  4 cc  c     b     k        43109 1310 3000 Ah Kd
+juniper   927837874  8  3 f   -     -     -        44799    0    0 
+juniper   927837937  8  2 BKQ -     -     -        44799   10    0 
+juniper   927843461  7  5 f   -     -     -        44789    0    0 
+juniper   927843497  7  4 f   -     -     -        44789    0    0 
+juniper   927843540  7  3 cc  kc    kf    -        44789  285    0 
+juniper   927843598  6  2 Bk  b     b     -        44504  170  240 
+juniper   927843632  7  1 Bf  -     -     -        44574    5    0 
+juniper   927843670  8  8 f   -     -     -        44569    0    0 
+juniper   927843767  8  7 cc  cc    f     -        44569 1570    0 
+juniper   927843813  8  6 f   -     -     -        42999    0    0 
+juniper   927843867  8  6 f   -     -     -        42999    0    0 
+juniper   927843896  7  4 f   -     -     -        42999    0    0 
+juniper   927843957  7  3 f   -     -     -        42999    0    0 
+juniper   927844001  7  2 Bf  -     -     -        42999   10    0 
+juniper   927844035  7  1 Bf  -     -     -        42989    5    0 
+juniper   927844091  6  6 f   -     -     -        42984    0    0 
+juniper   927844110  6  5 f   -     -     -        42984    0    0 
+juniper   927844141  6  4 f   -     -     -        42984    0    0 
+juniper   927844189  6  3 f   -     -     -        42984    0    0 
+juniper   927844197  6  2 Bc  f     -     -        42984   60    0 
+juniper   927844247  6  1 Bc  kc    k     b        42924  355  720 Ad 6h
+juniper   927844273  6  6 f   -     -     -        43289    0    0 
+juniper   927844300  7  6 c   c     f     -        43289   55    0 
+juniper   927844327  7  5 f   -     -     -        43234    0    0 
+juniper   927844354  7  4 f   -     -     -        43234    0    0 
+juniper   927844386  7  3 f   -     -     -        43234    0    0 
+juniper   927844412  7  2 Bf  -     -     -        43234   10    0 
+juniper   927844443  7  1 Bc  bc    kf    -        43224  170    0 
+juniper   927844476  7  7 f   -     -     -        43054    0    0 
+juniper   927844518  7  6 cf  -     -     -        43054   35    0 
+juniper   927844548  7  5 c   b     b     k        43019  170    0 Kc As
+juniper   927844591  7  5 f   -     -     -        42849    0    0 
+juniper   927844615  6  3 f   -     -     -        42849    0    0 
+juniper   927844640  6  2 Bk  k     k     k        42849   10    0 3h 2c
+juniper   927844671  7  1 Bc  k     kf    -        42839   10    0 
+juniper   927844697  7  7 f   -     -     -        42829    0    0 
+juniper   927844722  7  6 c   c     c     k        42829  375  765 Jc Td
+juniper   927844742  7  5 c   k     f     -        43219   10    0 
+juniper   927844785  7  4 f   -     -     -        43209    0    0 
+juniper   927844806  7  3 f   -     -     -        43209    0    0 
+juniper   927844834  8  2 Bf  -     -     -        43209   10    0 
+juniper   927844867  8  1 Bf  -     -     -        43199    5    0 
+juniper   927844916  8  8 c   k     b     -        43194   65  110 
+juniper   927844963  8  7 f   -     -     -        43239    0    0 
+juniper   927844998  8  6 f   -     -     -        43239    0    0 
+juniper   927845032  8  5 c   bc    kf    -        43239  170    0 
+juniper   927845100  7  3 f   -     -     -        43069    0    0 
+juniper   927845139  7  2 Bc  b     b     b        43069 1010 2025 2s 2d
+juniper   927845174  7  1 Bc  k     kc    b        44084  370    0 Kc Th
+juniper   927845256  6  6 f   -     -     -        43714    0    0 
+juniper   927845315  8  7 c   k     f     -        43714   10    0 
+juniper   927845379  8  6 f   -     -     -        43704    0    0 
+juniper   927845428  8  5 f   -     -     -        43704    0    0 
+juniper   927845454  8  4 c   bc    f     -        43704  250    0 
+juniper   927845521  8  3 cc  k     c     k        43454  340    0 Kc Th
+juniper   927845584  8  2 Bk  kf    -     -        43114   10    0 
+juniper   927845625  8  1 Bf  -     -     -        43104    5    0 
+juniper   927845675  8  8 c   b     -     -        43099   55   90 
+juniper   927845746  8  7 f   -     -     -        43134    0    0 
+juniper   927845765  8  6 cc  kf    -     -        43134   65    0 
+juniper   927845816  9  5 r   b     -     -        43069  195  300 
+juniper   927845843  9  4 f   -     -     -        43174    0    0 
+juniper   927845873  9  3 f   -     -     -        43174    0    0 
+juniper   927845916  9  2 Bk  kf    -     -        43174   10    0 
+juniper   927846007  9  1 Br  bc    kc    kf       43164 5530    0 
+juniper   927846079  9  9 f   -     -     -        37634    0    0 
+juniper   927846178  9  8 f   -     -     -        37634    0    0 
+juniper   927846207 10  8 f   -     -     -        37634    0    0 
+juniper   927846289 10  7 rc  b     b     -        37634 1580 2190 
+juniper   927846319 10  6 f   -     -     -        38244    0    0 
+juniper   927846380 10  5 f   -     -     -        38244    0    0 
+juniper   927846431 10  4 cc  kf    -     -        38244  155    0 
+juniper   927846488 10  3 f   -     -     -        38089    0    0 
+juniper   927846531 10  2 Bk  b     b     k        38089  170  360 8s Kh
+juniper   927846574 10  1 Bc  kc    b     b        38279 1570    0 Ts Jd
+juniper   927846709 10 10 cf  -     -     -        36709   55    0 
+juniper   927846766 10  9 f   -     -     -        36654    0    0 
+juniper   927846836 10  8 c   c     c     b        36654 1920 2610 
+juniper   927846901 10  7 f   -     -     -        37344    0    0 
+juniper   927846935 10  6 c   f     -     -        37344   10    0 
+juniper   927846984 10  5 f   -     -     -        37334    0    0 
+juniper   927847034 10  4 f   -     -     -        37334    0    0 
+juniper   927847101 10  3 c   k     f     -        37334   10    0 
+juniper   927847140 10  2 Bf  -     -     -        37324   10    0 
+juniper   927847195 10  1 Bc  b     b     -        37314  805 1140 
+juniper   927847237 10 10 c   k     f     -        37649   35    0 
+juniper   927847317 10  9 c   cf    -     -        37614  190    0 
+juniper   927847356 10  8 c   kc    kc    k        37424  270    0 9d Qd
+juniper   927847417 10  7 f   -     -     -        37154    0    0 
+juniper   927847468 10  6 f   -     -     -        37154    0    0 
+juniper   927847506 10  5 f   -     -     -        37154    0    0 
+juniper   927847579 10  4 f   -     -     -        37154    0    0 
+juniper   927847621 10  3 f   -     -     -        37154    0    0 
+juniper   927847665 10  2 Bf  -     -     -        37154   10    0 
+juniper   927847716 10  1 Bc  kf    -     -        37144   10    0 
+juniper   927847757 10 10 f   -     -     -        37134    0    0 
+juniper   927847782 10  9 f   -     -     -        37134    0    0 
+juniper   927847829 10  8 f   -     -     -        37134    0    0 
+juniper   927847897 10  7 f   -     -     -        37134    0    0 
+juniper   927847970 10  6 f   -     -     -        37134    0    0 
+juniper   927848026 10  5 f   -     -     -        37134    0    0 
+juniper   927848088 10  4 cc  b     b     -        37134 1915 2760 
+juniper   927848136 10  3 f   -     -     -        37979    0    0 
+juniper   927848210 10  2 Bk  kf    -     -        37979   10    0 
+juniper   927848255 10  1 Bc  kf    -     -        37969   10    0 
+juniper   927848332 10 10 c   cf    -     -        37959  157    0 
+juniper   927848398 10  9 f   -     -     -        37802    0    0 
+juniper   927848451 10  9 f   -     -     -        37802    0    0 
+juniper   927848521  9  8 f   -     -     -        37802    0    0 
+juniper   927848571  8  6 f   -     -     -        37802    0    0 
+juniper   927848607  8  5 f   -     -     -        37802    0    0 
+juniper   927848658  8  4 cc  f     -     -        37802   60    0 
+juniper   927848695  8  3 f   -     -     -        37742    0    0 
+juniper   927848733  7  2 Bf  -     -     -        37742   10    0 
+juniper   927848767  6  1 Bf  -     -     -        37732    5    0 
+juniper   927848840  6  6 f   -     -     -        37727    0    0 
+juniper   927848892  7  5 f   -     -     -        37727    0    0 
+juniper   927848931  7  4 cc  c     r     -        37727 5160 7200 
+juniper   927848975  8  3 f   -     -     -        39767    0    0 
+juniper   927849016  8  2 Bc  kc    kf    -        39767  280    0 
+juniper   927849072  8  1 Bf  -     -     -        39487    5    0 
+juniper   927849098  8  8 f   -     -     -        39482    0    0 
+juniper   927849135  8  7 c   f     -     -        39482   55    0 
+juniper   927849201  8  6 c   k     f     -        39427   35    0 
+juniper   927849237  8  5 f   -     -     -        39392    0    0 
+juniper   927849275  9  4 cc  c     kf    -        39392  430    0 
+juniper   927849349  8  3 cc  b     -     -        38962  570  980 
+juniper   927849405  8  2 Bc  kf    -     -        39372   55    0 
+juniper   927849444  9  1 Bc  kf    -     -        39317   55    0 
+juniper   927849483  9  9 c   k     f     -        39262   65    0 
+juniper   927849519  9  8 f   -     -     -        39197    0    0 
+juniper   927849530  8  6 f   -     -     -        39197    0    0 
+juniper   927849580  8  5 f   -     -     -        39197    0    0 
+juniper   927849600  8  4 f   -     -     -        39197    0    0 
+juniper   927849639  8  3 f   Q     -     -        39197    0    0 
+juniper   927853838  6  6 c   c     c     k        39197  110    0 Ts Jc
+juniper   927853861  6  5 f   -     -     -        39087    0    0 
+juniper   927853908  6  4 f   -     -     -        39087    0    0 
+juniper   927853928  7  3 cc  kc    kf    -        39087  335    0 
+juniper   927854001  7  2 Bk  kf    -     -        38752   10    0 
+juniper   927854051  7  1 Bc  kf    -     -        38742   35    0 
+juniper   927854081  8  8 c   k     k     f        38707   10    0 
+juniper   927854112  8  7 f   -     -     -        38697    0    0 
+juniper   927854141  8  6 f   -     -     -        38697    0    0 
+juniper   927854168  9  6 r   kr    -     -        38697  795 1200 
+juniper   927854207  9  5 c   b     kf    -        39102   55    0 
+juniper   927854247  9  4 f   -     -     -        39047    0    0 
+juniper   927854273 10  3 c   kf    -     -        39047   10    0 
+juniper   927854301 10  2 Bk  kf    -     -        39037   10    0 
+juniper   927854363 10  1 Bc  kf    -     -        39027   35    0 
+juniper   927854407 10 10 f   -     -     -        38992    0    0 
+juniper   927854460 10  9 f   -     -     -        38992    0    0 
+juniper   927854474  9  8 c   b     k     b        38992  250  270 Td Kh
+juniper   927854530  9  7 f   -     -     -        39012    0    0 
+juniper   927854575  9  6 c   b     -     -        39012   60  100 
+juniper   927854602  9  5 c   k     b     -        39052   50   80 
+juniper   927854658 10  4 f   -     -     -        39082    0    0 
+juniper   927854699 10  3 f   -     -     -        39082    0    0 
+juniper   927854721 10  2 Bc  kf    -     -        39082   45    0 
+juniper   927854828 10  1 Bc  kc    kf    -        39037  270    0 
+juniper   927854875  9  9 f   -     -     -        38767    0    0 
+juniper   927854920  8  7 f   -     -     -        38767    0    0 
+juniper   927854953  8  6 f   -     -     -        38767    0    0 
+juniper   927854974  8  5 c   kc    kf    -        38767   70    0 
+juniper   927855024  9  4 f   -     -     -        38697    0    0 
+juniper   927855062  9  3 cc  kf    -     -        38697   75    0 
+juniper   927855114 10  2 Bf  -     -     -        38622   10    0 
+juniper   927855153 10  1 Bf  -     -     -        38612    5    0 
+juniper   927855191 10 10 f   -     -     -        38607    0    0 
+juniper   927855258 10  9 c   k     f     -        38607   10    0 
+juniper   927855317 10  8 f   -     -     -        38597    0    0 
+juniper   927855344 10  7 f   -     -     -        38597    0    0 
+juniper   927855402 10  6 f   -     -     -        38597    0    0 
+juniper   927855442 10  5 f   -     -     -        38597    0    0 
+juniper   927855469 10  4 f   -     -     -        38597    0    0 
+juniper   927855496  9  3 c   b     b     -        38597  290  420 
+juniper   927855540  9  2 Bk  kf    -     -        38727   10    0 
+juniper   927855579  8  1 Bf  -     -     -        38717    5    0 
+juniper   927855612  8  8 c   c     k     f        38712   55    0 
+juniper   927855659  8  7 r   b     -     -        38657  495  750 
+juniper   927855740  8  6 f   -     -     -        38912    0    0 
+juniper   927855794  8  5 c   b     kf    -        38912   55    0 
+juniper   927855862  8  4 f   -     -     -        38857    0    0 
+juniper   927855944  7  2 f   -     -     -        38857    0    0 
+juniper   927856016  6  2 Bc  b     k     b        38857  465  945 Ad Ks
+juniper   927856058  6  1 Bf  -     -     -        39337    5    0 
+juniper   927856085  6  6 f   -     -     -        39332    0    0 
+juniper   927856095  6  5 r   b     -     -        39332  115  160 
+juniper   927856115  6  4 c   f     -     -        39377   10    0 
+juniper   927856132  6  3 f   -     -     -        39367    0    0 
+juniper   927856158  6  2 Bk  k     k     k        39367   10    0 4s 6d
+juniper   927856206  8  1 Bf  -     -     -        39357    5    0 
+juniper   927856284  8  8 r   f     -     -        39352   60    0 
+juniper   927856328  8  8 c   c     f     -        39292   60    0 
+juniper   927856392  9  7 c   f     -     -        39232   10    0 
+juniper   927856426  9  6 f   -     -     -        39222    0    0 
+juniper   927856446  9  5 f   -     -     -        39222    0    0 
+juniper   927856467  9  4 f   -     -     -        39222    0    0 
+juniper   927856492  8  3 f   -     -     -        39222    0    0 
+juniper   927856520  8  2 Bf  -     -     -        39222   10    0 
+juniper   927856571  8  1 Bc  kf    -     -        39212   10    0 
+juniper   927856631  9  9 c   f     -     -        39202   10    0 
+juniper   927856652  9  8 cc  c     c     k        39192 1260    0 Jh Tc
+juniper   927856687 10  8 f   -     -     -        37932    0    0 
+juniper   927856727 10  7 f   -     -     -        37932    0    0 
+juniper   927856756 10  6 f   -     -     -        37932    0    0 
+juniper   927856793 10  5 f   -     -     -        37932    0    0 
+juniper   927856845 10  4 f   -     -     -        37932    0    0 
+juniper   927856866 10  3 f   -     -     -        37932    0    0 
+juniper   927856892 10  2 Bc  kc    k     kf       37932  185    0 
+juniper   927856935 10  1 Bc  kf    -     -        37747   45    0 
+juniper   927856965 10 10 f   -     -     -        37702    0    0 
+juniper   927857000 10  9 c   r     b     k        37702  530 1080 Kc Tc
+juniper   927857039 10  8 f   -     -     -        38252    0    0 
+juniper   927857091 10  7 f   -     -     -        38252    0    0 
+juniper   927857129 10  6 f   -     -     -        38252    0    0 
+juniper   927857172 10  5 f   -     -     -        38252    0    0 
+juniper   927857215 10  4 f   -     -     -        38252    0    0 
+juniper   927857252 10  3 f   -     -     -        38252    0    0 
+juniper   927857275 10  2 Bk  kQ    -     -        38252   10    0 
+juniper   927924582  3  3 cc  k     k     b        38242  130  180 
+juniper   927924606  3  2 Bk  b     k     k        38292   40  120 5h 7h
+juniper   927924638  3  1 Bf  -     -     -        38372    5    0 
+juniper   927924643  3  3 f   -     -     -        38367    0    0 
+juniper   927924647  3  2 Bc  kf    -     -        38367   35    0 
+juniper   927924655  3  1 Bc  k     k     k        38332   10   20 2d Jd
+juniper   927924667  3  3 cc  c     b     b        38342 1210 1620 
+juniper   927924692  3  2 Bk  f     -     -        38752   10    0 
+juniper   927924697  3  1 Bc  b     k     b        38742   90  120 
+juniper   927924709  3  3 cc  k     b     k        38772  130  270 Qc 3h
+juniper   927924721  3  2 Bc  r     b     k        38912  810 1620 Qc Qh
+juniper   927924737  3  1 Bc  b     kf    -        39722   40    0 
+juniper   927924757  3  3 c   b     k     k        39682   40    0 Td Js
+juniper   927924778  2  1 Bf  -     -     -        39642   10    0 
+juniper   927924785  2  1 Br  -     -     -        39632   30   40 
+juniper   927924789  2  2 Bc  c     b     -        39642  270  360 
+juniper   927924800  2  1 Bc  b     -     -        39732   30   40 
+juniper   927924810  2  2 Bc  f     -     -        39742   30    0 
+juniper   927924814  2  1 Bc  k     k     kf       39712   10    0 
+juniper   927924831  2  2 Bk  k     k     b        39702   30   40 
+juniper   927924844  2  1 Bc  b     b     k        39712   90  180 5s 8s
+juniper   927924861  2  2 Bc  k     k     b        39802   90  180 8s 7h
+juniper   927924882  3  1 Bc  b     -     -        39892   30   40 
+juniper   927924894  3  3 c   b     -     -        39902   35   50 
+juniper   927924904  3  2 B   -     -     -        39917   10   15 
+juniper   927924907  3  1 Bc  kc    k     b        39922  160  240 
+juniper   927924940  3  3 c   k     f     -        40002   10    0 
+juniper   927924954  3  2 Bk  b     b     -        39992  130  180 
+juniper   927924974  3  1 Bc  kc    kr    k        40042  400  810 7d Qh
+juniper   927924996  3  3 f   -     -     -        40452    0    0 
+juniper   927925010  3  2 Bk  kf    -     -        40452   10    0 
+juniper   927925019  3  1 Bc  b     k     k        40442   30   60 Ac 6d
+juniper   927925031  3  3 c   f     -     -        40472   10    0 
+juniper   927925042  3  2 Bc  b     k     b        40462  335  675 8c 8h
+juniper   927925055  3  1 Bc  k     k     k        40802   10    0 2d 8d
+juniper   927925077  3  3 c   k     k     f        40792   10    0 
+juniper   927925097  3  2 Bc  kc    k     kf       40782  110    0 
+juniper   927925115  3  1 Br  b     k     kc       40672  270    0 Ad Ks
+juniper   927925129  3  3 c   k     b     -        40402   35   50 
+juniper   927925142  3  2 Bc  b     -     -        40417  160  240 
+juniper   927925155  3  1 Bf  -     -     -        40497    5    0 
+juniper   927925165  3  3 c   b     k     c        40492  110  225 5c Ac
+juniper   927925178  3  2 Bk  k     f     -        40607   10    0 
+juniper   927925216  3  1 Bf  -     -     -        40597    5    0 
+juniper   927925235  3  3 f   -     -     -        40592    0    0 
+juniper   927925252  3  2 Bk  b     k     k        40592   40   45 5h 8s
+juniper   927925274  3  1 Bcc k     k     k        40597   30   30 2c Ad
+juniper   927925298  3  3 cc  k     k     k        40597   40   45 7s 6d
+juniper   927925313  3  2 Bk  c     k     f        40602   30    0 
+juniper   927925333  3  1 Bf  -     -     -        40572    5    0 
+juniper   927925336  3  3 cc  k     b     k        40567  130  270 Jd 6h
+juniper   927925350  4  2 Bc  kf    -     -        40707   45    0 
+juniper   927925366  4  1 Bf  -     -     -        40662    5    0 
+juniper   927925370  4  4 cc  c     f     -        40657  110    0 
+juniper   927925380  4  3 f   -     -     -        40547    0    0 
+juniper   927925391  4  2 Bc  k     b     k        40547  110    0 Td Qs
+juniper   927925407  4  1 Bc  b     k     k        40437   30    0 6h 5d
+juniper   927925424  3  3 c   k     k     k        40407   10    0 Td 4d
+juniper   927925441  3  2 Bk  f     -     -        40397   10    0 
+juniper   927925450  3  1 Bf  -     -     -        40387    5    0 
+juniper   927925452  3  3 f   -     -     -        40382    0    0 
+juniper   927925456  3  2 Bf  -     -     -        40382   10    0 
+juniper   927925471  3  1 Bc  b     b     b        40372  400  810 8c 2c
+juniper   927925488  3  3 c   b     -     -        40782   35   50 
+juniper   927925499  3  2 Bc  c     k     k        40797   90    0 Jh Ad
+juniper   927925512  4  1 Bc  kf    -     -        40707   35    0 
+juniper   927925539  5  5 f   -     -     -        40672    0    0 
+juniper   927925554  5  4 r   r     f     -        40672  335    0 
+juniper   927925574  5  3 c   kf    -     -        40337   10    0 
+juniper   927925587  5  2 Bk  kf    -     -        40327   10    0 
+juniper   927925615  5  1 Bcc bf    -     -        40317  210    0 
+juniper   927925638  5  5 rc  k     b     -        40107  770 1160 
+juniper   927925670  5  4 c   c     f     -        40497   40    0 
+juniper   927925700  5  3 c   k     f     -        40457   10    0 
+juniper   927925734  5  2 Bk  k     kc    k        40447   55    0 3h Td
+juniper   927925760  5  1 Bc  bc    k     b        40392 1855 2520 
+juniper   927925795  5  5 r   b     k     k        41057  115    0 Qh Ah
+juniper   927925814  6  5 c   k     c     r        40942  690 1440 9s Th
+juniper   927925880  8  6 rc  kc    kf    -        41692  655    0 
+juniper   927925925  8  5 cc  k     k     kf       41037   55    0 
+juniper   927925956  8  4 f   -     -     -        40982    0    0 
+juniper   927925993 10  5 f   -     -     -        40982    0    0 
+juniper   927926029 10  4 c   kc    k     f        40982   55    0 
+juniper   927926080 10  3 c   kc    kc    k        40927  310    0 Jd 9c
+juniper   927926124 10  2 Bf  -     -     -        40617   10    0 
+juniper   927926169 10  1 Bc  kc    kc    kf       40607  475    0 
+juniper   927926263 10 10 c   b     k     b        40132  260    0 7s 7c
+juniper   927926356 10  9 c   c     k     b        39872  535  900 
+juniper   927926415 10  8 f   -     -     -        40237    0    0 
+juniper   927926464 10  7 f   -     -     -        40237    0    0 
+juniper   927926514 10  6 f   -     -     -        40237    0    0 
+juniper   927926571 10  5 cc  b     k     k        40237  240  585 5h 5c
+juniper   927926613  9  4 f   -     -     -        40582    0    0 
+juniper   927926661  9  3 f   -     -     -        40582    0    0 
+juniper   927926737  8  1 Bk  kc    kf    -        40582   40    0 
+juniper   927926776  8  1 Bf  -     -     -        40542    5    0 
+juniper   927926841  7  7 f   -     -     -        40537    0    0 
+juniper   927926869  7  6 f   -     -     -        40537    0    0 
+juniper   927926928  6  4 c   k     f     -        40537   10    0 
+juniper   927926961  6  3 f   -     -     -        40527    0    0 
+juniper   927926997  6  2 Bc  k     kf    -        40527   35    0 
+juniper   927927032  7  1 Bc  b     k     kf       40492   60    0 
+juniper   927927065  7  7 f   -     -     -        40432    0    0 
+juniper   927927097  7  6 r   -     -     -        40432   55   90 
+juniper   927927132  7  5 f   -     -     -        40467    0    0 
+juniper   927927172  7  4 cc  kc    kc    kf       40467  775    0 
+juniper   927927228  7  3 f   -     -     -        39692    0    0 
+juniper   927927283  7  2 Bk  b     -     -        39692   35   50 
+juniper   927927307  7  1 Bc  b     bc    kf       39707 1060    0 
+juniper   927927364  7  7 c   b     -     -        38647   70  120 
+juniper   927927412  8  6 f   -     -     -        38697    0    0 
+juniper   927927422  8  5 f   -     -     -        38697    0    0 
+juniper   927927452  8  4 f   -     -     -        38697    0    0 
+juniper   927927493  8  3 f   -     -     -        38697    0    0 
+juniper   927927550  8  2 Bk  k     kf    -        38697   10    0 
+juniper   927927608  7  1 Bc  kf    -     -        38687   10    0 
+juniper   927927639  6  6 r   k     c     c        38677 1465    0 Js Ac
+juniper   927927686  6  5 f   -     -     -        37212    0    0 
+juniper   927927704  6  4 cc  f     -     -        37212   50    0 
+juniper   927927723  6  3 c   c     c     r        37162 1610 2160 
+juniper   927927754  6  2 Bk  kf    -     -        37712   10    0 
+juniper   927927789  6  1 Bc  k     k     k        37702   10    0 9d Qh
+juniper   927927817  7  7 f   -     -     -        37692    0    0 
+juniper   927927837  6  5 r   k     b     -        37692  150  210 
+juniper   927927855  6  4 f   -     -     -        37752    0    0 
+juniper   927927864  6  3 f   -     -     -        37752    0    0 
+juniper   927927894  6  2 Bk  k     k     k        37752   10   13 6h 2d
+juniper   927927924  6  1 Bf  -     -     -        37755    5    0 
+juniper   927927952  6  6 f   -     -     -        37750    0    0 
+juniper   927927979  6  5 f   -     -     -        37750    0    0 
+juniper   927927992  6  4 c   r     -     -        37750  210  320 
+juniper   927928014  6  3 cc  kc    k     k        37860  185    0 Tc 9s
+juniper   927928036  6  2 Bk  b     kf    -        37675   40    0 
+juniper   927928060  6  1 Bf  -     -     -        37635    5    0 
+juniper   927928097  6  6 f   -     -     -        37630    0    0 
+juniper   927928120  6  5 f   -     -     -        37630    0    0 
+juniper   927928129  6  4 f   -     -     -        37630    0    0 
+juniper   927928147  6  3 f   -     -     -        37630    0    0 
+juniper   927928178  6  2 Bk  k     b     kf       37630   45    0 
+juniper   927928210  6  1 Bc  kf    -     -        37585   10    0 
+juniper   927928224  6  6 f   -     -     -        37575    0    0 
+juniper   927928250  7  6 c   b     k     c        37575  285  660 Qc Tc
+juniper   927928292  7  3 Q   -     -     -        37950    0    0 
+juniper   927931467  7  3 f   -     -     -        37950    0    0 
+juniper   927931496  7  2 Bf  -     -     -        37950   10    0 
+juniper   927931521  7  1 Bf  -     -     -        37940    5    0 
+juniper   927931578  7  7 f   -     -     -        37935    0    0 
+juniper   927931608  7  6 f   -     -     -        37935    0    0 
+juniper   927931647  6  4 c   b     -     -        37935   40   60 
+juniper   927931688  6  4 f   -     -     -        37955    0    0 
+juniper   927931757  6  3 f   -     -     -        37955    0    0 
+juniper   927931805  6  2 Bk  b     -     -        37955   30   40 
+juniper   927931819  5  1 Bc  kc    kc    kc       37965 1075    0 9s 7s
+juniper   927931842  5  5 f   -     -     -        36890    0    0 
+juniper   927931851  5  4 f   -     -     -        36890    0    0 
+juniper   927931854  4  2 cc  kc    k     k        36890  160    0 4s Ts
+juniper   927931875  4  2 Bc  bc    krc   k        36730 9110 18225 7c Qc
+juniper   927931896  3  1 Bf  -     -     -        45845    5    0 
+juniper   927931905  3  3 cc  k     c     k        45840  110    0 Ah 3d
+juniper   927931921  3  2 B   -     -     -        45730   10   15 
+juniper   927931926  3  1 Bc  k     b     -        45735  115  160 
+juniper   927931938  3  3 cc  k     f     -        45780   35    0 
+juniper   927931948  3  2 Bc  k     c     bc       45745  810 1620 2h 4h
+juniper   927931966  3  1 Bc  k     b     -        46555   30   40 
+juniper   927931981  3  3 f   -     -     -        46565    0    0 
+juniper   927931984  3  2 Bc  f     -     -        46565   30    0 
+juniper   927931990  3  1 Bc  kf    -     -        46535   35    0 
+juniper   927931998  3  3 cc  c     c     bc       46500 1159 2323 Ad 7s
+juniper   927932012  2  1 B   -     -     -        47664   10   10 
+juniper   927932015  2  1 Br  -     -     -        47664   30   40 
+juniper   927932018  2  2 B   -     -     -        47674   10   15 
+juniper   927932019  2  1 Bf  -     -     -        47679    5    0 
+juniper   927932022  2  2 B   -     -     -        47674   10   15 
+juniper   927932025  2  1 Bf  -     -     -        47679    5    0 
+juniper   927932029  2  2 B   -     -     -        47674   10   15 
+juniper   927932030  2  1 Br  -     -     -        47679   30   40 
+juniper   927932036  2  2 B   -     -     -        47689   10   15 
+juniper   927932037  2  1 Br  -     -     -        47694   30   40 
+juniper   927932039  2  2 B   -     -     -        47704   10   15 
+juniper   927932040  2  1 Bc  b     -     -        47709   30   40 
+juniper   927932047  2  2 B   -     -     -        47719   10   15 
+juniper   927932048  2  1 Bc  k     k     k        47724   10    0 8d Kc
+juniper   927932057  2  2 B   -     -     -        47714   10   15 
+juniper   927932061  2  1 Bc  k     k     b        47719   30   40 
+juniper   927932072  2  2 B   -     -     -        47729   10   15 
+juniper   927932073  2  1 Bc  k     k     k        47734   10    0 Ks 7c
+juniper   927932082  2  2 B   -     -     -        47724   10   15 
+juniper   927932085  2  1 Bc  k     k     k        47729   10    0 4d 9d
+juniper   927932094  2  2 B   -     -     -        47719   10   15 
+juniper   927932098  2  1 Bc  k     k     k        47724   10   20 Qh 7d
+juniper   927932106  2  2 B   -     -     -        47734   10   15 
+juniper   927932110  2  1 Br  -     -     -        47739   30   40 
+juniper   927932113  2  2 B   -     -     -        47749   10   15 
+juniper   927932114  2  1 Br  -     -     -        47754   30   40 
+juniper   927932117  2  2 B   -     -     -        47764   10   15 
+juniper   927932118  2  1 Bc  k     k     k        47769   10   10 4h 2h
+juniper   927932127  2  2 B   -     -     -        47769   10   15 
+juniper   927932131  2  1 Bc  k     k     k        47774   10    0 6s 4s
+juniper   927932139  2  2 B   -     -     -        47764   10   15 
+juniper   927932143  2  1 Bc  b     -     -        47769   30   40 
+juniper   927932149  2  2 B   -     -     -        47779   10   15 
+juniper   927932150  2  1 Bc  b     -     -        47784   30   40 
+juniper   927932154  2  2 B   -     -     -        47794   10   15 
+juniper   927932155  2  1 Br  -     -     -        47799   30   40 
+juniper   927932157  2  2 B   -     -     -        47809   10   15 
+juniper   927932158  2  1 Br  -     -     -        47814   30   40 
+juniper   927932161  2  2 B   -     -     -        47824   10   15 
+juniper   927932162  2  1 Br  -     -     -        47829   30   40 
+juniper   927932165  2  2 B   -     -     -        47839   10   15 
+juniper   927932167  2  1 Br  -     -     -        47844   30   40 
+juniper   927932170  2  2 B   -     -     -        47854   10   15 
+juniper   927932171  2  1 Bf  -     -     -        47859    5    0 
+juniper   927932174  2  2 B   -     -     -        47854   10   15 
+juniper   927932176  2  1 Br  -     -     -        47859   30   40 
+juniper   927932178  2  2 B   -     -     -        47869   10   15 
+juniper   927932179  2  1 Br  -     -     -        47874   30   40 
+juniper   927932182  2  2 B   -     -     -        47884   10   15 
+juniper   927932184  2  1 Br  -     -     -        47889   30   40 
+juniper   927932187  2  2 B   -     -     -        47899   10   15 
+juniper   927932188  2  1 Br  -     -     -        47904   30   40 
+juniper   927932190  2  2 B   -     -     -        47914   10   15 
+juniper   927932191  2  1 Bf  -     -     -        47919    5    0 
+juniper   927932194  2  2 Br  -     -     -        47914   30   40 
+juniper   927932196  2  1 Br  -     -     -        47924   30   40 
+juniper   927932200  2  2 B   -     -     -        47934   10   15 
+juniper   927932204  2  1 Brc kc    k     k        47939  270  540 9s 5s
+juniper   927932216  2  2 Bk  b     -     -        48209   30   40 
+juniper   927932224  2  1 Br  b     k     k        48219   90  180 Ad 4s
+juniper   927932233  2  2 Bc  b     k     k        48309   90    0 Qs Kd
+juniper   927932248  2  1 Bf  -     -     -        48219    5    0 
+juniper   927932253  2  2 B   -     -     -        48214   10   15 
+juniper   927932255  2  1 Br  -     -     -        48219   30   40 
+juniper   927932259  2  2 B   -     -     -        48229   10   15 
+juniper   927932261  2  1 Brc k     k     k        48234   90    0 5c 8c
+juniper   927932273  2  2 B   -     -     -        48144   10   15 
+juniper   927932277  2  1 Br  k     kc    k        48149   90    0 Ad Th
+juniper   927932289  2  2 Bc  c     c     k        48059  270    0 Qs Ad
+juniper   927932301  2  1 Br  -     -     -        47789   30   40 
+juniper   927932306  2  2 Bc  b     -     -        47799   90  120 
+juniper   927932313  2  1 Bf  -     -     -        47829    5    0 
+juniper   927932315  2  2 Bk  b     -     -        47824   30   40 
+juniper   927932319  2  1 Bc  k     kf    -        47834   10    0 
+juniper   927932327  2  2 Bk  k     k     k        47824   10   20 Tc 8d
+juniper   927932338  2  1 Br  b     bc    kc       47834 2430    0 9d Jh
+juniper   927932355  2  2 Bk  k     k     bc       45404   90    0 7s 6c
+juniper   927932370  2  1 Bc  k     k     k        45314   10   20 6h Js
+juniper   927932379  2  2 B   -     -     -        45324   10   15 
+juniper   927932384  2  1 Bf  -     -     -        45329    5    0 
+juniper   927932386  2  2 B   -     -     -        45324   10   15 
+juniper   927932387  2  1 Bf  -     -     -        45329    5    0 
+juniper   927932390  2  2 B   -     -     -        45324   10   15 
+juniper   927932391  2  1 Bc  k     k     b        45329   30   40 
+juniper   927932399  2  2 Bc  f     -     -        45339   30    0 
+juniper   927932405  2  1 Br  k     k     k        45309   30   60 7h 7s
+juniper   927932412  2  2 B   -     -     -        45339   10   15 
+juniper   927932417  2  1 Bc  b     -     -        45344   30   40 
+juniper   927932421  2  2 B   -     -     -        45354   10   15 
+juniper   927932423  2  1 Br  -     -     -        45359   30   40 
+juniper   927932425  2  2 B   -     -     -        45369   10   15 
+juniper   927932427  2  1 Bc  k     b     k        45374   30    0 Kc 2h
+juniper   927932436  2  2 Bc  c     r     b        45344 2430 4860 Ks 5d
+juniper   927932450  2  1 Bf  -     -     -        47774    5    0 
+juniper   927932455  2  2 Bc  f     -     -        47769   30    0 
+juniper   927932461  2  1 Bc  k     k     k        47739   10    0 5d 8d
+juniper   927932468  2  2 B   -     -     -        47729   10   15 
+juniper   927932473  2  1 Bc  k     k     k        47734   10    0 9d Js
+juniper   927932481  2  2 Bk  k     k     k        47724   10    0 Th 7d
+juniper   927932492  3  1 Bf  -     -     -        47714    5    0 
+juniper   927932503  3  3 f   -     -     -        47709    0    0 
+juniper   927932512  3  2 Br  b     -     -        47709   90  120 
+juniper   927932520  3  1 Bc  k     kc    k        47739   40    0 Ah 3h
+juniper   927932536  4  3 f   -     -     -        47699    0    0 
+juniper   927932546  4  2 Bk  c     c     c        47699  850    0 9d Jc
+juniper   927932568  4  1 Bc  b     -     -        46849   40   60 
+juniper   927932581  4  4 f   -     -     -        46869    0    0 
+juniper   927932590  4  3 c   f     -     -        46869   10    0 
+juniper   927932624  4  2 Bf  -     -     -        46859   10    0 
+juniper   927932649  5  1 Bf  -     -     -        46849    5    0 
+juniper   927932667  5  5 r   b     -     -        46844  150  210 
+juniper   927932679  5  4 c   c     k     k        46904   60    0 Tc Qh
+juniper   927932704  5  3 c   k     r     -        46844  150  210 
+juniper   927932730  5  2 Bk  k     f     -        46904   10    0 
+juniper   927932740  5  1 Bc  b     kr    b        46894 2130 2160 Js Ts
+juniper   927932768  5  5 cc  f     -     -        46924   60    0 
+juniper   927932801  5  4 f   -     -     -        46864    0    0 
+juniper   927932824  5  3 f   -     -     -        46864    0    0 
+juniper   927932847  5  2 Bk  b     k     c        46864  130    0 Ah 8c
+juniper   927932868  5  1 Bf  -     -     -        46734    5    0 
+juniper   927932888  5  5 c   k     r     -        46729  210  320 
+juniper   927932920  6  5 f   -     -     -        46839    0    0 
+juniper   927932933  6  4 f   -     -     -        46839    0    0 
+juniper   927932949  6  3 f   -     -     -        46839    0    0 
+juniper   927932961  6  2 Bk  b     b     k        46839  130  270 Qd 3c
+juniper   927932993  6  1 Bc  b     -     -        46979  175  280 
+juniper   927933015  6  6 f   -     -     -        47084    0    0 
+juniper   927933048  6  5 f   -     -     -        47084    0    0 
+juniper   927933080  6  4 f   -     -     -        47084    0    0 
+juniper   927933093  6  3 c   kf    -     -        47084   10    0 
+juniper   927933122  6  2 Bk  k     k     kf       47074   10    0 
+juniper   927933151  6  1 Bf  -     -     -        47064    5    0 
+juniper   927933171  6  6 c   b     c     c        47059  465    0 6d Ad
+juniper   927933191  5  4 r   -     -     -        46594   35   50 
+juniper   927933199  5  3 f   -     -     -        46609    0    0 
+juniper   927933212  5  2 Bk  f     -     -        46609   10    0 
+juniper   927933237  5  1 Bc  kc    k     kf       46599   40    0 
+juniper   927933254  5  5 f   -     -     -        46559    0    0 
+juniper   927933281  5  4 r   k     k     k        46559   45    0 Js Ah
+juniper   927933300  5  3 f   -     -     -        46514    0    0 
+juniper   927933311  5  2 Bk  kf    -     -        46514   10    0 
+juniper   927933336  5  1 Bc  kf    -     -        46504   10    0 
+juniper   927933354  5  5 f   -     -     -        46494    0    0 
+juniper   927933365  5  4 f   -     -     -        46494    0    0 
+juniper   927933382  5  3 cc  kf    -     -        46494   55    0 
+juniper   927933400  5  2 Bk  k     c     k        46439   40   90 Td As
+juniper   927933418  5  1 Bc  kc    k     k        46489   50    0 7s Jc
+juniper   927933442  5  5 f   -     -     -        46439    0    0 
+juniper   927933468  5  4 f   -     -     -        46439    0    0 
+juniper   927933479  5  3 c   kc    b     b        46439  860 1800 6h Ah
+juniper   927933511  5  2 Bk  b     -     -        47379   40   60 
+juniper   927933528  5  1 Bc  b     -     -        47399   40   60 
+juniper   927933537  5  5 c   k     f     -        47419   10    0 
+juniper   927933554  5  4 f   -     -     -        47409    0    0 
+juniper   927933565  5  3 c   k     f     -        47409   10    0 
+juniper   927933586  5  2 B   -     -     -        47399   10   15 
+juniper   927933593  5  1 Bcf -     -     -        47404   45    0 
+juniper   927933622  5  5 f   -     -     -        47359    0    0 
+juniper   927933654  5  4 c   f     -     -        47359   10    0 
+juniper   927933676  6  3 c   c     k     f        47349   55    0 
+juniper   927933703  6  2 Bk  kc    kc    kf       47294  210    0 
+juniper   927933732  6  1 Bc  k     kr    -        47084  210  320 
+juniper   927933758  6  6 f   -     -     -        47194    0    0 
+juniper   927933776  6  5 c   c     k     f        47194   45    0 
+juniper   927933803  5  3 f   -     -     -        47149    0    0 
+juniper   927933828  5  2 Bk  kf    -     -        47149   10    0 
+juniper   927933844  5  1 Bf  -     -     -        47139    5    0 
+juniper   927933866  5  5 c   k     f     -        47134   10    0 
+juniper   927933888  5  4 c   k     c     f        47124   55    0 
+juniper   927933917  5  3 f   -     -     -        47069    0    0 
+juniper   927933940  5  2 Bk  k     b     -        47069   50   80 
+juniper   927933970  5  1 Bc  bc    b     k        47099  400  810 Kd Qc
+juniper   927933994  4  4 c   b     b     -        47509  210  320 
+juniper   927934022  4  3 f   -     -     -        47619    0    0 
+juniper   927934049  4  2 Bk  kf    -     -        47619   10    0 
+juniper   927934075  4  1 Bc  k     b     -        47609   50   80 
+juniper   927934093  4  4 f   -     -     -        47639    0    0 
+juniper   927934115  4  3 f   -     -     -        47639    0    0 
+juniper   927934118  4  2 Bk  kc    kc    k        47639  170    0 8h 5d
+juniper   927934145  4  1 Bc  k     k     kf       47469   10    0 
+juniper   927934164  5  5 f   Q     -     -        47459    0    0 
+juniper   927993708  2  2 B   -     -     -        47459   10   15 
+juniper   927993714  2  1 Bcc bc    k     k        47464  270    0 6c 3c
+juniper   927993743  2  2 Bc  c     b     -        47194  270  360 
+juniper   927993763  2  1 Brc b     -     -        47284  270  360 
+juniper   927993773  2  2 Br  k     c     f        47374   90    0 
+juniper   927993797  2  1 Bc  b     -     -        47284   30   40 
+juniper   927993833  2  2 B   -     -     -        47294   10   15 
+juniper   927993837  2  1 Bcc b     -     -        47299   90  120 
+juniper   927993852  2  2 Bc  c     c     b        47329  810 1080 
+juniper   927993869  2  1 Bf  -     -     -        47599    5    0 
+juniper   927993872  2  2 Bk  b     k     f        47594   30    0 
+juniper   927993887  3  1 Bc  b     -     -        47564   30   40 
+juniper   927993896  4  3 cc  c     f     -        47574  150    0 
+juniper   927993932  4  2 Bk  b     -     -        47424   40   60 
+juniper   927993949  4  1 Bc  kc    kf    -        47444   40    0 
+juniper   927993966  4  4 c   b     -     -        47404   40   60 
+juniper   927993982  4  3 f   -     -     -        47424    0    0 
+juniper   927993985  4  2 Bc  kf    -     -        47424   35    0 
+juniper   927993994  4  1 Bf  -     -     -        47389    5    0 
+juniper   927994006  4  4 f   -     -     -        47384    0    0 
+juniper   927994035  4  3 r   -     -     -        47384   35   50 
+juniper   927994108  4  1 Bk  b     b     k        47399  130    0 6s 5s
+juniper   927994130  4  1 Br  -     -     -        47269   30   40 
+juniper   927994137  4  4 r   k     k     k        47279   35    0 Ah Js
+juniper   927994155  4  3 c   k     f     -        47244   10    0 
+juniper   927994176  5  3 f   -     -     -        47234    0    0 
+juniper   927994214  4  2 Bc  b     b     -        47234  335  450 
+juniper   927994247  4  1 Bc  b     kf    -        47349   40    0 
+juniper   927994274  4  4 c   f     -     -        47309   35    0 
+juniper   927994305  4  3 c   kf    -     -        47274   10    0 
+juniper   927994330  5  2 Bk  b     -     -        47264   35   50 
+juniper   927994341  5  1 Bc  b     kf    -        47279   40    0 
+juniper   927994369  5  5 f   -     -     -        47239    0    0 
+juniper   927994400  6  4 Q   -     -     -        47239    0    0 
+juniper   928001701  9  8 c   b     b     -        47554  170  240 
+juniper   928001766  9  7 f   -     -     -        47624    0    0 
+juniper   928001805  9  6 c   kf    -     -        47624   10    0 
+juniper   928001862  9  3 Q   -     -     -        47614    0    0 

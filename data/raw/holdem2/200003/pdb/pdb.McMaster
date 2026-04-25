@@ -1,0 +1,2403 @@
+McMaster  952015064  2  1 B   -     -     -         2048   10   30 
+McMaster  952017058  2  2 Br  -     -     -         2171   40   60 
+McMaster  952017148  2  1 Bc  b     b     -         2191   80  120 
+McMaster  952017159  2  2 Bc  r     b     b         2231  160  280 
+McMaster  952017176  2  1 Br  -     -     -         2351   40   60 
+McMaster  952017180  2  2 B   -     -     -         2371   20   30 
+McMaster  952017183  2  1 Bf  -     -     -         2381   10    0 
+McMaster  952017185  2  2 Bc  -     -     -         2371   40   80 
+McMaster  952017969  4  2 Bc  b     b     b         2131  140  320 4s Kd
+McMaster  952018000  4  1 Bc  b     bc    k         2311  140  380 3c 4c
+McMaster  952018038  5  4 f   -     -     -         2551    0    0 
+McMaster  952018075  7  3 f   -     -     -         2551    0    0 
+McMaster  952018135  7  2 Bf  -     -     -         2551   20    0 
+McMaster  952018168  8  1 Bc  b     b     b         2531  120  300 2d Kc
+McMaster  952018193  8  8 f   -     -     -         2711    0    0 
+McMaster  952018220  8  7 f   -     -     -         2711    0    0 
+McMaster  952018252  8  7 r   c     k     c         2711  100  320 Jd Qh
+McMaster  952018289  7  5 c   b     -     -         2931   40   70 
+McMaster  952018302  7  4 f   -     -     -         2961    0    0 
+McMaster  952018307  7  3 cc  r     b     k         2961  140    0 Qd 2d
+McMaster  952018340  7  2 Bk  b     b     b         2821  120  220 
+McMaster  952018381  7  1 Bc  kf    -     -         2921   20    0 
+McMaster  952018415  7  7 c   r     b     b         2901  160  490 8d 8s
+McMaster  952018456  7  6 c   b     f     -         3231   40    0 
+McMaster  952018530  7  5 f   -     -     -         3191    0    0 
+McMaster  952018556  7  4 f   -     -     -         3191    0    0 
+McMaster  952018592  7  3 f   -     -     -         3191    0    0 
+McMaster  952018621  7  2 Br  b     bf    -         3191  100    0 
+McMaster  952018642  6  1 Bc  k     kf    -         3091   20    0 
+McMaster  952018660  6  6 c   f     -     -         3071   20    0 
+McMaster  952018682  6  5 c   k     f     -         3051   20    0 
+McMaster  952018708  6  4 f   -     -     -         3031    0    0 
+McMaster  952018730  6  3 cc  kc    c     b         3031  140    0 5h Ah
+McMaster  952018768  6  2 Bk  f     -     -         2891   20    0 
+McMaster  952018787  6  1 Bc  b     b     b         2871  140  360 Qd Kd
+McMaster  952018808  7  7 c   b     b     b         3091  120  230 
+McMaster  952018838  6  5 c   br    c     rr        3201  280  740 Ac Tc
+McMaster  952018882  6  4 r   bc    k     bf        3661  120    0 
+McMaster  952018912  6  3 c   kf    -     -         3541   20    0 
+McMaster  952018937  6  2 Bk  k     c     k         3521   60    0 6h As
+McMaster  952018967  6  1 Bf  -     -     -         3461   10    0 
+McMaster  952018986  8  7 f   -     -     -         3451    0    0 
+McMaster  952019003  8  6 f   -     -     -         3451    0    0 
+McMaster  952019036  8  5 f   -     -     -         3451    0    0 
+McMaster  952019095  8  4 f   -     -     -         3451    0    0 
+McMaster  952019122  9  3 c   b     bc    f         3451  120    0 
+McMaster  952019162 10  2 Bcc bc    krr   b         3331  320  880 Ah 5h
+McMaster  952019225 10  1 Bc  kf    -     -         3891   20    0 
+McMaster  952019254 10 10 f   -     -     -         3871    0    0 
+McMaster  952019297 10  9 c   f     -     -         3871   20    0 
+McMaster  952019360  9  7 c   f     -     -         3851   20    0 
+McMaster  952019405  9  6 f   -     -     -         3831    0    0 
+McMaster  952019449  9  5 f   -     -     -         3831    0    0 
+McMaster  952019473  9  4 f   -     -     -         3831    0    0 
+McMaster  952019554  9  3 cc  kf    -     -         3831   40    0 
+McMaster  952019592  9  2 Bk  f     -     -         3791   20    0 
+McMaster  952019612  9  1 Bc  kf    -     -         3771   20    0 
+McMaster  952019658  9  9 c   rc    c     c         3751  180    0 Qh Tc
+McMaster  952019707  8  7 c   c     c     b         3571  140    0 5d 5c
+McMaster  952019770  7  5 f   -     -     -         3431    0    0 
+McMaster  952019814  7  4 r   f     -     -         3431   40    0 
+McMaster  952019846  6  2 Bk  kc    kr    -         3391  120  210 
+McMaster  952019869  6  1 Bc  b     b     b         3481  120  150 9s 5h
+McMaster  952019895  6  6 c   r     b     k         3511  100    0 6s 5c
+McMaster  952019939  5  4 f   -     -     -         3411    0    0 
+McMaster  952019952  5  3 c   b     b     b         3411  120  250 Ks 8s
+McMaster  952019966  5  2 Bk  kf    -     -         3541   20    0 
+McMaster  952020011  5  1 Bc  kf    -     -         3521   20    0 
+McMaster  952020046  5  5 f   -     -     -         3501    0    0 
+McMaster  952020088  6  5 c   b     b     k         3501   80  240 Th Qc
+McMaster  952020156  7  5 f   -     -     -         3661    0    0 
+McMaster  952020181  7  4 c   b     kc    kf        3661   80    0 
+McMaster  952020234  7  3 c   k     f     -         3581   20    0 
+McMaster  952020262  7  2 Br  b     b     b         3561  140    0 Kh Qs
+McMaster  952020299  8  1 Bc  kf    -     -         3421   20    0 
+McMaster  952020361  8  8 r   b     b     b         3401  140  410 Ad Tc
+McMaster  952020403  8  7 f   -     -     -         3671    0    0 
+McMaster  952020446  9  7 f   -     -     -         3671    0    0 
+McMaster  952020476  9  6 f   -     -     -         3671    0    0 
+McMaster  952020509  9  5 f   -     -     -         3671    0    0 
+McMaster  952020569  9  4 f   -     -     -         3671    0    0 
+McMaster  952020585  9  3 f   -     -     -         3671    0    0 
+McMaster  952020624 10  2 Bk  kc    kc    kr        3671  160  310 
+McMaster  952020661 10  1 Bc  b     b     kf        3821   80    0 
+McMaster  952020700 10 10 c   c     r     b         3741  180  530 Kd 9d
+McMaster  952020745 10  9 r   b     b     bc        4091  180    0 Ad Ks
+McMaster  952020793 10  8 f   -     -     -         3911    0    0 
+McMaster  952020851  9  6 f   -     -     -         3911    0    0 
+McMaster  952020898  9  5 c   k     k     f         3911   20    0 
+McMaster  952020943  9  4 f   -     -     -         3891    0    0 
+McMaster  952020973  9  3 c   b     b     -         3891   80  190 
+McMaster  952021002  9  2 Bk  kf    -     -         4001   20    0 
+McMaster  952021024  9  1 Bf  -     -     -         3981   10    0 
+McMaster  952021063  9  9 f   -     -     -         3971    0    0 
+McMaster  952021098 10  9 c   c     c     f         3971  120    0 
+McMaster  952021162 10  8 f   -     -     -         3851    0    0 
+McMaster  952021220 10  7 c   b     b     k         3851   80    0 6s 6d
+McMaster  952021253 10  6 f   -     -     -         3771    0    0 
+McMaster  952021291 10  5 f   -     -     -         3771    0    0 
+McMaster  952021334 10  4 f   -     Q     -         3771    0    0 
+McMaster  952022390 10  4 f   -     -     -         3771    0    0 
+McMaster  952022489 10  3 c   b     c     f         3771   80    0 
+McMaster  952022538  9  1 Bf  -     -     -         3691   20    0 
+McMaster  952022576  8  1 Bc  bc    kc    k         3671  120    0 4d Qd
+McMaster  952022625  8  8 c   f     -     -         3551   20    0 
+McMaster  952022667  7  6 f   -     -     -         3531    0    0 
+McMaster  952022703  8  6 f   -     -     -         3531    0    0 
+McMaster  952022733  8  5 r   b     b     k         3531  100    0 8s 8c
+McMaster  952022763  8  4 f   -     -     -         3431    0    0 
+McMaster  952022810  9  3 r   b     rc    f         3431  180    0 
+McMaster  952022863  9  2 Bc  kf    -     -         3251   40    0 
+McMaster  952022921  9  1 Bc  kc    kc    kf        3211  100    0 
+McMaster  952022990  9  9 f   -     -     -         3111    0    0 
+McMaster  952023070  9  8 f   -     -     -         3111    0    0 
+McMaster  952023110  9  7 f   -     -     -         3111    0    0 
+McMaster  952023138  9  6 f   -     -     -         3111    0    0 
+McMaster  952023172  8  4 c   b     b     b         3111  120  290 
+McMaster  952023211  8  3 c   b     b     b         3281  120  490 Kc Kh
+McMaster  952023269  8  2 Bc  kr    b     b         3651  160  290 
+McMaster  952023301  8  1 Bc  b     b     b         3781  120  280 Ac 5c
+McMaster  952023337  8  8 f   -     -     -         3941    0    0 
+McMaster  952023352  8  7 f   -     -     -         3941    0    0 
+McMaster  952023397  9  7 c   c     c     f         3941  100    0 
+McMaster  952023463  9  6 f   -     -     -         3841    0    0 
+McMaster  952023519  9  5 f   -     -     -         3841    0    0 
+McMaster  952023561  8  3 f   -     -     -         3841    0    0 
+McMaster  952023587  8  2 Br  c     rc    bc        3841  260    0 Ad 7d
+McMaster  952023621 10  1 Bc  kf    -     -         3581   20    0 
+McMaster  952023659 10 10 c   c     b     f         3561   80    0 
+McMaster  952023707 10  9 c   k     f     -         3481   40    0 
+McMaster  952023765 10  8 f   -     -     -         3441    0    0 
+McMaster  952023802  9  6 f   -     -     -         3441    0    0 
+McMaster  952023845  9  5 c   f     -     -         3441   20    0 
+McMaster  952023916  9  4 cc  b     b     b         3421  140  470 
+McMaster  952023968 10  4 f   -     -     -         3751    0    0 
+McMaster  952024020 10  3 f   -     -     -         3751    0    0 
+McMaster  952024072 10  2 Bf  -     -     -         3751   20    0 
+McMaster  952024121 10  1 Bc  kc    kr    b         3731  160  480 5s 5h
+McMaster  952024166 10 10 c   c     f     -         4051   40    0 
+McMaster  952024200 10  9 f   -     -     -         4011    0    0 
+McMaster  952024235 10  8 f   -     -     -         4011    0    0 
+McMaster  952024287 10  7 f   -     -     -         4011    0    0 
+McMaster  952024344 10  6 cc  kc    k     kr        4011  140  410 7h 7d
+McMaster  952024404 10  5 f   -     -     -         4281    0    0 
+McMaster  952024466 10  4 f   -     -     -         4281    0    0 
+McMaster  952024528 10  3 f   -     -     -         4281    0    0 
+McMaster  952024588 10  2 Bk  b     b     r         4281  160  440 5h 6s
+McMaster  952024650 10  1 Bc  kf    -     -         4561   20    0 
+McMaster  952024679 10 10 f   -     -     -         4541    0    0 
+McMaster  952024726 10  9 f   -     -     -         4541    0    0 
+McMaster  952024785 10  8 r   b     b     b         4541  140  370 Ah Qd
+McMaster  952024844 10  7 f   -     -     -         4771    0    0 
+McMaster  952024864  9  5 f   -     -     -         4771    0    0 
+McMaster  952024949 10  5 f   -     -     -         4771    0    0 
+McMaster  952025001 10  4 f   -     -     -         4771    0    0 
+McMaster  952025089  9  3 f   -     -     -         4771    0    0 
+McMaster  952025130  9  2 Br  b     b     k         4771  100    0 9s Ah
+McMaster  952025173 10  1 Bc  bc    bc    kc        4671  180    0 Th Jd
+McMaster  952025215 10 10 f   -     -     -         4491    0    0 
+McMaster  952025276 10  9 f   -     -     -         4491    0    0 
+McMaster  952025315 10  8 f   -     -     -         4491    0    0 
+McMaster  952025354 10  7 cc  c     b     b         4491  140  500 Th Qd
+McMaster  952025413 10  6 f   -     -     -         4851    0    0 
+McMaster  952025469 10  5 f   -     -     -         4851    0    0 
+McMaster  952025505  9  4 f   -     -     -         4851    0    0 
+McMaster  952025540  9  3 f   -     -     -         4851    0    0 
+McMaster  952025599  9  2 Bk  k     kf    -         4851   20    0 
+McMaster  952025638  9  1 Bf  -     -     -         4831   10    0 
+McMaster  952025702  8  8 f   -     -     -         4821    0    0 
+McMaster  952025741  8  7 c   c     c     r         4821  160  310 
+McMaster  952025799  8  5 f   -     -     -         4971    0    0 
+McMaster  952025878  8  4 f   -     -     -         4971    0    0 
+McMaster  952025900  9  4 r   b     b     k         4971  100    0 Qd Ah
+McMaster  952025957  9  3 f   -     -     -         4871    0    0 
+McMaster  952025991 10  2 Bk  k     kf    -         4871   20    0 
+McMaster  952026087 10  1 Bf  -     -     -         4851   10    0 
+McMaster  952026150 10 10 r   b     k     k         4841   80    0 Ac Kd
+McMaster  952026189 10  9 c   kc    kf    -         4761   40    0 
+McMaster  952026237 10  8 f   -     -     -         4721    0    0 
+McMaster  952026275 10  7 f   -     -     -         4721    0    0 
+McMaster  952026319 10  6 f   -     -     -         4721    0    0 
+McMaster  952026345 10  5 f   -     -     -         4721    0    0 
+McMaster  952026395 10  4 f   -     -     -         4721    0    0 
+McMaster  952026524  9  3 rc  kr    b     k         4721  180    0 Jc Ad
+McMaster  952026580  9  2 Bk  kc    kc    kc        4541  120  280 Th 9s
+McMaster  952026623 10  1 Bc  b     -     -         4701   60  140 
+McMaster  952026650 10 10 f   -     -     -         4781    0    0 
+McMaster  952026728  9  8 r   -     -     -         4781   40   70 
+McMaster  952026750  9  7 c   b     k     b         4811   80    0 As 8d
+McMaster  952026792  9  6 f   -     -     -         4731    0    0 
+McMaster  952026897  8  4 c   c     b     k         4731   80    0 4c Qc
+McMaster  952026944  9  4 f   -     -     -         4651    0    0 
+McMaster  952026982 10  3 f   -     -     -         4651    0    0 
+McMaster  952027045 10  2 Bf  -     -     -         4651   20    0 
+McMaster  952027098 10  1 Bc  b     kf    -         4631   40    0 
+McMaster  952027195 10 10 c   f     -     -         4591   20    0 
+McMaster  952027247 10  9 r   c     k     f         4571   60    0 
+McMaster  952027312 10  8 f   -     -     -         4511    0    0 
+McMaster  952027335 10  7 f   -     -     -         4511    0    0 
+McMaster  952027351 10  6 f   -     -     -         4511    0    0 
+McMaster  952027400 10  5 c   bc    kc    br        4511  220    0 2h 2s
+McMaster  952027470 10  4 f   -     -     -         4291    0    0 
+McMaster  952027508 10  3 f   -     -     -         4291    0    0 
+McMaster  952027588 10  2 Bk  kf    -     -         4291   20    0 
+McMaster  952027672 10  1 Bc  kc    kf    -         4271   40    0 
+McMaster  952027740 10 10 f   -     -     -         4231    0    0 
+McMaster  952027810 10  9 c   rf    -     -         4231   60    0 
+McMaster  952027918 10  8 c   c     c     r         4171  180  520 Qh 9h
+McMaster  952027954 10  7 f   -     -     -         4511    0    0 
+McMaster  952028038 10  6 f   -     -     -         4511    0    0 
+McMaster  952028080 10  5 c   bc    kc    kr        4511  180  420 Jc 5c
+McMaster  952028135 10  4 c   kf    -     -         4751   20    0 
+McMaster  952028250 10  3 f   -     -     -         4731    0    0 
+McMaster  952028286 10  2 Bc  b     bc    kc        4731  180  220 Jd Ks
+McMaster  952028334 10  1 Bc  br    b     k         4771  120    0 6d Th
+McMaster  952028364 10 10 f   -     -     -         4651    0    0 
+McMaster  952028430 10  9 f   -     -     -         4651    0    0 
+McMaster  952028455  9  7 f   -     -     -         4651    0    0 
+McMaster  952028475  9  6 f   -     -     -         4651    0    0 
+McMaster  952028517  9  5 f   -     -     -         4651    0    0 
+McMaster  952028570  9  4 f   -     -     -         4651    0    0 
+McMaster  952028628  9  3 f   -     -     -         4651    0    0 
+McMaster  952028690 10  2 Bk  b     b     b         4651  120    0 Kh 6s
+McMaster  952028754  9  1 Bc  kf    -     -         4531   20    0 
+McMaster  952028831  9  9 f   -     -     -         4511    0    0 
+McMaster  952028876  9  8 f   -     -     -         4511    0    0 
+McMaster  952028934 10  8 f   -     -     -         4511    0    0 
+McMaster  952028956 10  7 f   -     -     -         4511    0    0 
+McMaster  952028985 10  6 f   -     -     -         4511    0    0 
+McMaster  952029032 10  5 f   -     -     -         4511    0    0 
+McMaster  952029074 10  5 f   -     -     -         4511    0    0 
+McMaster  952029112 10  3 rc  bc    kc    kc        4511  180    0 7d 6d
+McMaster  952029145 10  2 Bc  kc    kc    k         4331  100    0 7d Ks
+McMaster  952029185 10  1 Bc  bc    b     b         4231  140    0 3s 4s
+McMaster  952029258 10 10 f   -     -     -         4091    0    0 
+McMaster  952029316  9  8 c   c     c     k         4091   80    0 4s 6s
+McMaster  952029356 10  8 c   f     -     -         4011   20    0 
+McMaster  952029437 10  7 f   -     -     -         3991    0    0 
+McMaster  952029501 10  6 cc  b     b     b         3991  140  410 7h Kh
+McMaster  952029547 10  5 f   -     -     -         4261    0    0 
+McMaster  952029608 10  4 f   -     -     -         4261    0    0 
+McMaster  952029663 10  3 f   -     -     -         4261    0    0 
+McMaster  952029714 10  2 Bc  kr    b     kc        4261  160    0 8c Ad
+McMaster  952029790 10  1 Bc  k     kf    -         4101   40    0 
+McMaster  952029855 10 10 f   -     -     -         4061    0    0 
+McMaster  952029894 10  9 f   -     -     -         4061    0    0 
+McMaster  952029952 10  8 c   c     r     b         4061  160    0 Qc 9d
+McMaster  952029999 10  7 c   b     b     b         3901  120    0 8d 5d
+McMaster  952030053 10  6 c   kf    -     -         3781   20    0 
+McMaster  952030108 10  5 cc  kc    kr    brc       3761  320    0 7c 8c
+McMaster  952030175 10  4 ccc kf    -     -         3441   80    0 
+McMaster  952030226 10  3 f   -     -     -         3361    0    0 
+McMaster  952030295 10  2 Bc  kc    kc    kc        3361  140    0 8h 9h
+McMaster  952030335 10  1 Bc  k     k     b         3221   80    0 Jc Jh
+McMaster  952030393 10 10 c   c     c     k         3141  100    0 Qc Th
+McMaster  952030465 10  9 r   b     b     k         3041  100    0 Kd 9c
+McMaster  952030515 10  8 f   -     -     -         2941    0    0 
+McMaster  952030572 10  7 c   b     b     -         2941   80  200 
+McMaster  952030627 10  6 f   -     -     -         3061    0    0 
+McMaster  952030670 10  5 f   -     -     -         3061    0    0 
+McMaster  952030709 10  4 c   br    b     b         3061  160  440 7c Ac
+McMaster  952030760 10  3 f   -     -     -         3341    0    0 
+McMaster  952030835 10  2 Bk  f     -     -         3341   20    0 
+McMaster  952030888 10  1 Bc  kc    kf    -         3321   60    0 
+McMaster  952030957 10 10 f   -     -     -         3261    0    0 
+McMaster  952031018 10  9 f   -     -     -         3261    0    0 
+McMaster  952031113 10  8 c   b     b     kf        3261   80    0 
+McMaster  952031186  9  6 f   -     -     -         3181    0    0 
+McMaster  952031202  9  5 f   -     -     -         3181    0    0 
+McMaster  952031263 10  5 f   -     -     -         3181    0    0 
+McMaster  952031308 10  4 c   b     b     b         3181  120  280 Qs 7s
+McMaster  952031350 10  3 r   br    b     b         3341  180  720 Js Jd
+McMaster  952031400 10  2 Bf  -     -     -         3881   20    0 
+McMaster  952031453 10  1 Bf  -     -     -         3861   10    0 
+McMaster  952031511 10 10 f   -     -     -         3851    0    0 
+McMaster  952031582 10  9 f   -     -     -         3851    0    0 
+McMaster  952031627 10  8 c   f     -     -         3851   20    0 
+McMaster  952031727 10  7 f   -     -     -         3831    0    0 
+McMaster  952031838 10  6 f   -     -     -         3831    0    0 
+McMaster  952031896 10  5 f   -     -     -         3831    0    0 
+McMaster  952031986  9  4 f   -     -     -         3831    0    0 
+McMaster  952031998  9  3 rc  bc    kcc   kf        3831  180    0 
+McMaster  952032105  9  2 Bf  -     -     -         3651   20    0 
+McMaster  952032184  8  1 Brc b     b     b         3631  160  400 
+McMaster  952032231  8  8 f   -     -     -         3871    0    0 
+McMaster  952032295  8  7 f   -     -     -         3871    0    0 
+McMaster  952032392 10  6 f   -     -     -         3871    0    0 
+McMaster  952032509  9  4 f   -     -     -         3871    0    0 
+McMaster  952032622  9  3 f   -     -     -         3871    0    0 
+McMaster  952032701  9  2 Bf  -     -     -         3871   20    0 
+McMaster  952032750  8  1 Bc  kf    -     -         3851   40    0 
+McMaster  952032798  8  8 f   -     -     -         3811    0    0 
+McMaster  952032838  9  8 f   -     -     -         3811    0    0 
+McMaster  952032896  8  6 c   b     b     rc        3811  200    0 Qs 3s
+McMaster  952032991  8  5 f   -     -     -         3611    0    0 
+McMaster  952033042  9  5 r   b     k     k         3611   60    0 Ks 9h
+McMaster  952033072  9  4 f   -     -     -         3551    0    0 
+McMaster  952033116  9  3 crc k     b     b         3551  160  470 Ks Kd
+McMaster  952033156  9  2 Bf  -     -     -         3861   20    0 
+McMaster  952033222 10  1 Bc  k     b     b         3841  100  200 
+McMaster  952033257 10 10 c   k     c     r         3941  140  380 Kd 8d
+McMaster  952033307 10  9 f   -     -     -         4181    0    0 
+McMaster  952033354 10  8 f   -     -     -         4181    0    0 
+McMaster  952033377 10  7 c   c     cr    c         4181  200    0 4s As
+McMaster  952033462 10  6 f   -     -     -         3981    0    0 
+McMaster  952033518 10  5 c   b     bc    c         3981  160    0 7h 7c
+McMaster  952033573 10  4 f   -     -     -         3821    0    0 
+McMaster  952033586 10  3 f   -     -     -         3821    0    0 
+McMaster  952033637 10  2 Bk  k     k     bf        3821   60    0 
+McMaster  952033688 10  1 Bf  -     -     -         3761   10    0 
+McMaster  952033743 10 10 f   -     -     -         3751    0    0 
+McMaster  952033785  9  8 c   cf    -     -         3751   40    0 
+McMaster  952033861 10  7 f   -     -     -         3711    0    0 
+McMaster  952033885 10  6 cc  cc    kr    b         3711  200  780 7h 7c
+McMaster  952033975 10  5 c   b     b     kc        4291  120    0 9h 5h
+McMaster  952034033  9  3 c   k     k     kc        4171   60    0 4h Ah
+McMaster  952034081  9  2 Bf  -     -     -         4111   20    0 
+McMaster  952034147  9  1 Bc  b     b     br        4091  220  600 Kd Jd
+McMaster  952034214  9  9 f   -     -     -         4471    0    0 
+McMaster  952034257  9  8 c   c     brc   kf        4471  200    0 
+McMaster  952034385  8  6 r   b     b     b         4271  140    0 Qs Qc
+McMaster  952034457  8  5 c   c     c     f         4131   80    0 
+McMaster  952034520  9  5 rc  b     k     k         4051  100    0 9c As
+McMaster  952034562  9  4 f   -     -     -         3951    0    0 
+McMaster  952034635  9  2 f   -     -     -         3951    0    0 
+McMaster  952034704 10  2 Bk  b     bc    kc        3951  160    0 4c As
+McMaster  952034748  9  1 Br  br    bc    bc        3791  260  700 Kh Ks
+McMaster  952034815  9  9 f   -     -     -         4231    0    0 
+McMaster  952034892  9  8 f   -     -     -         4231    0    0 
+McMaster  952034954  9  7 f   -     -     -         4231    0    0 
+McMaster  952035008  9  6 f   -     -     -         4231    0    0 
+McMaster  952035057  9  5 f   -     -     -         4231    0    0 
+McMaster  952035108  8  4 rc  b     bc    kf        4231  160    0 
+McMaster  952035147  8  3 r   b     b     -         4071  100  260 
+McMaster  952035187  8  2 Bc  kc    kc    kr        4231  180  590 9s Qh
+McMaster  952035271  8  1 Bc  k     kf    -         4641   20    0 
+McMaster  952035320  9  9 cc  k     c     f         4621   80    0 
+McMaster  952035391  9  8 f   -     -     -         4541    0    0 
+McMaster  952035449 10  7 c   b     crc   cf        4541  240    0 
+McMaster  952035530  9  5 c   bc    kc    kc        4301  140    0 2d Ad
+McMaster  952035606  9  4 f   -     -     -         4161    0    0 
+McMaster  952035630  9  3 f   -     -     -         4161    0    0 
+McMaster  952035679 10  2 Bf  -     -     -         4161   20    0 
+McMaster  952035764 10  1 Bf  -     -     -         4141   10    0 
+McMaster  952035824 10 10 c   f     -     -         4131   20    0 
+McMaster  952035877 10  9 f   -     -     -         4111    0    0 
+McMaster  952035970 10  8 c   k     kf    -         4111   20    0 
+McMaster  952036056 10  7 f   -     -     -         4091    0    0 
+McMaster  952036115 10  6 cc  f     -     -         4091   40    0 
+McMaster  952036260 10  5 f   -     -     -         4051    0    0 
+McMaster  952036312 10  4 f   -     -     -         4051    0    0 
+McMaster  952036361 10  3 c   c     c     c         4051  120    0 Th Ac
+McMaster  952036445 10  2 Bk  f     -     -         3931   20    0 
+McMaster  952036542  9  1 Bc  b     bc    k         3911  140    0 7d Ks
+McMaster  952036581  8  8 f   -     -     -         3771    0    0 
+McMaster  952036599  8  7 c   rc    f     -         3771  120    0 
+McMaster  952036644  9  6 c   kf    -     -         3651   20    0 
+McMaster  952036705  8  4 f   -     -     -         3631    0    0 
+McMaster  952036780  9  3 f   -     -     -         3631    0    0 
+McMaster  952036852  9  2 Bk  b     b     -         3631   80  200 
+McMaster  952036902 10  1 Bf  -     -     -         3751   10    0 
+McMaster  952036956 10 10 c   b     b     b         3741  120  260 
+McMaster  952037004 10  9 r   c     b     b         3881  140  400 Kc 9c
+McMaster  952037067 10  8 rc  rc    c     f         4141  180    0 
+McMaster  952037182  9  6 r   b     b     b         3961  140  400 Kc Ah
+McMaster  952037220  9  5 r   b     k     b         4221  100  220 
+McMaster  952037258  9  5 f   -     -     -         4341    0    0 
+McMaster  952037347  8  3 f   -     -     -         4341    0    0 
+McMaster  952037383  9  2 Bk  b     k     b         4341   80  130 2s Ts
+McMaster  952037433  9  1 Bc  b     bc    kc        4391  160    0 Th Jd
+McMaster  952037480  8  8 f   -     -     -         4231    0    0 
+McMaster  952037538  9  8 f   -     -     -         4231    0    0 
+McMaster  952037595 10  8 f   -     -     -         4231    0    0 
+McMaster  952037663 10  7 f   -     -     -         4231    0    0 
+McMaster  952037707 10  6 f   -     -     -         4231    0    0 
+McMaster  952037759 10  5 f   -     -     -         4231    0    0 
+McMaster  952037808 10  4 f   -     -     -         4231    0    0 
+McMaster  952037861 10  3 f   -     -     -         4231    0    0 
+McMaster  952037899 10  2 Brc b     b     b         4231  160  245 Js Ts
+McMaster  952037936 10  1 Bf  -     -     -         4316   10    0 
+McMaster  952037964 10 10 c   f     -     -         4306   20    0 
+McMaster  952038015 10  9 r   c     f     -         4286   60    0 
+McMaster  952038049 10  8 f   -     -     -         4226    0    0 
+McMaster  952038101 10  7 f   -     -     -         4226    0    0 
+McMaster  952038158 10  6 f   -     -     -         4226    0    0 
+McMaster  952038198 10  5 f   -     -     -         4226    0    0 
+McMaster  952038235 10  4 f   -     -     -         4226    0    0 
+McMaster  952038267 10  3 c   r     r     rc        4226  260    0 7d 8d
+McMaster  952038311 10  2 Bk  kf    -     -         3966   20    0 
+McMaster  952038343 10  1 Bc  kr    b     -         3946  100  200 
+McMaster  952038396 10 10 f   -     -     -         4046    0    0 
+McMaster  952038429 10  9 f   -     -     -         4046    0    0 
+McMaster  952038462 10  8 rr  b     b     b         4046  180    0 Ts Tc
+McMaster  952038554 10  7 c   c     c     k         3866  100    0 3h Ah
+McMaster  952038619 10  6 f   -     -     -         3766    0    0 
+McMaster  952038674 10  6 r   b     k     k         3766   60   90 Ad Qh
+McMaster  952038723  9  4 f   -     -     -         3796    0    0 
+McMaster  952038754 10  3 c   c     f     -         3796   40    0 
+McMaster  952038807 10  2 Bk  kc    kf    -         3756   40    0 
+McMaster  952038884 10  1 Bc  kf    -     -         3716   40    0 
+McMaster  952038946 10 10 f   -     -     -         3676    0    0 
+McMaster  952038973 10  9 c   f     -     -         3676   20    0 
+McMaster  952039041 10  8 f   -     -     -         3656    0    0 
+McMaster  952039167  9  6 f   -     -     -         3656    0    0 
+McMaster  952039288  9  5 f   -     -     -         3656    0    0 
+McMaster  952039349 10  5 f   -     -     -         3656    0    0 
+McMaster  952039382 10  4 f   -     -     -         3656    0    0 
+McMaster  952039428 10  3 f   -     -     -         3656    0    0 
+McMaster  952039469 10  2 Bk  kf    -     -         3656   20    0 
+McMaster  952039515 10  1 Bc  b     kc    kf        3636   80    0 
+McMaster  952039559 10 10 f   -     -     -         3556    0    0 
+McMaster  952039640 10  9 f   -     -     -         3556    0    0 
+McMaster  952039678 10  8 f   -     -     -         3556    0    0 
+McMaster  952039704 10  7 f   -     -     -         3556    0    0 
+McMaster  952039747 10  6 f   -     -     -         3556    0    0 
+McMaster  952039840  9  4 f   -     -     -         3556    0    0 
+McMaster  952039875 10  4 f   -     -     -         3556    0    0 
+McMaster  952039948 10  3 cc  bc    bc    kc        3556  200  330 As Jc
+McMaster  952040019 10  2 Bc  c     c     f         3686  100    0 
+McMaster  952040075 10  1 Bc  b     b     k         3586   80    0 Kh 8s
+McMaster  952040124 10 10 c   k     rc    c         3506  180    0 9s Kc
+McMaster  952040234 10  9 c   f     -     -         3326   40    0 
+McMaster  952040319  9  7 f   -     -     -         3286    0    0 
+McMaster  952040358  9  6 KQ  -     -     -         3286    0    0 
+McMaster  952040529  8  3 rr  KQ    -     -         3286   80    0 
+McMaster  952041146 10  4 c   cc    kc    k         3206  100    0 Ad 2d
+McMaster  952041202 10  3 f   -     -     -         3106    0    0 
+McMaster  952041245 10  2 Bk  kf    -     -         3106   20    0 
+McMaster  952041273 10  1 Bf  -     -     -         3086   10    0 
+McMaster  952041316 10 10 c   c     f     -         3076   40    0 
+McMaster  952041374 10  9 f   -     -     -         3036    0    0 
+McMaster  952041419 10  8 c   bc    c     c         3036  140    0 As Tc
+McMaster  952041498 10  7 rc  k     b     bc        2896  180    0 9s Ks
+McMaster  952041529 10  6 f   -     -     -         2716    0    0 
+McMaster  952041568 10  5 c   c     rr    r         2716  280    0 9c Tc
+McMaster  952041639 10  4 c   b     b     -         2436   80  190 
+McMaster  952041677 10  3 f   -     -     -         2546    0    0 
+McMaster  952041731 10  2 Bf  -     -     -         2546   20    0 
+McMaster  952041858 10  1 Bc  bc    kc    kc        2526  140    0 Jc Qc
+McMaster  952041929 10 10 f   -     -     -         2386    0    0 
+McMaster  952041965 10  9 f   -     -     -         2386    0    0 
+McMaster  952042045 10  8 cc  c     f     -         2386   60    0 
+McMaster  952042115 10  7 f   -     -     -         2326    0    0 
+McMaster  952042178 10  6 f   -     -     -         2326    0    0 
+McMaster  952042248 10  5 c   bc    kr    b         2326  180  430 
+McMaster  952042293  9  3 f   -     -     -         2576    0    0 
+McMaster  952042317 10  2 Bf  -     -     -         2576   20    0 
+McMaster  952042384 10  1 Bc  b     bc    bc        2556  220    0 Ac 9d
+McMaster  952042467 10 10 c   c     b     b         2336  140  370 
+McMaster  952042526 10  9 r   r     b     -         2566  140  430 
+McMaster  952042593 10  8 rcc c     kc    kc        2856  180    0 8h 8d
+McMaster  952042670 10  7 f   -     -     -         2676    0    0 
+McMaster  952042716 10  6 r   b     b     k         2676  100    0 7d Ah
+McMaster  952042770 10  5 f   -     -     -         2576    0    0 
+McMaster  952042858 10  4 f   -     -     -         2576    0    0 
+McMaster  952042888  9  2 f   -     -     -         2576    0    0 
+McMaster  952042947 10  2 Bk  kf    -     -         2576   20    0 
+McMaster  952042998 10  1 Bf  -     -     -         2556   10    0 
+McMaster  952043075 10 10 r   -     -     -         2546   40   70 
+McMaster  952043092 10  9 c   b     r     k         2576  120  380 8h Jh
+McMaster  952043160 10  8 f   -     -     -         2836    0    0 
+McMaster  952043224  9  6 c   c     c     f         2836   80    0 
+McMaster  952043295 10  6 r   b     b     b         2756  140    0 Qs Qd
+McMaster  952043332 10  5 c   r     k     b         2616  120  450 
+McMaster  952043402 10  4 c   k     k     b         2946   60  170 Kc 8d
+McMaster  952043471 10  3 f   -     -     -         3056    0    0 
+McMaster  952043550 10  2 Bf  -     -     -         3056   20    0 
+McMaster  952043601 10  1 Bf  -     -     -         3036   10    0 
+McMaster  952043659 10 10 r   b     b     k         3026  100  290 Ad 3c
+McMaster  952043716  9  8 f   -     -     -         3216    0    0 
+McMaster  952043785  9  7 f   -     -     -         3216    0    0 
+McMaster  952043820  9  6 cc  kf    -     -         3216   40    0 
+McMaster  952043843  9  5 f   -     -     -         3176    0    0 
+McMaster  952043876  9  4 f   -     -     -         3176    0    0 
+McMaster  952043932  9  3 c   k     b     b         3176  100    0 2h Ah
+McMaster  952043970 10  2 Bf  -     -     -         3076   20    0 
+McMaster  952044013 10  1 Bc  k     k     kf        3056   20    0 
+McMaster  952044071 10 10 f   -     -     -         3036    0    0 
+McMaster  952044131 10  9 f   -     -     -         3036    0    0 
+McMaster  952044184 10  8 r   b     -     -         3036   60  180 
+McMaster  952044213 10  7 r   b     b     b         3156  140  300 
+McMaster  952044248 10  6 f   -     -     -         3316    0    0 
+McMaster  952044305 10  5 f   -     -     -         3316    0    0 
+McMaster  952044370 10  4 f   -     -     -         3316    0    0 
+McMaster  952044398 10  3 f   -     -     -         3316    0    0 
+McMaster  952044470 10  2 Bk  b     b     k         3316   80    0 2c 6s
+McMaster  952044526 10  1 Bf  -     -     -         3236   10    0 
+McMaster  952044612 10 10 f   -     -     -         3226    0    0 
+McMaster  952044685 10  9 f   -     -     -         3226    0    0 
+McMaster  952044723 10  8 r   bc    kc    kc        3226  160    0 Ts Jh
+McMaster  952044804 10  7 rc  r     b     k         3066  160  570 Qd Ah
+McMaster  952044865 10  6 f   -     -     -         3476    0    0 
+McMaster  952044915 10  5 cc  krc   bc    kc        3476  220  510 Ts Ks
+McMaster  952044983 10  4 f   -     -     -         3766    0    0 
+McMaster  952045029 10  3 f   -     -     -         3766    0    0 
+McMaster  952045083 10  2 Bk  kf    -     -         3766   20    0 
+McMaster  952045143 10  1 Bf  -     -     -         3746   10    0 
+McMaster  952045200 10 10 f   -     -     -         3736    0    0 
+McMaster  952045247 10  9 f   -     -     -         3736    0    0 
+McMaster  952045302 10  8 f   -     -     -         3736    0    0 
+McMaster  952045361 10  7 f   -     -     -         3736    0    0 
+McMaster  952045407 10  6 f   -     -     -         3736    0    0 
+McMaster  952045502 10  5 f   -     -     -         3736    0    0 
+McMaster  952045526 10  4 r   r     b     b         3736  160    0 Jc Ac
+McMaster  952045586 10  3 f   -     -     -         3576    0    0 
+McMaster  952045638 10  2 Bf  -     -     -         3576   20    0 
+McMaster  952045702 10  1 Bf  -     -     -         3556   10    0 
+McMaster  952045760 10 10 f   -     -     -         3546    0    0 
+McMaster  952045813 10  9 f   -     -     -         3546    0    0 
+McMaster  952045889 10  8 f   -     -     -         3546    0    0 
+McMaster  952045973 10  7 r   bc    b     b         3546  160    0 Kd 3c
+McMaster  952046054 10  6 c   r     b     b         3386  140  320 
+McMaster  952046150 10  5 f   -     -     -         3566    0    0 
+McMaster  952046211 10  4 f   -     -     -         3566    0    0 
+McMaster  952046263 10  3 f   -     -     -         3566    0    0 
+McMaster  952046293 10  2 Bc  br    b     k         3566  140    0 6h 5h
+McMaster  952046357 10  1 Bc  k     kc    kc        3426  100    0 Ks 7d
+McMaster  952046432 10 10 c   f     -     -         3326   40    0 
+McMaster  952046532 10  9 f   -     -     -         3286    0    0 
+McMaster  952046661 10  8 f   -     -     -         3286    0    0 
+McMaster  952046711 10  7 r   c     c     k         3286  100    0 Td Kd
+McMaster  952046795 10  6 cc  f     -     -         3186   40    0 
+McMaster  952046859 10  5 c   kc    kc    k         3146  100    0 Kh As
+McMaster  952046927 10  4 cc  k     k     b         3046   80  230 6h Ah
+McMaster  952047001 10  3 cc  b     rc    bc        3196  260    0 6h 6s
+McMaster  952047096 10  2 Bk  k     k     kf        2936   20    0 
+McMaster  952047222 10  1 Bf  -     -     -         2916   10    0 
+McMaster  952047325 10 10 r   rc    c     r         2906  240  550 Qd 9s
+McMaster  952047524 10  9 f   -     -     -         3216    0    0 
+McMaster  952047578 10  8 r   c     c     f         3216  120    0 
+McMaster  952047761  9  7 r   b     b     b         3096  140  280 
+McMaster  952047826 10  6 c   c     f     -         3236   40    0 
+McMaster  952047910 10  3 Q   -     -     -         3196    0    0 
+McMaster  952058835 10  2 Bk  f     -     -         3196   20    0 
+McMaster  952058887 10  1 Bf  -     -     -         3176   10    0 
+McMaster  952058937 10 10 f   -     -     -         3166    0    0 
+McMaster  952059005 10  9 f   -     -     -         3166    0    0 
+McMaster  952059032 10  8 f   -     -     -         3166    0    0 
+McMaster  952059082 10  7 f   -     -     -         3166    0    0 
+McMaster  952059159 10  6 r   b     b     k         3166  100    0 Ks Ac
+McMaster  952059214 10  5 f   -     -     -         3066    0    0 
+McMaster  952059250 10  4 f   -     -     -         3066    0    0 
+McMaster  952059295 10  3 f   -     -     -         3066    0    0 
+McMaster  952059398 10  2 Bk  kf    -     -         3066   20    0 
+McMaster  952059437 10  1 Bf  -     -     -         3046   10    0 
+McMaster  952059466 10 10 c   f     -     -         3036   20    0 
+McMaster  952059502 10  9 f   -     -     -         3016    0    0 
+McMaster  952059553 10  8 c   r     b     b         3016  140  420 Kc 4c
+McMaster  952059625 10  7 f   -     -     -         3296    0    0 
+McMaster  952059687 10  6 f   -     -     -         3296    0    0 
+McMaster  952059719 10  5 r   k     k     kc        3296   80    0 Kc Ad
+McMaster  952059770 10  4 f   -     -     -         3216    0    0 
+McMaster  952059823 10  3 f   -     -     -         3216    0    0 
+McMaster  952059865 10  2 Bk  k     b     -         3216   60  120 
+McMaster  952059906 10  1 Bc  kc    kf    -         3276   40    0 
+McMaster  952059952 10 10 f   -     -     -         3236    0    0 
+McMaster  952059976 10  9 f   -     -     -         3236    0    0 
+McMaster  952060030 10  8 r   k     k     r         3236  120  145 Th Kh
+McMaster  952060096 10  7 f   -     -     -         3261    0    0 
+McMaster  952060154 10  6 f   -     -     -         3261    0    0 
+McMaster  952060175 10  5 f   -     -     -         3261    0    0 
+McMaster  952060214 10  4 cc  bc    kr    brc       3261  320    0 3s Ks
+McMaster  952060302 10  3 crc bc    kc    k         2941  160    0 Th Ts
+McMaster  952060369 10  2 Bf  -     -     -         2781   20    0 
+McMaster  952060420 10  1 Bc  kc    kf    -         2761   60    0 
+McMaster  952060474 10 10 f   -     -     -         2701    0    0 
+McMaster  952060514 10  9 f   -     -     -         2701    0    0 
+McMaster  952060553 10  8 f   -     -     -         2701    0    0 
+McMaster  952060572 10  7 r   r     k     k         2701   80  280 8s 8h
+McMaster  952060627 10  6 f   -     -     -         2901    0    0 
+McMaster  952060678 10  5 f   -     -     -         2901    0    0 
+McMaster  952060706 10  4 c   bcc   kc    kf        2901  140    0 
+McMaster  952060780 10  3 f   -     -     -         2761    0    0 
+McMaster  952060820 10  2 Bk  k     kf    -         2761   20    0 
+McMaster  952060857 10  1 Bc  b     b     -         2741   80  180 
+McMaster  952060907 10 10 f   -     -     -         2841    0    0 
+McMaster  952060955 10  9 f   -     -     -         2841    0    0 
+McMaster  952061006 10  8 r   f     -     -         2841   40    0 
+McMaster  952061071 10  7 f   -     -     -         2801    0    0 
+McMaster  952061134 10  6 f   -     -     -         2801    0    0 
+McMaster  952061179 10  5 cc  kf    -     -         2801   40    0 
+McMaster  952061220 10  4 c   kr    kf    -         2761   60    0 
+McMaster  952061322 10  3 f   -     -     -         2701    0    0 
+McMaster  952061339 10  2 Bc  kf    -     -         2701   40    0 
+McMaster  952061384 10  1 Bc  k     b     b         2661  100    0 4s Jc
+McMaster  952061416 10 10 c   r     b     b         2561  140  270 
+McMaster  952061482 10  9 f   -     -     -         2691    0    0 
+McMaster  952061540 10  8 f   -     -     -         2691    0    0 
+McMaster  952061569 10  7 f   -     -     -         2691    0    0 
+McMaster  952061652 10  6 c   kc    k     k         2691   40  220 4d 4s
+McMaster  952061796 10  5 f   -     -     -         2871    0    0 
+McMaster  952061922  8  3 c   b     brf   -         2871  160    0 
+McMaster  952061962 10  2 Bf  -     -     -         2711   20    0 
+McMaster  952062002 10  1 Bc  k     b     b         2691  100    0 Jd 5h
+McMaster  952062049 10 10 f   -     -     -         2591    0    0 
+McMaster  952062064 10  9 f   -     -     -         2591    0    0 
+McMaster  952062109 10  8 f   -     -     -         2591    0    0 
+McMaster  952062182 10  7 f   -     -     -         2591    0    0 
+McMaster  952062230 10  6 f   -     -     -         2591    0    0 
+McMaster  952062255 10  5 f   -     -     -         2591    0    0 
+McMaster  952062292 10  4 f   -     -     -         2591    0    0 
+McMaster  952062326 10  3 f   -     -     -         2591    0    0 
+McMaster  952062401 10  2 Bf  -     -     -         2591   20    0 
+McMaster  952062427 10  1 Bc  kf    -     -         2571   20    0 
+McMaster  952062554 10 10 f   -     -     -         2551    0    0 
+McMaster  952062580 10  9 f   -     -     -         2551    0    0 
+McMaster  952062594 10  8 f   -     -     -         2551    0    0 
+McMaster  952062637 10  7 r   k     b     f         2551   80    0 
+McMaster  952062712 10  6 cc  kc    k     b         2471  100  190 
+McMaster  952062752 10  5 f   -     -     -         2561    0    0 
+McMaster  952062771 10  4 f   -     -     -         2561    0    0 
+McMaster  952062803 10  3 f   -     -     -         2561    0    0 
+McMaster  952062846 10  2 Bc  kc    k     k         2561   60  130 Ts 9h
+McMaster  952062874 10  1 Bc  b     b     b         2631  120  220 
+McMaster  952062907 10 10 c   b     bc    f         2731  120    0 
+McMaster  952063014 10  9 c   b     -     -         2611   60  130 
+McMaster  952063032 10  8 c   b     b     -         2681   80  180 
+McMaster  952063106 10  7 r   b     k     f         2781   60    0 
+McMaster  952063160 10  6 f   -     -     -         2721    0    0 
+McMaster  952063185 10  5 f   -     -     -         2721    0    0 
+McMaster  952063204 10  4 cc  bc    kc    kc        2721  160    0 Th 5h
+McMaster  952063238 10  3 f   -     -     -         2561    0    0 
+McMaster  952063285 10  2 Bc  bc    bc    kc        2561  200  410 4c Ac
+McMaster  952063312 10  1 Bc  bc    k     b         2771  100  200 
+McMaster  952063367 10 10 f   -     -     -         2871    0    0 
+McMaster  952063395 10  9 f   -     -     -         2871    0    0 
+McMaster  952063421 10  8 f   -     -     -         2871    0    0 
+McMaster  952063459 10  7 f   -     -     -         2871    0    0 
+McMaster  952063500 10  6 c   f     -     -         2871   20    0 
+McMaster  952063548 10  5 f   -     -     -         2851    0    0 
+McMaster  952063580 10  4 f   -     -     -         2851    0    0 
+McMaster  952063589 10  3 rc  c     rc    r         2851  280  680 Jd Qd
+McMaster  952063662 10  2 Bk  bc    bc    k         3251  140    0 8d Td
+McMaster  952063702 10  1 Bc  k     b     -         3111   60   80 
+McMaster  952063740 10 10 f   -     -     -         3131    0    0 
+McMaster  952063836  9  8 f   -     -     -         3131    0    0 
+McMaster  952063882  9  7 f   -     -     -         3131    0    0 
+McMaster  952063946  9  6 f   -     -     -         3131    0    0 
+McMaster  952063988  8  4 f   -     -     -         3131    0    0 
+McMaster  952064048  8  4 f   -     -     -         3131    0    0 
+McMaster  952064088  8  3 rc  kf    -     -         3131   60    0 
+McMaster  952064108  8  2 Bc  kc    kc    kc        3071  140  350 Qd Ts
+McMaster  952064130  9  1 Bc  bc    b     bc        3281  200    0 3c Kc
+McMaster  952064173  9  9 c   b     -     -         3081   40   70 
+McMaster  952064202  9  8 c   b     b     bc        3111  180    0 Ac 9s
+McMaster  952064245  9  7 c   c     cc    c         2931  180    0 Jd Jh
+McMaster  952064294  9  6 f   -     -     -         2751    0    0 
+McMaster  952064330  9  5 f   -     -     -         2751    0    0 
+McMaster  952064400  9  4 c   c     c     c         2751  120  200 As Jh
+McMaster  952064446  9  3 c   k     k     k         2831   20    0 9s Jd
+McMaster  952064498 10  2 Bc  k     b     b         2811  120  250 
+McMaster  952064527 10  1 Bc  kf    -     -         2941   40    0 
+McMaster  952064574 10 10 c   r     -     -         2901   60  200 
+McMaster  952064617 10  9 c   k     k     bc        3041  120    0 7h 6h
+McMaster  952064676 10  8 f   -     -     -         2921    0    0 
+McMaster  952064711 10  7 c   bc    kf    -         2921   60    0 
+McMaster  952064766 10  7 f   -     -     -         2861    0    0 
+McMaster  952064841  9  5 f   -     -     -         2861    0    0 
+McMaster  952064869  9  4 f   -     -     -         2861    0    0 
+McMaster  952064913 10  3 f   -     -     -         2861    0    0 
+McMaster  952064974 10  2 Br  b     b     k         2861  100    0 Qd Ks
+McMaster  952065013 10  1 Bc  k     k     k         2761   20    0 8h 4c
+McMaster  952065062  9  9 c   f     -     -         2741   20    0 
+McMaster  952065141 10  9 c   c     c     r         2721  200  720 4d 7d
+McMaster  952065192 10  8 c   c     kf    -         3241   40    0 
+McMaster  952065274 10  7 f   -     -     -         3201    0    0 
+McMaster  952065351 10  6 c   b     b     k         3201   80  260 Ks 4s
+McMaster  952065407 10  5 cc  kf    -     -         3381   40    0 
+McMaster  952065452 10  4 f   -     -     -         3341    0    0 
+McMaster  952065491 10  3 cc  kc    kc    kf        3341  100    0 
+McMaster  952065534 10  2 Bk  kf    -     -         3241   20    0 
+McMaster  952065585 10  1 Bc  kc    kf    -         3221   40    0 
+McMaster  952065649 10 10 f   -     -     -         3181    0    0 
+McMaster  952065708 10  9 f   -     -     -         3181    0    0 
+McMaster  952065739 10  8 c   b     bc    f         3181  120    0 
+McMaster  952065808  9  6 f   -     -     -         3061    0    0 
+McMaster  952065834 10  5 f   -     -     -         3061    0    0 
+McMaster  952065892 10  4 c   r     c     f         3061  100    0 
+McMaster  952065963 10  3 c   c     b     -         2961   80  130 
+McMaster  952066000 10  2 Bf  -     -     -         3011   20    0 
+McMaster  952066031 10  1 Bc  kc    kr    bc        2991  220    0 Jc Ts
+McMaster  952066082 10 10 f   -     -     -         2771    0    0 
+McMaster  952066137  9  8 f   -     -     -         2771    0    0 
+McMaster  952066197  8  6 f   -     -     -         2771    0    0 
+McMaster  952066277  8  5 f   -     -     -         2771    0    0 
+McMaster  952066318  9  5 cc  b     b     b         2771  140  310 Qc Tc
+McMaster  952066342  8  3 f   -     -     -         2941    0    0 
+McMaster  952066384 10  2 Brc kc    k     b         2941  140    0 Js Jh
+McMaster  952066462 10  1 Bcc bc    kc    kc        2801  160    0 Td Ks
+McMaster  952066585  9  9 c   b     -     -         2641   40   70 
+McMaster  952066676  9  8 f   -     -     -         2671    0    0 
+McMaster  952066730  9  7 cc  kc    kr    b         2671  180  390 Ad 6d
+McMaster  952066768  9  6 c   k     f     -         2881   20    0 
+McMaster  952066905  9  5 f   -     -     -         2861    0    0 
+McMaster  952066975  9  4 f   -     -     -         2861    0    0 
+McMaster  952067015  9  3 f   -     -     -         2861    0    0 
+McMaster  952067075  9  2 Bc  b     b     b         2861  140  290 6c Qc
+McMaster  952067113  8  1 Bc  bc    b     -         3011  100  200 
+McMaster  952067202  8  8 c   c     f     -         3111   60    0 
+McMaster  952067258  8  7 r   b     b     k         3051  100  320 Ts Tc
+McMaster  952067332  7  5 f   -     -     -         3271    0    0 
+McMaster  952067404  9  5 f   -     -     -         3271    0    0 
+McMaster  952067441  9  4 f   -     -     -         3271    0    0 
+McMaster  952067476 10  4 f   -     -     -         3271    0    0 
+McMaster  952067537 10  3 f   -     -     -         3271    0    0 
+McMaster  952067601  8  2 Bf  -     -     -         3271   20    0 
+McMaster  952067646  8  1 Bcc bc    kc    kc        3251  160    0 Jc 2c
+McMaster  952067717  8  8 r   b     -     -         3091   60  130 
+McMaster  952067757  8  7 cc  f     -     -         3161   40    0 
+McMaster  952067799  9  7 f   -     -     -         3121    0    0 
+McMaster  952067835  9  6 c   kc    kc    kr        3121  160  350 3c Kc
+McMaster  952067873  9  5 f   -     -     -         3311    0    0 
+McMaster  952067901  9  4 f   -     -     -         3311    0    0 
+McMaster  952067948  9  3 f   -     -     -         3311    0    0 
+McMaster  952067985  9  2 Bk  k     b     -         3311   60   90 
+McMaster  952068017  9  1 Bf  -     -     -         3341   10    0 
+McMaster  952068026  9  9 r   b     -     -         3331   60  130 
+McMaster  952068047  9  8 r   b     b     kf        3401  100    0 
+McMaster  952068089 10  7 c   rc    c     c         3301  180    0 Qs 9s
+McMaster  952068161  9  5 f   -     -     -         3121    0    0 
+McMaster  952068191  9  4 cc  f     -     -         3121   40    0 
+McMaster  952068234  9  3 f   -     -     -         3081    0    0 
+McMaster  952068294  9  2 Br  b     bc    c         3081  180    0 Kc 9h
+McMaster  952068333  9  1 Bc  b     b     -         2901   80  180 
+McMaster  952068369  8  8 c   c     c     c         3001  140    0 5d 5s
+McMaster  952068420  8  7 r   c     r     b         2861  180  350 
+McMaster  952068459 10  8 f   -     -     -         3031    0    0 
+McMaster  952068488 10  7 f   -     -     -         3031    0    0 
+McMaster  952068526 10  6 c   b     b     b         3031  120    0 Kd 8d
+McMaster  952068573 10  5 c   b     -     -         2911   40   70 
+McMaster  952068610 10  4 c   c     c     c         2941  120    0 4c Ac
+McMaster  952068650 10  3 r   bc    kc    kc        2821  160    0 Jh Jd
+McMaster  952068701 10  2 B   -     -     -         2661   20   30 
+McMaster  952068760 10  1 Bf  -     -     -         2671   10    0 
+McMaster  952068794 10 10 f   -     -     -         2661    0    0 
+McMaster  952068881  9  8 f   -     -     -         2661    0    0 
+McMaster  952068904  9  7 f   -     -     -         2661    0    0 
+McMaster  952068937  9  6 f   -     -     -         2661    0    0 
+McMaster  952068985  8  4 f   -     -     -         2661    0    0 
+McMaster  952069003  8  3 c   kc    k     b         2661   80  190 
+McMaster  952069048  8  2 Bf  -     -     -         2771   20    0 
+McMaster  952069072  8  1 Bc  b     b     br        2751  200  400 8h Ts
+McMaster  952069108  8  8 f   -     -     -         2951    0    0 
+McMaster  952069210  8  7 f   -     -     -         2951    0    0 
+McMaster  952069256 10  7 r   b     b     b         2951  140  320 
+McMaster  952069365 10  6 c   b     b     b         3131  120  145 Qs Ks
+McMaster  952069391 10  5 c   k     kc    kf        3156   60    0 
+McMaster  952069480 10  4 f   -     -     -         3096    0    0 
+McMaster  952069539 10  3 f   -     -     -         3096    0    0 
+McMaster  952069663  9  1 Bc  b     b     b         3096  140  280 7s Js
+McMaster  952069722  9  1 Bc  b     b     b         3236  120    0 Qd 7c
+McMaster  952069755  9  9 f   -     -     -         3116    0    0 
+McMaster  952069797  9  8 f   -     -     -         3116    0    0 
+McMaster  952069834  9  7 r   b     b     b         3116  140  350 Ks Ad
+McMaster  952069869  9  6 f   -     -     -         3326    0    0 
+McMaster  952069890  8  4 f   -     -     -         3326    0    0 
+McMaster  952069899  8  4 f   -     -     -         3326    0    0 
+McMaster  952069943 10  3 cc  bc    kc    kf        3326  120    0 
+McMaster  952069997 10  2 Bk  kf    -     -         3206   20    0 
+McMaster  952070050  9  1 Bc  kf    -     -         3186   20    0 
+McMaster  952070092 10 10 c   r     k     k         3166   60    0 Td 8c
+McMaster  952070168 10  9 f   -     -     -         3106    0    0 
+McMaster  952070250  9  7 f   -     -     -         3106    0    0 
+McMaster  952070286 10  6 cc  c     f     -         3106   60    0 
+McMaster  952070382 10  5 f   -     -     -         3046    0    0 
+McMaster  952070439  9  3 f   -     -     -         3046    0    0 
+McMaster  952070519 10  2 Bf  -     -     -         3046   20    0 
+McMaster  952070537 10  1 Bc  k     kf    -         3026   40    0 
+McMaster  952070604 10 10 f   -     -     -         2986    0    0 
+McMaster  952070679  9  9 f   -     -     -         2986    0    0 
+McMaster  952070747  9  8 f   -     -     -         2986    0    0 
+McMaster  952070830  9  7 f   -     -     -         2986    0    0 
+McMaster  952070886  9  5 cr  b     b     b         2986  160    0 9s Js
+McMaster  952070953 10  4 f   -     -     -         2826    0    0 
+McMaster  952071042 10  3 f   -     -     -         2826    0    0 
+McMaster  952071127 10  2 Bc  kf    -     -         2826   40    0 
+McMaster  952071178 10  1 Bc  kc    kc    kc        2786  120    0 Jh 6h
+McMaster  952071241 10 10 c   f     -     -         2666   20    0 
+McMaster  952071294 10  9 f   -     -     -         2646    0    0 
+McMaster  952071336 10  8 rr  rc    c     c         2646  220 1080 Qd Ad
+McMaster  952071423 10  7 r   b     b     k         3506  100  430 9h 9c
+McMaster  952071469 10  6 cc  kf    -     -         3836   40    0 
+McMaster  952071502 10  5 f   -     -     -         3796    0    0 
+McMaster  952071566 10  4 r   b     k     k         3796   60    0 Ah 9c
+McMaster  952071639 10  3 f   -     -     -         3736    0    0 
+McMaster  952071721 10  2 Bk  kf    -     -         3736   20    0 
+McMaster  952071813  9  1 Br  b     b     -         3716  100  220 
+McMaster  952071886 10 10 f   -     -     -         3836    0    0 
+McMaster  952071961 10  9 f   -     -     -         3836    0    0 
+McMaster  952072013 10  8 f   -     -     -         3836    0    0 
+McMaster  952072096 10  7 f   -     -     -         3836    0    0 
+McMaster  952072159 10  6 cc  bc    kc    kc        3836  160    0 Td Kc
+McMaster  952072208  9  4 r   bc    b     b         3676  160    0 As Qs
+McMaster  952072249 10  3 f   -     -     -         3516    0    0 
+McMaster  952072304 10  2 Br  bc    bc    k         3516  180  670 Kh Kd
+McMaster  952072384 10  1 Bc  kf    -     -         4006   40    0 
+McMaster  952072472 10 10 f   -     -     -         3966    0    0 
+McMaster  952072538 10  9 r   c     c     c         3966  140  350 Qd Qh
+McMaster  952072579 10  8 c   b     b     b         4176  120  340 
+McMaster  952072642  9  6 cc  kc    k     bc        4396  140    0 3c Ac
+McMaster  952072701  9  5 Q   -     -     -         4256    0    0 
+McMaster  952092815 10  4 c   b     b     b         4256  120    0 5d Kd
+McMaster  952092861 10  3 f   -     -     -         4136    0    0 
+McMaster  952092910 10  2 Bk  kf    -     -         4136   20    0 
+McMaster  952092954 10  1 Brr bc    kf    -         4116  140    0 
+McMaster  952093019 10 10 f   -     -     -         3976    0    0 
+McMaster  952093112  9  8 f   -     -     -         3976    0    0 
+McMaster  952093169 10  8 r   b     b     k         3976  120    0 Ad Ac
+McMaster  952093217 10  7 f   -     -     -         3856    0    0 
+McMaster  952093256 10  6 r   br    b     b         3856  180    0 Ks Qs
+McMaster  952093320 10  5 f   -     -     -         3676    0    0 
+McMaster  952093356 10  4 f   -     -     -         3676    0    0 
+McMaster  952093408 10  3 f   -     -     -         3676    0    0 
+McMaster  952093477 10  2 Bc  f     -     -         3676   40    0 
+McMaster  952093523 10  1 Bf  -     -     -         3636   10    0 
+McMaster  952093580 10 10 rc  r     c     f         3626  180    0 
+McMaster  952093686  9  8 f   -     -     -         3446    0    0 
+McMaster  952093729  9  8 c   k     k     k         3446   40    0 Js 7s
+McMaster  952093770  9  7 r   r     b     k         3406  120  740 Qh Qc
+McMaster  952093855 10  6 r   k     r     bc        4026  200    0 Qc Qd
+McMaster  952093891 10  5 f   -     -     -         3826    0    0 
+McMaster  952093934 10  4 f   -     -     -         3826    0    0 
+McMaster  952093994 10  3 f   -     -     -         3826    0    0 
+McMaster  952094061 10  2 Bf  -     -     -         3826   20    0 
+McMaster  952094118 10  1 Bf  -     -     -         3806   10    0 
+McMaster  952094164 10 10 c   b     r     b         3796  160  400 Js Tc
+McMaster  952094213 10  9 f   -     -     -         4036    0    0 
+McMaster  952094323 10  8 f   -     -     -         4036    0    0 
+McMaster  952094376 10  7 r   b     b     b         4036  160    0 Ks Ac
+McMaster  952094416 10  6 f   -     -     -         3876    0    0 
+McMaster  952094480 10  5 f   -     -     -         3876    0    0 
+McMaster  952094533 10  4 f   -     -     -         3876    0    0 
+McMaster  952094619 10  3 f   -     -     -         3876    0    0 
+McMaster  952094703 10  2 Bf  -     -     -         3876   20    0 
+McMaster  952094761 10  1 Bc  k     kf    -         3856   20    0 
+McMaster  952094852 10 10 c   f     -     -         3836   20    0 
+McMaster  952094940 10  9 f   -     -     -         3816    0    0 
+McMaster  952095013 10  8 f   -     -     -         3816    0    0 
+McMaster  952095080 10  7 f   -     -     -         3816    0    0 
+McMaster  952095131 10  6 f   -     -     -         3816    0    0 
+McMaster  952095180 10  5 f   -     -     -         3816    0    0 
+McMaster  952095250 10  4 c   b     b     kf        3816   80    0 
+McMaster  952095335 10  3 f   -     -     -         3736    0    0 
+McMaster  952095386 10  2 Bk  kf    -     -         3736   20    0 
+McMaster  952095451 10  1 Bcc kc    bc    kf        3716  140    0 
+McMaster  952095598  8  8 f   -     -     -         3576    0    0 
+McMaster  952095651  8  8 f   -     -     -         3576    0    0 
+McMaster  952095670  8  7 f   -     -     -         3576    0    0 
+McMaster  952095702  8  6 f   -     -     -         3576    0    0 
+McMaster  952095747  8  5 r   c     c     b         3576  140  440 Ah Ac
+McMaster  952095778  8  4 f   -     -     -         3876    0    0 
+McMaster  952095815  9  3 f   -     -     -         3876    0    0 
+McMaster  952095844  8  2 Bf  -     -     -         3876   20    0 
+McMaster  952095887  8  1 Bc  k     kf    -         3856   20    0 
+McMaster  952095962  8  8 c   r     k     c         3836  100    0 8c Ts
+McMaster  952096041  7  6 c   f     -     -         3736   20    0 
+McMaster  952096078  7  5 f   -     -     -         3716    0    0 
+McMaster  952096133  7  4 f   -     -     -         3716    0    0 
+McMaster  952096161  7  3 f   -     -     -         3716    0    0 
+McMaster  952096179  7  2 Bf  -     -     -         3716   20    0 
+McMaster  952096219  6  1 Bc  b     b     b         3696  120    0 8h 3h
+McMaster  952096247  6  6 f   -     -     -         3576    0    0 
+McMaster  952096268  6  5 r   c     b     r         3576  180    0 Ks 9c
+McMaster  952096307  6  4 f   -     -     -         3396    0    0 
+McMaster  952096336  6  3 f   -     -     -         3396    0    0 
+McMaster  952096368  6  2 Bc  r     r     c         3396  200    0 Jh 8d
+McMaster  952096413  6  1 Bf  -     -     -         3196   10    0 
+McMaster  952096439  6  6 c   c     r     c         3186  180  206 Th 9c
+McMaster  952096495  7  6 cc  c     f     -         3212   60    0 
+McMaster  952096544  7  5 f   -     -     -         3152    0    0 
+McMaster  952096598  8  5 f   -     -     -         3152    0    0 
+McMaster  952096645  7  3 f   -     -     -         3152    0    0 
+McMaster  952096690  8  3 r   b     b     k         3152  100    0 Tc Kh
+McMaster  952096721  9  2 Bk  kf    -     -         3052   20    0 
+McMaster  952096765  9  1 Bc  kf    -     -         3032   20    0 
+McMaster  952096817  8  8 f   -     -     -         3012    0    0 
+McMaster  952096852  8  7 c   rc    b     b         3012  160  530 Ts 8s
+McMaster  952096911  7  5 cc  f     -     -         3382   40    0 
+McMaster  952096980  7  4 f   -     -     -         3342    0    0 
+McMaster  952097021  7  3 f   -     -     -         3342    0    0 
+McMaster  952097074  8  3 f   -     -     -         3342    0    0 
+McMaster  952097112  6  2 Brc bc    k     b         3342  160  400 Kh Ks
+McMaster  952097161  6  1 Bf  -     -     -         3582   10    0 
+McMaster  952097231  9  9 f   -     -     -         3572    0    0 
+McMaster  952097268  9  8 f   -     -     -         3572    0    0 
+McMaster  952097306  9  7 c   k     kf    -         3572   20    0 
+McMaster  952097346 10  6 f   -     -     -         3552    0    0 
+McMaster  952097395 10  5 f   -     -     -         3552    0    0 
+McMaster  952097422 10  4 f   -     -     -         3552    0    0 
+McMaster  952097492 10  3 f   -     -     -         3552    0    0 
+McMaster  952097528 10  2 Bk  kf    -     -         3552   20    0 
+McMaster  952097602 10  1 Bc  b     bc    kf        3532  140    0 
+McMaster  952097693 10 10 f   -     -     -         3392    0    0 
+McMaster  952097809  9  8 r   -     -     -         3392   40   70 
+McMaster  952097828  9  7 r   kc    k     brc       3422  220    0 Jc Jd
+McMaster  952097884 10  6 f   -     -     -         3202    0    0 
+McMaster  952097975 10  5 f   -     -     -         3202    0    0 
+McMaster  952098005 10  4 cc  ccc   kf    -         3202  120    0 
+McMaster  952098101 10  3 f   -     -     -         3082    0    0 
+McMaster  952098182 10  2 Brr b     b     b         3082  180  700 
+McMaster  952098286 10  1 Bc  b     b     b         3602  120  360 Js Jc
+McMaster  952098335  9  9 f   -     -     -         3842    0    0 
+McMaster  952098395 10  9 c   f     -     -         3842   20    0 
+McMaster  952098452 10  8 f   -     -     -         3822    0    0 
+McMaster  952098535 10  7 f   -     -     -         3822    0    0 
+McMaster  952098614 10  6 rc  c     k     f         3822   80    0 
+McMaster  952098665 10  5 f   -     -     -         3742    0    0 
+McMaster  952098709 10  4 f   -     -     -         3742    0    0 
+McMaster  952098823 10  3 f   -     -     -         3742    0    0 
+McMaster  952098864 10  2 Bf  -     -     -         3742   20    0 
+McMaster  952098951 10  1 Bf  -     -     -         3722   10    0 
+McMaster  952099050 10 10 f   -     -     -         3712    0    0 
+McMaster  952099158 10  9 f   -     -     -         3712    0    0 
+McMaster  952099210  9  7 r   c     f     -         3712   60    0 
+McMaster  952099264 10  6 cc  kc    kc    kc        3652  140    0 Ad 4d
+McMaster  952099311 10  5 cc  kc    kc    bf        3512  140    0 
+McMaster  952099361 10  4 cc  b     b     b         3372  140  370 Td 8d
+McMaster  952099396 10  3 f   -     -     -         3602    0    0 
+McMaster  952099435 10  2 Bk  f     -     -         3602   20    0 
+McMaster  952099500 10  1 Bf  -     -     -         3582   10    0 
+McMaster  952099582 10 10 cc  k     f     -         3572   40    0 
+McMaster  952099703 10  9 f   -     -     -         3532    0    0 
+McMaster  952099800  9  8 f   -     -     -         3532    0    0 
+McMaster  952099840  9  7 f   -     -     -         3532    0    0 
+McMaster  952099901  9  6 f   -     -     -         3532    0    0 
+McMaster  952099996  9  5 f   -     -     -         3532    0    0 
+McMaster  952100048 10  4 f   -     -     -         3532    0    0 
+McMaster  952100079 10  3 f   -     -     -         3532    0    0 
+McMaster  952100126 10  2 Bc  k     kf    -         3532   40    0 
+McMaster  952100176 10  1 Bc  b     k     b         3492   80    0 3s 2s
+McMaster  952100208 10 10 rc  r     brrc  c         3412  400    0 Qs Js
+McMaster  952100271 10  9 cf  -     -     -         3012   20    0 
+McMaster  952100308 10  8 f   -     -     -         2992    0    0 
+McMaster  952100353 10  7 cc  c     cc    kc        2992  180    0 Kh 5h
+McMaster  952100417 10  6 cc  c     c     b         2812  140    0 2c 2h
+McMaster  952100455 10  5 r   br    -     -         2672  100  290 
+McMaster  952100486  9  4 c   c     c     k         2862   80    0 7c 8c
+McMaster  952100534  9  3 f   -     -     -         2782    0    0 
+McMaster  952100578  9  2 Bc  b     b     kf        2782  140    0 
+McMaster  952100624  9  1 Bf  -     -     -         2642   10    0 
+McMaster  952100670  8  8 c   b     b     b         2632  120  340 6d 7c
+McMaster  952100714  8  7 f   -     -     -         2852    0    0 
+McMaster  952100737  8  6 f   -     -     -         2852    0    0 
+McMaster  952100799  8  5 cc  bc    b     b         2852  160    0 Kc 4c
+McMaster  952100866  7  3 r   k     b     b         2692  120    0 Th Td
+McMaster  952100886  7  2 Bc  bc    kc    kf        2572  120    0 
+McMaster  952100913  7  1 Bcc kc    kr    kf        2452  140    0 
+McMaster  952100968  7  7 f   -     -     -         2312    0    0 
+McMaster  952101006  7  6 r   b     -     -         2312   60  110 
+McMaster  952101020  7  5 c   f     -     -         2362   20    0 
+McMaster  952101041  6  4 cc  kc    kc    kc        2342  140    0 Jc Ts
+McMaster  952101071  6  3 f   -     -     -         2202    0    0 
+McMaster  952101081  6  2 Bf  -     -     -         2202   20    0 
+McMaster  952101099  7  1 Bf  -     -     -         2182   10    0 
+McMaster  952101121  7  7 f   -     -     -         2172    0    0 
+McMaster  952101155  8  7 rc  f     -     -         2172   60    0 
+McMaster  952101177  8  6 f   -     -     -         2112    0    0 
+McMaster  952101218  8  5 f   -     -     -         2112    0    0 
+McMaster  952101233  8  4 c   bc    k     k         2112   60    0 As 3s
+McMaster  952101282  8  3 f   -     -     -         2052    0    0 
+McMaster  952101315  8  2 Bc  kc    bc    kc        2052  180    0 Tc 9s
+McMaster  952101367  8  1 Bf  -     -     -         1872   10    0 
+McMaster  952101400  9  8 f   -     -     -         1862    0    0 
+McMaster  952101445  9  7 f   -     -     -         1862    0    0 
+McMaster  952101485  9  6 f   -     -     -         1862    0    0 
+McMaster  952101508  9  5 c   kr    b     b         1862  140    0 3c Ac
+McMaster  952101567 10  4 c   kf    -     -         1722   20    0 
+McMaster  952101618 10  3 f   -     -     -         1702    0    0 
+McMaster  952101649  9  2 Bc  kc    k     c         1702  100    0 4d Ks
+McMaster  952101703  9  1 Bf  -     -     -         1602   10    0 
+McMaster  952101719  9  9 f   -     -     -         1592    0    0 
+McMaster  952101745  9  8 f   -     -     -         1592    0    0 
+McMaster  952101769  9  7 f   -     -     -         1592    0    0 
+McMaster  952101820 10  7 f   -     -     -         1592    0    0 
+McMaster  952101863 10  6 f   -     -     -         1592    0    0 
+McMaster  952101897 10  5 f   -     -     -         1592    0    0 
+McMaster  952101913 10  4 f   -     -     -         1592    0    0 
+McMaster  952101948 10  3 c   bc    r     bc        1592  220    0 Tc Js
+McMaster  952101983 10  2 Br  b     k     bc        1372  140  165 Jd Kd
+McMaster  952102025  9  1 Bf  -     -     -         1397   10    0 
+McMaster  952102051  9  9 c   f     -     -         1387   20    0 
+McMaster  952102085  9  8 c   c     c     c         1367  140    0 Qd Jc
+McMaster  952102137  9  7 f   -     -     -         1227    0    0 
+McMaster  952102196  9  6 r   r     b     b         1227  160  430 8c Ad
+McMaster  952102237  9  5 r   b     b     b         1497  140  410 
+McMaster  952102274  9  4 c   c     rf    -         1767  140    0 
+McMaster  952102307  9  3 f   -     -     -         1627    0    0 
+McMaster  952102326  9  2 Bcc bc    bc    kf        1627  240    0 
+McMaster  952102374  9  1 Bc  k     b     b         1387  100    0 8h Kd
+McMaster  952102420  9  9 f   -     -     -         1287    0    0 
+McMaster  952102435 10  9 f   -     -     -         1287    0    0 
+McMaster  952102476 10  8 f   -     -     -         1287    0    0 
+McMaster  952102518 10  7 f   -     -     -         1287    0    0 
+McMaster  952102580 10  6 f   -     -     -         1287    0    0 
+McMaster  952102622 10  5 cc  b     b     b         1287  140    0 3c 7c
+McMaster  952102647  9  3 f   -     -     -         1147    0    0 
+McMaster  952102714  9  2 Bc  brrrrrrrrrrrrrrrrrrrrrrrrrrr bA    -         1147 1147 2384 Ac 7d
+McMaster  952102841  8  1 Bf  -     -     -         2384   10    0 
+McMaster  952102914  8  8 c   c     c     b         2374  140  410 Ac 7c
+McMaster  952102970  8  7 f   -     -     -         2644    0    0 
+McMaster  952103018  8  6 f   -     -     -         2644    0    0 
+McMaster  952103055  8  5 f   -     -     -         2644    0    0 
+McMaster  952103101  8  4 f   -     -     -         2644    0    0 
+McMaster  952103143  7  3 f   -     -     -         2644    0    0 
+McMaster  952103163  7  2 Brc bc    kc    kc        2644  200  285 Qh Kh
+McMaster  952103224  7  1 Bf  -     -     -         2729   10    0 
+McMaster  952103327  7  7 f   -     -     -         2719    0    0 
+McMaster  952103402  7  6 f   -     -     -         2719    0    0 
+McMaster  952103443  7  5 c   c     f     -         2719   40    0 
+McMaster  952103498  7  4 f   -     -     -         2679    0    0 
+McMaster  952103510  7  3 r   b     b     c         2679  140    0 Jc Ac
+McMaster  952103563  7  2 Bf  Q     -     -         2539   20    0 
+McMaster  952219976 10  2 Bf  -     -     -         2519   20    0 
+McMaster  952220019 10  1 Bc  kf    -     -         2499   20    0 
+McMaster  952220049 10 10 c   r     c     c         2479  160    0 8c Kh
+McMaster  952220109 10  9 f   -     -     -         2319    0    0 
+McMaster  952220122 10  8 c   b     brc   c         2319  240  610 Kh 6h
+McMaster  952220176 10  7 f   -     -     -         2689    0    0 
+McMaster  952220229 10  6 f   -     -     -         2689    0    0 
+McMaster  952220294 10  5 cc  kf    -     -         2689   40    0 
+McMaster  952220316 10  4 f   -     -     -         2649    0    0 
+McMaster  952220346 10  3 c   r     b     b         2649  140  270 
+McMaster  952220383 10  2 Bf  -     -     -         2779   20    0 
+McMaster  952220433 10  1 Bf  -     -     -         2759   10    0 
+McMaster  952220482 10 10 f   -     -     -         2749    0    0 
+McMaster  952220520 10  9 r   c     k     k         2749   60    0 As Qc
+McMaster  952220573 10  8 f   -     -     -         2689    0    0 
+McMaster  952220599 10  7 f   -     -     -         2689    0    0 
+McMaster  952220644 10  6 r   b     b     b         2689  140    0 6s 6d
+McMaster  952220687 10  5 f   -     -     -         2549    0    0 
+McMaster  952220723 10  4 c   rc    r     c         2549  200    0 7d Ad
+McMaster  952220777 10  3 f   -     -     -         2349    0    0 
+McMaster  952220844 10  2 Bk  kf    -     -         2349   20    0 
+McMaster  952220881 10  1 Bf  -     -     -         2329   10    0 
+McMaster  952220931 10 10 f   -     -     -         2319    0    0 
+McMaster  952220981 10  9 c   b     b     bc        2319  160    0 7c Tc
+McMaster  952221023 10  8 f   -     -     -         2159    0    0 
+McMaster  952221062 10  7 f   -     -     -         2159    0    0 
+McMaster  952221092 10  6 f   -     -     -         2159    0    0 
+McMaster  952221130 10  5 f   -     -     -         2159    0    0 
+McMaster  952221192 10  4 c   f     -     -         2159   20    0 
+McMaster  952221257 10  3 f   -     -     -         2139    0    0 
+McMaster  952221369  9  2 Bk  kf    -     -         2139   20    0 
+McMaster  952221464 10  1 Br  b     -     -         2119   60  100 
+McMaster  952221531  9  9 f   -     -     -         2159    0    0 
+McMaster  952221597 10  8 cr  b     b     b         2159  160  450 
+McMaster  952221663 10  7 f   -     -     -         2449    0    0 
+McMaster  952221721 10  6 f   -     -     -         2449    0    0 
+McMaster  952221865  9  6 c   r     b     k         2449  120    0 Qd Td
+McMaster  952221903  9  4 f   -     -     -         2329    0    0 
+McMaster  952221957 10  3 cc  r     r     b         2329  220  680 9h Ah
+McMaster  952222025 10  2 Bf  -     -     -         2789   20    0 
+McMaster  952222091 10  1 Bf  -     -     -         2769   10    0 
+McMaster  952222149 10 10 f   -     -     -         2759    0    0 
+McMaster  952222197 10  9 f   -     -     -         2759    0    0 
+McMaster  952222231 10  8 f   -     -     -         2759    0    0 
+McMaster  952222267 10  7 f   -     -     -         2759    0    0 
+McMaster  952222294 10  6 f   -     -     -         2759    0    0 
+McMaster  952222327 10  5 c   kf    -     -         2759   20    0 
+McMaster  952222375 10  4 f   -     -     -         2739    0    0 
+McMaster  952222447 10  3 c   kc    kf    -         2739   40    0 
+McMaster  952222571  9  2 Bk  b     b     b         2699  120  460 8c Kd
+McMaster  952222623  8  1 Bf  -     -     -         3039   10    0 
+McMaster  952222670  8  8 f   -     -     -         3029    0    0 
+McMaster  952222742 10  9 f   -     -     -         3029    0    0 
+McMaster  952222778 10  8 r   b     b     b         3029  140  430 Tc 7d
+McMaster  952222841 10  7 f   -     -     -         3319    0    0 
+McMaster  952222923  9  6 c   b     b     b         3319  120    0 8s Ks
+McMaster  952222971  9  5 c   b     -     -         3199   40  120 
+McMaster  952223000  9  4 f   -     -     -         3279    0    0 
+McMaster  952223045  9  3 c   kc    c     r         3279  160  560 2d 2h
+McMaster  952223170  8  2 Bk  kf    -     -         3679   20    0 
+McMaster  952223213  9  1 Bf  -     -     -         3659   10    0 
+McMaster  952223271  9  9 f   -     -     -         3649    0    0 
+McMaster  952223321  9  8 f   -     -     -         3649    0    0 
+McMaster  952223348  8  6 f   -     -     -         3649    0    0 
+McMaster  952223394  9  5 f   -     -     -         3649    0    0 
+McMaster  952223437  8  3 c   bc    kf    -         3649   80    0 
+McMaster  952223489  9  2 Bk  kr    b     b         3569  140  290 
+McMaster  952223527  9  1 Bc  kf    -     -         3719   20    0 
+McMaster  952223563  9  9 f   -     -     -         3699    0    0 
+McMaster  952223590  9  8 f   -     -     -         3699    0    0 
+McMaster  952223631  9  7 f   -     -     -         3699    0    0 
+McMaster  952223640  9  6 f   -     -     -         3699    0    0 
+McMaster  952223682  9  5 f   -     -     -         3699    0    0 
+McMaster  952223709  9  4 f   -     -     -         3699    0    0 
+McMaster  952223744  9  3 f   -     -     -         3699    0    0 
+McMaster  952223797 10  2 Bk  f     -     -         3699   20    0 
+McMaster  952223834 10  1 Bf  -     -     -         3679   10    0 
+McMaster  952223865 10 10 f   -     -     -         3669    0    0 
+McMaster  952223919 10  9 f   -     -     -         3669    0    0 
+McMaster  952223943 10  8 cc  kc    c     b         3669  140    0 9d Kd
+McMaster  952223990 10  7 f   -     -     -         3529    0    0 
+McMaster  952224026 10  6 f   -     -     -         3529    0    0 
+McMaster  952224075 10  5 f   -     -     -         3529    0    0 
+McMaster  952224102 10  4 f   -     -     -         3529    0    0 
+McMaster  952224159 10  3 f   -     -     -         3529    0    0 
+McMaster  952224228 10  2 Bk  k     k     rc        3529  140    0 8h 9s
+McMaster  952224275 10  1 Bc  bc    kc    kc        3389  180    0 Jc 7h
+McMaster  952224336 10 10 f   -     -     -         3209    0    0 
+McMaster  952224364 10  9 f   -     -     -         3209    0    0 
+McMaster  952224407 10  8 f   -     -     -         3209    0    0 
+McMaster  952224438 10  7 f   -     -     -         3209    0    0 
+McMaster  952224471 10  6 f   -     -     -         3209    0    0 
+McMaster  952224501 10  5 f   -     -     -         3209    0    0 
+McMaster  952224524 10  4 f   -     -     -         3209    0    0 
+McMaster  952224579 10  3 f   -     -     -         3209    0    0 
+McMaster  952224619 10  2 Bk  kf    -     -         3209   20    0 
+McMaster  952224667 10  1 Bcc k     k     kf        3189   60    0 
+McMaster  952224709 10 10 f   -     -     -         3129    0    0 
+McMaster  952224720 10  9 c   c     r     b         3129  160  310 
+McMaster  952224758 10  8 f   -     -     -         3279    0    0 
+McMaster  952224798 10  7 f   -     -     -         3279    0    0 
+McMaster  952224845 10  6 f   -     -     -         3279    0    0 
+McMaster  952224900 10  5 f   -     -     -         3279    0    0 
+McMaster  952224932  9  3 f   -     -     -         3279    0    0 
+McMaster  952224971 10  2 Bf  -     -     -         3279   20    0 
+McMaster  952224998  9  1 Bf  -     -     -         3259   10    0 
+McMaster  952225006  9  9 f   -     -     -         3249    0    0 
+McMaster  952225053  9  8 f   -     -     -         3249    0    0 
+McMaster  952225102  9  7 r   b     -     -         3249   60  150 
+McMaster  952225137  9  6 c   f     -     -         3339   20    0 
+McMaster  952225174  9  5 f   -     -     -         3319    0    0 
+McMaster  952225218 10  4 r   -     -     -         3319   40   70 
+McMaster  952225230 10  3 f   -     -     -         3349    0    0 
+McMaster  952225250 10  2 Bc  b     bf    -         3349  100    0 
+McMaster  952225315 10  1 Bf  -     -     -         3249   10    0 
+McMaster  952225362 10 10 f   -     -     -         3239    0    0 
+McMaster  952225407 10  9 f   -     -     -         3239    0    0 
+McMaster  952225440 10  8 f   -     -     -         3239    0    0 
+McMaster  952225468 10  7 f   -     -     -         3239    0    0 
+McMaster  952225513 10  6 c   b     b     b         3239  120  320 Js Qs
+McMaster  952225554  8  4 c   b     bc    k         3439  120  300 Qc 7d
+McMaster  952225597  9  4 f   -     -     -         3619    0    0 
+McMaster  952225669  9  3 f   -     -     -         3619    0    0 
+McMaster  952225766  8  2 Br  b     -     -         3619   60  100 
+McMaster  952225800  9  1 Br  -     -     -         3659   40   60 
+McMaster  952225817 10 10 f   -     -     -         3679    0    0 
+McMaster  952225891 10  9 f   -     -     -         3679    0    0 
+McMaster  952225919 10  8 c   c     b     b         3679  120  370 9c 5c
+McMaster  952225965 10  7 f   -     -     -         3929    0    0 
+McMaster  952226032 10  6 f   -     -     -         3929    0    0 
+McMaster  952226060 10  5 f   -     -     -         3929    0    0 
+McMaster  952226098 10  4 r   b     -     -         3929   60  150 
+McMaster  952226113 10  3 f   -     -     -         4019    0    0 
+McMaster  952226160 10  2 Bf  -     -     -         4019   20    0 
+McMaster  952226186 10  1 Bc  kf    -     -         3999   20    0 
+McMaster  952226235 10 10 f   -     -     -         3979    0    0 
+McMaster  952226268 10  9 f   -     -     -         3979    0    0 
+McMaster  952226311 10  8 f   -     -     -         3979    0    0 
+McMaster  952226342 10  7 r   b     -     -         3979   60  180 
+McMaster  952226375 10  6 cc  b     b     bc        4099  180    0 Kc Ts
+McMaster  952226415 10  5 c   k     f     -         3919   20    0 
+McMaster  952226458 10  4 f   -     -     -         3899    0    0 
+McMaster  952226492 10  3 f   -     -     -         3899    0    0 
+McMaster  952226532 10  2 Bk  b     b     b         3899  120    0 Th 4h
+McMaster  952226577 10  1 Bc  kc    k     kf        3779   60    0 
+McMaster  952226651 10 10 f   -     -     -         3719    0    0 
+McMaster  952226703 10  9 f   -     -     -         3719    0    0 
+McMaster  952226728 10  8 c   bc    b     b         3719  140  350 2d Ad
+McMaster  952226765 10  7 c   b     f     -         3929   40    0 
+McMaster  952226796 10  6 f   -     -     -         3889    0    0 
+McMaster  952226822 10  5 f   -     -     -         3889    0    0 
+McMaster  952226844 10  4 f   -     -     -         3889    0    0 
+McMaster  952226937 10  3 c   cc    kc    k         3889  100    0 Tc 9c
+McMaster  952226983 10  2 Bk  kf    -     -         3789   20    0 
+McMaster  952227038 10  1 Bf  -     -     -         3769   10    0 
+McMaster  952227081 10 10 c   f     -     -         3759   20    0 
+McMaster  952227130 10  9 f   -     -     -         3739    0    0 
+McMaster  952227201 10  8 rc  b     c     f         3739  140    0 
+McMaster  952227277 10  7 f   -     -     -         3599    0    0 
+McMaster  952227322 10  6 f   -     -     -         3599    0    0 
+McMaster  952227377 10  5 r   k     b     b         3599  120  310 Jd Jh
+McMaster  952227405 10  4 c   k     kf    -         3789   20    0 
+McMaster  952227454 10  3 f   -     -     -         3769    0    0 
+McMaster  952227535 10  2 Bk  bc    kf    -         3769   80    0 
+McMaster  952227607 10  1 Bc  b     bc    kc        3689  160    0 As Qh
+McMaster  952227699 10 10 f   -     -     -         3529    0    0 
+McMaster  952227725 10  9 cc  c     k     rr        3529  220  300 Jc Th
+McMaster  952227792 10  8 f   -     -     -         3609    0    0 
+McMaster  952227874 10  7 f   -     -     -         3609    0    0 
+McMaster  952227908 10  6 f   -     -     -         3609    0    0 
+McMaster  952227973 10  5 f   -     -     -         3609    0    0 
+McMaster  952228033 10  4 f   -     -     -         3609    0    0 
+McMaster  952228059 10  3 f   -     -     -         3609    0    0 
+McMaster  952228142 10  2 Bk  kc    b     k         3609   80    0 6s Jh
+McMaster  952228207 10  1 Bc  k     kr    b         3529  140  300 6d 6c
+McMaster  952228251 10 10 c   c     r     b         3689  180  450 
+McMaster  952228327 10  9 f   -     -     -         3959    0    0 
+McMaster  952228370 10  8 f   -     -     -         3959    0    0 
+McMaster  952228397 10  7 f   -     -     -         3959    0    0 
+McMaster  952228453 10  6 f   -     -     -         3959    0    0 
+McMaster  952228519 10  5 f   -     -     -         3959    0    0 
+McMaster  952228596 10  4 rc  b     b     -         3959  120  230 
+McMaster  952228626 10  3 f   -     -     -         4069    0    0 
+McMaster  952228679 10  2 Bf  -     -     -         4069   20    0 
+McMaster  952228740 10  1 Bf  -     -     -         4049   10    0 
+McMaster  952228807 10 10 f   -     -     -         4039    0    0 
+McMaster  952228919 10  9 f   -     -     -         4039    0    0 
+McMaster  952228997 10  8 r   bc    kc    kc        4039  160    0 Jd Jh
+McMaster  952229073 10  7 f   -     -     -         3879    0    0 
+McMaster  952229127 10  6 rc  bc    b     b         3879  200  680 Kd Ah
+McMaster  952229177 10  5 f   -     -     -         4359    0    0 
+McMaster  952229219 10  4 cc  kc    kf    -         4359   60    0 
+McMaster  952229274 10  3 f   -     -     -         4299    0    0 
+McMaster  952229329 10  2 Bc  b     b     -         4299  100  250 
+McMaster  952229373 10  1 Bc  bc    kc    kc        4449  140    0 Kd 7h
+McMaster  952229431 10 10 f   -     -     -         4309    0    0 
+McMaster  952229484 10  9 f   -     -     -         4309    0    0 
+McMaster  952229521 10  8 f   -     -     -         4309    0    0 
+McMaster  952229560 10  7 f   -     -     -         4309    0    0 
+McMaster  952229609 10  6 rc  c     rr    b         4309  280  690 
+McMaster  952229679  9  5 f   -     -     -         4719    0    0 
+McMaster  952229728 10  4 f   -     -     -         4719    0    0 
+McMaster  952229738 10  3 f   -     -     -         4719    0    0 
+McMaster  952229851 10  2 Bk  k     kf    -         4719   20    0 
+McMaster  952229873 10  1 Bc  bc    b     b         4699  140  420 4c 8c
+McMaster  952229921 10 10 f   -     -     -         4979    0    0 
+McMaster  952229939 10  9 f   -     -     -         4979    0    0 
+McMaster  952230027 10  8 f   -     -     -         4979    0    0 
+McMaster  952230059 10  7 f   -     -     -         4979    0    0 
+McMaster  952230089 10  6 f   -     -     -         4979    0    0 
+McMaster  952230128 10  5 r   rc    k     f         4979  100    0 
+McMaster  952230185 10  4 c   r     b     cf        4879  140    0 
+McMaster  952230230 10  3 f   -     -     -         4739    0    0 
+McMaster  952230275 10  2 Bc  kc    bf    -         4739  100    0 
+McMaster  952230326 10  1 Bc  kf    -     -         4639   20    0 
+McMaster  952230377 10 10 c   c     b     bc        4619  160    0 6c Kc
+McMaster  952230429 10  9 f   -     -     -         4459    0    0 
+McMaster  952230486 10  8 f   -     -     -         4459    0    0 
+McMaster  952230523 10  7 f   -     -     -         4459    0    0 
+McMaster  952230546 10  6 f   -     -     -         4459    0    0 
+McMaster  952230584 10  5 r   bc    k     b         4459  120    0 Qd As
+McMaster  952230618 10  4 f   -     -     -         4339    0    0 
+McMaster  952230672 10  3 f   -     -     -         4339    0    0 
+McMaster  952230705 10  2 Bf  -     -     -         4339   20    0 
+McMaster  952230739 10  1 Br  kc    k     b         4319  100  380 Kh As
+McMaster  952230801 10 10 f   -     -     -         4599    0    0 
+McMaster  952230848 10  9 f   -     -     -         4599    0    0 
+McMaster  952230911 10  8 f   -     -     -         4599    0    0 
+McMaster  952230961 10  7 r   bc    c     c         4599  160    0 Qh Ad
+McMaster  952231003 10  6 f   -     -     -         4439    0    0 
+McMaster  952231041 10  5 r   b     c     r         4439  180    0 Ah Jh
+McMaster  952231104 10  4 f   -     -     -         4259    0    0 
+McMaster  952231169 10  3 f   -     -     -         4259    0    0 
+McMaster  952231224 10  2 Bk  kf    -     -         4259   20    0 
+McMaster  952231301 10  1 Br  b     b     b         4239  140  460 Td Ts
+McMaster  952231374 10 10 c   f     -     -         4559   20    0 
+McMaster  952231447 10  9 c   f     -     -         4539   20    0 
+McMaster  952231529 10  8 f   -     -     -         4519    0    0 
+McMaster  952231597 10  7 f   -     -     -         4519    0    0 
+McMaster  952231619 10  6 f   -     -     -         4519    0    0 
+McMaster  952231682 10  5 rr  b     b     b         4519  180  620 
+McMaster  952231793 10  4 f   -     -     -         4959    0    0 
+McMaster  952231875 10  3 f   -     -     -         4959    0    0 
+McMaster  952231938 10  2 Bk  k     f     -         4959   20    0 
+McMaster  952231994 10  1 Bf  -     -     -         4939   10    0 
+McMaster  952232064  9  9 f   -     -     -         4929    0    0 
+McMaster  952232105 10  8 f   -     -     -         4929    0    0 
+McMaster  952232167 10  7 f   -     -     -         4929    0    0 
+McMaster  952232232 10  6 c   b     -     -         4929   40  110 
+McMaster  952232266 10  5 f   -     -     -         4999    0    0 
+McMaster  952232342 10  4 f   -     -     -         4999    0    0 
+McMaster  952232396 10  3 f   -     -     -         4999    0    0 
+McMaster  952232447 10  2 Bf  -     -     -         4999   20    0 
+McMaster  952232483 10  1 Bf  -     -     -         4979   10    0 
+McMaster  952232545 10 10 f   -     -     -         4969    0    0 
+McMaster  952232616 10  9 c   c     c     r         4969  160  390 
+McMaster  952232666 10  8 f   -     -     -         5199    0    0 
+McMaster  952232743 10  7 f   -     -     -         5199    0    0 
+McMaster  952232782 10  6 c   k     f     -         5199   20    0 
+McMaster  952232848 10  5 f   -     -     -         5179    0    0 
+McMaster  952232917  8  3 f   -     -     -         5179    0    0 
+McMaster  952232952  9  2 Bk  kf    -     -         5179   20    0 
+McMaster  952233010  9  1 Bc  kcc   kf    -         5159   80    0 
+McMaster  952233084  9  9 f   -     -     -         5079    0    0 
+McMaster  952233132 10  9 c   k     f     -         5079   40    0 
+McMaster  952233204 10  8 c   k     bc    f         5039  100    0 
+McMaster  952233283 10  7 c   b     b     b         4939  120    0 Th Jh
+McMaster  952233355 10  6 c   f     -     -         4819   40    0 
+McMaster  952233398  9  5 f   -     -     -         4779    0    0 
+McMaster  952233434 10  4 cc  bc    b     b         4779  160  470 2d Kd
+McMaster  952233489 10  3 f   -     -     -         5089    0    0 
+McMaster  952233534  9  2 Bk  kf    -     -         5089   20    0 
+McMaster  952233583  9  1 Bf  -     -     -         5069   10    0 
+McMaster  952233625 10 10 c   f     -     -         5059   20    0 
+McMaster  952233719 10  9 f   -     -     -         5039    0    0 
+McMaster  952233789 10  8 c   f     -     -         5039   20    0 
+McMaster  952233834 10  7 f   -     -     -         5019    0    0 
+McMaster  952233869 10  6 f   -     -     -         5019    0    0 
+McMaster  952233941 10  5 f   -     -     -         5019    0    0 
+McMaster  952234050 10  4 fQ  -     -     -         5019    0    0 
+McMaster  952239374 10  2 Bk  k     k     k        10069   20    0 6c 5s
+McMaster  952239448 10  1 Bc  b     b     b        10049  140  340 
+McMaster  952239491 10 10 r   r     b     b        10249  160    0 Ac As
+McMaster  952239556 10  9 f   -     -     -        10089    0    0 
+McMaster  952239625 10  8 f   -     -     -        10089    0    0 
+McMaster  952239734 10  7 f   -     -     -        10089    0    0 
+McMaster  952239790 10  6 f   -     -     -        10089    0    0 
+McMaster  952239826 10  5 f   -     -     -        10089    0    0 
+McMaster  952239961  9  4 cc  kf    -     -        10089   40    0 
+McMaster  952240021 10  3 f   -     -     -        10049    0    0 
+McMaster  952240066 10  2 Bf  -     -     -        10049   20    0 
+McMaster  952240146 10  1 Bc  bc    b     b        10029  140    0 Ad 3h
+McMaster  952240185 10 10 r   r     b     b         9889  160  760 Jd Jc
+McMaster  952240328 10  9 f   -     -     -        10489    0    0 
+McMaster  952240376  9  7 c   f     -     -        10489   20    0 
+McMaster  952240444  9  6 f   -     -     -        10469    0    0 
+McMaster  952240498  9  5 f   -     -     -        10469    0    0 
+McMaster  952240538  9  4 f   -     -     -        10469    0    0 
+McMaster  952240580  8  2 Bk  b     b     k        10469   80    0 Ad 9c
+McMaster  952240647  8  1 Bf  -     -     -        10389   10    0 
+McMaster  952240701  8  8 f   -     -     -        10379    0    0 
+McMaster  952240741  8  7 f   -     -     -        10379    0    0 
+McMaster  952240769  8  6 f   -     -     -        10379    0    0 
+McMaster  952240809  8  5 f   -     -     -        10379    0    0 
+McMaster  952240840  8  4 f   -     -     -        10379    0    0 
+McMaster  952240893  8  3 rc  c     c     c        10379  160    0 Ad Kc
+McMaster  952240941  8  2 Br  b     b     b        10219  140  320 Kh Qh
+McMaster  952240978  8  1 Br  b     b     k        10399  100    0 8h 8d
+McMaster  952241006  8  8 f   -     -     -        10299    0    0 
+McMaster  952241053  8  7 c   k     b     -        10299   60  130 
+McMaster  952241115  8  6 f   -     -     -        10369    0    0 
+McMaster  952241165  8  5 f   -     -     -        10369    0    0 
+McMaster  952241202  9  4 f   -     -     -        10369    0    0 
+McMaster  952241254  9  3 f   -     -     -        10369    0    0 
+McMaster  952241284  9  2 Bf  -     -     -        10369   20    0 
+McMaster  952241329  9  1 Bf  -     -     -        10349   10    0 
+McMaster  952241377  9  9 f   -     -     -        10339    0    0 
+McMaster  952241428  9  8 f   -     -     -        10339    0    0 
+McMaster  952241460  9  7 f   -     -     -        10339    0    0 
+McMaster  952241495  9  6 c   kf    -     -        10339   20    0 
+McMaster  952241562  9  5 c   c     c     f        10319   80    0 
+McMaster  952241615  9  4 f   -     -     -        10239    0    0 
+McMaster  952241653  9  3 f   -     -     -        10239    0    0 
+McMaster  952241675  9  2 Bk  kf    -     -        10239   20    0 
+McMaster  952241743  9  1 Br  b     b     bc       10219  180    0 Qd Qs
+McMaster  952241788  9  9 r   c     r     c        10039  200    0 Jd As
+McMaster  952241877  9  8 f   -     -     -         9839    0    0 
+McMaster  952241936  9  7 f   -     -     -         9839    0    0 
+McMaster  952242025  9  6 c   b     b     bc        9839  160  360 Js Qh
+McMaster  952242063  9  5 c   b     k     k        10039   40    0 Ad Td
+McMaster  952242110  9  4 f   -     -     -         9999    0    0 
+McMaster  952242177  9  3 f   -     -     -         9999    0    0 
+McMaster  952242224  9  2 Bc  r     bf    -         9999  120    0 
+McMaster  952242345  9  1 Bc  k     b     -         9879   60  100 
+McMaster  952242385 10 10 f   -     -     -         9919    0    0 
+McMaster  952242477 10  9 f   -     -     -         9919    0    0 
+McMaster  952242533 10  8 f   -     -     -         9919    0    0 
+McMaster  952242593 10  7 f   -     -     -         9919    0    0 
+McMaster  952242649 10  6 r   b     k     k         9919   60    0 Tc Ad
+McMaster  952242688 10  5 Q   -     -     -         9859    0    0 
+McMaster  952310886  9  7 f   -     -     -         9484    0    0 
+McMaster  952310941 10  6 f   -     -     -         9484    0    0 
+McMaster  952310990 10  5 f   -     -     -         9484    0    0 
+McMaster  952311185 10  4 f   -     -     -         9484    0    0 
+McMaster  952311249 10  3 cc  bc    kf    -         9484  100    0 
+McMaster  952311355  9  2 Bc  b     k     bc        9384  140    0 Ad 7d
+McMaster  952311431 10  1 Bf  -     -     -         9244   10    0 
+McMaster  952311531 10 10 f   -     -     -         9234    0    0 
+McMaster  952311594 10  9 f   -     -     -         9234    0    0 
+McMaster  952311631 10  8 f   -     -     -         9234    0    0 
+McMaster  952311680  9  7 f   -     -     -         9234    0    0 
+McMaster  952311719  9  6 c   b     b     -         9234   80  200 
+McMaster  952311753  9  5 f   -     -     -         9354    0    0 
+McMaster  952311781  9  4 cc  cc    k     kc        9354  120    0 As Tc
+McMaster  952311919 10  3 c   f     -     -         9234   20    0 
+McMaster  952311975 10  2 Bf  -     -     -         9214   20    0 
+McMaster  952312014 10  1 Bc  k     kf    -         9194   40    0 
+McMaster  952312070 10 10 c   f     -     -         9154   40    0 
+McMaster  952312145  9  8 f   -     -     -         9114    0    0 
+McMaster  952312203  9  7 f   -     -     -         9114    0    0 
+McMaster  952312279  9  6 f   -     -     -         9114    0    0 
+McMaster  952312318 10  6 f   -     -     -         9114    0    0 
+McMaster  952312360 10  5 f   -     -     -         9114    0    0 
+McMaster  952312422 10  4 f   -     -     -         9114    0    0 
+McMaster  952312480 10  3 f   -     -     -         9114    0    0 
+McMaster  952312536 10  2 Bk  b     b     bc        9114  160    0 Jd Kc
+McMaster  952312605 10  1 Bf  Q     -     -         8954   10    0 
+McMaster  952312717  9  6 f   -     -     -         8944    0    0 
+McMaster  952312769  9  5 f   -     -     -         8944    0    0 
+McMaster  952312817  9  4 fQ  -     -     -         8944    0    0 
+McMaster  952315460  7  4 r   -     -     -         8959   40   60 
+McMaster  952315484  6  4 f   -     -     -         8979    0    0 
+McMaster  952315498  6  3 f   -     -     -         8979    0    0 
+McMaster  952315521  7  2 Bc  c     k     k         8979   60    0 Kd 8h
+McMaster  952315555  8  1 Br  b     b     -         8919  100  180 
+McMaster  952315583  8  8 r   f     -     -         8999   40    0 
+McMaster  952315601  8  7 f   -     -     -         8959    0    0 
+McMaster  952315621  8  6 f   -     -     -         8959    0    0 
+McMaster  952315635  8  5 c   kc    kc    kf        8959   80    0 
+McMaster  952315671  8  4 cc  kc    kc    kc        8879  140    0 Ks 9h
+McMaster  952315699  8  3 f   -     -     -         8739    0    0 
+McMaster  952315729  8  2 Bc  b     b     b         8739  140  280 5d 7d
+McMaster  952315757  8  1 Bf  -     -     -         8879   10    0 
+McMaster  952315782  9  9 f   -     -     -         8869    0    0 
+McMaster  952315821  9  8 f   -     -     -         8869    0    0 
+McMaster  952315875  9  7 f   -     -     -         8869    0    0 
+McMaster  952315894  9  6 f   -     -     -         8869    0    0 
+McMaster  952315941  9  5 ccc kc    k     k         8869   80  240 Qd 7d
+McMaster  952315992  9  4 c   b     b     b         9029  120  270 5h Qc
+McMaster  952316044  9  3 rr  kr    b     b         9179  200    0 Ac 7h
+McMaster  952316129  9  2 Bk  kf    -     -         8979   20    0 
+McMaster  952316153  9  1 Br  b     b     b         8959  140  320 
+McMaster  952316202  9  9 c   r     b     f         9139  100    0 
+McMaster  952316296  9  8 f   -     -     -         9039    0    0 
+McMaster  952316323  9  7 c   b     b     b         9039  120  340 Kc 2c
+McMaster  952316380  8  5 f   -     -     -         9259    0    0 
+McMaster  952316452  9  5 f   -     -     -         9259    0    0 
+McMaster  952316498  9  4 rr  b     b     kc        9259  180    0 Kc Td
+McMaster  952316550  9  3 f   -     -     -         9079    0    0 
+McMaster  952316579  9  2 Bc  kr    b     -         9079  120  210 
+McMaster  952316607 10  1 Br  b     b     br        9169  220  250 Ts Ah
+McMaster  952316638 10 10 f   -     -     -         9199    0    0 
+McMaster  952316682 10  9 r   b     -     -         9199   60  110 
+McMaster  952316707 10  8 f   -     -     -         9249    0    0 
+McMaster  952316781  9  6 r   b     b     -         9249  100  180 
+McMaster  952316810  9  6 c   b     b     b         9329  120  280 9h 3h
+McMaster  952316872  9  5 f   -     -     -         9489    0    0 
+McMaster  952316938  9  4 f   -     -     -         9489    0    0 
+McMaster  952316992  8  3 c   b     -     -         9489   40   90 
+McMaster  952317017  9  2 Bk  kf    -     -         9539   20    0 
+McMaster  952317078  9  1 Br  b     b     -         9519  100  180 
+McMaster  952317103  9  9 f   -     -     -         9599    0    0 
+McMaster  952317124  9  8 f   -     -     -         9599    0    0 
+McMaster  952317154  9  7 f   -     -     -         9599    0    0 
+McMaster  952317195 10  6 f   -     -     -         9599    0    0 
+McMaster  952317228 10  5 r   bc    b     bf        9599  160    0 
+McMaster  952317302 10  4 f   -     -     -         9439    0    0 
+McMaster  952317353 10  3 f   -     -     -         9439    0    0 
+McMaster  952317409 10  2 Br  b     b     b         9439  140  420 4h Kh
+McMaster  952317462 10  1 Br  b     b     k         9719  100    0 6s 5s
+McMaster  952317504 10 10 c   rc    k     k         9619   80    0 Js 9h
+McMaster  952317555 10  9 f   -     -     -         9539    0    0 
+McMaster  952317626 10  8 f   -     -     -         9539    0    0 
+McMaster  952317652 10  7 f   -     -     -         9539    0    0 
+McMaster  952317704 10  6 f   -     -     -         9539    0    0 
+McMaster  952317781 10  5 f   -     -     -         9539    0    0 
+McMaster  952317859 10  4 r   bc    bc    kc        9539  200    0 Js Qs
+McMaster  952317910 10  3 cc  r     c     f         9339  140    0 
+McMaster  952317977 10  2 Bc  k     kc    kr        9199  160    0 Ad 7h
+McMaster  952318052 10  1 Bc  kcc   kc    kc        9039  160    0 5c Jh
+McMaster  952318107 10 10 r   b     bc    c         8879  180  195 Th Ac
+McMaster  952318153 10  9 r   bc    c     rc        8894  240    0 Kd 4s
+McMaster  952318223 10  8 f   -     -     -         8654    0    0 
+McMaster  952318276 10  7 f   -     -     -         8654    0    0 
+McMaster  952318303 10  6 c   kf    -     -         8654   20    0 
+McMaster  952318373 10  5 f   -     -     -         8634    0    0 
+McMaster  952318390 10  4 f   -     -     -         8634    0    0 
+McMaster  952318446 10  3 f   -     -     -         8634    0    0 
+McMaster  952318486 10  2 Bk  bc    kf    -         8634   60    0 
+McMaster  952318515 10  1 Bc  kf    -     -         8574   20    0 
+McMaster  952318572 10 10 f   -     -     -         8554    0    0 
+McMaster  952318631 10  9 c   b     b     b         8554  120  270 
+McMaster  952318678 10  8 Q   -     -     -         8704    0    0 
+McMaster  952384879 10 10 rc  rc    c     c         2075  200    0 5s 6h
+McMaster  952384927 10  9 f   -     -     -         1875    0    0 
+McMaster  952384983 10  8 f   -     -     -         1875    0    0 
+McMaster  952385033 10  7 r   r     c     b         1875  160    0 Kd Th
+McMaster  952385095 10  6 c   kf    -     -         1715   40    0 
+McMaster  952385172 10  5 f   -     -     -         1675    0    0 
+McMaster  952385242 10  4 f   -     -     -         1675    0    0 
+McMaster  952385320 10  3 f   -     -     -         1675    0    0 
+McMaster  952385337 10  2 Bf  -     -     -         1675   20    0 
+McMaster  952385447 10  1 Bc  b     -     -         1655   40   80 
+McMaster  952385479 10 10 f   -     -     -         1695    0    0 
+McMaster  952385520 10  9 r   b     b     b         1695  140  390 
+McMaster  952385590 10  8 c   c     c     c         1945  140    0 7h Kh
+McMaster  952385638 10  7 f   -     -     -         1805    0    0 
+McMaster  952385692 10  6 f   -     -     -         1805    0    0 
+McMaster  952385768 10  5 f   -     -     -         1805    0    0 
+McMaster  952385832 10  4 f   -     -     -         1805    0    0 
+McMaster  952385853 10  3 f   -     -     -         1805    0    0 
+McMaster  952385871 10  2 Bk  k     k     c         1805   60  100 6s Ah
+McMaster  952385988 10  1 Bc  b     bc    k         1845  120    0 Js Th
+McMaster  952386070 10 10 f   -     -     -         1725    0    0 
+McMaster  952386146 10  9 f   -     -     -         1725    0    0 
+McMaster  952386194 10  8 r   -     -     -         1725   40   70 
+McMaster  952386222 10  7 f   -     -     -         1755    0    0 
+McMaster  952386281 10  6 f   -     -     -         1755    0    0 
+McMaster  952386341 10  5 f   -     -     -         1755    0    0 
+McMaster  952386393 10  4 f   -     -     -         1755    0    0 
+McMaster  952386442 10  3 rc  b     b     b         1755  160  430 
+McMaster  952386490 10  2 Br  b     bc    kc        2025  180    0 3h 3c
+McMaster  952386520 10  1 Bf  -     -     -         1845   10    0 
+McMaster  952386563 10 10 f   -     -     -         1835    0    0 
+McMaster  952386609 10  9 f   -     -     -         1835    0    0 
+McMaster  952386638 10  8 c   b     -     -         1835   60  150 
+McMaster  952386669 10  7 f   -     -     -         1925    0    0 
+McMaster  952386726 10  6 f   -     -     -         1925    0    0 
+McMaster  952386747 10  5 rc  bc    kc    b         1925  180    0 As Tc
+McMaster  952386790 10  4 f   -     -     -         1745    0    0 
+McMaster  952386833 10  3 f   -     -     -         1745    0    0 
+McMaster  952386874 10  2 Bk  f     -     -         1745   20    0 
+McMaster  952386929 10  1 Bf  -     -     -         1725   10    0 
+McMaster  952386967 10 10 r   b     -     -         1715   60  130 
+McMaster  952386994 10  9 c   k     b     -         1785   60  140 
+McMaster  952387064 10  8 f   -     -     -         1865    0    0 
+McMaster  952387142 10  7 f   -     -     -         1865    0    0 
+McMaster  952387204 10  6 f   -     -     -         1865    0    0 
+McMaster  952387257 10  5 f   -     -     -         1865    0    0 
+McMaster  952387304 10  4 cc  bc    b     bf        1865  180    0 
+McMaster  952387363 10  3 f   -     -     -         1685    0    0 
+McMaster  952387430 10  2 Bk  kf    -     -         1685   20    0 
+McMaster  952387509 10  1 Bc  kf    -     -         1665   20    0 
+McMaster  952387567 10 10 f   -     -     -         1645    0    0 
+McMaster  952387606 10  9 cc  c     c     c         1645  140    0 Jh 9h
+McMaster  952387660 10  8 f   -     -     -         1505    0    0 
+McMaster  952387737 10  7 r   b     b     -         1505  100  190 
+McMaster  952387763 10  6 f   -     -     -         1595    0    0 
+McMaster  952387799 10  5 f   -     -     -         1595    0    0 
+McMaster  952387839  9  4 f   -     -     -         1595    0    0 
+McMaster  952387879  9  3 f   -     -     -         1595    0    0 
+McMaster  952387936  9  2 Bf  -     -     -         1595   20    0 
+McMaster  952387991  9  1 Bf  -     -     -         1575   10    0 
+McMaster  952388021  9  9 f   -     -     -         1565    0    0 
+McMaster  952388063  9  8 f   -     -     -         1565    0    0 
+McMaster  952388089  9  7 rc  b     r     f         1565  180    0 
+McMaster  952388132  9  6 c   k     b     b         1385  100  210 Qs 4s
+McMaster  952388172 10  5 cc  c     rc    k         1495  180    0 8d Qd
+McMaster  952388215 10  4 f   -     -     -         1315    0    0 
+McMaster  952388271  9  3 c   r     bc    c         1315  180  460 Ks Kd
+McMaster  952388331 10  2 Bk  b     b     b         1595  120  250 
+McMaster  952388366 10  1 Bf  -     -     -         1725   10    0 
+McMaster  952388387 10 10 c   k     c     c         1715  100  220 3s Ah
+McMaster  952388422 10  9 c   r     r     c         1835  220    0 Jh 9h
+McMaster  952388464 10  8 f   -     -     -         1615    0    0 
+McMaster  952388509 10  7 f   -     -     -         1615    0    0 
+McMaster  952388561 10  6 f   -     -     -         1615    0    0 
+McMaster  952388602 10  5 c   kc    kc    kf        1615  120    0 
+McMaster  952388667 10  4 cc  kf    -     -         1495   60    0 
+McMaster  952388729 10  3 r   b     br    b         1435  220    0 Ks Qd
+McMaster  952388772 10  2 Bk  kf    -     -         1215   20    0 
+McMaster  952388806 10  1 Bf  -     -     -         1195   10    0 
+McMaster  952388844 10 10 f   -     -     -         1185    0    0 
+McMaster  952388923 10  9 f   -     -     -         1185    0    0 
+McMaster  952388996 10  8 f   -     -     -         1185    0    0 
+McMaster  952389030 10  7 f   -     -     -         1185    0    0 
+McMaster  952389073 10  6 r   b     b     -         1185  100  250 
+McMaster  952389122 10  5 f   -     -     -         1335    0    0 
+McMaster  952389145 10  4 f   -     -     -         1335    0    0 
+McMaster  952389177 10  3 f   -     -     -         1335    0    0 
+McMaster  952389243 10  2 Bf  -     -     -         1335   20    0 
+McMaster  952389284 10  1 Bc  bc    kc    kc        1315  140    0 Qh Js
+McMaster  952389309 10 10 f   -     -     -         1175    0    0 
+McMaster  952389343 10  9 f   -     -     -         1175    0    0 
+McMaster  952389380 10  8 c   b     b     b         1175  120  280 Qd Qh
+McMaster  952389414 10  7 f   -     -     -         1335    0    0 
+McMaster  952389464 10  6 f   -     -     -         1335    0    0 
+McMaster  952389532 10  5 f   -     -     -         1335    0    0 
+McMaster  952389583 10  4 cc  kc    kc    b         1335  140  430 2h Ah
+McMaster  952389643 10  3 f   -     -     -         1625    0    0 
+McMaster  952389693 10  2 Bk  kf    -     -         1625   20    0 
+McMaster  952389728 10  1 Bc  bc    k     b         1605  120    0 9s 9c
+McMaster  952389760 10 10 f   -     -     -         1485    0    0 
+McMaster  952389819 10  9 f   -     -     -         1485    0    0 
+McMaster  952389871 10  8 f   -     -     -         1485    0    0 
+McMaster  952389935 10  7 f   -     -     -         1485    0    0 
+McMaster  952389994 10  6 f   -     -     -         1485    0    0 
+McMaster  952390063 10  5 f   -     -     -         1485    0    0 
+McMaster  952390110 10  4 f   -     -     -         1485    0    0 
+McMaster  952390155 10  3 rr  b     brc   brrc      1485  500 1110 3s 9s
+McMaster  952390208 10  2 Bf  -     -     -         2095   20    0 
+McMaster  952390262 10  1 Bf  -     -     -         2075   10    0 
+McMaster  952390295 10 10 f   -     -     -         2065    0    0 
+McMaster  952390348 10  9 f   -     -     -         2065    0    0 
+McMaster  952390372 10  8 f   -     -     -         2065    0    0 
+McMaster  952390397 10  7 f   -     -     -         2065    0    0 
+McMaster  952390473 10  6 f   -     -     -         2065    0    0 
+McMaster  952390514 10  5 f   -     -     -         2065    0    0 
+McMaster  952390555 10  4 f   -     -     -         2065    0    0 
+McMaster  952390585 10  3 c   r     r     r         2065  220  520 Qh Jh
+McMaster  952390623 10  2 Bf  -     -     -         2365   20    0 
+McMaster  952390676 10  1 Bf  -     -     -         2345   10    0 
+McMaster  952390726 10 10 f   -     -     -         2335    0    0 
+McMaster  952390792 10  9 f   -     -     -         2335    0    0 
+McMaster  952390829  8  6 f   -     -     -         2335    0    0 
+McMaster  952390865  8  6 f   -     -     -         2335    0    0 
+McMaster  952390896  8  5 f   -     -     -         2335    0    0 
+McMaster  952390924  8  4 rc  r     c     c         2335  180    0 Ts Ks
+McMaster  952390973  9  3 f   -     -     -         2155    0    0 
+McMaster  952391042  9  2 Bk  kc    kc    b         2155  120  440 4d Qd
+McMaster  952391103  9  1 Br  b     k     b         2475  100  260 
+McMaster  952391152 10 10 rc  r     r     b         2635  240  730 
+McMaster  952391226 10  9 f   -     -     -         3125    0    0 
+McMaster  952391256 10  8 f   -     -     -         3125    0    0 
+McMaster  952391276 10  7 f   -     -     -         3125    0    0 
+McMaster  952391353 10  6 f   -     -     -         3125    0    0 
+McMaster  952391393 10  5 f   -     -     -         3125    0    0 
+McMaster  952391441 10  4 cc  kf    -     -         3125   40    0 
+McMaster  952391461 10  3 f   -     -     -         3085    0    0 
+McMaster  952391498 10  2 Bc  bc    kf    -         3085  100    0 
+McMaster  952391555 10  1 Bf  -     -     -         2985   10    0 
+McMaster  952391593 10 10 f   -     -     -         2975    0    0 
+McMaster  952391644 10  9 f   -     -     -         2975    0    0 
+McMaster  952391675 10  8 f   -     -     -         2975    0    0 
+McMaster  952391725 10  7 f   -     -     -         2975    0    0 
+McMaster  952391785 10  6 f   -     -     -         2975    0    0 
+McMaster  952391826 10  5 f   -     -     -         2975    0    0 
+McMaster  952391847 10  4 f   -     -     -         2975    0    0 
+McMaster  952391892 10  3 f   -     -     -         2975    0    0 
+McMaster  952391920 10  2 Bk  b     bc    kf        2975  120    0 
+McMaster  952391960 10  1 Bc  kf    -     -         2855   40    0 
+McMaster  952391983 10 10 c   c     c     r         2815  160    0 Jd Qs
+McMaster  952392051 10  9 c   r     b     k         2655  140    0 Ks Th
+McMaster  952392081 10  8 f   -     -     -         2515    0    0 
+McMaster  952392122 10  7 f   -     -     -         2515    0    0 
+McMaster  952392176 10  6 rc  kf    -     -         2515   80    0 
+McMaster  952392236 10  5 f   -     -     -         2435    0    0 
+McMaster  952392277 10  4 f   -     -     -         2435    0    0 
+McMaster  952392322 10  3 f   -     -     -         2435    0    0 
+McMaster  952392393 10  2 Bf  -     -     -         2435   20    0 
+McMaster  952392462 10  1 Bc  bcc   kf    -         2415  120    0 
+McMaster  952392532 10 10 c   cc    f     -         2295   80    0 
+McMaster  952392578 10  9 c   c     c     r         2215  200  680 2c 3c
+McMaster  952392670 10  8 f   -     -     -         2695    0    0 
+McMaster  952392728 10  7 f   -     -     -         2695    0    0 
+McMaster  952392753 10  6 c   cf    -     -         2695   40    0 
+McMaster  952392874 10  5 f   -     -     -         2655    0    0 
+McMaster  952392944 10  4 f   -     -     -         2655    0    0 
+McMaster  952393000 10  3 f   -     -     -         2655    0    0 
+McMaster  952393066 10  2 Bc  c     c     f         2655  100    0 
+McMaster  952393114 10  1 Br  b     -     -         2555   60  100 
+McMaster  952393167 10 10 r   c     c     c         2595  140  540 Ah Ts
+McMaster  952393254 10  9 f   -     -     -         2995    0    0 
+McMaster  952393285 10  8 f   -     -     -         2995    0    0 
+McMaster  952393334 10  7 r   bc    b     c         2995  160    0 Jc Qs
+McMaster  952393407 10  6 f   -     -     -         2835    0    0 
+McMaster  952393448 10  5 f   -     -     -         2835    0    0 
+McMaster  952393475 10  4 f   -     -     -         2835    0    0 
+McMaster  952393512 10  3 f   -     -     -         2835    0    0 
+McMaster  952393586 10  2 Bk  b     k     k         2835   40    0 Jd 3s
+McMaster  952393612 10  1 Bf  -     -     -         2795   10    0 
+McMaster  952393660 10 10 f   -     -     -         2785    0    0 
+McMaster  952393708 10  9 f   -     -     -         2785    0    0 
+McMaster  952393746 10  8 f   -     -     -         2785    0    0 
+McMaster  952393818 10  7 f   -     -     -         2785    0    0 
+McMaster  952393858 10  6 f   -     -     -         2785    0    0 
+McMaster  952393920 10  5 r   b     b     bc        2785  200    0 Kd Qh
+McMaster  952393992 10  4 f   -     -     -         2585    0    0 
+McMaster  952394045 10  3 f   -     -     -         2585    0    0 
+McMaster  952394109 10  2 Bf  -     -     -         2585   20    0 
+McMaster  952394175 10  1 Bf  -     -     -         2565   10    0 
+McMaster  952394208 10 10 c   r     -     -         2555   60  170 
+McMaster  952394256 10  9 f   -     -     -         2665    0    0 
+McMaster  952394352 10  8 f   -     -     -         2665    0    0 
+McMaster  952394454 10  7 f   -     -     -         2665    0    0 
+McMaster  952394494 10  6 f   -     -     -         2665    0    0 
+McMaster  952394606 10  5 f   -     -     -         2665    0    0 
+McMaster  952394678 10  4 f   -     -     -         2665    0    0 
+McMaster  952394736 10  3 f   -     -     -         2665    0    0 
+McMaster  952394839 10  2 Bf  -     -     -         2665   20    0 
+McMaster  952394876 10  1 Bf  -     -     -         2645   10    0 
+McMaster  952394974 10 10 c   f     -     -         2635   20    0 
+McMaster  952395057 10  9 f   -     -     -         2615    0    0 
+McMaster  952395092 10  9 f   -     -     -         2615    0    0 
+McMaster  952395144 10  7 f   -     -     -         2615    0    0 
+McMaster  952395225 10  6 f   -     -     -         2615    0    0 
+McMaster  952395290 10  5 r   b     b     -         2615  100  250 
+McMaster  952395353 10  4 f   -     -     -         2765    0    0 
+McMaster  952395416 10  3 f   -     -     -         2765    0    0 
+McMaster  952395485 10  2 Bf  -     -     -         2765   20    0 
+McMaster  952395535 10  1 Bf  -     -     -         2745   10    0 
+McMaster  952395582 10 10 f   -     -     -         2735    0    0 
+McMaster  952395661 10  9 f   -     -     -         2735    0    0 
+McMaster  952395698 10  8 r   b     b     br        2735  220    0 9h Ad
+McMaster  952395724 10  7 f   -     -     -         2515    0    0 
+McMaster  952395773 10  6 f   -     -     -         2515    0    0 
+McMaster  952395842  9  5 f   -     -     -         2515    0    0 
+McMaster  952395897 10  4 f   -     -     -         2515    0    0 
+McMaster  952395933 10  3 f   -     -     -         2515    0    0 
+McMaster  952396004 10  2 Bk  b     b     b         2515  120  380 8s 9d
+McMaster  952396062 10  1 Bf  -     -     -         2775   10    0 
+McMaster  952396120 10 10 c   rc    r     b         2765  220  570 Jc Kd
+McMaster  952396212 10  9 f   -     -     -         3115    0    0 
+McMaster  952396290 10  8 f   -     -     -         3115    0    0 
+McMaster  952396343 10  7 rc  bc    kc    kf        3115  140    0 
+McMaster  952396406 10  6 f   -     -     -         2975    0    0 
+McMaster  952396460 10  5 f   -     -     -         2975    0    0 
+McMaster  952396518 10  4 f   -     -     -         2975    0    0 
+McMaster  952396627 10  3 f   -     -     -         2975    0    0 
+McMaster  952396652 10  2 Bk  kf    -     -         2975   20    0 
+McMaster  952396698 10  1 Bf  -     -     -         2955   10    0 
+McMaster  952396717 10 10 f   -     -     -         2945    0    0 
+McMaster  952396765 10  9 f   -     -     -         2945    0    0 
+McMaster  952396786 10  8 f   -     -     -         2945    0    0 
+McMaster  952396819 10  7 f   -     -     -         2945    0    0 
+McMaster  952396862 10  6 rc  cf    -     -         2945  100    0 
+McMaster  952396946 10  6 c   rc    c     b         2845  160  560 Kd Jh
+McMaster  952397010 10  4 f   -     -     -         3245    0    0 
+McMaster  952397050 10  3 cc  bcc   kc    kf        3245  160    0 
+McMaster  952397108 10  2 Bc  bc    b     b         3085  160  520 7h Kc
+McMaster  952397172 10  1 Bf  -     -     -         3445   10    0 
+McMaster  952397261 10 10 f   -     -     -         3435    0    0 
+McMaster  952397289 10  9 f   -     -     -         3435    0    0 
+McMaster  952397349 10  8 f   -     -     -         3435    0    0 
+McMaster  952397413 10  7 f   -     -     -         3435    0    0 
+McMaster  952397467 10  6 f   -     -     -         3435    0    0 
+McMaster  952397500 10  5 cc  cc    b     k         3435  120    0 Qc 2c
+McMaster  952397559 10  4 f   -     -     -         3315    0    0 
+McMaster  952397593 10  3 f   -     -     -         3315    0    0 
+McMaster  952397629 10  2 Bk  kf    -     -         3315   20    0 
+McMaster  952397664 10  1 Bf  -     -     -         3295   10    0 
+McMaster  952397720 10 10 c   r     k     k         3285   80    0 9d 9c
+McMaster  952397785 10  9 f   -     -     -         3205    0    0 
+McMaster  952397803 10  8 f   -     -     -         3205    0    0 
+McMaster  952397848 10  7 cc  kc    kf    -         3205   60    0 
+McMaster  952397909 10  6 f   -     -     -         3145    0    0 
+McMaster  952397948 10  5 f   -     -     -         3145    0    0 
+McMaster  952397988 10  4 f   -     -     -         3145    0    0 
+McMaster  952398017 10  3 f   -     -     -         3145    0    0 
+McMaster  952398057 10  2 Bk  r     b     bc        3145  180    0 8c 9d
+McMaster  952398131 10  1 Bc  b     b     b         2965  140    0 Jd 8s
+McMaster  952398187 10 10 c   r     b     b         2825  140  270 
+McMaster  952398277 10  9 f   -     -     -         2955    0    0 
+McMaster  952398307 10  8 f   -     -     -         2955    0    0 
+McMaster  952398358 10  7 cc  b     c     f         2955  100    0 
+McMaster  952398417 10  6 f   -     -     -         2855    0    0 
+McMaster  952398432 10  5 f   -     -     -         2855    0    0 
+McMaster  952398468 10  4 f   -     -     -         2855    0    0 
+McMaster  952398507 10  3 f   -     -     -         2855    0    0 
+McMaster  952398551 10  2 Br  b     b     b         2855  140    0 Qc Jd
+McMaster  952398600 10  1 Bc  b     b     b         2715  120  300 6s 2s
+McMaster  952398642 10 10 f   -     -     -         2895    0    0 
+McMaster  952398661 10  9 f   -     -     -         2895    0    0 
+McMaster  952398719 10  8 f   -     -     -         2895    0    0 
+McMaster  952398806 10  7 c   f     -     -         2895   20    0 
+McMaster  952398855 10  6 c   rf    -     -         2875   80    0 
+McMaster  952398877 10  5 f   -     -     -         2795    0    0 
+McMaster  952398961 10  4 r   b     b     br        2795  220  610 Ks Ac
+McMaster  952399018 10  3 f   -     -     -         3185    0    0 
+McMaster  952399059 10  2 Br  br    b     b         3185  180  365 Th Ah
+McMaster  952399120 10  1 Bf  -     -     -         3370   10    0 
+McMaster  952399153 10 10 f   -     -     -         3360    0    0 
+McMaster  952399176 10  9 r   br    b     b         3360  180  245 Kh Td
+McMaster  952399229 10  8 r   r     k     k         3425   80  250 6h 6d
+McMaster  952399304 10  7 f   -     -     -         3595    0    0 
+McMaster  952399342 10  6 f   -     -     -         3595    0    0 
+McMaster  952399368 10  5 c   rc    kc    kc        3595  160    0 Ks Ts
+McMaster  952399444 10  4 f   -     -     -         3435    0    0 
+McMaster  952399497 10  3 f   -     -     -         3435    0    0 
+McMaster  952399523 10  2 Br  b     b     k         3435  100  210 Ah Jd
+McMaster  952399558 10  1 Br  b     b     b         3545  160  480 Ah Ks
+McMaster  952399620 10 10 c   r     b     k         3865  100  250 As 7d
+McMaster  952399697 10  9 f   -     -     -         4015    0    0 
+McMaster  952399769 10  8 f   -     -     -         4015    0    0 
+McMaster  952399807 10  7 c   c     c     b         4015  140  320 
+McMaster  952399854 10  6 f   -     -     -         4195    0    0 
+McMaster  952399900 10  5 f   -     -     -         4195    0    0 
+McMaster  952399933 10  4 f   -     -     -         4195    0    0 
+McMaster  952399986 10  3 f   -     -     -         4195    0    0 
+McMaster  952400023 10  2 Bk  bc    bc    k         4195  140    0 4s 5c
+McMaster  952400062 10  1 Bf  -     -     -         4055   10    0 
+McMaster  952400132 10 10 f   -     -     -         4045    0    0 
+McMaster  952400206 10  9 f   -     -     -         4045    0    0 
+McMaster  952400279 10  8 r   b     -     -         4045   60  130 
+McMaster  952400313 10  7 f   -     -     -         4115    0    0 
+McMaster  952400380 10  6 f   -     -     -         4115    0    0 
+McMaster  952400425 10  5 f   -     -     -         4115    0    0 
+McMaster  952400477 10  4 f   -     -     -         4115    0    0 
+McMaster  952400526 10  3 r   f     -     -         4115   40    0 
+McMaster  952400586 10  2 Bc  b     br    bc        4075  260    0 3c 9h
+McMaster  952400636 10  1 Bc  b     b     b         3815  120  260 Jd 2d
+McMaster  952400680 10 10 c   c     b     b         3955  120  260 
+McMaster  952400770 10  9 f   -     -     -         4095    0    0 
+McMaster  952400829 10  8 f   -     -     -         4095    0    0 
+McMaster  952400907 10  7 f   -     -     -         4095    0    0 
+McMaster  952400980 10  6 c   b     b     -         4095   80  160 
+McMaster  952401005 10  5 f   -     -     -         4175    0    0 
+McMaster  952401051 10  4 f   -     -     -         4175    0    0 
+McMaster  952401108 10  3 f   -     -     -         4175    0    0 
+McMaster  952401175 10  2 Br  bc    b     kf        4175  120    0 
+McMaster  952401267 10  1 Bc  bc    kc    k         4055  100    0 4c 3d
+McMaster  952401342 10 10 f   -     -     -         3955    0    0 
+McMaster  952401394 10  9 f   -     -     -         3955    0    0 
+McMaster  952401426 10  8 c   c     c     f         3955   80    0 
+McMaster  952401475 10  7 r   b     b     b         3875  140  290 5h Qh
+McMaster  952401508 10  7 c   br    b     b         4025  160  370 6h 8h
+McMaster  952401558 10  5 f   -     -     -         4235    0    0 
+McMaster  952401584 10  4 cc  b     b     -         4235  100  250 
+McMaster  952401653 10  3 f   -     -     -         4385    0    0 
+McMaster  952401703 10  2 Bf  -     -     -         4385   20    0 
+McMaster  952401763 10  1 Br  b     b     b         4365  140  400 
+McMaster  952401827 10 10 f   -     -     -         4625    0    0 
+McMaster  952401874 10  9 c   k     b     b         4625  100  200 
+McMaster  952401942 10  8 f   -     -     -         4725    0    0 
+McMaster  952401979 10  7 c   c     r     r         4725  220  530 Th Ac
+McMaster  952402015 10  6 Q   -     -     -         5035    0    0 
+McMaster  952442526  2  1 Bc  -     -     -         2010   20   60 
+McMaster  952442786  2  2 Bf  -     -     -         2050   20    0 
+McMaster  952442796  2  1 Bcc krrc  bc    bc        2030  300    0 7h 8s
+McMaster  952442841  3  3 f   -     -     -         1730    0    0 
+McMaster  952442849  3  2 Bf  -     -     -         1730   20    0 
+McMaster  952442916  4  1 Bf  -     -     -         1710   10    0 
+McMaster  952442950  4  4 r   rc    rc    c         1700  260  540 8d Ah
+McMaster  952442973  3  2 cc  bc    kc    kf        1980  120    0 
+McMaster  952443004  3  2 Bc  brr   br    -         1860  260  490 
+McMaster  952443034  3  1 Bcc bc    kf    -         2090   80    0 
+McMaster  952443062  4  4 rc  c     c     f         2010  120    0 
+McMaster  952443095  5  4 rc  b     br    b         1890  240  520 
+McMaster  952443140  7  5 cc  b     brrrrc kc        2170  500    0 Qd 5d
+McMaster  952443170  6  3 r   kc    kc    kc        1670  140    0 Ad Th
+McMaster  952443209  7  2 Bc  brc   bc    b         1530  240    0 Ad 7c
+McMaster  952443240  7  1 Bcc bc    kc    k         1290  180    0 6s 6d
+McMaster  952443287  7  7 f   -     -     -         1110    0    0 
+McMaster  952443337  7  6 f   -     -     -         1110    0    0 
+McMaster  952443385  7  5 cr  c     c     c         1110  160    0 Tc Ts
+McMaster  952443416  7  5 cc  kc    c     kr         950  200  770 Ac 7c
+McMaster  952443489  6  3 f   -     -     -         1520    0    0 
+McMaster  952443497  5  2 Bf  -     -     -         1520   20    0 
+McMaster  952443524  5  1 Bf  -     -     -         1500   10    0 
+McMaster  952443533  4  4 f   -     -     -         1490    0    0 
+McMaster  952443545  5  4 rc  bc    bc    bc        1490  260  550 5d As
+McMaster  952443563  5  3 f   -     -     -         1780    0    0 
+McMaster  952443582  5  2 Bf  -     -     -         1780   20    0 
+McMaster  952443591  5  1 Brc bc    bc    kf        1760  200    0 
+McMaster  952443611  5  5 rr  rr    c     c         1560  240    0 Qs Qc
+McMaster  952443653  5  4 cc  bc    kc    kf        1320  120    0 
+McMaster  952443696  5  3 c   f     -     -         1200   20    0 
+McMaster  952443721  5  2 Bf  -     -     -         1180   20    0 
+McMaster  952443744  5  1 Bf  -     -     -         1160   10    0 
+McMaster  952443773  5  5 rc  f     -     -         1150   80    0 
+McMaster  952443816  5  4 cc  kc    kc    kc        1070  140    0 Ad 5h
+McMaster  952443834  5  3 f   -     -     -          930    0    0 
+McMaster  952443845  5  2 Bc  bc    br    b          930  240  520 6h 7s
+McMaster  952443871  5  1 Bc  kc    kc    kc        1210  120    0 8h Qd
+McMaster  952443895  5  5 f   -     -     -         1090    0    0 
+McMaster  952443913  5  4 f   -     -     -         1090    0    0 
+McMaster  952443932  5  3 f   -     -     -         1090    0    0 
+McMaster  952443951  5  2 Br  brrc  bc    kc        1090  300    0 Td Th
+McMaster  952443986  5  1 Bf  -     -     -          790   10    0 
+McMaster  952444023  5  5 c   c     c     r          780  160  340 Qs 9h
+McMaster  952444046  5  4 c   b     -     -          960   40   80 
+McMaster  952444062  5  3 f   -     -     -         1000    0    0 
+McMaster  952444099  5  2 Bf  -     -     -         1000   20    0 
+McMaster  952444117  5  1 Bf  -     -     -          980   10    0 
+McMaster  952444120  5  5 c   cf    -     -          970   40    0 
+McMaster  952444163  5  4 f   -     -     -          930    0    0 
+McMaster  952444192  5  3 f   -     -     -          930    0    0 
+McMaster  952444215  5  2 Bk  kf    -     -          930   20    0 
+McMaster  952444245  5  1 Bf  -     -     -          910   10    0 
+McMaster  952444278  6  6 cc  f     -     -          900   60    0 
+McMaster  952444312  6  5 f   -     -     -          840    0    0 
+McMaster  952444353  6  4 f   -     -     -          840    0    0 
+McMaster  952444371  5  3 f   -     -     -          840    0    0 
+McMaster  952444380  5  2 Bc  kr    b     -          840  120  210 
+McMaster  952444394  5  1 Bf  -     -     -          930   10    0 
+McMaster  952444400  5  5 r   b     k     k          920   60  130 Ts Td
+McMaster  952444425  5  4 f   -     -     -          990    0    0 
+McMaster  952444433  5  3 f   -     -     -          990    0    0 
+McMaster  952444448  5  2 Bf  -     -     -          990   20    0 
+McMaster  952444460  5  1 Bc  br    b     b          970  160    0 6h Td
+McMaster  952444480  5  5 c   k     k     k          810   20    0 8d 9c
+McMaster  952444500  5  4 f   -     -     -          790    0    0 
+McMaster  952444517  5  3 f   -     -     -          790    0    0 
+McMaster  952444523  5  2 Bc  kc    kf    -          790   80    0 
+McMaster  952444547  5  1 Bf  -     -     -          710   10    0 
+McMaster  952444564  5  5 f   -     -     -          700    0    0 
+McMaster  952444576  6  4 f   -     -     -          700    0    0 
+McMaster  952444586  7  3 f   -     -     -          700    0    0 
+McMaster  952444628  7  2 Bc  k     k     kf         700   40    0 
+McMaster  952444682  6  1 Bc  b     b     kc         660  120    0 9d 7s
+McMaster  952444708  7  7 f   -     -     -          540    0    0 
+McMaster  952444748  7  6 f   -     -     -          540    0    0 
+McMaster  952444762  7  5 c   kc    kc    kc         540  120    0 Ts Qs
+McMaster  952444798  7  4 cc  b     -     -          420   60  130 
+McMaster  952444850  8  4 f   -     -     -          490    0    0 
+McMaster  952444920  8  3 f   -     -     -          490    0    0 
+McMaster  952444987  9  3 f   -     -     -          490    0    0 
+McMaster  952445022  9  2 Bc  kf    -     -          490   40    0 
+McMaster  952445089 10  1 Bc  kc    kc    k          450   80    0 7d Jh
+McMaster  952445128 10 10 f   -     -     -          370    0    0 
+McMaster  952445189 10  9 f   -     -     -          370    0    0 
+McMaster  952445244  8  6 f   -     -     -          370    0    0 
+McMaster  952445285  9  5 f   -     -     -          370    0    0 
+McMaster  952445335 10  4 cc  bc    bc    kc         370  220    0 Kc Ks
+McMaster  952445404  8  2 f   -     -     -          150    0    0 
+McMaster  952445434  6  2 Bk  f     -     -          150   20    0 
+McMaster  952445463  6  1 Bc  kf    -     -          130   20    0 
+McMaster  952445497  6  6 f   -     -     -          110    0    0 
+McMaster  952445536  7  5 f   -     -     -          110    0    0 
+McMaster  952445582  7  4 f   -     -     -          110    0    0 
+McMaster  952445619  8  3 f   -     -     -          110    0    0 
+McMaster  952445654  8  2 Bk  k     k     k          110   20    0 5h 2c
+McMaster  952445697  9  1 Bf  -     -     -           90   10    0 
+McMaster  952445718  9  9 f   -     -     -           80    0    0 
+McMaster  952445756  9  8 f   -     -     -           80    0    0 
+McMaster  952445820  9  7 f   -     -     -           80    0    0 
+McMaster  952445914  9  6 f   -     -     -           80    0    0 
+McMaster  952445948  9  5 f   -     -     -           80    0    0 
+McMaster  952446003  9  4 f   -     -     -           80    0    0 
+McMaster  952446062  8  3 f   -     -     -           80    0    0 
+McMaster  952446083  9  2 Bk  b     bA    -           80   80  180 5s Kc
+McMaster  952446134  9  1 Bf  -     -     -          180   10    0 
+McMaster  952446202  9  9 f   -     -     -          170    0    0 
+McMaster  952446249  9  8 f   -     -     -          170    0    0 
+McMaster  952446281  9  7 c   b     b     b          170  120  300 
+McMaster  952446333 10  7 f   -     -     -          350    0    0 
+McMaster  952446339 10  6 f   -     -     -          350    0    0 
+McMaster  952446415 10  5 f   -     -     -          350    0    0 
+McMaster  952446516 10  4 f   -     -     -          350    0    0 
+McMaster  952446537 10  3 f   -     -     -          350    0    0 
+McMaster  952446574 10  2 Bf  -     -     -          350   20    0 
+McMaster  952446602 10  1 Bf  -     -     -          330   10    0 
+McMaster  952446639 10 10 f   -     -     -          320    0    0 
+McMaster  952446671 10  9 f   -     -     -          320    0    0 
+McMaster  952446703 10  8 f   -     -     -          320    0    0 
+McMaster  952446736 10  7 f   -     -     -          320    0    0 
+McMaster  952446763  9  5 f   -     -     -          320    0    0 
+McMaster  952446797  9  4 f   -     -     -          320    0    0 
+McMaster  952446838  9  3 f   -     -     -          320    0    0 
+McMaster  952446883 10  2 Bf  -     -     -          320   20    0 
+McMaster  952446946 10  1 Bc  kc    kf    -          300   40    0 
+McMaster  952446994 10 10 f   -     -     -          260    0    0 
+McMaster  952447020 10  9 f   -     -     -          260    0    0 
+McMaster  952447057 10  8 f   -     -     -          260    0    0 
+McMaster  952447107 10  7 r   krr   b     brA        260  260  930 Ac Ad
+McMaster  952447221 10  6 f   -     -     -          930    0    0 
+McMaster  952447293  8  3 f   -     -     -          930    0    0 
+McMaster  952447309  9  2 Bf  -     -     -          930   20    0 
+McMaster  952447337  9  1 Bf  -     -     -          910   10    0 
+McMaster  952447377  8  8 f   -     -     -          900    0    0 
+McMaster  952447408  7  6 f   -     -     -          900    0    0 
+McMaster  952447438  8  6 f   -     -     -          900    0    0 
+McMaster  952447470  8  5 f   -     -     -          900    0    0 
+McMaster  952447496  8  4 r   b     bc    k          900  180  610 Kd Kh
+McMaster  952447542  9  3 f   -     -     -         1330    0    0 
+McMaster  952447573  9  2 Bf  -     -     -         1330   20    0 
+McMaster  952447606  9  1 Bf  -     -     -         1310   10    0 
+McMaster  952447639  9  9 f   -     -     -         1300    0    0 
+McMaster  952447668  9  8 f   -     -     -         1300    0    0 
+McMaster  952447709 10  8 f   -     -     -         1300    0    0 
+McMaster  952447776 10  8 f   -     -     -         1300    0    0 
+McMaster  952447845  8  5 f   -     -     -         1300    0    0 
+McMaster  952447881  8  4 f   -     -     -         1300    0    0 
+McMaster  952447910  8  3 f   -     -     -         1300    0    0 
+McMaster  952447939  8  2 Bk  b     b     k         1300   80    0 5h 8d
+McMaster  952447975  8  1 Br  k     bc    kc        1220  160    0 3h Jh
+McMaster  952448010  8  8 f   -     -     -         1060    0    0 
+McMaster  952448032  8  7 f   -     -     -         1060    0    0 
+McMaster  952448062  8  6 f   -     -     -         1060    0    0 
+McMaster  952448091  8  5 f   -     -     -         1060    0    0 
+McMaster  952448110  8  4 f   -     -     -         1060    0    0 
+McMaster  952448141  8  3 f   -     -     -         1060    0    0 
+McMaster  952448188  8  2 Bk  k     kf    -         1060   20    0 
+McMaster  952448217  8  1 Bf  -     -     -         1040   10    0 
+McMaster  952448247  8  8 f   -     -     -         1030    0    0 
+McMaster  952448281  8  7 f   -     -     -         1030    0    0 
+McMaster  952448307  8  6 f   -     -     -         1030    0    0 
+McMaster  952448341  8  5 f   -     -     -         1030    0    0 
+McMaster  952448379  8  4 f   -     -     -         1030    0    0 
+McMaster  952448405  8  3 f   -     -     -         1030    0    0 
+McMaster  952448458  8  2 Bk  bc    b     b         1030  140  150 Ac 3s
+McMaster  952448487  8  1 Bf  -     -     -         1040   10    0 
+McMaster  952448513  8  8 f   -     -     -         1030    0    0 
+McMaster  952448539  8  7 f   -     -     -         1030    0    0 
+McMaster  952448578  8  6 f   -     -     -         1030    0    0 
+McMaster  952448600  8  5 f   -     -     -         1030    0    0 
+McMaster  952448623  8  4 f   -     -     -         1030    0    0 
+McMaster  952448661  8  3 f   -     -     -         1030    0    0 
+McMaster  952448703  8  2 Bf  -     -     -         1030   20    0 
+McMaster  952448744  8  1 Bf  -     -     -         1010   10    0 
+McMaster  952448755  8  8 f   -     -     -         1000    0    0 
+McMaster  952448790  8  7 f   -     -     -         1000    0    0 
+McMaster  952448834  8  6 f   -     -     -         1000    0    0 
+McMaster  952448870  8  5 f   -     -     -         1000    0    0 
+McMaster  952448889  7  4 f   -     -     -         1000    0    0 
+McMaster  952448914  7  3 f   -     -     -         1000    0    0 
+McMaster  952448945  8  2 Bf  -     -     -         1000   20    0 
+McMaster  952448990  8  1 Bf  -     -     -          980   10    0 
+McMaster  952449025  9  9 f   -     -     -          970    0    0 
+McMaster  952449070  9  8 f   -     -     -          970    0    0 
+McMaster  952449101  9  7 f   -     -     -          970    0    0 
+McMaster  952449141  9  6 f   -     -     -          970    0    0 
+McMaster  952449156  9  5 f   -     -     -          970    0    0 
+McMaster  952449182  9  4 f   -     -     -          970    0    0 
+McMaster  952449210  9  3 f   -     -     -          970    0    0 
+McMaster  952449248  9  2 Bc  b     b     b          970  140    0 Qd Ah
+McMaster  952449288  8  1 Bf  -     -     -          830   10    0 
+McMaster  952449332  8  8 c   b     b     bf         820  120    0 
+McMaster  952449386  8  7 f   -     -     -          700    0    0 
+McMaster  952449410  8  6 f   -     -     -          700    0    0 
+McMaster  952449442  8  5 c   b     kc    b          700  120  320 
+McMaster  952449486  9  5 f   -     -     -          900    0    0 
+McMaster  952449502 10  5 f   -     -     -          900    0    0 
+McMaster  952449555 10  4 f   -     -     -          900    0    0 
+McMaster  952449603  9  2 Bk  b     -     -          900   40   80 
+McMaster  952449627  8  1 Bf  -     -     -          940   10    0 
+McMaster  952449669  8  8 f   -     -     -          930    0    0 
+McMaster  952449714  8  7 f   -     -     -          930    0    0 
+McMaster  952449754  8  6 f   -     -     -          930    0    0 
+McMaster  952449790  8  5 f   -     -     -          930    0    0 
+McMaster  952449817  7  3 f   -     -     -          930    0    0 
+McMaster  952449828  7  2 Bk  b     b     kf         930   80    0 
+McMaster  952449878  7  1 Bf  -     -     -          850   10    0 
+McMaster  952449907  7  7 c   k     k     b          840   60    0 Ad 9d
+McMaster  952449936  6  5 f   -     -     -          780    0    0 
+McMaster  952449958  6  4 f   -     -     -          780    0    0 
+McMaster  952449977  6  3 f   -     -     -          780    0    0 
+McMaster  952450027  6  2 Bf  -     -     -          780   20    0 
+McMaster  952450049  6  1 Bf  -     -     -          760   10    0 
+McMaster  952450073  5  5 f   -     -     -          750    0    0 
+McMaster  952450097  5  4 f   -     -     -          750    0    0 
+McMaster  952450117  5  3 f   -     -     -          750    0    0 
+McMaster  952450132  5  2 B   -     -     -          750   20   30 
+McMaster  952450136  5  1 Br  k     b     bc         760  160    0 7s Js
+McMaster  952450154  5  5 c   c     c     c          600  140  360 Ad 4d
+McMaster  952450175  5  4 r   k     f     -          820   40    0 
+McMaster  952450197  5  3 f   -     -     -          780    0    0 
+McMaster  952450211  5  2 Bk  kf    -     -          780   20    0 
+McMaster  952450229  5  1 Bf  -     -     -          760   10    0 
+McMaster  952450262  5  5 r   b     b     -          750  100  220 
+McMaster  952450283  6  5 c   f     -     -          870   20    0 
+McMaster  952450330  6  4 f   -     -     -          850    0    0 
+McMaster  952450356  6  4 f   -     -     -          850    0    0 
+McMaster  952450375  6  3 f   -     -     -          850    0    0 
+McMaster  952450420  6  2 Bk  f     -     -          850   20    0 
+McMaster  952450466  6  1 Br  b     b     b          830  140  600 Kd Kc
+McMaster  952450526  6  6 f   -     -     -         1290    0    0 
+McMaster  952450566  7  5 r   b     k     c         1290  100    0 Tc Ac
+McMaster  952450598  7  4 f   -     -     -         1190    0    0 
+McMaster  952450621  7  3 f   -     -     -         1190    0    0 
+McMaster  952450671  7  2 Bf  -     -     -         1190   20    0 
+McMaster  952450689  7  1 Bf  -     -     -         1170   10    0 
+McMaster  952450727  7  7 f   -     -     -         1160    0    0 
+McMaster  952450736  6  5 f   -     -     -         1160    0    0 
+McMaster  952450762  6  4 f   -     -     -         1160    0    0 
+McMaster  952450785  6  3 f   -     -     -         1160    0    0 
+McMaster  952450797  6  2 Bc  kr    b     b         1160  160    0 7s As
+McMaster  952450815  5  1 Bf  -     -     -         1000   10    0 
+McMaster  952450830  5  5 f   -     -     -          990    0    0 
+McMaster  952450841  6  4 f   -     -     -          990    0    0 
+McMaster  952450882  7  4 r   b     b     -          990  100  200 
+McMaster  952450907  7  3 f   -     -     -         1090    0    0 
+McMaster  952450921  7  2 Bk  bc    k     k         1090   60    0 6c Ac
+McMaster  952450944  7  1 Bf  -     -     -         1030   10    0 
+McMaster  952450962  8  8 f   -     -     -         1020    0    0 
+McMaster  952450983  8  7 f   -     -     -         1020    0    0 
+McMaster  952451041  8  6 r   c     c     f         1020  100    0 
+McMaster  952451087  8  5 f   -     -     -          920    0    0 
+McMaster  952451124  7  3 f   -     -     -          920    0    0 
+McMaster  952451149  7  2 Bk  kf    -     -          920   20    0 
+McMaster  952451181  8  1 Bc  b     b     b          900  120    0 9h Ad
+McMaster  952451215  8  8 f   -     -     -          780    0    0 
+McMaster  952451248  8  7 f   -     -     -          780    0    0 
+McMaster  952451272  8  6 c   r     b     bc         780  200    0 3c 3s
+McMaster  952451324  8  5 f   -     -     -          580    0    0 
+McMaster  952451366  8  4 f   -     -     -          580    0    0 
+McMaster  952451392  8  3 c   kc    kf    -          580   40    0 
+McMaster  952451430  8  2 Bf  -     -     -          540   20    0 
+McMaster  952451479  8  1 Bc  kf    -     -          520   20    0 
+McMaster  952451502  7  7 f   -     -     -          500    0    0 
+McMaster  952451538  7  6 r   k     cc    kf         500  120    0 
+McMaster  952451568  7  5 f   -     -     -          380    0    0 
+McMaster  952451586  7  4 f   -     -     -          380    0    0 
+McMaster  952451624  7  3 r   b     -     -          380   60  130 
+McMaster  952451644  8  2 Bf  -     -     -          450   20    0 
+McMaster  952451675  8  1 Bf  -     -     -          430   10    0 
+McMaster  952451701  8  8 c   f     -     -          420   20    0 
+McMaster  952451754  8  7 c   k     c     k          400   60    0 3h Kh
+McMaster  952451815  8  6 f   -     -     -          340    0    0 
+McMaster  952451857  8  5 f   -     -     -          340    0    0 
+McMaster  952451919  8  4 f   -     -     -          340    0    0 
+McMaster  952451990  8  3 f   -     -     -          340    0    0 
+McMaster  952452019  8  2 Bk  kf    -     -          340   20    0 
+McMaster  952452050  8  1 Bc  k     k     kf         320   20    0 
+McMaster  952452083  8  8 f   -     -     -          300    0    0 
+McMaster  952452109  8  7 c   b     b     k          300   80  230 Ah 7h
+McMaster  952452147  8  6 f   -     -     -          450    0    0 
+McMaster  952452183  8  5 f   -     -     -          450    0    0 
+McMaster  952452211  8  4 f   -     -     -          450    0    0 
+McMaster  952452243  8  3 f   -     -     -          450    0    0 
+McMaster  952452264  8  2 Bf  -     -     -          450   20    0 
+McMaster  952452297  8  1 Bc  kf    -     -          430   20    0 
+McMaster  952452316  8  8 f   -     -     -          410    0    0 
+McMaster  952452395  8  7 f   -     -     -          410    0    0 
+McMaster  952452425  8  6 f   -     -     -          410    0    0 
+McMaster  952452455  8  5 f   -     -     -          410    0    0 
+McMaster  952452485  8  4 f   -     -     -          410    0    0 
+McMaster  952452544  9  4 f   -     -     -          410    0    0 
+McMaster  952452607  9  3 f   -     -     -          410    0    0 
+McMaster  952452630  9  2 Bf  -     -     -          410   20    0 
+McMaster  952452663  9  1 Bf  -     -     -          390   10    0 
+McMaster  952452681  9  9 f   -     -     -          380    0    0 
+McMaster  952452719  8  7 f   -     -     -          380    0    0 
+McMaster  952452757  8  6 f   -     -     -          380    0    0 
+McMaster  952452812  8  5 f   -     -     -          380    0    0 
+McMaster  952452832  8  4 f   -     -     -          380    0    0 
+McMaster  952452850  8  3 f   -     -     -          380    0    0 
+McMaster  952452870  8  2 Bk  kf    -     -          380   20    0 
+McMaster  952452903  8  1 Bc  b     b     b          360  120  340 7h Kh
+McMaster  952452942  8  8 f   -     -     -          580    0    0 
+McMaster  952452969  8  7 f   -     -     -          580    0    0 
+McMaster  952453003  8  6 f   -     -     -          580    0    0 
+McMaster  952453025  8  5 r   b     -     -          580   60  130 
+McMaster  952453047  8  4 f   -     -     -          650    0    0 
+McMaster  952453090  8  3 f   -     -     -          650    0    0 
+McMaster  952453121  8  2 Bk  kf    -     -          650   20    0 
+McMaster  952453144  8  1 Bc  bc    kf    -          630   60    0 
+McMaster  952453173  8  8 c   f     -     -          570   20    0 
+McMaster  952453210  8  7 r   r     b     b          550  160  370 
+McMaster  952453258  8  6 f   -     -     -          760    0    0 
+McMaster  952453278  7  4 f   -     -     -          760    0    0 
+McMaster  952453296  7  3 cc  bc    kc    k          760  120    0 9h As
+McMaster  952453323  7  2 Bc  b     -     -          640   60  110 
+McMaster  952453340  7  1 Bc  k     b     b          690  100  220 Ad 6c
+McMaster  952453363  6  6 f   -     -     -          810    0    0 
+McMaster  952453385  6  5 r   c     c     c          810  140  380 Ah 8c
+McMaster  952453419  6  4 f   -     -     -         1050    0    0 
+McMaster  952453435  6  3 f   -     -     -         1050    0    0 
+McMaster  952453448  6  2 Bk  b     k     kf        1050   40    0 
+McMaster  952453485  6  1 Bc  kf    -     -         1010   20    0 
+McMaster  952453522  6  6 f   -     -     -          990    0    0 
+McMaster  952453558  6  5 f   -     -     -          990    0    0 
+McMaster  952453590  6  4 f   -     -     -          990    0    0 
+McMaster  952453612  6  3 f   -     -     -          990    0    0 
+McMaster  952453627  6  2 Bk  k     kf    -          990   20    0 
+McMaster  952453655  6  1 Bc  b     b     kc         970  140    0 7d Qd
+McMaster  952453688  6  6 f   -     -     -          830    0    0 
+McMaster  952453719  6  5 f   -     -     -          830    0    0 
+McMaster  952453743  6  4 f   -     -     -          830    0    0 
+McMaster  952453753  6  3 r   b     b     b          830  140    0 As 7h
+McMaster  952453775  6  2 Bk  kf    -     -          690   20    0 
+McMaster  952453801  6  1 Bc  b     b     b          670  120    0 Td 6d
+McMaster  952453818  6  6 f   -     -     -          550    0    0 
+McMaster  952453836  6  5 c   c     f     -          550   40    0 
+McMaster  952453870  6  4 f   -     -     -          510    0    0 
+McMaster  952453891  6  3 cc  c     c     f          510  120    0 
+McMaster  952453925  6  2 Bf  -     -     -          390   20    0 
+McMaster  952453944  6  1 Bf  -     -     -          370   10    0 
+McMaster  952453962  6  6 c   b     -     -          360   40   80 
+McMaster  952453977  6  5 f   -     -     -          400    0    0 
+McMaster  952454009  6  4 r   b     b     b          400  140  480 As Ad
+McMaster  952454042  6  3 f   -     -     -          740    0    0 
+McMaster  952454056  6  2 Bf  -     -     -          740   20    0 
+McMaster  952454084  6  1 Bf  -     -     -          720   10    0 
+McMaster  952454098  6  6 f   -     -     -          710    0    0 
+McMaster  952454125  6  5 f   -     -     -          710    0    0 
+McMaster  952454159  6  4 f   -     -     -          710    0    0 
+McMaster  952454187  6  3 r   b     kf    -          710   60    0 
+McMaster  952454216  6  2 Br  b     b     b          650  140  145 Qd Th
+McMaster  952454236  6  1 Bc  kf    -     -          655   20    0 
+McMaster  952454268  6  6 f   -     -     -          635    0    0 
+McMaster  952454293  6  5 r   b     r     -          635  140  320 
+McMaster  952454330  6  4 f   -     -     -          815    0    0 
+McMaster  952454354  6  3 r   c     c     c          815  140  300 9h 9c
+McMaster  952454375  7  2 Bk  b     kc    kf         975   80    0 
+McMaster  952454414  7  1 Bf  -     -     -          895   10    0 
+McMaster  952454438  7  7 r   k     f     -          885   40    0 
+McMaster  952454465  7  6 f   -     -     -          845    0    0 
+McMaster  952454526  8  6 f   -     -     -          845    0    0 
+McMaster  952454549  8  5 f   -     -     -          845    0    0 
+McMaster  952454582  8  4 c   b     b     -          845   80  170 
+McMaster  952454626  9  4 f   -     -     -          935    0    0 
+McMaster  952454636  9  3 f   -     -     -          935    0    0 
+McMaster  952454651  9  2 Bk  kr    b     bc         935  180    0 3s Jh
+McMaster  952454701  9  1 Bc  bc    bc    b          755  200  560 Jd Ts
+McMaster  952454738  9  9 f   -     -     -         1115    0    0 
+McMaster  952454768  9  8 f   -     -     -         1115    0    0 
+McMaster  952454829  9  7 f   -     -     -         1115    0    0 
+McMaster  952454853  9  6 f   -     -     -         1115    0    0 
+McMaster  952454896  9  5 c   r     b     b         1115  160    0 9s As
+McMaster  952454938  9  4 f   -     -     -          955    0    0 
+McMaster  952454970  9  3 f   -     -     -          955    0    0 
+McMaster  952455000  9  2 Bf  -     -     -          955   20    0 
+McMaster  952455032  9  1 Bf  -     -     -          935   10    0 
+McMaster  952455065  9  9 c   f     -     -          925   20    0 
+McMaster  952455090  9  8 c   c     r     b          905  160  380 Tc 2c
+McMaster  952455116 10  8 cc  f     -     -         1125   40    0 
+McMaster  952455171 10  7 f   -     -     -         1085    0    0 
+McMaster  952455214 10  6 f   -     -     -         1085    0    0 
+McMaster  952455250 10  5 f   -     -     -         1085    0    0 
+McMaster  952455301 10  4 cc  f     -     -         1085   40    0 
+McMaster  952455332 10  3 f   -     -     -         1045    0    0 
+McMaster  952455386 10  2 Bk  k     k     k         1045   20    0 5s Kd
+McMaster  952455418 10  1 Bf  -     -     -         1025   10    0 
+McMaster  952455448 10 10 r   b     b     -         1015  100  290 
+McMaster  952455503 10  9 r   b     k     k         1205   60    0 Td Jh
+McMaster  952455542 10  8 f   -     -     -         1145    0    0 
+McMaster  952455602 10  7 r   r     bf    -         1145  140    0 
+McMaster  952455708 10  6 f   -     -     -         1005    0    0 
+McMaster  952455798 10  5 f   -     -     -         1005    0    0 
+McMaster  952455887 10  4 f   -     -     -         1005    0    0 
+McMaster  952455937 10  3 rc  kc    kc    k         1005  120    0 Kd Ts
+McMaster  952455982 10  2 Bf  -     -     -          885   20    0 
+McMaster  952456017 10  1 Bf  -     -     -          865   10    0 
+McMaster  952456043 10 10 r   c     c     c          855  140    0 Ad Qs
+McMaster  952456097 10  9 f   -     -     -          715    0    0 
+McMaster  952456133 10  8 c   k     k     k          715   20    0 Ac 8c
+McMaster  952456173 10  7 f   -     -     -          695    0    0 
+McMaster  952456190 10  6 c   f     -     -          695   20    0 
+McMaster  952456270 10  5 f   -     -     -          675    0    0 
+McMaster  952456308 10  4 r   b     br    b          675  220    0 As Tc
+McMaster  952456382  9  2 r   krc   kc    kc         455  180    0 9s 9h
+McMaster  952456412 10  2 Bf  -     -     -          275   20    0 
+McMaster  952456444 10  1 Bf  -     -     -          255   10    0 
+McMaster  952456500 10 10 r   b     b     br         245  240  590 Ad Ah
+McMaster  952456561 10  9 f   -     -     -          595    0    0 
+McMaster  952456576 10  8 c   k     f     -          595   20    0 
+McMaster  952456642  9  7 f   -     -     -          575    0    0 
+McMaster  952456699  9  6 cc  b     b     c          575  140    0 5c Ac
+McMaster  952456734  9  5 f   -     -     -          435    0    0 
+McMaster  952456783  9  4 cc  rc    kc    kc         435  200    0 Qd Ts
+McMaster  952456823 10  3 cc  kf    -     -          235   60    0 
+McMaster  952456861 10  2 Bf  -     -     -          175   20    0 
+McMaster  952456889 10  1 Bc  kf    -     -          155   20    0 
+McMaster  952456917 10 10 f   -     -     -          135    0    0 
+McMaster  952456966 10  9 c   c     f     -          135   40    0 
+McMaster  952457002 10  9 f   -     -     -           95    0    0 
+McMaster  952457033  9  7 r   b     cA    -           95   95    0 Qh Td
+McMaster  952491536 10  7 c   c     r     b         2237  160  400 6d 8d
+McMaster  952491592 10  6 f   -     -     -         2477    0    0 
+McMaster  952491657 10  5 cc  bf    -     -         2477   60    0 
+McMaster  952491695 10  4 f   -     -     -         2417    0    0 
+McMaster  952491739 10  3 f   -     -     -         2417    0    0 
+McMaster  952491773 10  2 Bk  kf    -     -         2417   20    0 
+McMaster  952491848 10  1 Bc  b     k     k         2397   60    0 Ac Qc
+McMaster  952491937  9  9 f   -     -     -         2337    0    0 
+McMaster  952492011  9  8 c   b     b     b         2337  120  320 Qs Kd
+McMaster  952492085  9  7 c   b     -     -         2537   40  100 
+McMaster  952492132  9  6 f   -     -     -         2597    0    0 
+McMaster  952492174  9  5 f   -     -     -         2597    0    0 
+McMaster  952492226  9  4 f   -     -     -         2597    0    0 
+McMaster  952492288  9  3 f   -     -     -         2597    0    0 
+McMaster  952492329  9  2 Bf  -     -     -         2597   20    0 
+McMaster  952492337  8  1 Bf  -     -     -         2577   10    0 
+McMaster  952492379  8  8 f   -     -     -         2567    0    0 
+McMaster  952492423  9  8 c   r     b     b         2567  160    0 Qh Ts
+McMaster  952492464 10  8 r   rrc   c     k         2407  180    0 9c As
+McMaster  952492504 10  7 c   br    b     b         2227  160  390 Kh Jh
+McMaster  952492560 10  6 f   -     -     -         2457    0    0 
+McMaster  952492605 10  5 c   c     f     -         2457   40    0 
+McMaster  952492678 10  4 f   -     -     -         2417    0    0 
+McMaster  952492751 10  3 f   -     -     -         2417    0    0 
+McMaster  952492833 10  2 Bf  -     -     -         2417   20    0 
+McMaster  952492879 10  1 Br  b     k     kf        2397   60    0 
+McMaster  952492944 10  8 Q   -     -     -         2337    0    0 
+McMaster  952547751  9  9 f   -     -     -         2337    0    0 
+McMaster  952547795  9  8 f   -     -     -         2337    0    0 
+McMaster  952547844 10  7 f   -     -     -         2337    0    0 
+McMaster  952547895 10  6 c   r     b     b         2337  140  460 Kh Jh
+McMaster  952547950 10  5 c   b     b     k         2657   80  250 Ah Jc
+McMaster  952547994 10  4 c   kf    -     -         2827   20    0 
+McMaster  952548050  9  2 Bf  -     -     -         2807   20    0 
+McMaster  952548089  9  1 Bc  k     b     -         2787   60  120 
+McMaster  952548124  9  9 c   b     -     -         2847   40  120 
+McMaster  952548155 10  9 f   -     -     -         2927    0    0 
+McMaster  952548179 10  8 c   k     f     -         2927   20    0 
+McMaster  952548236 10  7 f   -     -     -         2907    0    0 
+McMaster  952548274 10  6 c   kf    -     -         2907   20    0 
+McMaster  952548318 10  5 f   -     -     -         2887    0    0 
+McMaster  952548350 10  4 f   -     -     -         2887    0    0 
+McMaster  952548434 10  3 f   -     -     -         2887    0    0 
+McMaster  952548479 10  2 Bf  -     -     -         2887   20    0 
+McMaster  952548527 10  1 Bf  -     -     -         2867   10    0 
+McMaster  952548566 10 10 f   -     -     -         2857    0    0 
+McMaster  952548606 10  9 f   -     -     -         2857    0    0 
+McMaster  952548659 10  8 r   bc    bc    bc        2857  240    0 Qs Qd
+McMaster  952548705 10  7 c   kf    -     -         2617   40    0 
+McMaster  952548782  9  6 cc  c     c     f         2577  120    0 
+McMaster  952548840 10  5 f   -     -     -         2457    0    0 
+McMaster  952548857 10  4 r   bc    kc    kc        2457  160    0 Td Th
+McMaster  952548916 10  3 f   -     -     -         2297    0    0 
+McMaster  952548965 10  2 Bc  kf    -     -         2297   40    0 
+McMaster  952549016 10  1 Bf  -     -     -         2257   10    0 
+McMaster  952549063 10 10 f   -     -     -         2247    0    0 
+McMaster  952549108 10  9 c   r     c     r         2247  180  410 Kd Jd
+McMaster  952549157 10  8 f   -     -     -         2477    0    0 
+McMaster  952549195 10  7 f   -     -     -         2477    0    0 
+McMaster  952549259 10  6 f   -     -     -         2477    0    0 
+McMaster  952549306 10  5 f   -     -     -         2477    0    0 
+McMaster  952549356 10  4 f   -     -     -         2477    0    0 
+McMaster  952549433 10  3 f   -     -     -         2477    0    0 
+McMaster  952549480 10  2 Bk  k     kf    -         2477   20    0 
+McMaster  952549523 10  1 Bf  -     -     -         2457   10    0 
+McMaster  952549578 10 10 f   -     -     -         2447    0    0 
+McMaster  952549637 10  9 f   -     -     -         2447    0    0 
+McMaster  952549677 10  8 f   -     -     -         2447    0    0 
+McMaster  952549716 10  7 c   b     cf    -         2447  100    0 
+McMaster  952549807 10  6 f   -     -     -         2347    0    0 
+McMaster  952549884 10  5 cc  kf    -     -         2347   40    0 
+McMaster  952549943 10  4 f   -     -     -         2307    0    0 
+McMaster  952549976 10  3 f   -     -     -         2307    0    0 
+McMaster  952550024 10  2 Bk  k     b     k         2307   60    0 9s 8d
+McMaster  952550101 10  1 Bf  -     -     -         2247   10    0 
+McMaster  952550153 10 10 f   -     -     -         2237    0    0 
+McMaster  952550185 10  9 f   -     -     -         2237    0    0 
+McMaster  952550239 10  8 f   -     -     -         2237    0    0 
+McMaster  952550313 10  7 f   -     -     -         2237    0    0 
+McMaster  952550353 10  6 c   b     -     -         2237   40   90 
+McMaster  952550387 10  5 f   -     -     -         2287    0    0 
+McMaster  952550433 10  4 c   bc    kc    kc        2287  140    0 Jc Ad
+McMaster  952550492 10  3 c   kf    -     -         2147   20    0 
+McMaster  952550539  9  2 Bf  -     -     -         2127   20    0 
+McMaster  952550595  9  1 Bf  -     -     -         2107   10    0 
+McMaster  952550642  9  9 f   -     -     -         2097    0    0 
+McMaster  952550677  9  8 c   b     b     c         2097  120  260 9s Qs
+McMaster  952550726 10  8 f   -     -     -         2237    0    0 
+McMaster  952550787  9  6 c   c     f     -         2237   60    0 
+McMaster  952550822  9  5 f   -     -     -         2177    0    0 
+McMaster  952550896  9  4 f   -     -     -         2177    0    0 
+McMaster  952550965  8  3 f   -     -     -         2177    0    0 
+McMaster  952551003 10  3 f   -     -     -         2177    0    0 
+McMaster  952551047 10  2 Bf  -     -     -         2177   20    0 
+McMaster  952551078 10  1 Bf  -     -     -         2157   10    0 
+McMaster  952551139 10 10 f   -     -     -         2147    0    0 
+McMaster  952551182 10  9 f   -     -     -         2147    0    0 
+McMaster  952551320 10  8 f   -     -     -         2147    0    0 
+McMaster  952551372 10  7 f   -     -     -         2147    0    0 
+McMaster  952551435 10  6 f   -     -     -         2147    0    0 
+McMaster  952551482 10  5 f   -     -     -         2147    0    0 
+McMaster  952551511 10  4 f   -     -     -         2147    0    0 
+McMaster  952551571 10  3 cc  kcc   kc    kf        2147  160    0 
+McMaster  952551635 10  2 Br  b     bc    kc        1987  180    0 As Qs
+McMaster  952551664 10  1 Bf  -     -     -         1807   10    0 
+McMaster  952551680 10 10 f   -     -     -         1797    0    0 
+McMaster  952551700 10  9 f   -     -     -         1797    0    0 
+McMaster  952551784 10  8 f   -     -     -         1797    0    0 
+McMaster  952551851 10  7 f   -     -     -         1797    0    0 
+McMaster  952551927 10  6 f   -     -     -         1797    0    0 
+McMaster  952551975 10  5 f   -     -     -         1797    0    0 
+McMaster  952552064  7  2 Brrc kc    kc    kc        1797  220    0 Qh Qs
+McMaster  952552093  7  1 Bf  -     -     -         1577   10    0 
+McMaster  952552172  8  8 f   -     -     -         1567    0    0 
+McMaster  952552226  9  8 f   -     -     -         1567    0    0 
+McMaster  952552268  9  7 f   -     -     -         1567    0    0 
+McMaster  952552345  9  6 f   -     -     -         1567    0    0 
+McMaster  952552418  9  5 f   -     -     -         1567    0    0 
+McMaster  952552492  9  4 cc  bc    b     k         1567  140    0 Ac Jc
+McMaster  952552566 10  4 cc  bc    b     k         1427  120    0 6s 8s
+McMaster  952552638 10  3 f   -     -     -         1307    0    0 
+McMaster  952552681 10  2 Bk  kc    bc    c         1307  200    0 Ks Js
+McMaster  952552749 10  1 Bf  -     -     -         1107   10    0 
+McMaster  952552799 10 10 f   -     -     -         1097    0    0 
+McMaster  952552853 10  9 cf  -     -     -         1097   20    0 
+McMaster  952553006 10  8 rc  kf    -     -         1077   60    0 
+McMaster  952553092 10  7 f   -     -     -         1017    0    0 
+McMaster  952553166 10  6 f   -     -     -         1017    0    0 
+McMaster  952553232 10  5 f   -     -     -         1017    0    0 
+McMaster  952553290 10  4 f   -     -     -         1017    0    0 
+McMaster  952553331 10  3 f   -     -     -         1017    0    0 
+McMaster  952553390 10  2 Bcc kc    kf    -         1017  100    0 
+McMaster  952553444 10  1 Bf  -     -     -          917   10    0 
+McMaster  952553510 10 10 f   -     -     -          907    0    0 
+McMaster  952553563 10  9 f   -     -     -          907    0    0 
+McMaster  952553611 10  8 f   -     -     -          907    0    0 
+McMaster  952553704 10  7 f   -     -     -          907    0    0 
+McMaster  952553716 10  6 f   -     -     -          907    0    0 
+McMaster  952553793 10  5 f   -     -     -          907    0    0 
+McMaster  952553849 10  4 f   -     -     -          907    0    0 
+McMaster  952553901 10  3 f   -     -     -          907    0    0 
+McMaster  952553958 10  2 Bc  bf    -     -          907   60    0 
+McMaster  952554017 10  1 Br  b     b     b          847  140    0 As Tc
+McMaster  952554053 10 10 r   b     rc    c          707  220    0 As Qs
+McMaster  952554121 10  9 f   -     -     -          487    0    0 
+McMaster  952554161 10  8 cc  c     c     r          487  180    0 7d 7h
+McMaster  952554218 10  7 f   -     -     -          307    0    0 
+McMaster  952554291 10  6 f   -     -     -          307    0    0 
+McMaster  952554379 10  5 f   -     -     -          307    0    0 
+McMaster  952554433 10  4 f   -     -     -          307    0    0 
+McMaster  952554510 10  3 r   b     b     b          307  140  310 
+McMaster  952554552 10  2 Bk  kf    -     -          477   20    0 
+McMaster  952554585 10  1 Br  -     -     -          457   40   60 
+McMaster  952554623 10 10 f   -     -     -          477    0    0 
+McMaster  952554663 10  9 r   b     b     c          477  140  350 Jc Ah
+McMaster  952554711 10  8 f   -     -     -          687    0    0 
+McMaster  952554740 10  8 r   r     -     -          687   80  170 
+McMaster  952554778 10  6 cc  br    b     b          777  180  450 Qd 2d
+McMaster  952554855 10  5 r   k     k     k         1047   40    0 4h Jd
+McMaster  952554907 10  4 f   -     -     -         1007    0    0 
+McMaster  952554950 10  3 f   -     -     -         1007    0    0 
+McMaster  952554994 10  2 Bc  kc    kc    kf        1007  100    0 
+McMaster  952555055 10  1 Bc  kf    -     -          907   20    0 
+McMaster  952555095 10 10 c   c     f     -          887   40    0 
+McMaster  952555146 10  9 f   -     -     -          847    0    0 
+McMaster  952555181 10  8 f   -     -     -          847    0    0 
+McMaster  952555224 10  7 f   -     -     -          847    0    0 
+McMaster  952555262 10  7 f   -     -     -          847    0    0 
+McMaster  952555295 10  5 rc  kf    -     -          847   60    0 
+McMaster  952555338 10  4 c   r     b     c          787  140    0 Kd Js
+McMaster  952555380  9  3 f   -     -     -          647    0    0 
+McMaster  952555403  9  2 Bk  kf    -     -          647   20    0 
+McMaster  952555459 10  1 Bc  b     b     k          627   80    0 Td 6h
+McMaster  952555506 10 10 f   -     -     -          547    0    0 
+McMaster  952555549 10  9 r   b     b     b          547  140    0 As 8c
+McMaster  952555583 10  8 f   -     -     -          407    0    0 
+McMaster  952555629 10  7 f   -     -     -          407    0    0 
+McMaster  952555659 10  6 f   -     -     -          407    0    0 
+McMaster  952555712 10  5 f   -     -     -          407    0    0 
+McMaster  952555755 10  4 cc  f     -     -          407   40    0 
+McMaster  952555808 10  3 f   -     -     -          367    0    0 
+McMaster  952555848 10  2 Bk  kc    kc    b          367  120  165 Ts Jd
+McMaster  952555895  9  1 Bc  b     k     kf         412   60    0 
+McMaster  952555968  9  9 f   -     -     -          352    0    0 
+McMaster  952556005  9  8 f   -     -     -          352    0    0 
+McMaster  952556048  9  7 f   -     -     -          352    0    0 
+McMaster  952556096  9  6 c   r     r     b          352  180    0 Ad 7d
+McMaster  952556141 10  5 f   -     -     -          172    0    0 
+McMaster  952556174 10  4 cc  k     kc    kf         172   80    0 
+McMaster  952556229 10  3 f   -     -     -           92    0    0 
+McMaster  952556271 10  2 Bf  -     -     -           92   20    0 
+McMaster  952556318 10  1 Bc  kf    -     -           72   20    0 
+McMaster  952556347 10 10 c   k     cA    -           52   52    0 Ad Jd

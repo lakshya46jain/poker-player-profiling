@@ -1,0 +1,468 @@
+redelf    918712760  2  1 Br  b     -     -         2310   60  100 
+redelf    918712773  2  2 B   -     -     -         2350   20   30 
+redelf    918712776  2  1 Bf  -     -     -         2360   10    0 
+redelf    918712778  2  2 B   -     -     -         2350   20   30 
+redelf    918712780  2  1 Bf  -     -     -         2360   10    0 
+redelf    918712782  2  2 B   -     -     -         2350   20   30 
+redelf    918712784  2  1 Bc  k     kf    -         2360   20    0 
+redelf    918712795  2  2 Bc  c     c     c         2340  140    0 8h Jc
+redelf    918712805  3  1 Bc  k     kf    -         2200   20    0 
+redelf    918712825  3  3 f   -     -     -         2180    0    0 
+redelf    918712828  3  2 Bf  -     -     -         2180   20    0 
+redelf    918712835  3  1 Bf  -     -     -         2160   10    0 
+redelf    918712857  3  3 f   -     -     -         2150    0    0 
+redelf    918712876  3  2 Bc  b     -     -         2150   60  140 
+redelf    918712893  3  1 Bf  -     -     -         2230   10    0 
+redelf    918712916  3  3 f   -     -     -         2220    0    0 
+redelf    918712924  3  2 Br  b     k     b         2220  120  280 
+redelf    918712958  3  1 Bc  k     k     b         2380   60   80 
+redelf    918712986  3  3 f   -     -     -         2400    0    0 
+redelf    918712991  3  2 Bc  kc    kf    -         2400   60    0 
+redelf    918713004  3  1 Bc  kf    -     -         2340   20    0 
+redelf    918713018  3  3 r   bc    r     b         2320  200  440 Ks 5d
+redelf    918713040  3  2 Bc  kr    b     -         2560  120  240 
+redelf    918713070  3  1 Bf  -     -     -         2680   10    0 
+redelf    918713072  3  3 r   b     brc   c         2670  260    0 Jh Js
+redelf    918713099  3  2 Bc  kc    kf    -         2410   60    0 
+redelf    918713136  4  1 Br  b     b     b         2350  140  280 9s Ts
+redelf    918713154  4  4 f   -     -     -         2490    0    0 
+redelf    918713184  4  3 cc  brc   rrrr  b         2490  500 1110 Td Qh
+redelf    918713222  4  2 BQ  -     -     -         3100   20    0 
+redelf    918713520  5  2 Bf  -     -     -         3080   20    0 
+redelf    918713543  5  1 Bf  -     -     -         3060   10    0 
+redelf    918713548  5  5 rc  f     -     -         3050   60    0 
+redelf    918713591  5  4 f   -     -     -         2990    0    0 
+redelf    918713619  5  3 rr  b     b     b         2990  180    0 Ks Jh
+redelf    918713640  5  2 Brc b     k     b         2810  140    0 Jc Ah
+redelf    918713685  5  1 Bf  -     -     -         2670   10    0 
+redelf    918713738  5  5 f   -     -     -         2660    0    0 
+redelf    918713774  5  4 f   -     -     -         2660    0    0 
+redelf    918713804  5  3 rc  kc    kc    f         2660  120    0 
+redelf    918713839  5  2 Bf  -     -     -         2540   20    0 
+redelf    918713847  5  1 Brc kf    -     -         2520   80    0 
+redelf    918713878  5  5 c   f     -     -         2440   20    0 
+redelf    918713904  5  4 f   -     -     -         2420    0    0 
+redelf    918713930  5  3 f   -     -     -         2420    0    0 
+redelf    918713963  5  2 Bf  -     -     -         2420   20    0 
+redelf    918713996  6  1 Bf  -     -     -         2400   10    0 
+redelf    918714028  6  6 f   -     -     -         2390    0    0 
+redelf    918714056  6  5 r   b     b     b         2390  140    0 5c 5h
+redelf    918714094  6  4 c   c     c     k         2250  100    0 9d Ts
+redelf    918714130  6  3 f   -     -     -         2150    0    0 
+redelf    918714160  5  1 Bc  kcc   kf    -         2150   80    0 
+redelf    918714198  5  1 Bf  -     -     -         2070   10    0 
+redelf    918714226  5  5 c   k     f     -         2060   60    0 
+redelf    918714264  5  4 f   -     -     -         2000    0    0 
+redelf    918714293  5  3 f   -     -     -         2000    0    0 
+redelf    918714337  6  3 r   kc    kf    -         2000   60    0 
+redelf    918714403  7  2 Bk  k     r     k         1940  100    0 Th Js
+redelf    918714515  7  1 Bc  k     kf    -         1840   40    0 
+redelf    918714554  7  7 f   -     -     -         1800    0    0 
+redelf    918714591  7  6 r   -     -     -         1800   40   70 
+redelf    918714604  7  5 f   -     -     -         1830    0    0 
+redelf    918714634  7  4 r   b     k     r         1830  140  340 Kh 9h
+redelf    918714665  7  3 rc  b     kc    krf       2030  200    0 
+redelf    918714720  7  2 Bf  -     -     -         1830   20    0 
+redelf    918714785  7  1 Bcc kc    kc    kc        1810  180  620 Jd Qs
+redelf    918714861  7  7 f   -     -     -         2250    0    0 
+redelf    918714925  7  6 r   c     b     -         2250  120  300 
+redelf    918714966  7  5 f   -     -     -         2430    0    0 
+redelf    918714992  7  4 f   -     -     -         2430    0    0 
+redelf    918715016  7  3 f   -     -     -         2430    0    0 
+redelf    918715078  7  2 Bf  -     -     -         2430   20    0 
+redelf    918715108  7  1 Bf  -     -     -         2410   10    0 
+redelf    918715153  7  7 f   -     -     -         2400    0    0 
+redelf    918715184  7  6 f   -     -     -         2400    0    0 
+redelf    918715232  7  5 c   k     brr   b         2400  280    0 Tc Ac
+redelf    918715276  7  4 r   r     b     k         2120  120    0 9s As
+redelf    918715344  7  3 rc  kc    kf    -         2000   80    0 
+redelf    918715402  7  2 Bk  k     r     k         1920  100    0 4h 2c
+redelf    918715445  7  1 Bf  -     -     -         1820   10    0 
+redelf    918715511  7  7 f   -     -     -         1810    0    0 
+redelf    918715552  8  7 f   -     -     -         1810    0    0 
+redelf    918715587  7  5 f   -     -     -         1810    0    0 
+redelf    918715631  8  5 f   -     -     -         1810    0    0 
+redelf    918715675  8  4 f   -     -     -         1810    0    0 
+redelf    918715704  9  3 f   -     -     -         1810    0    0 
+redelf    918715813  9  2 Bc  kc    kf    -         1810   60    0 
+redelf    918715854  9  1 Bcc kcc   kc    kf        1750  200    0 
+redelf    918715920  8  8 f   -     -     -         1550    0    0 
+redelf    918715967  8  7 f   -     -     -         1550    0    0 
+redelf    918715992  8  6 c   c     rc    rc        1550  300    0 Ks Kh
+redelf    918716026  8  5 f   -     -     -         1250    0    0 
+redelf    918716081  8  4 rc  kc    k     f         1250   80    0 
+redelf    918716128  8  3 rc  kc    k     k         1170  120    0 Ah Qs
+redelf    918716187  8  2 Bc  kc    kc    k         1050  100  440 Tc Qd
+redelf    918716269  8  1 Bc  kc    k     k         1390   60    0 9c 2c
+redelf    918716315  7  7 r   cc    cc    c         1330  280    0 4c 4d
+redelf    918716444  7  6 r   r     k     k         1050  120  350 Qs Qh
+redelf    918716483  6  4 f   -     -     -         1280    0    0 
+redelf    918716515  6  4 rc  b     -     -         1280   80  220 
+redelf    918716544  6  3 r   b     b     brr       1420  300  660 Th Tc
+redelf    918716579  7  2 Br  b     b     br        1780  240  760 5d Ad
+redelf    918716647  7  1 Bc  kc    kc    kf        2300  100    0 
+redelf    918716679  7  7 r   b     k     c         2200  120  350 Qd As
+redelf    918716710  7  6 c   c     f     -         2430   60    0 
+redelf    918716742  7  5 f   -     -     -         2370    0    0 
+redelf    918716763  7  4 f   -     -     -         2370    0    0 
+redelf    918716810  7  3 r   kc    kc    kf        2370  100    0 
+redelf    918716856  7  2 Bc  kc    kc    kc        2270  160    0 6s 8c
+redelf    918716913  7  1 Bc  b     b     -         2110  120  300 
+redelf    918717006  7  6 c   r     f     -         2290   60    0 
+redelf    918717078  8  6 f   -     -     -         2230    0    0 
+redelf    918717145  8  6 f   -     -     -         2230    0    0 
+redelf    918717220  7  4 f   -     -     -         2230    0    0 
+redelf    918717269  7  3 f   -     -     -         2230    0    0 
+redelf    918717306  7  2 Bc  b     -     -         2230   60  180 
+redelf    918717335  8  1 Bc  bc    kc    kc        2350  140    0 Tc 7c
+redelf    918717390  7  7 r   -     -     -         2210   40   70 
+redelf    918717407  7  6 rc  kc    kc    kc        2240  160    0 Kh Qd
+redelf    918717453  8  5 r   b     -     -         2080   60  150 
+redelf    918717479  8  4 c   f     -     -         2170   40    0 
+redelf    918717542  8  3 rr  c     f     -         2130  100    0 
+redelf    918717592  7  2 Bc  cc    k     c         2030  120    0 5s Ah
+redelf    918717630  7  1 Bc  br    b     -         1910  120  280 
+redelf    918717669  7  7 c   r     k     b         2070  100  280 
+redelf    918717728  6  6 r   r     c     c         2250  160    0 7s 8s
+redelf    918717760  6  5 r   b     b     k         2090  100  250 3c Ad
+redelf    918717788  5  3 r   bc    kc    kc        2240  160  175 Qs 9d
+redelf    918717815  6  2 Bcc kf    -     -         2255   80    0 
+redelf    918717859  6  1 Br  b     kc    k         2175  100    0 5d As
+redelf    918717890  6  6 c   k     c     r         2075  140  290 
+redelf    918717962  7  5 f   -     -     -         2225    0    0 
+redelf    918717996  7  4 f   -     -     -         2225    0    0 
+redelf    918718041  7  3 r   bc    c     c         2225  160    0 3s As
+redelf    918718089  7  2 Bc  f     -     -         2065   40    0 
+redelf    918718134  7  1 Bccc kc    kc    br        2025  260    0 7c 8c
+redelf    918718202  7  7 c   b     -     -         1765   60  220 
+redelf    918718258  7  6 f   -     -     -         1925    0    0 
+redelf    918718284  7  5 r   kr    -     -         1925   80  230 
+redelf    918718332  7  4 f   -     -     -         2075    0    0 
+redelf    918718346  7  3 f   -     -     -         2075    0    0 
+redelf    918718392  7  2 Bc  c     kf    -         2075   60    0 
+redelf    918718441  7  1 Bc  kf    -     -         2015   20    0 
+redelf    918718477  7  7 r   k     c     r         1995  160    0 Kd Th
+redelf    918718513  7  6 r   b     k     b         1835  100  230 
+redelf    918718553  7  5 cc  k     f     -         1965   40    0 
+redelf    918718590  7  4 rc  b     kr    b         1925  200  510 Kc 7c
+redelf    918718623  7  3 f   -     -     -         2235    0    0 
+redelf    918718646  6  2 Bc  kf    -     -         2235   40    0 
+redelf    918718678  6  1 Bcc k     kc    krc       2195  200  400 Js 7s
+redelf    918718710  6  6 f   -     -     -         2395    0    0 
+redelf    918718742  6  5 c   f     -     -         2395   40    0 
+redelf    918718773  6  4 f   -     -     -         2355    0    0 
+redelf    918718803  6  3 r   b     -     -         2355   60  130 
+redelf    918718824  6  2 Brc kc    b     kr        2425  220    0 5s 5d
+redelf    918718857  6  1 Bc  kf    -     -         2205   40    0 
+redelf    918718879  6  6 cc  c     c     b         2165  180  480 
+redelf    918718931  5  4 c   b     b     -         2465   80  200 
+redelf    918718962  5  4 r   k     kc    kc        2585  120    0 Jh Ad
+redelf    918718996  6  3 f   -     -     -         2465    0    0 
+redelf    918719041  6  2 Bk  kc    bc    kc        2465  160  420 Ks Qd
+redelf    918719084  6  1 Br  k     -     -         2725   40   80 
+redelf    918719112  5  5 c   f     -     -         2765   20    0 
+redelf    918719144  5  5 f   -     -     -         2745    0    0 
+redelf    918719179  5  4 f   -     -     -         2745    0    0 
+redelf    918719196  5  3 f   -     -     -         2745    0    0 
+redelf    918719226  5  2 Bc  kc    k     k         2745   60  130 Kd 2c
+redelf    918719250  5  1 Bf  -     -     -         2815   10    0 
+redelf    918719288  5  5 f   -     -     -         2805    0    0 
+redelf    918719311  5  4 f   -     -     -         2805    0    0 
+redelf    918719329  5  3 f   -     -     -         2805    0    0 
+redelf    918719355  5  2 Bk  k     f     -         2805   20    0 
+redelf    918719372  5  1 Br  br    b     k         2785  140  340 Ks Kc
+redelf    918719406  4  4 rc  c     k     k         2985   80  160 4h 7h
+redelf    918719428  4  4 r   -     -     -         3065   40   70 
+redelf    918719439  4  3 f   -     -     -         3095    0    0 
+redelf    918719446  4  2 Bc  kc    kf    -         3095   60    0 
+redelf    918719461  4  1 Bcc kc    k     k         3035   60  120 8h Td
+redelf    918719482  4  4 f   -     -     -         3095    0    0 
+redelf    918719501  4  3 r   -     -     -         3095   40   70 
+redelf    918719512  4  2 Bf  -     -     -         3125   20    0 
+redelf    918719521  4  1 Bf  -     -     -         3105   10    0 
+redelf    918719527  3  3 f   -     -     -         3095    0    0 
+redelf    918719535  3  2 Bf  -     -     -         3095   20    0 
+redelf    918719553  3  1 Bf  -     -     -         3075   10    0 
+redelf    918719562  3  3 f   -     -     -         3065    0    0 
+redelf    918719579  3  2 Bc  kf    -     -         3065   40    0 
+redelf    918719589  3  1 Bcc kf    -     -         3025   40    0 
+redelf    918719601  3  3 r   b     k     f         2985   60    0 
+redelf    918719621  3  2 Bc  c     rc    c         2925  240    0 4c Kc
+redelf    918719642  3  1 Br  bc    b     b         2685  160    0 Ts 8s
+redelf    918719674  3  3 f   -     -     -         2525    0    0 
+redelf    918719679  3  2 B   -     -     -         2525   20   30 
+redelf    918719686  3  1 Bc  b     b     kc        2535  140  300 Qh 8c
+redelf    918719705  3  3 r   -     -     -         2695   40   70 
+redelf    918719715  3  2 Br  k     c     rc        2725  200    0 Ac 9d
+redelf    918719738  3  1 Bc  kc    kf    -         2525   40    0 
+redelf    918719756  3  3 f   -     -     -         2485    0    0 
+redelf    918719762  3  2 Bc  c     b     k         2485  100    0 Ac 4d
+redelf    918719781  3  1 Bc  kr    b     b         2385  160  360 Kh Ks
+redelf    918719803  3  3 f   -     -     -         2585    0    0 
+redelf    918719809  3  2 Bc  c     c     c         2585  140  280 2d Qd
+redelf    918719825  3  1 Bf  -     -     -         2725   10    0 
+redelf    918719834  3  3 f   -     -     -         2715    0    0 
+redelf    918719854  3  2 Bf  -     -     -         2715   20    0 
+redelf    918719862  3  1 Bcc kc    kc    kc        2695  140    0 6d 4d
+redelf    918719881  3  3 r   -     -     -         2555   40   70 
+redelf    918719890  3  2 Bc  b     k     b         2585  100  170 
+redelf    918719907  4  1 Bf  -     -     -         2655   10    0 
+redelf    918719935  4  4 c   c     c     r         2645  180  500 9c Jd
+redelf    918719966  4  3 f   -     -     -         2965    0    0 
+redelf    918719974  4  2 Bk  f     -     -         2965   20    0 
+redelf    918719985  4  1 Bc  kr    k     b         2945  120  280 Qs 4s
+redelf    918720011  4  4 c   f     -     -         3105   20    0 
+redelf    918720042  4  3 f   -     -     -         3085    0    0 
+redelf    918720071  4  2 Bc  kc    kc    kr        3085  180  430 2c 6c
+redelf    918720103  4  1 Bc  kcf   -     -         3335   60    0 
+redelf    918720141  3  3 r   r     k     c         3275  120  280 9d Ac
+redelf    918720169  3  2 Bk  f     -     -         3435   20    0 
+redelf    918720193  3  1 Bf  -     -     -         3415   10    0 
+redelf    918720200  3  3 cc  c     c     c         3405  140    0 Jc 7c
+redelf    918720213  3  2 Br  b     -     -         3265   60  110 
+redelf    918720226  3  1 Br  b     k     b         3315  100  160 
+redelf    918720242  3  3 r   c     f     -         3375   80    0 
+redelf    918720267  3  2 Bk  kc    kc    kc        3295  120    0 Jd Tc
+redelf    918720290  3  1 Bc  kc    kc    b         3175  160  480 8c Kh
+redelf    918720318  3  3 f   -     -     -         3495    0    0 
+redelf    918720334  3  2 Bc  kr    k     b         3495  120  250 6c Qs
+redelf    918720351  3  1 Bc  kf    -     -         3625   20    0 
+redelf    918720365  3  3 rc  r     k     c         3605  140  380 Th 7h
+redelf    918720400  3  2 Bc  f     -     -         3845   40    0 
+redelf    918720433  3  1 Bf  -     -     -         3805   10    0 
+redelf    918720447  3  3 rr  c     c     rr        3795  300  700 6h 6d
+redelf    918720481  3  2 Bk  k     kf    -         4195   20    0 
+redelf    918720505  3  1 Bc  k     bf    -         4175   60    0 
+redelf    918720527  3  3 f   -     -     -         4115    0    0 
+redelf    918720532  3  2 Bk  k     k     k         4115   20   25 8h 6h
+redelf    918720544  3  1 Br  kc    kf    -         4120   60    0 
+redelf    918720563  3  3 rc  c     c     r         4060  200  520 8c Jc
+redelf    918720589  3  2 Bk  k     k     kf        4380   20    0 
+redelf    918720606  3  1 Bc  krc   kc    kc        4360  180    0 Td Ac
+redelf    918720628  3  3 cc  f     -     -         4180   40    0 
+redelf    918720648  3  2 Br  b     b     -         4140  100  170 
+redelf    918720661  3  1 Bf  -     -     -         4210   10    0 
+redelf    918720669  3  3 cc  c     c     c         4200  140  300 Qd 6d
+redelf    918720680  3  2 Bc  br    k     k         4360  100  240 Tc 7c
+redelf    918720704  3  1 Bc  kf    -     -         4500   40    0 
+redelf    918720719  3  3 f   -     -     -         4460    0    0 
+redelf    918720729  3  2 Bf  -     -     -         4460   20    0 
+redelf    918720743  3  1 Br  b     b     b         4440  140    0 Jh 9h
+redelf    918720760  3  3 r   k     f     -         4300   40    0 
+redelf    918720773  3  2 Bk  k     b     b         4260  100  220 9s 5c
+redelf    918720794  3  1 Bf  -     -     -         4380   10    0 
+redelf    918720805  3  3 f   -     -     -         4370    0    0 
+redelf    918720818  4  2 Br  cc    c     r         4370  260  880 Kc Qs
+redelf    918720863  4  1 Bc  kc    kc    kf        4990  120    0 
+redelf    918720930  4  4 f   -     -     -         4870    0    0 
+redelf    918720963  4  3 f   -     -     -         4870    0    0 
+redelf    918720981  4  2 Bf  -     -     -         4870   20    0 
+redelf    918720996  4  1 Bc  kc    kc    kc        4850  140    0 8s Kh
+redelf    918721018  4  4 rc  br    b     k         4710  180    0 Ac Th
+redelf    918721064  4  3 rc  rc    c     c         4530  200    0 8s 9s
+redelf    918721103  5  2 Bc  b     kc    k         4330  100    0 6h 5h
+redelf    918721136  5  1 Bc  b     b     -         4230   80  180 
+redelf    918721163  5  5 c   b     b     b         4330  120  280 2c 9c
+redelf    918721196  5  4 c   c     kc    kc        4490  140  370 8s Ac
+redelf    918721233  5  3 cc  bc    brc   kc        4720  280    0 5s Qs
+redelf    918721270  5  2 Bc  f     -     -         4440   40    0 
+redelf    918721285  5  1 Brr k     b     b         4400  160  420 Ad 4d
+redelf    918721316  5  5 c   c     r     cf        4660  160    0 
+redelf    918721376  5  4 f   -     -     -         4500    0    0 
+redelf    918721406  5  3 fQ  -     -     -         4500    0    0 
+redelf    919405415  2  2 Bc  c     c     k         2045  100    0 8c 7d
+redelf    919405428  2  1 Bc  k     k     b         1945   60   80 
+redelf    919405445  2  2 B   -     -     -         1965   20   30 
+redelf    919405447  2  1 Bf  -     -     -         1975   10    0 
+redelf    919405449  2  2 B   -     -     -         1965   20   30 
+redelf    919405451  2  1 Br  b     -     -         1975   60  100 
+redelf    919405458  2  2 Bc  f     -     -         2015   40    0 
+redelf    919405464  2  1 Br  -     -     -         1975   40   60 
+redelf    919405468  2  2 Bc  c     k     c         1995  100  200 6d 3d
+redelf    919405481  2  1 Br  kc    kc    k         2095  100    0 Kc 7d
+redelf    919405506  2  2 B   -     -     -         1995   20   30 
+redelf    919405511  2  1 Br  b     b     k         2005  100  200 6h Td
+redelf    919405523  2  2 Bf  -     -     -         2105   20    0 
+redelf    919405529  2  1 Bf  -     -     -         2085   10    0 
+redelf    919405532  2  2 Bc  c     r     k         2075  140  280 Jh 8h
+redelf    919405543  2  1 Brc kf    -     -         2215   60    0 
+redelf    919405555  2  2 B   -     -     -         2155   20   30 
+redelf    919405558  2  1 Br  kf    -     -         2165   40    0 
+redelf    919405571  2  2 Bc  c     f     -         2125   60    0 
+redelf    919405580  2  1 Bf  -     -     -         2065   10    0 
+redelf    919405583  2  2 B   -     -     -         2055   20   30 
+redelf    919405585  2  1 Brc b     b     -         2065  120  200 
+redelf    919405600  2  2 Bc  r     k     r         2145  160  280 
+redelf    919405617  2  1 Bf  -     -     -         2265   10    0 
+redelf    919405620  2  2 Bc  r     k     c         2255  120    0 Qc Kh
+redelf    919405633  2  1 Br  -     -     -         2135   40   60 
+redelf    919405640  2  2 B   -     -     -         2155   20   30 
+redelf    919405642  2  1 Br  kc    kc    kc        2165  140    0 As 8c
+redelf    919405658  2  2 Bf  -     -     -         2025   20    0 
+redelf    919405664  2  1 Br  -     -     -         2005   40   60 
+redelf    919405670  2  2 Bc  f     -     -         2025   40    0 
+redelf    919405675  2  1 Br  kr    kc    br        1985  240  480 Ks 2s
+redelf    919405702  2  2 Bf  -     -     -         2225   20    0 
+redelf    919405711  2  1 Br  -     -     -         2205   40   60 
+redelf    919405715  2  2 B   -     -     -         2225   20   30 
+redelf    919405717  2  1 Br  b     k     k         2235   60    0 Tc 9d
+redelf    919405729  2  2 B   -     -     -         2175   20   30 
+redelf    919405734  2  1 Bc  k     k     k         2185   20   40 2c Jc
+redelf    919405750  2  2 Bf  -     -     -         2205   20    0 
+redelf    919405756  2  1 Bf  -     -     -         2185   10    0 
+redelf    919405759  2  2 B   -     -     -         2175   20   30 
+redelf    919405762  2  1 Bf  -     -     -         2185   10    0 
+redelf    919405764  2  2 Bc  f     -     -         2175   40    0 
+redelf    919405769  2  1 Bf  -     -     -         2135   10    0 
+redelf    919405771  2  2 B   -     -     -         2125   20   30 
+redelf    919405773  2  1 Bf  -     -     -         2135   10    0 
+redelf    919405775  2  2 Bf  -     -     -         2125   20    0 
+redelf    919405778  2  1 Br  b     k     b         2105  100  160 
+redelf    919405791  2  2 Bc  f     -     -         2165   40    0 
+redelf    919405797  2  1 Br  -     -     -         2125   40   60 
+redelf    919405801  2  2 Br  b     k     f         2145   80    0 
+redelf    919405817  2  1 Bf  -     -     -         2065   10    0 
+redelf    919405820  2  2 B   -     -     -         2055   20   30 
+redelf    919405822  2  1 Br  b     kr    b         2065  180  320 
+redelf    919405838  2  2 Bf  -     -     -         2205   20    0 
+redelf    919405842  2  1 Br  -     -     -         2185   40   60 
+redelf    919405850  2  2 Br  k     r     b         2205  180  360 Ad Ts
+redelf    919405871  2  1 Bf  -     -     -         2385   10    0 
+redelf    919405877  2  2 Bf  -     -     -         2375   20    0 
+redelf    919405881  2  1 Bf  -     -     -         2355   10    0 
+redelf    919405883  2  2 Bf  -     -     -         2345   20    0 
+redelf    919405887  2  1 Br  -     -     -         2325   40   60 
+redelf    919405891  2  2 Bc  r     k     k         2345   80    0 Tc Ks
+redelf    919405904  2  1 Bf  -     -     -         2265   10    0 
+redelf    919405909  2  2 B   -     -     -         2255   20   30 
+redelf    919405916  2  1 Bf  -     -     -         2265   10    0 
+redelf    919405918  2  2 Bf  -     -     -         2255   20    0 
+redelf    919405926  2  1 Br  b     b     br        2235  220  400 
+redelf    919405946  3  2 Bf  -     -     -         2415   20    0 
+redelf    919405965  3  1 Bf  -     -     -         2395   10    0 
+redelf    919405987  3  3 f   -     -     -         2385    0    0 
+redelf    919405994  3  2 Br  kc    kc    k         2385  120  250 Kc Ad
+redelf    919406019  3  1 Bf  -     -     -         2515   10    0 
+redelf    919406026  3  3 r   -     -     -         2505   40   70 
+redelf    919406034  3  2 Bf  -     -     -         2535   20    0 
+redelf    919406041  3  1 Bc  kc    kf    -         2515   60    0 
+redelf    919406061  3  3 r   k     b     -         2455   80  130 
+redelf    919406077  3  2 Bc  f     -     -         2505   40    0 
+redelf    919406089  3  1 Bc  kf    -     -         2465   20    0 
+redelf    919406098  3  3 f   -     -     -         2445    0    0 
+redelf    919406102  3  2 B   -     -     -         2445   20   30 
+redelf    919406106  3  1 Br  b     k     k         2455   80  180 Qs Kd
+redelf    919406129  3  3 cf  -     -     -         2555   20    0 
+redelf    919406136  3  2 Bf  -     -     -         2535   20    0 
+redelf    919406151  3  1 Bf  -     -     -         2515   10    0 
+redelf    919406155  3  3 f   -     -     -         2505    0    0 
+redelf    919406166  3  2 B   -     -     -         2505   20   30 
+redelf    919406172  3  1 Br  b     k     b         2515  120  220 
+redelf    919406189  3  3 f   -     -     -         2615    0    0 
+redelf    919406192  3  2 Bc  c     r     -         2615  140  240 
+redelf    919406204  3  1 Br  kc    kf    -         2715   80    0 
+redelf    919406221  3  3 r   k     b     bc        2635  160  330 8h 9d
+redelf    919406261  3  2 Bf  -     -     -         2805   20    0 
+redelf    919406277  3  1 Bf  -     -     -         2785   10    0 
+redelf    919406303  3  3 r   b     -     -         2775   60  110 
+redelf    919406312  3  2 Bc  c     c     r         2825  180  360 7c 5c
+redelf    919406326  3  1 Bf  -     -     -         3005   10    0 
+redelf    919406343  3  3 r   k     b     b         2995  120  210 
+redelf    919406359  3  2 Bk  k     f     -         3085   20    0 
+redelf    919406377  3  1 Bf  -     -     -         3065   10    0 
+redelf    919406380  3  3 r   b     k     c         3055  100    0 Ah Jh
+redelf    919406400  3  2 Bk  c     c     r         2955  160  320 8h Kc
+redelf    919406428  3  1 Br  -     -     -         3115   40   60 
+redelf    919406441  3  3 f   -     -     -         3135    0    0 
+redelf    919406462  3  2 Bc  kf    -     -         3135   40    0 
+redelf    919406480  3  1 Bf  -     -     -         3095   10    0 
+redelf    919406501  3  3 r   k     f     -         3085   40    0 
+redelf    919406520  3  2 Bk  k     b     -         3045   60   80 
+redelf    919406534  3  1 Bf  -     -     -         3065   10    0 
+redelf    919406540  3  3 f   -     -     -         3055    0    0 
+redelf    919406548  3  2 Brrc c     c     k         3055  180  360 7c 7h
+redelf    919406568  3  1 Bf  -     -     -         3235   10    0 
+redelf    919406577  3  3 f   -     -     -         3225    0    0 
+redelf    919406595  3  2 Bc  k     cc    k         3225  120    0 Qs Ac
+redelf    919406622  3  1 Bf  -     -     -         3105   10    0 
+redelf    919406630  3  3 r   k     k     k         3095   40   90 6s As
+redelf    919406661  3  2 Br  kf    -     -         3145   60    0 
+redelf    919406680  3  1 Bf  -     -     -         3085   10    0 
+redelf    919406684  3  3 f   -     -     -         3075    0    0 
+redelf    919406688  3  2 Bf  -     -     -         3075   20    0 
+redelf    919406696  3  1 Bf  -     -     -         3055   10    0 
+redelf    919406702  3  3 c   k     b     -         3045   60   90 
+redelf    919406723  3  2 B   -     -     -         3075   20   30 
+redelf    919406729  3  1 Bf  -     -     -         3085   10    0 
+redelf    919406739  3  3 rrc c     c     c         3075  200    0 5h 5d
+redelf    919406768  3  2 Bc  c     c     k         2875  100    0 5s Ks
+redelf    919406789  3  1 Bf  -     -     -         2775   10    0 
+redelf    919406797  3  3 r   b     k     f         2765   60    0 
+redelf    919406814  3  2 Bc  c     b     -         2705  100  160 
+redelf    919406828  3  1 Bf  -     -     -         2765   10    0 
+redelf    919406836  3  3 f   -     -     -         2755    0    0 
+redelf    919406838  3  2 Bc  kc    kc    kc        2755  140    0 Qs Th
+redelf    919406856  3  1 Br  -     -     -         2615   40   60 
+redelf    919406864  3  3 rc  k     b     b         2635  140  300 8h Jh
+redelf    919406882  3  2 B   -     -     -         2795   20   30 
+redelf    919406887  3  1 Br  b     kr    b         2805  200  420 Jc Qs
+redelf    919406914  3  3 r   -     -     -         3025   40   70 
+redelf    919406925  3  2 Bc  kf    -     -         3055   40    0 
+redelf    919406936  3  1 Bf  -     -     -         3015   10    0 
+redelf    919406956  3  3 f   -     -     -         3005    0    0 
+redelf    919406963  3  2 Bf  -     -     -         3005   20    0 
+redelf    919406984  3  1 Bc  kc    kc    kr        2985  180  420 7d 8s
+redelf    919407012  3  3 f   -     -     -         3225    0    0 
+redelf    919407029  3  2 Bf  -     -     -         3225   20    0 
+redelf    919407033  3  1 Bf  -     -     -         3205   10    0 
+redelf    919407040  3  3 r   -     -     -         3195   40   70 
+redelf    919407043  3  2 Bc  b     k     kf        3225   60    0 
+redelf    919407061  3  1 Bf  -     -     -         3165   10    0 
+redelf    919407068  3  3 rc  r     b     b         3155  180  420 Tc Qh
+redelf    919407095  3  2 Bf  -     -     -         3395   20    0 
+redelf    919407107  3  1 Bf  -     -     -         3375   10    0 
+redelf    919407112  3  3 f   -     -     -         3365    0    0 
+redelf    919407116  3  2 Bc  c     c     c         3365  140    0 9s Qh
+redelf    919407127  3  1 Bcf -     -     -         3225   20    0 
+redelf    919407144  3  3 r   b     b     b         3205  140  290 Jh As
+redelf    919407161  3  2 Bf  -     -     -         3355   20    0 
+redelf    919407171  3  1 Bc  b     -     -         3335   40   60 
+redelf    919407179  3  3 f   -     -     -         3355    0    0 
+redelf    919407183  3  2 Bc  k     k     k         3355   40   90 8d Ks
+redelf    919407198  3  1 Bf  -     -     -         3405   10    0 
+redelf    919407216  3  3 f   -     -     -         3395    0    0 
+redelf    919407219  3  2 B   -     -     -         3395   20   30 
+redelf    919407226  3  1 Bc  b     -     -         3405   40   60 
+redelf    919407236  3  3 f   -     -     -         3425    0    0 
+redelf    919407240  3  2 Bc  kf    -     -         3425   40    0 
+redelf    919407256  3  1 Brrc bc    k     k         3385  160  340 7h 7d
+redelf    919407276  3  3 r   b     k     k         3565   60  130 Td As
+redelf    919407292  3  2 Bf  -     -     -         3635   20    0 
+redelf    919407298  3  1 Brc k     b     kc        3615  140  280 2h As
+redelf    919407326  3  3 f   -     -     -         3755    0    0 
+redelf    919407338  3  2 B   -     -     -         3755   20   30 
+redelf    919407340  3  1 Bf  -     -     -         3765   10    0 
+redelf    919407351  3  3 r   -     -     -         3755   40   70 
+redelf    919407353  3  2 B   -     -     -         3785   20   30 
+redelf    919407357  3  1 Bf  -     -     -         3795   10    0 
+redelf    919407361  3  3 r   b     b     k         3785  100  210 5h 5d
+redelf    919407379  3  2 Bf  -     -     -         3895   20    0 
+redelf    919407417  3  1 Bf  -     -     -         3875   10    0 
+redelf    919407430  3  3 f   -     -     -         3865    0    0 
+redelf    919407444  3  2 B   -     -     -         3865   20   30 
+redelf    919407449  3  1 Bcf -     -     -         3875   40    0 
+redelf    919407464  3  3 f   -     -     -         3835    0    0 
+redelf    919407471  3  2 Bk  c     c     c         3835  120    0 Js 7d
+redelf    919407485  3  1 Bf  -     -     -         3715   10    0 
+redelf    919407490  3  3 r   k     b     b         3705  120  250 6h Ks
+redelf    919407507  3  2 Bf  -     -     -         3835   20    0 
+redelf    919407514  3  1 Bf  -     -     -         3815   10    0 
+redelf    919407519  3  3 f   -     -     -         3805    0    0 
+redelf    919407523  3  2 Brc k     k     k         3805   80    0 5s Kh
+redelf    919407567  4  1 Bcc kf    -     -         3725   60    0 
+redelf    919407616  5  5 c   f     -     -         3665   40    0 
+redelf    919407654  5  4 rc  c     r     b         3625  220  630 Th Js
+redelf    919407687  5  3 f   -     -     -         4035    0    0 
+redelf    919407707  5  2 Bf  -     -     -         4035   20    0 
+redelf    919407729  5  1 Bf  -     -     -         4015   10    0 
+redelf    919407756  5  5 fQ  -     -     -         4005    0    0 

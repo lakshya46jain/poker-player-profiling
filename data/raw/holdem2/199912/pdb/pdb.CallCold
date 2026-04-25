@@ -1,0 +1,940 @@
+CallCold  944629424 10  5 f   -     -     -         2024    0    0 
+CallCold  944629491 10  4 f   -     -     -         2024    0    0 
+CallCold  944629538 10  3 f   -     -     -         2024    0    0 
+CallCold  944629613 10  2 Br  b     b     b         2024  140  250 
+CallCold  944629645 10  1 Bf  -     -     -         2134   10    0 
+CallCold  944629676  9  9 c   c     f     -         2124   60    0 
+CallCold  944629729 10  9 f   -     -     -         2064    0    0 
+CallCold  944629758 10  8 c   f     -     -         2064   20    0 
+CallCold  944629801 10  7 f   -     -     -         2044    0    0 
+CallCold  944629863 10  6 f   -     -     -         2044    0    0 
+CallCold  944629936 10  6 f   -     -     -         2044    0    0 
+CallCold  944629970 10  5 cc  kf    -     -         2044   40    0 
+CallCold  944630038  9  3 f   -     -     -         2004    0    0 
+CallCold  944630064  9  2 Bk  b     b     k         2004   80  220 Ts Jd
+CallCold  944630108  9  1 Bcc kf    -     -         2144   40    0 
+CallCold  944630149  9  9 f   -     -     -         2104    0    0 
+CallCold  944630160  9  8 f   -     -     -         2104    0    0 
+CallCold  944630239  9  7 r   bc    c     c         2104  160    0 Ac As
+CallCold  944630283  9  6 c   kf    -     -         1944   20    0 
+CallCold  944630334  9  5 f   -     -     -         1924    0    0 
+CallCold  944630400  9  4 c   kf    -     -         1924   20    0 
+CallCold  944630460  9  3 f   -     -     -         1904    0    0 
+CallCold  944630478  9  2 Bc  kc    kc    kc        1904  140    0 Jd 9h
+CallCold  944630539  9  1 Bf  -     -     -         1764   10    0 
+CallCold  944630563  9  9 f   -     -     -         1754    0    0 
+CallCold  944630589  8  7 r   c     c     k         1754  100  230 Kh Jc
+CallCold  944630638  8  6 f   -     -     -         1884    0    0 
+CallCold  944630672  8  5 f   -     -     -         1884    0    0 
+CallCold  944630706  9  4 f   -     -     -         1884    0    0 
+CallCold  944630748  9  3 f   -     -     -         1884    0    0 
+CallCold  944630773  9  2 Bf  -     -     -         1884   20    0 
+CallCold  944630798  9  1 Bf  -     -     -         1864   10    0 
+CallCold  944630816  9  9 f   -     -     -         1854    0    0 
+CallCold  944630841 10  8 cc  kf    -     -         1854   40    0 
+CallCold  944630894 10  7 f   -     -     -         1814    0    0 
+CallCold  944630935 10  6 r   -     -     -         1814   40   70 
+CallCold  944630952 10  5 cc  kf    -     -         1844   40    0 
+CallCold  944631026 10  4 f   -     -     -         1804    0    0 
+CallCold  944631044 10  3 f   -     -     -         1804    0    0 
+CallCold  944631092 10  2 Bf  -     -     -         1804   20    0 
+CallCold  944631107 10  1 Bf  -     -     -         1784   10    0 
+CallCold  944631123 10 10 c   k     k     k         1774   20    0 As 7s
+CallCold  944631201 10  9 cc  kf    -     -         1754   40    0 
+CallCold  944631253  9  7 f   -     -     -         1714    0    0 
+CallCold  944631302  9  6 f   -     -     -         1714    0    0 
+CallCold  944631377  9  5 c   kf    -     -         1714   20    0 
+CallCold  944631431  9  4 cc  r     rc    kc        1694  240    0 8s As
+CallCold  944631543  9  3 r   c     r     b         1454  180  440 Qs Qd
+CallCold  944631608  9  2 Bf  -     -     -         1714   20    0 
+CallCold  944631629  9  1 Bf  -     -     -         1694   10    0 
+CallCold  944631692  9  9 r   k     k     f         1684   60    0 
+CallCold  944631753  9  8 f   -     -     -         1624    0    0 
+CallCold  944631796  9  7 f   -     -     -         1624    0    0 
+CallCold  944631847  9  6 f   -     -     -         1624    0    0 
+CallCold  944631863  9  5 cc  kf    -     -         1624   40    0 
+CallCold  944631909  9  4 r   b     bc    k         1584  140  310 Kc Ts
+CallCold  944631948  9  3 cc  kf    -     -         1754   40    0 
+CallCold  944631989  9  2 Bc  kf    -     -         1714   40    0 
+CallCold  944632056  9  1 Bf  -     -     -         1674   10    0 
+CallCold  944632102  9  9 rc  f     -     -         1664   80    0 
+CallCold  944632154  9  8 f   -     -     -         1584    0    0 
+CallCold  944632188  8  6 f   -     -     -         1584    0    0 
+CallCold  944632217  8  5 rr  rc    b     k         1584  180  570 Qh Qc
+CallCold  944632277  8  4 f   -     -     -         1974    0    0 
+CallCold  944632329  9  3 f   -     -     -         1974    0    0 
+CallCold  944632399  9  2 Br  bf    -     -         1974   60    0 
+CallCold  944632464  9  1 Bc  kc    b     k         1914  100  360 9d Td
+CallCold  944632513  9  9 c   f     -     -         2174   20    0 
+CallCold  944632589  9  8 r   k     c     k         2154  100    0 7s 7h
+CallCold  944632667  8  6 f   -     -     -         2054    0    0 
+CallCold  944632677  8  5 f   -     -     -         2054    0    0 
+CallCold  944632722  8  4 f   -     -     -         2054    0    0 
+CallCold  944632776  8  3 f   -     -     -         2054    0    0 
+CallCold  944632827  8  2 Bk  kf    -     -         2054   20    0 
+CallCold  944632870  8  1 Bf  -     -     -         2034   10    0 
+CallCold  944632886  8  8 r   b     c     b         2024  140  290 
+CallCold  944632931  8  7 f   -     -     -         2174    0    0 
+CallCold  944632977  8  6 r   c     c     c         2174  140    0 Th Tc
+CallCold  944633033  8  5 c   c     c     k         2034   80  200 Jd Qs
+CallCold  944633077  8  4 f   -     -     -         2154    0    0 
+CallCold  944633094  8  3 f   -     -     -         2154    0    0 
+CallCold  944633167  8  2 Bf  -     -     -         2154   20    0 
+CallCold  944633204  8  1 Bc  b     kc    kc        2134  120    0 2c 2s
+CallCold  944633281  8  8 f   -     -     -         2014    0    0 
+CallCold  944633320  9  8 f   -     -     -         2014    0    0 
+CallCold  944633360  9  7 f   -     -     -         2014    0    0 
+CallCold  944633391  9  6 f   -     -     -         2014    0    0 
+CallCold  944633425  9  5 c   c     f     -         2014   40    0 
+CallCold  944633483 10  5 f   -     -     -         1974    0    0 
+CallCold  944633515 10  4 c   kf    -     -         1974   20    0 
+CallCold  944633571 10  3 c   b     b     bc        1954  160    0 8s 9d
+CallCold  944633644 10  2 Bk  r     bc    kc        1794  180    0 8d 9h
+CallCold  944633732 10  1 Bf  -     -     -         1614   10    0 
+CallCold  944633776 10 10 f   -     -     -         1604    0    0 
+CallCold  944633818 10  9 cc  k     r     k         1604  120  320 9c Qd
+CallCold  944633889 10  8 f   -     -     -         1804    0    0 
+CallCold  944633923 10  7 c   c     c     b         1804  120  300 Js Tc
+CallCold  944633980 10  6 f   -     -     -         1984    0    0 
+CallCold  944634016 10  5 f   -     -     -         1984    0    0 
+CallCold  944634050 10  4 c   c     c     k         1984   80    0 8s 7d
+CallCold  944634109 10  3 f   -     -     -         1904    0    0 
+CallCold  944634138 10  2 Bk  kf    -     -         1904   20    0 
+CallCold  944634205 10  1 Bc  kc    kf    -         1884   40    0 
+CallCold  944634280 10 10 f   -     -     -         1844    0    0 
+CallCold  944634307 10  9 f   -     -     -         1844    0    0 
+CallCold  944634347 10  8 f   -     -     -         1844    0    0 
+CallCold  944634377 10  7 f   -     -     -         1844    0    0 
+CallCold  944634457 10  6 f   -     -     -         1844    0    0 
+CallCold  944634504 10  5 f   -     -     -         1844    0    0 
+CallCold  944634554 10  4 f   -     -     -         1844    0    0 
+CallCold  944634588 10  4 f   -     -     -         1844    0    0 
+CallCold  944634645 10  2 Bk  cf    -     -         1844   40    0 
+CallCold  944634700 10  1 Bf  -     -     -         1804   10    0 
+CallCold  944634745 10 10 f   -     -     -         1794    0    0 
+CallCold  944634785 10  9 f   -     -     -         1794    0    0 
+CallCold  944634834 10  8 f   -     -     -         1794    0    0 
+CallCold  944634899 10  7 f   -     -     -         1794    0    0 
+CallCold  944634936 10  6 r   b     b     b         1794  140    0 Kh Qc
+CallCold  944634988 10  5 rQ  -     -     -         1654   40    0 
+CallCold  944948056 10  6 f   -     -     -         2129    0    0 
+CallCold  944948072 10  5 r   f     -     -         2129   40    0 
+CallCold  944948095 10  4 f   -     -     -         2089    0    0 
+CallCold  944948122 10  3 cc  kf    -     -         2089   40    0 
+CallCold  944948195 10  2 Bf  -     -     -         2049   20    0 
+CallCold  944948248 10  1 Bc  k     b     -         2029   60  120 
+CallCold  944948287 10 10 f   -     -     -         2089    0    0 
+CallCold  944948357 10  9 rc  c     c     c         2089  160  340 8c 8s
+CallCold  944948389 10  8 f   -     -     -         2269    0    0 
+CallCold  944948438 10  7 f   -     -     -         2269    0    0 
+CallCold  944948501 10  6 f   -     -     -         2269    0    0 
+CallCold  944948558 10  5 f   -     -     -         2269    0    0 
+CallCold  944948641 10  4 f   -     -     -         2269    0    0 
+CallCold  944948702 10  3 f   -     -     -         2269    0    0 
+CallCold  944948735 10  2 Bf  -     -     -         2269   20    0 
+CallCold  944948796 10  1 Bf  -     -     -         2249   10    0 
+CallCold  944948836 10 10 f   -     -     -         2239    0    0 
+CallCold  944948886 10  9 cc  c     c     c         2239  140    0 9c 8c
+CallCold  944948940  9  7 f   -     -     -         2099    0    0 
+CallCold  944948960 10  7 f   -     -     -         2099    0    0 
+CallCold  944948980  9  5 f   -     -     -         2099    0    0 
+CallCold  944949040 10  5 f   -     -     -         2099    0    0 
+CallCold  944949090 10  4 f   -     -     -         2099    0    0 
+CallCold  944949153 10  3 f   -     -     -         2099    0    0 
+CallCold  944949192  8  2 Bf  -     -     -         2099   20    0 
+CallCold  944949232  8  1 Br  b     b     b         2079  140  280 
+CallCold  944949282  8  8 f   -     -     -         2219    0    0 
+CallCold  944949325  8  7 f   -     -     -         2219    0    0 
+CallCold  944949376  8  6 r   kc    kf    -         2219   80    0 
+CallCold  944949419 10  5 f   -     -     -         2139    0    0 
+CallCold  944949460 10  4 rc  f     -     -         2139   60    0 
+CallCold  944949494 10  3 f   -     -     -         2079    0    0 
+CallCold  944949528 10  2 Bk  b     -     -         2079   40  100 
+CallCold  944949560  9  1 Bf  -     -     -         2139   10    0 
+CallCold  944949597  9  9 f   -     -     -         2129    0    0 
+CallCold  944949669 10  9 f   -     -     -         2129    0    0 
+CallCold  944949724 10  8 f   -     -     -         2129    0    0 
+CallCold  944949769  9  6 c   c     f     -         2129   60    0 
+CallCold  944949813  9  5 r   b     kc    k         2069  100  250 Qh Jh
+CallCold  944949874  9  4 f   -     -     -         2219    0    0 
+CallCold  944949927 10  3 f   -     -     -         2219    0    0 
+CallCold  944949995 10  2 Bf  -     -     -         2219   20    0 
+CallCold  944950011 10  1 Bc  kf    -     -         2199   20    0 
+CallCold  944950071  9  9 f   -     -     -         2179    0    0 
+CallCold  944950113 10  9 f   -     -     -         2179    0    0 
+CallCold  944950169 10  8 f   -     -     -         2179    0    0 
+CallCold  944950195 10  7 f   -     -     -         2179    0    0 
+CallCold  944950258 10  6 f   -     -     -         2179    0    0 
+CallCold  944950314 10  5 f   -     -     -         2179    0    0 
+CallCold  944950383 10  4 f   -     -     -         2179    0    0 
+CallCold  944950424 10  3 f   -     -     -         2179    0    0 
+CallCold  944950499 10  2 Bf  -     -     -         2179   20    0 
+CallCold  944950542 10  1 Bf  -     -     -         2159   10    0 
+CallCold  944950597 10 10 f   -     -     -         2149    0    0 
+CallCold  944950694 10  9 c   kf    -     -         2149   20    0 
+CallCold  944950759 10  8 f   -     -     -         2129    0    0 
+CallCold  944950868 10  7 rc  f     -     -         2129   60    0 
+CallCold  944950946 10  6 f   -     -     -         2069    0    0 
+CallCold  944950974 10  5 f   -     -     -         2069    0    0 
+CallCold  944951046 10  4 c   b     b     k         2069   80  230 6c 6d
+CallCold  944951090 10  3 fQ  -     -     -         2219    0    0 
+CallCold  944954712  9  5 f   -     -     -         2219    0    0 
+CallCold  944954758  8  4 f   -     -     -         2219    0    0 
+CallCold  944954800  8  3 f   -     -     -         2219    0    0 
+CallCold  944954812  8  2 Bk  b     -     -         2219   40   70 
+CallCold  944954840  7  1 Bf  -     -     -         2249   10    0 
+CallCold  944954848  7  7 f   -     -     -         2239    0    0 
+CallCold  944954891  8  7 f   -     -     -         2239    0    0 
+CallCold  944954916  8  6 f   -     -     -         2239    0    0 
+CallCold  944954959  8  5 c   kf    -     -         2239   20    0 
+CallCold  944954988  9  5 r   k     kc    k         2219   80  230 Ah Th
+CallCold  944955049 10  4 f   -     -     -         2369    0    0 
+CallCold  944955110 10  3 f   -     -     -         2369    0    0 
+CallCold  944955128 10  2 Bk  kc    kc    c         2369  120  180 4s 5c
+CallCold  944955180 10  1 Bf  -     -     -         2429   10    0 
+CallCold  944955233 10 10 cc  f     -     -         2419   40    0 
+CallCold  944955285 10  9 f   -     -     -         2379    0    0 
+CallCold  944955342 10  8 f   -     -     -         2379    0    0 
+CallCold  944955435 10  7 f   -     -     -         2379    0    0 
+CallCold  944955477 10  6 f   -     -     -         2379    0    0 
+CallCold  944955507 10  5 cc  kf    -     -         2379   40    0 
+CallCold  944955580 10  4 f   -     -     -         2339    0    0 
+CallCold  944955622 10  3 f   -     -     -         2339    0    0 
+CallCold  944955652 10  2 Bk  kf    -     -         2339   20    0 
+CallCold  944955732 10  1 Bf  -     -     -         2319   10    0 
+CallCold  944955778 10 10 c   b     b     -         2309   80  160 
+CallCold  944955833 10  9 f   -     -     -         2389    0    0 
+CallCold  944955845 10  8 f   -     -     -         2389    0    0 
+CallCold  944955867 10  7 f   -     -     -         2389    0    0 
+CallCold  944955915 10  6 f   -     -     -         2389    0    0 
+CallCold  944955963 10  5 cc  kc    kc    kc        2389  140    0 7s 8d
+CallCold  944956028 10  4 f   -     -     -         2249    0    0 
+CallCold  944956078 10  3 f   -     -     -         2249    0    0 
+CallCold  944956114 10  2 Bf  -     -     -         2249   20    0 
+CallCold  944956144 10  1 Bc  kf    -     -         2229   20    0 
+CallCold  944956180 10 10 f   -     -     -         2209    0    0 
+CallCold  944956218 10  9 r   b     b     b         2209  140  370 
+CallCold  944956275 10  8 f   -     -     -         2439    0    0 
+CallCold  944956287 10  7 f   -     -     -         2439    0    0 
+CallCold  944956315 10  6 f   -     -     -         2439    0    0 
+CallCold  944956356 10  5 f   -     -     -         2439    0    0 
+CallCold  944956400 10  4 f   -     -     -         2439    0    0 
+CallCold  944956433 10  3 f   -     -     -         2439    0    0 
+CallCold  944956491 10  2 Bcc f     -     -         2439   80    0 
+CallCold  944956539 10  1 Bf  -     -     -         2359   10    0 
+CallCold  944956590 10 10 f   -     -     -         2349    0    0 
+CallCold  944956643 10  9 c   f     -     -         2349   40    0 
+CallCold  944956683 10  8 f   -     -     -         2309    0    0 
+CallCold  944956715 10  7 f   -     -     -         2309    0    0 
+CallCold  944956749 10  6 f   -     -     -         2309    0    0 
+CallCold  944956784 10  5 f   -     -     -         2309    0    0 
+CallCold  944956810 10  4 f   Q     -     -         2309    0    0 
+CallCold  944968408  8  7 f   -     -     -         2309    0    0 
+CallCold  944968434  8  6 f   -     -     -         2309    0    0 
+CallCold  944968465  8  5 f   -     -     -         2309    0    0 
+CallCold  944968494  8  4 cc  c     c     cf        2309  140    0 
+CallCold  944968557  8  3 f   -     -     -         2169    0    0 
+CallCold  944968628  8  2 Bk  kf    -     -         2169   20    0 
+CallCold  944968680  9  1 Bf  -     -     -         2149   10    0 
+CallCold  944968724  9  9 f   -     -     -         2139    0    0 
+CallCold  944968811  9  8 f   -     -     -         2139    0    0 
+CallCold  944968851  9  7 f   -     -     -         2139    0    0 
+CallCold  944968901  9  6 f   -     -     -         2139    0    0 
+CallCold  944968944  9  6 f   -     -     -         2139    0    0 
+CallCold  944968980  7  3 f   -     -     -         2139    0    0 
+CallCold  944969051  5  1 B   -     -     -         2139   20   20 
+CallCold  944969061  5  1 Br  b     -     -         2139   60  140 
+CallCold  944969082  5  5 c   k     b     k         2219   60  150 Ac Th
+CallCold  944969115  4  3 Q   -     -     -         2309    0    0 
+CallCold  944972733 10  9 f   -     -     -         2309    0    0 
+CallCold  944972825 10  8 c   b     c     k         2309  100  310 Ah As
+CallCold  944972865 10  7 c   f     -     -         2519   40    0 
+CallCold  944972917 10  6 cc  b     kc    k         2479  100  280 9d As
+CallCold  944972974 10  5 f   -     -     -         2659    0    0 
+CallCold  944973040 10  4 f   -     -     -         2659    0    0 
+CallCold  944973086 10  3 f   -     -     -         2659    0    0 
+CallCold  944973161 10  2 Bk  kf    -     -         2659   20    0 
+CallCold  944973196 10  1 Bf  -     -     -         2639   10    0 
+CallCold  944973283 10 10 f   -     -     -         2629    0    0 
+CallCold  944973331 10  9 f   -     -     -         2629    0    0 
+CallCold  944973381 10  8 c   f     -     -         2629   40    0 
+CallCold  944973439 10  7 f   -     -     -         2589    0    0 
+CallCold  944973490 10  6 f   -     -     -         2589    0    0 
+CallCold  944973560 10  5 f   -     -     -         2589    0    0 
+CallCold  944973623 10  4 f   -     -     -         2589    0    0 
+CallCold  944973670 10  3 f   -     -     -         2589    0    0 
+CallCold  944973715 10  2 Bc  kc    kc    kf        2589  100    0 
+CallCold  944973794 10  1 Bc  kf    -     -         2489   40    0 
+CallCold  944973880 10 10 f   -     -     -         2449    0    0 
+CallCold  944973919 10  9 cc  f     -     -         2449   40    0 
+CallCold  944973963 10  8 f   -     -     -         2409    0    0 
+CallCold  944974008 10  7 f   -     -     -         2409    0    0 
+CallCold  944974079 10  6 f   -     -     -         2409    0    0 
+CallCold  944974161 10  5 f   -     -     -         2409    0    0 
+CallCold  944974209 10  4 f   -     -     -         2409    0    0 
+CallCold  944974264 10  3 f   -     -     -         2409    0    0 
+CallCold  944974357 10  2 Bf  -     -     -         2409   20    0 
+CallCold  944974419 10  1 Bf  -     -     -         2389   10    0 
+CallCold  944974458 10 10 f   -     -     -         2379    0    0 
+CallCold  944974487 10  9 cr  c     c     c         2379  180    0 Qh Qd
+CallCold  944974570 10  8 f   -     -     -         2199    0    0 
+CallCold  944974635 10  7 cc  c     f     -         2199   60    0 
+CallCold  944974704 10  6 f   -     -     -         2139    0    0 
+CallCold  944974755 10  5 f   -     -     -         2139    0    0 
+CallCold  944974812 10  4 f   -     -     -         2139    0    0 
+CallCold  944974895 10  3 f   -     -     -         2139    0    0 
+CallCold  944975014 10  2 Bk  bc    br    b         2139  220    0 Kd 9d
+CallCold  944975095 10  1 Br  b     b     -         1919  100  240 
+CallCold  944975131 10 10 r   -     -     -         2059   40   70 
+CallCold  944975144 10  9 r   b     k     k         2089   60  170 Ac Tc
+CallCold  944975186 10  8 c   f     -     -         2199   20    0 
+CallCold  944975234 10  7 rc  cc    bc    kc        2179  220    0 Th Jc
+CallCold  944975324 10  6 f   -     -     -         1959    0    0 
+CallCold  944975418  9  4 f   -     -     -         1959    0    0 
+CallCold  944975443  9  3 cc  kf    -     -         1959   40    0 
+CallCold  944975507 10  2 Bf  -     -     -         1919   20    0 
+CallCold  944975547 10  1 Bc  kc    kc    b         1899  120  260 
+CallCold  944975627 10 10 f   -     -     -         2039    0    0 
+CallCold  944975680 10  9 f   -     -     -         2039    0    0 
+CallCold  944975730 10  8 f   -     -     -         2039    0    0 
+CallCold  944975764 10  7 r   br    b     b         2039  180  630 9c 9d
+CallCold  944975836 10  6 cc  kc    f     -         2489   60    0 
+CallCold  944975954 10  5 r   rc    k     f         2429  100    0 
+CallCold  944976072 10  4 f   -     -     -         2329    0    0 
+CallCold  944976153 10  3 cc  bc    kc    kc        2329  160    0 Qc 9c
+CallCold  944976242  8  2 Bf  Q     -     -         2169   20    0 
+CallCold  944976692  9  2 Bk  k     bf    -         2149   60    0 
+CallCold  944976736 10  1 Bf  -     -     -         2089   10    0 
+CallCold  944976786 10 10 f   -     -     -         2079    0    0 
+CallCold  944976847 10  9 f   -     -     -         2079    0    0 
+CallCold  944976920  9  8 r   -     -     -         2079   40   70 
+CallCold  944976946 10  7 f   -     -     -         2109    0    0 
+CallCold  944976973 10  6 f   -     -     -         2109    0    0 
+CallCold  944977023 10  5 f   -     -     -         2109    0    0 
+CallCold  944977071 10  4 f   -     -     -         2109    0    0 
+CallCold  944977116 10  3 f   -     -     -         2109    0    0 
+CallCold  944977179 10  2 Bc  kf    -     -         2109   40    0 
+CallCold  944977233  9  1 Bf  -     -     -         2069   10    0 
+CallCold  944977296  9  9 f   -     -     -         2059    0    0 
+CallCold  944977351  9  8 f   -     -     -         2059    0    0 
+CallCold  944977391  9  7 f   -     -     -         2059    0    0 
+CallCold  944977445  9  6 rc  r     b     b         2059  200  620 
+CallCold  944977535  9  5 c   kf    -     -         2479   20    0 
+CallCold  944977601 10  5 f   -     -     -         2459    0    0 
+CallCold  944977650  9  4 rc  r     k     c         2459  140    0 Js Th
+CallCold  944977723  9  3 f   -     -     -         2319    0    0 
+CallCold  944977810  9  2 Bk  kc    kf    -         2319   40    0 
+CallCold  944977860  9  1 Br  b     -     -         2279   60  100 
+CallCold  944977884  9  9 r   c     k     f         2319   60    0 
+CallCold  944977995  8  7 r   r     k     k         2259   80  330 Ts Ks
+CallCold  944978058  8  5 f   -     -     Q         2509    0    0 
+CallCold  944984235 10 10 f   -     -     -         2509    0    0 
+CallCold  944984312 10  9 f   -     -     -         2509    0    0 
+CallCold  944984414  9  7 f   -     -     -         2509    0    0 
+CallCold  944984473 10  7 f   -     -     -         2509    0    0 
+CallCold  944984532 10  6 f   -     -     -         2509    0    0 
+CallCold  944984596 10  5 rc  k     kc    bc        2509  180    0 Ad Kh
+CallCold  944984655 10  4 f   -     -     -         2329    0    0 
+CallCold  944984742 10  3 f   -     -     -         2329    0    0 
+CallCold  944984836 10  2 Bk  bf    -     -         2329   40    0 
+CallCold  944984882 10  1 Bf  -     -     -         2289   10    0 
+CallCold  944984910 10 10 f   -     -     -         2279    0    0 
+CallCold  944984964 10  9 f   -     -     -         2279    0    0 
+CallCold  944985019 10  8 r   rc    c     k         2279  140    0 Qc Qh
+CallCold  944985124  9  7 c   f     -     -         2139   40    0 
+CallCold  944985160 10  6 f   -     -     -         2099    0    0 
+CallCold  944985225 10  5 f   -     -     -         2099    0    0 
+CallCold  944985271  9  3 f   -     -     -         2099    0    0 
+CallCold  944985337 10  3 cc  kQ    -     -         2099   40    0 
+CallCold  945023531 10  9 f   -     -     -         2059    0    0 
+CallCold  945023587 10  8 f   -     -     -         2059    0    0 
+CallCold  945023641 10  7 f   -     -     -         2059    0    0 
+CallCold  945023678 10  6 f   -     -     -         2059    0    0 
+CallCold  945023718 10  5 f   -     -     -         2059    0    0 
+CallCold  945023757 10  4 c   k     f     -         2059   20    0 
+CallCold  945023824 10  3 f   -     -     -         2039    0    0 
+CallCold  945023877 10  2 Bk  b     b     b         2039  120  340 Qh 6d
+CallCold  945023930 10  1 Bf  -     -     -         2259   10    0 
+CallCold  945023968 10 10 c   c     KQ    -         2249   80    0 
+CallCold  945024254 10  4 f   -     -     -         2169    0    0 
+CallCold  945024290 10  3 c   cc    kc    kc        2169  140    0 Th 9s
+CallCold  945024398 10  2 Bk  bc    bc    b         2029  180  440 Ts 6h
+CallCold  945024467 10  1 Bf  -     -     -         2289   10    0 
+CallCold  945024512 10 10 c   c     c     k         2279  120    0 Th 7h
+CallCold  945024603 10  9 f   -     -     -         2159    0    0 
+CallCold  945024669 10  8 f   -     -     -         2159    0    0 
+CallCold  945024740 10  7 rc  f     -     -         2159   60    0 
+CallCold  945024783 10  6 r   b     b     b         2099  140  420 9c 9d
+CallCold  945024844 10  5 cc  bc    br    b         2379  240  580 6s 6h
+CallCold  945024941 10  4 cc  k     f     -         2719   60    0 
+CallCold  945025043 10  3 f   -     -     -         2659    0    0 
+CallCold  945025106 10  2 Bk  b     rr    b         2659  240  520 8s 9c
+CallCold  945025170 10  1 Bc  kf    -     -         2939   20    0 
+CallCold  945025255 10 10 f   -     -     -         2919    0    0 
+CallCold  945025316 10  9 f   -     -     -         2919    0    0 
+CallCold  945025365 10  8 c   rc    b     -         2919  140  290 
+CallCold  945025400 10  7 c   f     -     -         3069   20    0 
+CallCold  945025446 10  6 f   -     -     -         3049    0    0 
+CallCold  945025503 10  5 c   kf    -     -         3049   20    0 
+CallCold  945025551 10  4 f   -     -     -         3029    0    0 
+CallCold  945025601 10  3 cc  kcf   -     -         3029   60    0 
+CallCold  945025691 10  2 Bk  kf    -     -         2969   20    0 
+CallCold  945025745 10  1 Bf  -     -     -         2949   10    0 
+CallCold  945025790 10 10 f   -     -     -         2939    0    0 
+CallCold  945025835 10  9 c   f     -     -         2939   20    0 
+CallCold  945025873 10  8 r   bc    b     b         2919  160  410 Qs 9s
+CallCold  945025922 10  7 f   -     -     -         3169    0    0 
+CallCold  945025965 10  6 f   -     -     -         3169    0    0 
+CallCold  945026005 10  5 f   -     -     -         3169    0    0 
+CallCold  945026079 10  4 f   -     -     -         3169    0    0 
+CallCold  945026149  9  3 cc  kc    kf    -         3169   60    0 
+CallCold  945026211  9  2 Bk  rf    -     -         3109   60    0 
+CallCold  945026287 10  1 Bf  -     -     -         3049   10    0 
+CallCold  945026334  9  9 r   b     b     b         3039  160    0 9h Qh
+CallCold  945026373  9  9 r   b     b     b         2879  180  470 Qd Ts
+CallCold  945026431 10  8 f   -     -     -         3169    0    0 
+CallCold  945026464  9  7 f   -     -     -         3169    0    0 
+CallCold  945026485  9  6 f   -     -     -         3169    0    0 
+CallCold  945026521  9  5 f   -     -     -         3169    0    0 
+CallCold  945026568  9  4 r   c     f     -         3169   60    0 
+CallCold  945026596  9  3 fQ  -     -     -         3109    0    0 
+CallCold  945028149 10  3 cc  k     bf    -         3109   80    0 
+CallCold  945028188 10  2 Bk  kf    -     -         3029   20    0 
+CallCold  945028229 10  1 Bc  kc    kf    -         3009   40    0 
+CallCold  945028262 10 10 c   f     -     -         2969   20    0 
+CallCold  945028290 10  9 f   -     -     -         2949    0    0 
+CallCold  945028319 10  8 f   -     -     -         2949    0    0 
+CallCold  945028361 10  7 f   -     -     -         2949    0    0 
+CallCold  945028401 10  6 c   r     c     f         2949  100    0 
+CallCold  945028445 10  5 f   -     -     -         2849    0    0 
+CallCold  945028494 10  4 c   r     b     b         2849  140  300 Qh 6h
+CallCold  945028568 10  3 f   -     -     -         3009    0    0 
+CallCold  945028658 10  2 Bf  -     -     -         3009   20    0 
+CallCold  945028704 10  1 Bf  -     -     -         2989   10    0 
+CallCold  945028767 10 10 f   -     -     -         2979    0    0 
+CallCold  945028804 10  9 f   -     -     -         2979    0    0 
+CallCold  945028825 10  8 f   -     -     -         2979    0    0 
+CallCold  945028849 10  7 cc  kc    k     b         2979  100    0 4d Ad
+CallCold  945028901 10  6 f   -     -     -         2879    0    0 
+CallCold  945028955 10  5 r   bc    kc    k         2879  120  270 Qh Qs
+CallCold  945028993 10  4 c   bc    kc    kf        3029  100    0 
+CallCold  945029063 10  3 f   -     -     -         2929    0    0 
+CallCold  945029088 10  2 Bk  b     b     b         2929  120  210 
+CallCold  945029127 10  1 Bf  -     -     -         3019   10    0 
+CallCold  945029160 10 10 c   k     b     -         3009   60  100 
+CallCold  945029192 10  9 r   c     f     -         3049   80    0 
+CallCold  945029237 10  8 f   -     -     -         2969    0    0 
+CallCold  945029259 10  7 f   -     -     -         2969    0    0 
+CallCold  945029300 10  6 f   -     -     -         2969    0    0 
+CallCold  945029356 10  5 f   -     -     -         2969    0    0 
+CallCold  945029389 10  4 f   -     -     -         2969    0    0 
+CallCold  945029433 10  3 cc  b     b     b         2969  140  370 Th Kd
+CallCold  945029478 10  2 Bc  kc    k     b         3199  100  230 
+CallCold  945029532 10  1 Bf  -     -     -         3329   10    0 
+CallCold  945029582 10 10 c   f     -     -         3319   40    0 
+CallCold  945029616 10  9 f   -     -     -         3279    0    0 
+CallCold  945029654  9  7 c   f     -     -         3279   20    0 
+CallCold  945029703  9  6 f   -     -     -         3259    0    0 
+CallCold  945029744  9  5 f   -     -     -         3259    0    0 
+CallCold  945029810  9  4 f   -     -     -         3259    0    0 
+CallCold  945029855  8  2 Bf  -     -     -         3259   20    0 
+CallCold  945029952  7  1 Bf  -     -     -         3239   10    0 
+CallCold  945029975  7  7 r   k     b     -         3229   80  190 
+CallCold  945030028  8  7 f   -     -     -         3339    0    0 
+CallCold  945030036  8  7 f   -     -     -         3339    0    0 
+CallCold  945030087  7  5 f   -     -     -         3339    0    0 
+CallCold  945030103  7  4 f   -     -     -         3339    0    0 
+CallCold  945030146  7  3 f   -     -     -         3339    0    0 
+CallCold  945030198  7  2 Bk  r     k     k         3339   60  120 2h Ah
+CallCold  945030232  7  1 Bf  -     -     -         3399   10    0 
+CallCold  945030265  6  6 f   -     -     -         3389    0    0 
+CallCold  945030314  5  4 c   k     f     -         3389   20    0 
+CallCold  945030336  5  3 Q   -     -     -         3369    0    0 
+CallCold  945134319 10  3 cc  kc    k     kf        2070   60    0 
+CallCold  945134368 10  2 Bk  kc    k     kf        2010   40    0 
+CallCold  945134413 10  1 Bc  bc    kc    k         1970  120  340 9s Ts
+CallCold  945134504 10 10 r   -     -     -         2190   40   70 
+CallCold  945134532 10  9 f   -     -     -         2220    0    0 
+CallCold  945134569 10  8 f   -     -     -         2220    0    0 
+CallCold  945134626 10  7 cc  bc    b     b         2220  160  540 Qd Js
+CallCold  945134704 10  6 f   -     -     -         2600    0    0 
+CallCold  945134753 10  5 f   -     -     -         2600    0    0 
+CallCold  945134800 10  4 cc  kcc   kf    -         2600  160    0 
+CallCold  945134924 10  3 f   -     -     -         2440    0    0 
+CallCold  945134972 10  2 Bf  -     -     -         2440   20    0 
+CallCold  945135026 10  1 Bc  k     kf    -         2420   40    0 
+CallCold  945135082 10 10 f   -     -     -         2380    0    0 
+CallCold  945135151 10  9 f   -     -     -         2380    0    0 
+CallCold  945135244 10  8 f   -     -     -         2380    0    0 
+CallCold  945135287 10  7 f   -     -     -         2380    0    0 
+CallCold  945135344 10  6 cc  f     -     -         2380   60    0 
+CallCold  945135386 10  5 f   -     -     -         2320    0    0 
+CallCold  945135459 10  4 rc  kc    kf    -         2320   80    0 
+CallCold  945135530 10  3 cc  kf    -     -         2240   40    0 
+CallCold  945135592 10  2 Bf  -     -     -         2200   20    0 
+CallCold  945135664  9  1 Bf  -     -     -         2180   10    0 
+CallCold  945135745 10 10 f   -     -     -         2170    0    0 
+CallCold  945135780 10  9 c   c     c     k         2170  100    0 Th Jh
+CallCold  945135833 10  8 f   -     -     -         2070    0    0 
+CallCold  945135884 10  7 f   -     -     -         2070    0    0 
+CallCold  945135952 10  6 cc  bc    bc    kc        2070  200    0 5d Kd
+CallCold  945136029 10  5 f   -     -     -         1870    0    0 
+CallCold  945136110 10  4 f   -     -     -         1870    0    0 
+CallCold  945136227 10  3 f   -     -     -         1870    0    0 
+CallCold  945136300 10  2 Bf  -     -     -         1870   20    0 
+CallCold  945136390 10  1 Bc  kf    -     -         1850   40    0 
+CallCold  945136427 10 10 rc  r     bc    f         1810  220    0 
+CallCold  945136500 10  9 rc  c     f     -         1590  100    0 
+CallCold  945136587 10  8 cc  f     -     -         1490   40    0 
+CallCold  945136677 10  7 f   -     -     -         1450    0    0 
+CallCold  945136744 10  6 rc  kf    -     -         1450   60    0 
+CallCold  945136822 10  5 f   -     -     -         1390    0    0 
+CallCold  945136903 10  4 cc  f     -     -         1390   40    0 
+CallCold  945136936 10  3 cc  kf    -     -         1350   60    0 
+CallCold  945137060 10  2 Bf  -     -     -         1290   20    0 
+CallCold  945137103 10  1 Bc  bc    bc    b         1270  180    0 9s 2s
+CallCold  945137174 10  4 Q   -     -     -         1090    0    0 
+CallCold  946326158  7  5 f   -     -     -         2040    0    0 
+CallCold  946326173  7  4 f   -     -     -         2040    0    0 
+CallCold  946326182  7  3 f   -     -     -         2040    0    0 
+CallCold  946326203  7  2 Bk  kf    -     -         2040   20    0 
+CallCold  946326225  7  1 Bc  kf    -     -         2020   40    0 
+CallCold  946326267  7  7 c   c     k     k         1980   60    0 5s 6d
+CallCold  946326346  7  7 r   k     Q     -         1920   40    0 
+CallCold  946501096 10  5 f   -     -     -         2035    0    0 
+CallCold  946501134 10  4 rr  kc    kf    -         2035  100    0 
+CallCold  946501202 10  3 f   -     -     -         1935    0    0 
+CallCold  946501268 10  2 Bf  -     -     -         1935   20    0 
+CallCold  946501304 10  1 Bc  bc    kf    -         1915   60    0 
+CallCold  946501367 10 10 c   c     f     -         1855   60    0 
+CallCold  946501443 10  9 f   -     -     -         1795    0    0 
+CallCold  946501483 10  8 f   -     -     -         1795    0    0 
+CallCold  946501517 10  7 r   k     f     -         1795   60    0 
+CallCold  946501559  9  5 f   -     -     -         1735    0    0 
+CallCold  946501590  9  4 f   -     -     -         1735    0    0 
+CallCold  946501646  9  3 f   -     -     -         1735    0    0 
+CallCold  946501699  9  2 B   -     -     -         1735   20   30 
+CallCold  946501712  9  1 Bc  bc    kf    -         1745  100    0 
+CallCold  946501772  9  9 c   c     f     -         1645   60    0 
+CallCold  946501826  8  7 f   -     -     -         1585    0    0 
+CallCold  946501856  8  6 f   -     -     -         1585    0    0 
+CallCold  946501909  7  5 f   -     -     -         1585    0    0 
+CallCold  946501947  8  4 rr  b     b     b         1585  180  440 
+CallCold  946501999  8  3 f   -     -     -         1845    0    0 
+CallCold  946502007  8  2 Bk  f     -     -         1845   20    0 
+CallCold  946502045  9  1 Bc  kf    -     -         1825   20    0 
+CallCold  946502085  9  9 f   -     -     -         1805    0    0 
+CallCold  946502138  9  8 f   -     -     -         1805    0    0 
+CallCold  946502176 10  8 r   b     b     r         1805  180  580 Tc Qc
+CallCold  946502248 10  7 f   -     -     -         2205    0    0 
+CallCold  946502310 10  6 c   c     b     c         2205  120  360 5s Js
+CallCold  946502383 10  5 f   -     -     -         2445    0    0 
+CallCold  946502443 10  4 r   k     k     f         2445   40    0 
+CallCold  946502488 10  4 f   -     -     -         2405    0    0 
+CallCold  946502551  9  2 Bf  -     -     -         2405   20    0 
+CallCold  946502600  8  1 Bf  -     -     -         2385   10    0 
+CallCold  946502634  8  8 c   k     f     -         2375   20    0 
+CallCold  946502674  7  6 f   -     -     -         2355    0    0 
+CallCold  946502682  7  5 f   -     -     -         2355    0    0 
+CallCold  946502719  7  4 r   -     -     -         2355   40   70 
+CallCold  946502734  7  3 c   k     bc    kc        2385  140    0 3h 4d
+CallCold  946502795  7  2 Bk  kf    -     -         2245   20    0 
+CallCold  946502823  8  1 Bf  -     -     -         2225   10    0 
+CallCold  946502848  8  8 c   k     c     r         2215  140  270 
+CallCold  946502879  6  6 r   bc    f     -         2345   80    0 
+CallCold  946502925  6  5 r   -     -     -         2265   40   70 
+CallCold  946502937  5  4 f   -     -     -         2295    0    0 
+CallCold  946502986  6  3 f   -     -     -         2295    0    0 
+CallCold  946503013  6  2 Bf  -     -     -         2295   20    0 
+CallCold  946503038  6  1 Br  -     -     -         2275   40   60 
+CallCold  946503046  6  6 c   f     -     -         2295   40    0 
+CallCold  946503082  6  5 f   -     -     -         2255    0    0 
+CallCold  946503110  6  5 r   c     c     f         2255  100    0 
+CallCold  946503146  5  3 c   k     f     -         2155   20    0 
+CallCold  946503176  5  2 Bk  k     k     b         2135   60  140 8d 2d
+CallCold  946503204  5  1 Bc  kf    -     -         2215   40    0 
+CallCold  946503231  5  5 f   -     -     -         2175    0    0 
+CallCold  946503254  5  4 f   -     -     -         2175    0    0 
+CallCold  946503300  5  3 rr  kc    b     b         2175  180    0 2d 2c
+CallCold  946503347  6  2 Br  b     b     kc        1995  140  420 Ad 3h
+CallCold  946503392  6  1 Bf  -     -     -         2275   10    0 
+CallCold  946503430  6  6 f   -     -     -         2265    0    0 
+CallCold  946503477  6  5 r   b     b     kc        2265  140    0 9h Kh
+CallCold  946503536  7  4 f   -     -     -         2125    0    0 
+CallCold  946503568  7  3 cc  f     -     -         2125   40    0 
+CallCold  946503625  7  2 Brc bc    br    brc       2085  400    0 Ah Ad
+CallCold  946503694  7  1 Bf  -     -     -         1685   10    0 
+CallCold  946503750  8  8 f   -     -     -         1675    0    0 
+CallCold  946503790  8  7 f   -     -     -         1675    0    0 
+CallCold  946503828  7  5 r   bc    f     -         1675   80    0 
+CallCold  946503866  7  4 c   rc    r     b         1595  220  510 3d 3h
+CallCold  946503907  7  3 c   b     -     -         1885   40   70 
+CallCold  946503927  7  2 Bk  kf    -     -         1915   20    0 
+CallCold  946503959  8  1 Bf  -     -     -         1895   10    0 
+CallCold  946503983  8  8 rc  c     f     -         1885  100    0 
+CallCold  946504042  8  7 f   -     -     -         1785    0    0 
+CallCold  946504099  8  6 f   -     -     -         1785    0    0 
+CallCold  946504138  8  6 c   r     k     b         1785  100  210 
+CallCold  946504191  8  5 f   -     -     -         1895    0    0 
+CallCold  946504222  7  3 r   b     bc    kc        1895  180  420 As Kd
+CallCold  946504274  6  3 cf  -     -     -         2135   20    0 
+CallCold  946504311  6  2 Bk  kf    -     -         2115   20    0 
+CallCold  946504363  6  1 Bf  -     -     -         2095   10    0 
+CallCold  946504401  6  6 f   -     -     -         2085    0    0 
+CallCold  946504426  5  4 c   b     k     b         2085   80  150 
+CallCold  946504452  5  3 f   -     -     -         2155    0    0 
+CallCold  946504456  5  2 Bk  k     b     b         2155  100  160 
+CallCold  946504532  6  1 Bf  -     -     -         2215   10    0 
+CallCold  946504553  6  6 r   c     r     r         2205  220  530 Th Qs
+CallCold  946504602  6  5 c   c     rc    c         2515  220  315 9s 8d
+CallCold  946504647  6  4 f   -     -     -         2610    0    0 
+CallCold  946504669  6  3 f   -     -     -         2610    0    0 
+CallCold  946504680  6  2 Bf  -     -     -         2610   20    0 
+CallCold  946504698  6  1 Bf  -     -     -         2590   10    0 
+CallCold  946504723  6  6 c   c     f     -         2580   40    0 
+CallCold  946504753  6  5 f   -     -     -         2540    0    0 
+CallCold  946504913  5  3 r   b     -     -         2540   60  100 
+CallCold  946504931  5  3 f   -     -     -         2580    0    0 
+CallCold  946504939  5  2 Bc  kc    k     bf        2580  100    0 
+CallCold  946504979  5  1 Bc  b     b     b         2480  140  420 9c 8c
+CallCold  946505006  5  5 f   -     -     -         2760    0    0 
+CallCold  946505038  6  5 f   -     -     -         2760    0    0 
+CallCold  946505075  6  4 f   -     -     -         2760    0    0 
+CallCold  946505082  6  3 f   -     -     -         2760    0    0 
+CallCold  946505140  6  2 Bf  -     -     -         2760   20    0 
+CallCold  946505148  6  1 Bf  -     -     -         2740   10    0 
+CallCold  946505178  6  6 f   -     -     -         2730    0    0 
+CallCold  946505198  7  6 r   k     k     k         2730   40    0 Tc Qh
+CallCold  946505262  7  6 f   -     -     -         2690    0    0 
+CallCold  946505296  6  4 f   -     -     -         2690    0    0 
+CallCold  946505334  6  3 f   -     -     -         2690    0    0 
+CallCold  946505367  6  2 Bk  k     b     k         2690   60    0 As 5d
+CallCold  946505408  6  1 Bf  -     -     -         2630   10    0 
+CallCold  946505433  6  6 f   -     -     -         2620    0    0 
+CallCold  946505461  7  5 f   -     -     -         2620    0    0 
+CallCold  946505469  7  4 f   -     -     -         2620    0    0 
+CallCold  946505509  7  4 f   -     -     -         2620    0    0 
+CallCold  946505542  7  3 f   -     -     -         2620    0    0 
+CallCold  946505572  7  2 Bc  b     b     k         2620  100    0 Qc 8h
+CallCold  946505605  7  1 Bf  -     -     -         2520   10    0 
+CallCold  946505635  7  7 f   -     -     -         2510    0    0 
+CallCold  946505672  7  6 f   -     -     -         2510    0    0 
+CallCold  946505701  8  5 f   -     -     -         2510    0    0 
+CallCold  946505741  8  4 r   b     -     -         2510   60  110 
+CallCold  946505779  9  4 c   c     f     -         2560   40    0 
+CallCold  946505820  9  3 rr  bc    bc    kc        2520  240    0 Ah Ks
+CallCold  946505863  8  2 B   -     -     -         2280   20   30 
+CallCold  946505877  8  1 Bf  -     -     -         2290   10    0 
+CallCold  946505914  7  7 f   -     -     -         2280    0    0 
+CallCold  946505941  7  6 f   -     -     -         2280    0    0 
+CallCold  946506003  7  5 r   c     f     -         2280   60    0 
+CallCold  946506031  7  4 f   -     -     -         2220    0    0 
+CallCold  946506055  6  2 Bc  kr    b     b         2220  160  410 Qc 3c
+CallCold  946506093  6  1 Bc  kf    -     -         2470   60    0 
+CallCold  946506137  7  7 r   b     b     b         2410  140  510 Tc Ac
+CallCold  946506183  8  7 f   -     -     -         2780    0    0 
+CallCold  946506263  8  6 f   -     -     -         2780    0    0 
+CallCold  946506298  8  5 f   -     -     -         2780    0    0 
+CallCold  946506330  7  4 r   bc    r     -         2780  160  290 
+CallCold  946506395  7  3 f   -     -     -         2910    0    0 
+CallCold  946506421  9  3 r   bc    kc    kf        2910  120    0 
+CallCold  946506502  8  2 Bf  -     -     -         2790   20    0 
+CallCold  946506563  9  1 Bf  -     -     -         2770   10    0 
+CallCold  946506599  9  9 f   -     -     -         2760    0    0 
+CallCold  946506708  9  8 f   -     -     -         2760    0    0 
+CallCold  946506772 10  8 f   -     -     -         2760    0    0 
+CallCold  946506820 10  7 f   -     -     -         2760    0    0 
+CallCold  946506857 10  6 c   f     -     -         2760   20    0 
+CallCold  946506908 10  5 f   -     -     -         2740    0    0 
+CallCold  946506968 10  4 f   -     -     -         2740    0    0 
+CallCold  946507015 10  3 f   -     -     -         2740    0    0 
+CallCold  946507058 10  2 Bc  kc    kf    -         2740   60    0 
+CallCold  946507101 10  1 Bf  -     -     -         2680   10    0 
+CallCold  946507131 10 10 f   -     -     -         2670    0    0 
+CallCold  946507188 10  9 r   b     bc    c         2670  180    0 Ks 9s
+CallCold  946507278 10  8 f   -     -     -         2490    0    0 
+CallCold  946507317 10  7 f   -     -     -         2490    0    0 
+CallCold  946507377 10  6 f   -     -     -         2490    0    0 
+CallCold  946507410 10  5 f   -     -     -         2490    0    0 
+CallCold  946507449 10  4 r   kc    kf    -         2490   60    0 
+CallCold  946507514 10  3 r   k     bc    b         2430  160  450 Ad 2d
+CallCold  946507578 10  2 Br  kf    -     -         2720   40    0 
+CallCold  946507628 10  1 Bf  -     -     -         2680   10    0 
+CallCold  946507684 10 10 f   -     -     -         2670    0    0 
+CallCold  946507709 10  9 c   f     -     -         2670   40    0 
+CallCold  946507766 10  8 f   -     -     -         2630    0    0 
+CallCold  946507804 10  7 f   -     -     -         2630    0    0 
+CallCold  946507854 10  6 f   -     -     -         2630    0    0 
+CallCold  946507915 10  5 f   -     -     -         2630    0    0 
+CallCold  946507939 10  4 f   -     -     -         2630    0    0 
+CallCold  946508003 10  3 f   -     -     -         2630    0    0 
+CallCold  946508044 10  2 Bk  kf    -     -         2630   20    0 
+CallCold  946508110 10  1 Bf  -     -     -         2610   10    0 
+CallCold  946508143 10 10 f   -     -     -         2600    0    0 
+CallCold  946508189 10  9 f   -     -     -         2600    0    0 
+CallCold  946508229 10  8 r   r     b     b         2600  160  470 Kc Ah
+CallCold  946508270 10  7 r   b     b     k         2910  100  270 Qh Kd
+CallCold  946508313 10  6 f   -     -     -         3080    0    0 
+CallCold  946508344 10  5 c   kc    kc    kf        3080   80    0 
+CallCold  946508398 10  4 f   -     -     -         3000    0    0 
+CallCold  946508432 10  3 f   -     -     -         3000    0    0 
+CallCold  946508463 10  2 Bf  -     -     -         3000   20    0 
+CallCold  946508493 10  1 Bc  kf    -     -         2980   20    0 
+CallCold  946508561  9  9 c   k     f     -         2960   20    0 
+CallCold  946508606  8  8 rc  f     -     -         2940   60    0 
+CallCold  946508638  8  7 c   f     -     -         2880   20    0 
+CallCold  946508675  8  6 r   b     k     r         2860  140    0 Kh Tc
+CallCold  946508733  8  5 f   -     -     -         2720    0    0 
+CallCold  946508787  8  4 f   -     -     -         2720    0    0 
+CallCold  946508820  7  2 Bk  k     c     b         2720  100  160 
+CallCold  946508846  7  1 Br  b     b     b         2780  140  280 
+CallCold  946508873  7  7 f   -     -     -         2920    0    0 
+CallCold  946508928  7  6 r   r     k     k         2920   80    0 Kd As
+CallCold  946508967  7  5 f   -     -     -         2840    0    0 
+CallCold  946509004  7  4 f   -     -     -         2840    0    0 
+CallCold  946509034  8  3 f   -     -     -         2840    0    0 
+CallCold  946509057  8  2 Brc kc    kc    kc        2840  180    0 Ts Tc
+CallCold  946509111  8  1 Bf  -     -     -         2660   10    0 
+CallCold  946509185  7  7 cc  f     -     -         2650   40    0 
+CallCold  946509218  7  6 c   k     f     -         2610   20    0 
+CallCold  946509266  7  5 rc  c     c     rf        2590  220    0 
+CallCold  946509311  9  5 r   kc    kf    -         2370   60    0 
+CallCold  946509380  9  4 r   k     k     k         2310   40  170 Tc Kh
+CallCold  946509415  9  3 rr  b     k     b         2440  140    0 Js Jc
+CallCold  946509457 10  3 f   -     -     -         2300    0    0 
+CallCold  946509522 10  2 Brc r     b     b         2300  200    0 As Qh
+CallCold  946509640 10  1 Bf  -     -     -         2100   10    0 
+CallCold  946509695  9  9 f   -     -     -         2090    0    0 
+CallCold  946509732  9  8 r   f     -     -         2090   40    0 
+CallCold  946509798  9  7 r   f     -     -         2050   60    0 
+CallCold  946509863  9  6 rc  kc    kf    -         1990   80    0 
+CallCold  946509896  9  5 rc  c     f     -         1910  100    0 
+CallCold  946509935 10  5 c   kf    -     -         1810   20    0 
+CallCold  946509999 10  4 rc  kf    -     -         1790   60    0 
+CallCold  946510090 10  3 f   -     -     -         1730    0    0 
+CallCold  946510158  9  2 Br  bf    -     -         1730   60    0 
+CallCold  946510208  9  1 Bf  -     -     -         1670   10    0 
+CallCold  946510229  9  9 c   f     -     -         1660   20    0 
+CallCold  946510328  9  8 r   r     k     rc        1640  240    0 6c 6s
+CallCold  946510440  9  7 f   -     -     -         1400    0    0 
+CallCold  946510487 10  7 f   -     -     -         1400    0    0 
+CallCold  946510509  9  5 f   -     -     -         1400    0    0 
+CallCold  946510534  9  4 cc  k     k     k         1400   40    0 5d Jd
+CallCold  946510571 10  3 f   -     -     -         1360    0    0 
+CallCold  946510627  7  2 Bk  k     k     k         1360   20    0 3d 9s
+CallCold  946510662  7  1 Bf  -     -     -         1340   10    0 
+CallCold  946510713  7  7 f   -     -     -         1330    0    0 
+CallCold  946510747  6  5 r   b     b     -         1330  100  190 
+CallCold  946510772  5  3 f   -     -     -         1420    0    0 
+CallCold  946510790  5  2 Bc  kc    kc    kf        1420  100    0 
+CallCold  946510840  3  1 Bf  -     -     -         1320   10    0 
+CallCold  946510845  3  3 r   c     c     r         1310  180  370 8s 9s
+CallCold  946510873  2  2 B   -     -     -         1500   20   30 
+CallCold  946510993  2  1 Bc  k     kf    -         1510   20    0 
+CallCold  946511019  3  3 f   -     -     -         1490    0    0 
+CallCold  946511035  3  2 Bf  -     -     -         1490   20    0 
+CallCold  946511045  3  1 Br  b     -     -         1470   60  100 
+CallCold  946511054  3  3 c   k     b     -         1510   60   90 
+CallCold  946511072  3  2 B   -     -     -         1540   20   30 
+CallCold  946511077  3  1 Bc  k     kf    -         1550   20    0 
+CallCold  946511095  3  3 r   c     c     k         1530  100    0 Kd Jh
+CallCold  946511126  4  3 f   -     -     -         1430    0    0 
+CallCold  946511152  4  2 Bk  kf    -     -         1430   20    0 
+CallCold  946511177  4  1 Bc  b     b     kc        1410  120  120 3h Ks
+CallCold  946511203  4  4 f   -     -     -         1410    0    0 
+CallCold  946511229  4  3 f   -     -     -         1410    0    0 
+CallCold  946511252  5  3 f   -     -     -         1410    0    0 
+CallCold  946511270  5  2 Bk  kf    -     -         1410   20    0 
+CallCold  946511298  6  1 Bc  b     k     b         1390  100  300 8d Qd
+CallCold  946511335  6  6 r   b     b     b         1590  140  270 
+CallCold  946511362  5  4 f   -     -     -         1720    0    0 
+CallCold  946511377  5  3 f   -     -     -         1720    0    0 
+CallCold  946511395  5  2 Bk  kf    -     -         1720   20    0 
+CallCold  946511410  5  1 Bf  -     -     -         1700   10    0 
+CallCold  946511429  5  5 c   f     -     -         1690   20    0 
+CallCold  946511466  5  4 rc  bc    b     b         1670  180    0 Js Jd
+CallCold  946511506  5  3 f   -     -     -         1490    0    0 
+CallCold  946511528  5  2 Br  b     b     b         1490  140  320 
+CallCold  946511565  5  1 Br  b     b     bc        1670  180  400 Qs Js
+CallCold  946511596  5  5 c   c     r     b         1890  160  450 6c Ks
+CallCold  946511631  5  4 f   -     -     -         2180    0    0 
+CallCold  946511646  5  3 f   -     -     -         2180    0    0 
+CallCold  946511671  6  2 Bf  -     -     -         2180   20    0 
+CallCold  946511708  6  1 Bf  -     -     -         2160   10    0 
+CallCold  946511741  6  6 f   -     -     -         2150    0    0 
+CallCold  946511772  6  5 r   kf    -     -         2150   40    0 
+CallCold  946511797  6  4 f   -     -     -         2110    0    0 
+CallCold  946511817  6  3 f   -     -     -         2110    0    0 
+CallCold  946511843  6  2 Bf  -     -     -         2110   20    0 
+CallCold  946511858  7  1 Bf  -     -     -         2090   10    0 
+CallCold  946511900  9  9 f   -     -     -         2080    0    0 
+CallCold  946511924  9  8 f   -     -     -         2080    0    0 
+CallCold  946511979  8  6 f   -     -     -         2080    0    0 
+CallCold  946512027  9  7 r   b     b     b         2080  140    0 Th Ah
+CallCold  946512061  7  4 r   b     b     b         1940  140    0 Jh Qd
+CallCold  946512112  7  3 f   -     -     -         1800    0    0 
+CallCold  946512164  7  2 Bc  kf    -     -         1800   40    0 
+CallCold  946512194  7  1 Bf  -     -     -         1760   10    0 
+CallCold  946512257  6  6 r   c     f     -         1750   60    0 
+CallCold  946512329  6  5 c   k     f     -         1690   20    0 
+CallCold  946512363  6  4 r   b     bf    -         1670  100    0 
+CallCold  946512410  6  3 f   Q     -     -         1570    0    0 
+CallCold  946520655  9  4 f   -     -     -         2095    0    0 
+CallCold  946520720 10  3 f   -     -     -         2095    0    0 
+CallCold  946520808 10  2 Bk  k     b     b         2095  100  170 
+CallCold  946520860 10  1 Bf  -     -     -         2165   10    0 
+CallCold  946520899 10 10 f   -     -     -         2155    0    0 
+CallCold  946520971 10  9 r   k     c     k         2155   80    0 2c 2s
+CallCold  946521022 10  8 c   b     k     b         2075   80  140 
+CallCold  946521107 10  7 r   rc    r     c         2135  260  910 Th Ts
+CallCold  946521184 10  6 f   Q     -     -         2785    0    0 
+CallCold  946527508 10  8 r   b     k     bc        2785  140    0 Th Ad
+CallCold  946527590 10  7 c   c     f     -         2645   60    0 
+CallCold  946527624 10  6 f   -     -     -         2585    0    0 
+CallCold  946527683 10  5 f   -     -     -         2585    0    0 
+CallCold  946527747 10  4 f   -     -     -         2585    0    0 
+CallCold  946527834 10  3 f   -     -     -         2585    0    0 
+CallCold  946527923 10  2 Bk  k     b     k         2585   60  130 Kd 9s
+CallCold  946528013 10  1 Bf  -     -     -         2655   10    0 
+CallCold  946528117 10 10 f   -     -     -         2645    0    0 
+CallCold  946528162 10  9 f   -     -     -         2645    0    0 
+CallCold  946528201 10  9 f   -     -     -         2645    0    0 
+CallCold  946528282 10  7 r   b     bc    kc        2645  180    0 Kh Kd
+CallCold  946528341 10  6 r   k     kf    -         2465   40    0 
+CallCold  946528420 10  5 f   -     -     -         2425    0    0 
+CallCold  946528442 10  4 f   -     -     -         2425    0    0 
+CallCold  946528481 10  3 c   b     b     -         2425   80  140 
+CallCold  946528510 10  2 Bc  kf    -     -         2485   40    0 
+CallCold  946528531 10  1 Bf  -     -     -         2445   10    0 
+CallCold  946528578 10 10 c   b     b     b         2435  120  240 
+CallCold  946528635 10  9 f   -     -     -         2555    0    0 
+CallCold  946528681 10  8 rc  cc    c     c         2555  200    0 Kh Kc
+CallCold  946528772 10  7 r   r     bc    c         2355  220    0 Jc Jd
+CallCold  946528839 10  6 f   -     -     -         2135    0    0 
+CallCold  946528910 10  5 f   -     -     -         2135    0    0 
+CallCold  946529013 10  4 f   -     -     -         2135    0    0 
+CallCold  946529049 10  3 f   -     -     -         2135    0    0 
+CallCold  946529076 10  2 Bc  b     b     b         2135  140  340 Qc 8c
+CallCold  946529135 10  1 Br  b     kc    kc        2335  140    0 Jc Kc
+CallCold  946529304 10 10 r   c     c     k         2195  120    0 Kc 8c
+CallCold  946529354 10  9 f   -     -     -         2075    0    0 
+CallCold  946529368 10  8 f   -     -     -         2075    0    0 
+CallCold  946529431  9  6 r   b     bc    f         2075  140    0 
+CallCold  946529472 10  6 f   -     -     -         1935    0    0 
+CallCold  946529509 10  5 f   -     -     -         1935    0    0 
+CallCold  946529526 10  4 f   -     -     -         1935    0    0 
+CallCold  946529555 10  3 f   -     -     -         1935    0    0 
+CallCold  946529600 10  2 Bc  kc    kc    kc        1935  140    0 5h 5c
+CallCold  946529640 10  1 Br  -     -     -         1795   40   60 
+CallCold  946529665 10 10 f   -     -     -         1815    0    0 
+CallCold  946529707 10  9 f   -     -     -         1815    0    0 
+CallCold  946529737 10  8 f   -     -     -         1815    0    0 
+CallCold  946529765 10  7 f   -     -     -         1815    0    0 
+CallCold  946529779 10  6 f   -     -     -         1815    0    0 
+CallCold  946529801 10  5 f   -     -     -         1815    0    0 
+CallCold  946529829 10  4 f   -     -     -         1815    0    0 
+CallCold  946529855 10  3 f   -     -     -         1815    0    0 
+CallCold  946529925 10  2 Bk  kf    -     -         1815   20    0 
+CallCold  946529959 10  1 Bc  kf    -     -         1795   20    0 
+CallCold  946530021 10 10 f   -     -     -         1775    0    0 
+CallCold  946530056 10  9 f   -     -     -         1775    0    0 
+CallCold  946530097 10  8 f   -     -     -         1775    0    0 
+CallCold  946530143 10  7 c   f     -     -         1775   20    0 
+CallCold  946530187 10  6 f   -     -     -         1755    0    0 
+CallCold  946530223 10  5 f   -     -     -         1755    0    0 
+CallCold  946530281 10  4 f   -     -     -         1755    0    0 
+CallCold  946530311 10  3 f   -     -     -         1755    0    0 
+CallCold  946530346 10  2 Bk  kf    -     -         1755   20    0 
+CallCold  946530385 10  1 Br  bc    kc    k         1735  120  250 Qh Jh
+CallCold  946530457 10 10 f   -     -     -         1865    0    0 
+CallCold  946530488 10  9 f   -     -     -         1865    0    0 
+CallCold  946530547 10  8 f   -     -     -         1865    0    0 
+CallCold  946530592 10  7 rc  cr    b     -         1865  180  540 
+CallCold  946530656 10  6 r   b     bc    c         2225  180  520 Jc Jh
+CallCold  946530700 10  5 f   -     -     -         2565    0    0 
+CallCold  946530744 10  4 f   -     -     -         2565    0    0 
+CallCold  946530782 10  3 f   -     -     -         2565    0    0 
+CallCold  946530807 10  2 Bk  b     b     b         2565  120    0 8d Th
+CallCold  946530853 10  1 Br  kf    -     -         2445   40    0 
+CallCold  946530933 10 10 r   r     k     c         2405  120  270 Jh Kh
+CallCold  946530974 10  9 c   f     -     -         2555   40    0 
+CallCold  946531028 10  8 f   -     -     -         2515    0    0 
+CallCold  946531111 10  7 f   -     -     -         2515    0    0 
+CallCold  946531155 10  6 rc  c     c     k         2515  140    0 Jd Qh
+CallCold  946531204 10  5 f   -     -     -         2375    0    0 
+CallCold  946531244 10  4 r   b     bc    bc        2375  220  540 Ks Js
+CallCold  946531311 10  3 cc  kc    kc    kf        2695  100    0 
+CallCold  946531442 10  2 Bf  -     -     -         2595   20    0 
+CallCold  946531464 10  1 Bf  -     -     -         2575   10    0 
+CallCold  946531517 10 10 f   -     -     -         2565    0    0 
+CallCold  946531565 10  9 r   b     b     -         2565  100  240 
+CallCold  946531625 10  8 c   f     -     -         2705   40    0 
+CallCold  946531678 10  7 f   -     -     -         2665    0    0 
+CallCold  946531729 10  6 f   -     -     -         2665    0    0 
+CallCold  946531785 10  5 f   -     -     -         2665    0    0 
+CallCold  946531822 10  4 c   cf    -     -         2665   40    0 
+CallCold  946531878 10  3 f   -     -     -         2625    0    0 
+CallCold  946531940 10  2 Bk  kc    kf    -         2625   40    0 
+CallCold  946532002 10  1 Bf  -     -     -         2585   10    0 
+CallCold  946532044 10 10 Q   -     -     -         2575    0    0 
+CallCold  946534408 10  5 f   -     -     -         2575    0    0 
+CallCold  946534464 10  4 f   -     -     -         2575    0    0 
+CallCold  946534523 10  3 f   -     -     -         2575    0    0 
+CallCold  946534555 10  2 Bc  kf    -     -         2575   40    0 
+CallCold  946534636 10  1 Bc  b     bc    kc        2535  180    0 Ad Ts
+CallCold  946534733 10 10 f   -     -     -         2355    0    0 
+CallCold  946534797 10  9 f   -     -     -         2355    0    0 
+CallCold  946534840 10  8 f   -     -     -         2355    0    0 
+CallCold  946534897 10  7 f   -     -     -         2355    0    0 
+CallCold  946534958 10  6 f   -     -     -         2355    0    0 
+CallCold  946535016 10  5 f   -     -     -         2355    0    0 
+CallCold  946535060 10  4 r   bc    kc    k         2355  120  470 9c 9d
+CallCold  946535133 10  3 c   b     kc    kc        2705  120    0 8h Ts
+CallCold  946535319 10  2 Bf  -     -     -         2585   20    0 
+CallCold  946535353 10  1 Bf  -     -     -         2565   10    0 
+CallCold  946535399 10 10 f   -     -     -         2555    0    0 
+CallCold  946535442 10  9 f   -     -     -         2555    0    0 
+CallCold  946535480 10  8 f   -     -     -         2555    0    0 
+CallCold  946535540 10  7 rc  r     k     b         2555  160    0 Qs Js
+CallCold  946535603 10  6 f   -     -     -         2395    0    0 
+CallCold  946535657 10  5 f   -     -     -         2395    0    0 
+CallCold  946535727 10  4 r   b     f     -         2395   60    0 
+CallCold  946535782 10  3 c   b     -     -         2335   40   90 
+CallCold  946535822 10  2 Bk  bc    kf    -         2385   60    0 
+CallCold  946535891 10  1 Brr br    bc    bc        2325  300    0 Kd Kc
+CallCold  946536015 10 10 Q   -     -     -         2025    0    0 
+CallCold  946619343  9  8 f   -     -     -         2025    0    0 
+CallCold  946619406  9  7 f   -     -     -         2025    0    0 
+CallCold  946619425  9  7 c   k     k     k         2025   20    0 Qh 8h
+CallCold  946619469  9  5 f   -     -     -         2005    0    0 
+CallCold  946619520  9  4 f   -     -     -         2005    0    0 
+CallCold  946619570  9  3 cc  kc    kc    kc        2005  140  370 As Jd
+CallCold  946619637  9  2 Bf  -     -     -         2235   20    0 
+CallCold  946619678  9  1 Bf  -     -     -         2215   10    0 
+CallCold  946619697  9  9 f   -     -     -         2205    0    0 
+CallCold  946619731  9  8 c   k     f     -         2205   20    0 
+CallCold  946619791  9  7 r   b     -     -         2185   60  130 
+CallCold  946619834  9  6 c   k     kc    kc        2255  120  370 Qc Jc
+CallCold  946619931  8  5 f   -     -     -         2505    0    0 
+CallCold  946619965  7  3 f   -     -     -         2505    0    0 
+CallCold  946619994  7  2 Bk  k     kf    -         2505   20    0 
+CallCold  946620039  7  1 Bf  -     -     -         2485   10    0 
+CallCold  946620049  7  7 f   -     -     -         2475    0    0 
+CallCold  946620083  7  6 rc  c     c     k         2475  140    0 Th Td
+CallCold  946620144  6  4 f   -     -     -         2335    0    0 
+CallCold  946620213  7  3 f   -     -     -         2335    0    0 
+CallCold  946620269  7  2 Bk  r     f     -         2335   60    0 
+CallCold  946620293  7  1 Bf  -     -     -         2275   10    0 
+CallCold  946620303  7  7 f   -     -     -         2265    0    0 
+CallCold  946620338  7  6 c   k     Q     -         2265   20    0 
+CallCold  946677572  8  3 f   -     -     -         2245    0    0 
+CallCold  946677630  8  2 Bf  -     -     -         2245   20    0 
+CallCold  946677667  8  1 Bc  b     bc    kc        2225  180    0 Js 8c
+CallCold  946677710  7  7 f   -     -     -         2045    0    0 
+CallCold  946677751  8  6 r   b     r     b         2045  180  410 
+CallCold  946677809  8  5 cc  kf    -     -         2275   40    0 
+CallCold  946677828  8  4 f   -     -     -         2235    0    0 
+CallCold  946677854  9  3 cc  kc    kc    kc        2235  140    0 6d 7h
+CallCold  946677903  9  2 Bk  k     c     k         2095   60  200 Tc 6s
+CallCold  946677963  9  1 Bf  -     -     -         2235   10    0 
+CallC

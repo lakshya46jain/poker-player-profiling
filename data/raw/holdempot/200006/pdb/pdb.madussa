@@ -1,0 +1,384 @@
+madussa   960035485  3  1 Bc  br    b     -         4190 1885 2520 
+madussa   960035519  3  3 c   k     k     f         4825   10    0 
+madussa   960035556  3  2 Br  kf    -     -         4815   40    0 
+madussa   960035586  3  1 Bc  b     b     -         4775   90  120 
+madussa   960035616  3  3 f   -     -     -         4805    0    0 
+madussa   960035625  3  2 Bk  b     k     r         4805  270  360 
+madussa   960035660  3  1 Bf  -     -     -         4895    5    0 
+madussa   960035664  3  3 f   -     -     -         4890    0    0 
+madussa   960035713  3  2 B   -     -     -         4890   10   15 
+madussa   960035720  3  1 Bf  -     -     -         4895    5    0 
+madussa   960035750  3  3 c   c     f     -         4890   40    0 
+madussa   960035770  3  2 B   -     -     -         4850   10   15 
+madussa   960035777  3  1 Bf  -     -     -         4855    5    0 
+madussa   960035816  3  3 r   -     -     -         4850   35   50 
+madussa   960035821  3  2 Bf  -     -     -         4865   10    0 
+madussa   960035852  3  1 Bf  -     -     -         4855    5    0 
+madussa   960035858  3  3 f   -     -     -         4850    0    0 
+madussa   960035861  3  2 Bk  k     k     k         4850   10   10 8h Qd
+madussa   960035873  3  1 Bf  -     -     -         4850    5    0 
+madussa   960035913  3  3 f   -     -     -         4845    0    0 
+madussa   960035960  3  2 Bk  k     b     b         4845   90    0 5h 3c
+madussa   960035982  3  1 Br  k     k     k         4755   85  180 8c 8d
+madussa   960036007  3  3 f   -     -     -         4850    0    0 
+madussa   960036018  3  2 Bk  k     kf    -         4850   10    0 
+madussa   960036036  3  1 Bf  -     -     -         4840    5    0 
+madussa   960036050  3  3 r   f     -     -         4835   35    0 
+madussa   960036077  3  2 Bk  k     c     c         4800   90  180 As Ah
+madussa   960036097  3  1 Bf  -     -     -         4890    5    0 
+madussa   960036102  3  3 r   -     -     -         4885   35   50 
+madussa   960036113  3  2 Br  k     c     c         4900  270    0 7h 7d
+madussa   960036130  3  1 Bf  -     -     -         4630    5    0 
+madussa   960036139  3  3 f   -     -     -         4625    0    0 
+madussa   960036142  3  2 Br  k     k     b         4625  225  300 
+madussa   960036182  3  1 Bf  -     -     -         4700    5    0 
+madussa   960036189  3  3 f   -     -     -         4695    0    0 
+madussa   960036211  3  2 B   -     -     -         4695   10   15 
+madussa   960036215  3  1 Bc  kf    -     -         4700   25    0 
+madussa   960036245  3  3 f   -     -     -         4675    0    0 
+madussa   960036249  3  2 Bf  -     -     -         4675   10    0 
+madussa   960036257  3  1 Br  -     -     -         4665   40   60 
+madussa   960036263  3  3 f   -     -     -         4685    0    0 
+madussa   960036270  3  2 B   -     -     -         4685   10   15 
+madussa   960036276  3  1 Bf  -     -     -         4690    5    0 
+madussa   960036279  3  3 rc  k     k     k         4685   85    0 Ts 5s
+madussa   960036298  3  2 Bf  -     -     -         4600   10    0 
+madussa   960036306  3  1 Bf  -     -     -         4590    5    0 
+madussa   960036312  3  3 f   -     -     -         4585    0    0 
+madussa   960036328  3  2 Bk  k     r     -         4585   90  120 
+madussa   960036348  3  1 Bf  -     -     -         4615    5    0 
+madussa   960036374  3  3 f   -     -     -         4610    0    0 
+madussa   960036399  3  2 B   -     -     -         4610   10   15 
+madussa   960036405  3  1 Bf  -     -     -         4615    5    0 
+madussa   960036415  3  3 r   -     -     -         4610   35   50 
+madussa   960036429  3  2 B   -     -     -         4625   10   15 
+madussa   960036433  3  1 Br  b     -     -         4630  265  360 
+madussa   960036443  3  3 r   k     k     b         4725  110  150 
+madussa   960036463  3  2 Bk  k     k     k         4765   10   20 Kc 9d
+madussa   960036482  3  1 Br  b     -     -         4775   90  120 
+madussa   960036495  3  3 f   -     -     -         4805    0    0 
+madussa   960036503  3  2 Bk  f     -     -         4805   10    0 
+madussa   960036511  3  1 Bf  -     -     -         4795    5    0 
+madussa   960036515  3  3 f   -     -     -         4790    0    0 
+madussa   960036533  3  2 Br  -     -     -         4790   30   40 
+madussa   960036543  3  1 Bf  -     -     -         4800    5    0 
+madussa   960036546  3  3 f   -     -     -         4795    0    0 
+madussa   960036549  3  2 Bk  k     k     c         4795   30    0 7h Ts
+madussa   960036563  3  1 Bc  k     b     -         4765   30   40 
+madussa   960036580  3  3 f   -     -     -         4775    0    0 
+madussa   960036585  3  2 B   -     -     -         4775   10   15 
+madussa   960036590  3  1 Bf  -     -     -         4780    5    0 
+madussa   960036594  3  3 f   -     -     -         4775    0    0 
+madussa   960036602  3  2 B   -     -     -         4775   10   15 
+madussa   960036607  3  1 Br  kc    kf    -         4780  280    0 
+madussa   960036650  3  3 c   b     -     -         4500   35   50 
+madussa   960036670  3  2 Br  b     b     -         4515  335  450 
+madussa   960036710  3  1 Brc kc    kc    bA        4630 4630 9345 Ts 9s
+madussa   960036748  3  3 f   -     -     -         9345    0    0 
+madussa   960036777  3  2 B   -     -     -         9345   10   15 
+madussa   960036781  3  1 Bf  -     -     -         9350    5    0 
+madussa   960036786  3  3 f   -     -     -         9345    0    0 
+madussa   960036792  3  2 Bf  -     -     -         9345   10    0 
+madussa   960036797  3  1 Bf  -     -     -         9335    5    0 
+madussa   960036802  4  4 f   -     -     -         9330    0    0 
+madussa   960036831  4  3 c   k     k     k         9330   10    0 3d Kd
+madussa   960036863  4  2 B   -     -     -         9320   10   15 
+madussa   960036876  4  1 Bc  b     b     -         9325   90  120 
+madussa   960036920  4  4 f   -     -     -         9355    0    0 
+madussa   960036949  4  3 c   c     c     c         9355  265  540 7s 6s
+madussa   960036985  4  2 Bf  -     -     -         9630   10    0 
+madussa   960037043  4  1 Bc  kc    kc    k         9620  265    0 Ks Qh
+madussa   960037065  4  4 f   -     -     -         9355    0    0 
+madussa   960037071  4  3 f   -     -     -         9355    0    0 
+madussa   960037077  4  2 Bc  k     k     k         9355   25    0 5d 4s
+madussa   960037109  4  1 Bf  -     -     -         9330    5    0 
+madussa   960037132  4  4 c   k     k     f         9325   10    0 
+madussa   960037167  4  3 f   -     -     -         9315    0    0 
+madussa   960037186  4  2 Bk  kf    -     -         9315   10    0 
+madussa   960037210  4  1 Bf  -     -     -         9305    5    0 
+madussa   960037218  3  3 f   -     -     -         9300    0    0 
+madussa   960037231  3  2 Bk  k     k     k         9300   10    0 Ts 7h
+madussa   960037270  3  1 Bc  k     b     -         9290   30   40 
+madussa   960037299  3  3 f   -     -     -         9300    0    0 
+madussa   960037319  3  2 Bk  k     c     c         9300  130  270 2d 8d
+madussa   960037349  3  1 Bc  b     -     -         9440   30   40 
+madussa   960037360  3  3 f   -     -     -         9450    0    0 
+madussa   960037385  3  2 Bk  k     b     -         9450   30   40 
+madussa   960037403  3  1 Br  kc    kc    kf        9460  340    0 
+madussa   960037443  3  3 f   -     -     -         9120    0    0 
+madussa   960037449  3  2 Bf  -     -     -         9120   10    0 
+madussa   960037454  3  1 Bf  -     -     -         9110    5    0 
+madussa   960037459  3  3 f   -     -     -         9105    0    0 
+madussa   960037465  3  2 Bk  k     k     k         9105   10    0 2s 3s
+madussa   960037478  3  1 Bc  k     k     kc        9095   85    0 9c Qd
+madussa   960037497  3  3 f   -     -     -         9010    0    0 
+madussa   960037512  3  2 B   -     -     -         9010   10   15 
+madussa   960037518  3  1 Bf  -     -     -         9015    5    0 
+madussa   960037536  3  3 f   -     -     -         9010    0    0 
+madussa   960037544  3  2 Bc  k     k     b         9010  140  210 
+madussa   960037587  3  1 Bc  kf    -     -         9080   10    0 
+madussa   960037605  3  3 f   -     -     -         9070    0    0 
+madussa   960037611  3  2 Bf  -     -     -         9070   10    0 
+madussa   960037616  3  1 Bf  -     -     -         9060    5    0 
+madussa   960037618  3  3 f   -     -     -         9055    0    0 
+madussa   960037623  3  2 B   -     -     -         9055   10   15 
+madussa   960037628  3  1 Bc  b     b     -         9060   90  120 
+madussa   960037647  3  3 f   -     -     -         9090    0    0 
+madussa   960037666  3  2 B   -     -     -         9090   10   15 
+madussa   960037674  3  1 Bf  -     -     -         9095    5    0 
+madussa   960037693  3  3 f   -     -     -         9090    0    0 
+madussa   960037722  3  2 Bf  -     -     -         9090   10    0 
+madussa   960037740  3  1 Bf  -     -     -         9080    5    0 
+madussa   960037748  3  3 r   -     -     -         9075   35   50 
+madussa   960037753  3  2 B   -     -     -         9090   10   15 
+madussa   960037757  3  1 Bcc kr    -     -         9095  270  360 
+madussa   960037818  3  3 c   k     k     c         9185   35    0 6s 6d
+madussa   960037834  3  2 Br  k     k     k         9150   75  150 7s As
+madussa   960037856  3  1 Bc  k     b     -         9225   30   40 
+madussa   960037877  3  3 f   -     -     -         9235    0    0 
+madussa   960037884  3  2 Bc  k     kc    f         9235  140    0 
+madussa   960037914  3  1 Bf  -     -     -         9095    5    0 
+madussa   960037933  3  3 cc  c     k     k         9090  110  225 3d 3c
+madussa   960037960  3  2 Bk  f     -     -         9205   10    0 
+madussa   960037986  3  1 Br  k     b     -         9195   90  120 
+madussa   960037998  3  3 r   c     f     -         9225  115    0 
+madussa   960038031  2  1 BQ  -     -     -         9110   10    0 
+madussa   960081167  5  4 f   -     -     -         8960    0    0 
+madussa   960081176  5  3 f   -     -     -         8960    0    0 
+madussa   960081194  5  2 Bk  kf    -     -         8960   10    0 
+madussa   960081208  5  1 Bf  -     -     -         8950    5    0 
+madussa   960081230  5  5 r   f     -     -         8945   45    0 
+madussa   960081250  5  4 f   -     -     -         8900    0    0 
+madussa   960081275  5  3 f   -     -     -         8900    0    0 
+madussa   960081302  5  2 Bf  -     -     -         8900   10    0 
+madussa   960081316  5  1 Bf  -     -     -         8890    5    0 
+madussa   960081327  5  5 f   -     -     -         8885    0    0 
+madussa   960081363  5  4 f   -     -     -         8885    0    0 
+madussa   960081385  5  3 f   -     -     -         8885    0    0 
+madussa   960081393  5  2 Bf  -     -     -         8885   10    0 
+madussa   960081405  5  1 Bc  b     -     -         8875   30   40 
+madussa   960081418  5  5 c   r     k     b         8885  530  720 
+madussa   960081485  5  4 c   k     k     k         9075   10    0 8d Qd
+madussa   960081577  5  3 f   -     -     -         9065    0    0 
+madussa   960081650  4  1 Bc  b     -     -         9065   90  120 
+madussa   960081675  4  1 Bc  kf    -     -         9095   35    0 
+madussa   960081695  4  4 f   -     -     -         9060    0    0 
+madussa   960081707  4  3 c   b     b     b         9060  465  945 7c 8c
+madussa   960081752  4  2 Bk  kf    -     -         9540   10    0 
+madussa   960081770  4  1 Bf  -     -     -         9530    5    0 
+madussa   960081773  4  4 c   k     k     c         9525  120    0 Ad Jc
+madussa   960081795  4  3 fQ  -     -     -         9405    0    0 
+madussa   960081885  4  3 f   -     -     -         9405    0    0 
+madussa   960081902  4  2 Bf  -     -     -         9405   10    0 
+madussa   960081934  4  1 Bc  b     k     kf        9395  140    0 
+madussa   960081986  4  4 f   -     -     -         9255    0    0 
+madussa   960082003  4  3 f   -     -     -         9255    0    0 
+madussa   960082023  4  2 Bc  b     b     b         9255 2345 5280 Qs 2s
+madussa   960082057  4  1 Bc  kf    -     -        12190   10    0 
+madussa   960082089  4  4 f   -     -     -        12180    0    0 
+madussa   960082097  4  3 cc  k     b     -        12180  150  210 
+madussa   960082113  4  2 Bk  k     k     k        12240   10   20 Tc 6h
+madussa   960082136  4  1 Bf  -     -     -        12250    5    0 
+madussa   960082162  4  4 c   k     c     k        12245   35   75 Js 9s
+madussa   960082186  4  3 cc  k     k     k        12285   45    0 9s 6s
+madussa   960082225  4  2 Bk  kf    -     -        12240   10    0 
+madussa   960082239  4  1 Br  kf    -     -        12230  150    0 
+madussa   960082261  4  4 f   -     -     -        12080    0    0 
+madussa   960082264  4  3 f   -     -     -        12080    0    0 
+madussa   960082275  4  2 Bk  kf    -     -        12080   10    0 
+madussa   960082289  5  1 Bc  kc    k     b        12070  210    0 Ks 9s
+madussa   960082327  5  5 f   -     -     -        11860    0    0 
+madussa   960082360  5  4 f   -     -     -        11860    0    0 
+madussa   960082393  5  3 f   -     -     -        11860    0    0 
+madussa   960082414  5  2 Bc  br    kf    -        11860 1010    0 
+madussa   960082442  5  1 Bf  -     -     -        10850    5    0 
+madussa   960082460  6  6 r   b     -     -        10845  190  270 
+madussa   960082489  6  5 f   -     -     -        10925    0    0 
+madussa   960082515  6  4 f   -     -     -        10925    0    0 
+madussa   960082528  6  3 rc  kc    b     -        10925 1140 1530 
+madussa   960082551  6  2 Bc  kr    -     -        11315  785 1110 
+madussa   960082588  6  1 Bf  -     -     -        11640    5    0 
+madussa   960082621  6  6 f   -     -     -        11635    0    0 
+madussa   960082633  6  5 cc  k     c     bc       11635 2425    0 Jh Ks
+madussa   960082686  6  4 f   -     -     -         9210    0    0 
+madussa   960082699  6  3 f   -     -     -         9210    0    0 
+madussa   960082712  6  2 Bc  kc    k     kf        9210  185    0 
+madussa   960082746  6  1 Bc  kr    -     -         9025  130  180 
+madussa   960082767  6  6 f   -     -     -         9075    0    0 
+madussa   960082781  6  5 f   -     -     -         9075    0    0 
+madussa   960082790  6  4 f   -     -     -         9075    0    0 
+madussa   960082811  6  3 cc  k     kf    -         9075   55    0 
+madussa   960082844  6  2 Bc  kc    kc    k         9020  335  675 3d Kd
+madussa   960082875  6  1 Bf  -     -     -         9360    5    0 
+madussa   960082896  6  6 r   k     c     c         9355 1140    0 Qd Ad
+madussa   960082925  6  5 f   -     -     -         8215    0    0 
+madussa   960082957  6  4 f   -     -     -         8215    0    0 
+madussa   960082983  6  3 f   -     -     -         8215    0    0 
+madussa   960083033  6  2 Br  b     k     k         8215  110  225 Tc Js
+madussa   960083063  6  1 Bc  k     k     kf        8330   45    0 
+madussa   960083107  6  6 c   f     -     -         8285   35    0 
+madussa   960083139  6  5 c   b     -     -         8250  120  170 
+madussa   960083159  6  4 f   -     -     -         8300    0    0 
+madussa   960083175  6  3 f   -     -     -         8300    0    0 
+madussa   960083196  6  2 Bf  -     -     -         8300   10    0 
+madussa   960083232  6  1 Bc  kf    -     -         8290   45    0 
+madussa   960083262  6  6 c   c     c     f         8245  475    0 
+madussa   960083288  6  5 f   -     -     -         7770    0    0 
+madussa   960083294  6  4 f   -     -     -         7770    0    0 
+madussa   960083308  6  3 f   -     -     -         7770    0    0 
+madussa   960083328  6  2 Bk  b     k     k         7770   40    0 9h 7d
+madussa   960083394  6  1 Bf  -     -     -         7730    5    0 
+madussa   960083406  6  6 c   c     f     -         7725   32    0 
+madussa   960083442  6  5 c   c     k     k         7693   55    0 Th Qd
+madussa   960083477  6  4 c   k     k     b         7638   50   80 
+madussa   960083516  6  3 r   b     k     b         7668  495 1035 Qc 7c
+madussa   960083543  6  2 Bf  -     -     -         8208   10    0 
+madussa   960083579  6  1 Br  kc    kf    -         8198  160    0 
+madussa   960083608  6  6 c   k     k     k         8038   35   35 Ah 4h
+madussa   960083633  6  5 f   -     -     -         8038    0    0 
+madussa   960083677  6  4 f   -     -     -         8038    0    0 
+madussa   960083696  6  3 cc  f     -     -         8038   50    0 
+madussa   960083724  6  2 Bk  kc    kc    k         7988  190    0 9c Qs
+madussa   960083749  6  1 Br  k     k     b         7798  355  480 
+madussa   960083774  6  6 c   k     k     k         7923   10   25 Js As
+madussa   960083809  6  5 f   -     -     -         7938    0    0 
+madussa   960083835  6  4 f   -     -     -         7938    0    0 
+madussa   960083855  6  3 f   -     -     -         7938    0    0 
+madussa   960083871  6  2 Bk  kf    -     -         7938   10    0 
+madussa   960083934  6  1 Bc  kc    kf    -         7928   50    0 
+madussa   960083977  6  6 f   -     -     -         7878    0    0 
+madussa   960084004  6  5 cc  f     -     -         7878   35    0 
+madussa   960084026  6  4 f   -     -     -         7843    0    0 
+madussa   960084058  6  3 r   kf    -     -         7843   35    0 
+madussa   960084103  6  2 Bf  -     -     -         7808   10    0 
+madussa   960084141  6  1 Bf  -     -     -         7798    5    0 
+madussa   960084168  6  6 c   f     -     -         7793   10    0 
+madussa   960084200  6  5 f   -     -     -         7783    0    0 
+madussa   960084212  6  4 r   k     k     k         7783   45    0 Kc Ac
+madussa   960084252  6  3 r   k     c     k         7738  105    0 Js Jh
+madussa   960084288  6  2 Bf  -     -     -         7633   10    0 
+madussa   960084315  6  1 Bf  -     -     -         7623    5    0 
+madussa   960084333  6  6 c   k     f     -         7618   10    0 
+madussa   960084351  6  5 c   k     k     k         7608   35    0 5s 2s
+madussa   960084407  6  4 f   -     -     -         7573    0    0 
+madussa   960084426  6  3 f   -     -     -         7573    0    0 
+madussa   960084450  6  2 Bf  -     -     -         7573   10    0 
+madussa   960084482  6  1 Bf  -     -     -         7563    5    0 
+madussa   960084533  6  6 r   -     -     -         7558   35   50 
+madussa   960084540  6  5 c   c     c     b         7573  408  933 Ah 9c
+madussa   960084588  6  4 c   k     c     b         8098  105  150 
+madussa   960084640  6  3 f   -     -     -         8143    0    0 
+madussa   960084663  6  2 B   -     -     -         8143   10   15 
+madussa   960084676  6  1 Bf  -     -     -         8148    5    0 
+madussa   960084690  6  6 c   f     -     -         8143   35    0 
+madussa   960084715  6  5 f   -     -     -         8108    0    0 
+madussa   960084719  6  4 f   -     -     -         8108    0    0 
+madussa   960084758  6  3 Q   -     -     -         8108    0    0 
+madussa   960084960  6  4 c   f     -     -         8108   10    0 
+madussa   960084984  6  3 f   -     -     -         8098    0    0 
+madussa   960085009  5  2 Bk  k     kc    kf        8098   45    0 
+madussa   960085070  5  1 Bf  -     -     -         8053    5    0 
+madussa   960085085  5  5 f   -     -     -         8048    0    0 
+madussa   960085093  5  4 r   k     c     k         8048  150    0 5s 5d
+madussa   960085122  5  3 f   -     -     -         7898    0    0 
+madussa   960085139  5  2 Bk  kc    kc    k         7898  130  270 7d Ah
+madussa   960085170  5  1 Bc  kf    -     -         8038   10    0 
+madussa   960085194  5  5 c   c     k     k         8028   45    0 Jh 9s
+madussa   960085229  5  4 c   k     k     k         7983   10   25 Qd 8h
+madussa   960085259  5  3 f   -     -     -         7998    0    0 
+madussa   960085266  4  2 B   -     -     -         7998   10   15 
+madussa   960085271  4  1 Bc  k     k     b         8003   30   40 
+madussa   960085290  4  4 f   -     -     -         8013    0    0 
+madussa   960085296  4  3 f   -     -     -         8013    0    0 
+madussa   960085317  4  2 Bf  -     -     -         8013   10    0 
+madussa   960085323  4  1 Br  -     -     -         8003   30   40 
+madussa   960085334  4  4 f   -     -     -         8013    0    0 
+madussa   960085338  4  3 f   -     -     -         8013    0    0 
+madussa   960085360  4  2 Bk  k     k     k         8013   10    0 3c 7s
+madussa   960085389  4  1 Br  kc    k     b         8003  270  360 
+madussa   960085436  4  4 f   -     -     -         8093    0    0 
+madussa   960085458  4  3 c   k     k     k         8093   10   25 9h 7h
+madussa   960085481  4  2 Bk  k     k     k         8108   10   30 9h 7c
+madussa   960085544  4  1 Bc  b     k     kc        8128   90    0 2s 3s
+madussa   960085579  4  4 f   -     -     -         8038    0    0 
+madussa   960085595  4  3 f   -     -     -         8038    0    0 
+madussa   960085602  4  2 Bk  k     b     -         8038   30   40 
+madussa   960085639  4  1 Bf  -     -     -         8048    5    0 
+madussa   960085664  4  4 c   f     -     -         8043   35    0 
+madussa   960085687  4  3 f   -     -     -         8008    0    0 
+madussa   960085691  4  2 Bk  k     k     k         8008   10   30 3d 6d
+madussa   960085711  4  1 Bf  -     -     -         8028    5    0 
+madussa   960085716  4  4 c   k     k     f         8023   10    0 
+madussa   960085768  4  3 f   -     -     -         8013    0    0 
+madussa   960085775  4  2 Br  k     k     kr        8013  335  675 9c 7c
+madussa   960085809  4  1 Bf  -     -     -         8353    5    0 
+madussa   960085832  4  4 r   k     k     b         8348  115    0 Jc Js
+madussa   960085860  4  3 f   -     -     -         8233    0    0 
+madussa   960085871  4  2 Br  b     -     -         8233  130  180 
+madussa   960085887  4  1 Bf  -     -     -         8283    5    0 
+madussa   960085899  4  4 r   k     f     -         8278   35    0 
+madussa   960085934  4  3 r   -     -     -         8243   35   50 
+madussa   960085940  4  2 Bk  k     f     -         8258   10    0 
+madussa   960085975  4  1 Bf  -     -     -         8248    5    0 
+madussa   960085986  4  4 f   -     -     -         8243    0    0 
+madussa   960086012  4  3 f   -     -     -         8243    0    0 
+madussa   960086020  4  2 Bk  b     -     -         8243   45   70 
+madussa   960086042  4  1 Bf  -     -     -         8268    5    0 
+madussa   960086058  4  4 c   k     k     b         8263   35   50 
+madussa   960086091  4  3 f   -     -     -         8278    0    0 
+madussa   960086117  5  2 Bk  k     b     b         8278  160  360 7d Qs
+madussa   960086158  6  1 Bf  -     -     -         8478    5    0 
+madussa   960086180  6  6 f   -     -     -         8473    0    0 
+madussa   960086192  6  5 f   -     -     -         8473    0    0 
+madussa   960086216  6  4 c   f     -     -         8473   10    0 
+madussa   960086235  6  3 c   b     b     -         8463  150  210 
+madussa   960086259  6  2 Bk  kf    -     -         8523   10    0 
+madussa   960086321  6  1 Br  k     k     k         8513   30   60 Th As
+madussa   960086351  6  6 c   r     k     k         8543  130    0 5d Td
+madussa   960086377  6  5 f   -     -     -         8413    0    0 
+madussa   960086388  6  4 f   -     -     -         8413    0    0 
+madussa   960086411  6  3 f   -     -     -         8413    0    0 
+madussa   960086440  6  2 Bk  b     b     k         8413  150    0 Ks 2c
+madussa   960086479  6  1 Bc  k     k     kf        8263   10    0 
+madussa   960086561  6  6 f   -     -     -         8253    0    0 
+madussa   960086575  6  5 f   -     -     -         8253    0    0 
+madussa   960086610  6  4 f   -     -     -         8253    0    0 
+madussa   960086657  6  3 Q   -     -     -         8253    0    0 
+madussa   960087888  5  3 f   -     -     -         8253    0    0 
+madussa   960087909  6  2 Bf  -     -     -         8253   10    0 
+madussa   960087975  6  1 Bc  b     k     k         8243   30   60 2d Jd
+madussa   960088027  6  6 f   -     -     -         8273    0    0 
+madussa   960088072  6  5 f   -     -     -         8273    0    0 
+madussa   960088101  6  4 f   -     -     -         8273    0    0 
+madussa   960088136  6  3 f   -     Q     -         8273    0    0 
+madussa   960366739  5  2 Bf  -     -     -         3020   10    0 
+madussa   960366745  5  1 Bc  k     kc    b         3010 1155 1650 
+madussa   960366785  5  5 c   k     f     -         3505   10    0 
+madussa   960366800  5  4 f   -     -     -         3495    0    0 
+madussa   960366805  5  3 f   -     -     -         3495    0    0 
+madussa   960366821  5  2 Bf  -     -     -         3495   10    0 
+madussa   960366828  5  1 Bf  -     -     -         3485    5    0 
+madussa   960366856  5  5 f   -     -     -         3480    0    0 
+madussa   960366867  5  4 f   -     -     -         3480    0    0 
+madussa   960366894  5  3 cc  c     c     k         3480  335    0 5c Kc
+madussa   960366921  5  2 Bf  -     -     -         3145   10    0 
+madussa   960366941  5  1 Bf  -     -     -         3135    5    0 
+madussa   960366955  5  5 f   -     -     -         3130    0    0 
+madussa   960366985  5  4 f   -     -     -         3130    0    0 
+madussa   960367023  5  3 Q   -     -     -         3130    0    0 
+madussa   960367096  6  6 f   -     -     -         3130    0    0 
+madussa   960367136  6  5 f   -     -     -         3130    0    0 
+madussa   960367155  6  4 cf  -     -     -         3130   10    0 
+madussa   960367232  6  3 f   -     -     -         3120    0    0 
+madussa   960367262  6  2 Bk  k     k     k         3120   10   13 9d Qh
+madussa   960367287  6  1 Bc  k     kf    -         3123   10    0 
+madussa   960367334  6  6 f   -     -     -         3113    0    0 
+madussa   960367360  6  5 f   -     -     -         3113    0    0 
+madussa   960367406  6  4 cc  kf    -     -         3113   45    0 
+madussa   960367433  6  3 r   b     -     -         3068  120  170 
+madussa   960367452  6  2 Br  k     k     k         3118   35    0 Td 8d
+madussa   960367474  6  1 Bf  -     -     -         3083    5    0 
+madussa   960367513  6  6 f   -     -     -         3078    0    0 
+madussa   960367554  6  5 f   -     -     -         3078    0    0 
+madussa   960367562  6  4 rc  kc    k     k         3078  375  765 Tc As
+madussa   960367589  6  3 cc  krcA  -     -         3468 3468    0 Ah Qc

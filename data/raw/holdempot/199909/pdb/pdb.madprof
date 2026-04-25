@@ -1,0 +1,666 @@
+madprof   936938339 10  7 f   -     -     -         3031    0    0 
+madprof   936938388 10  6 f   -     -     -         3031    0    0 
+madprof   936938445 10  5 c   b     b     -         3031  170  240 
+madprof   936938479 10  4 f   -     -     -         3101    0    0 
+madprof   936938529  9  3 f   -     -     -         3101    0    0 
+madprof   936938564  9  2 Bk  kf    -     -         3101   10    0 
+madprof   936938606  9  1 Bf  -     -     -         3091    5    0 
+madprof   936938643  9  9 f   -     -     -         3086    0    0 
+madprof   936938662  9  8 f   -     -     -         3086    0    0 
+madprof   936938710  9  7 f   -     -     -         3086    0    0 
+madprof   936938758  9  6 f   -     -     -         3086    0    0 
+madprof   936938778  9  5 f   -     -     -         3086    0    0 
+madprof   936938815  9  4 f   -     -     -         3086    0    0 
+madprof   936938833  9  3 f   -     -     -         3086    0    0 
+madprof   936938865  9  2 Bc  b     -     -         3086  275  460 
+madprof   936938890  9  1 Bc  kf    -     -         3271   45    0 
+madprof   936938954  9  9 f   -     -     -         3226    0    0 
+madprof   936938985  9  8 c   r     b     b         3226 1610    0 9s Ks
+madprof   936939023  9  7 c   kf    -     -         1616   10    0 
+madprof   936939068  9  6 f   -     -     -         1606    0    0 
+madprof   936939109  9  5 f   -     -     -         1606    0    0 
+madprof   936939138  9  4 f   -     -     -         1606    0    0 
+madprof   936939176  9  3 f   -     -     -         1606    0    0 
+madprof   936939221  9  2 Bf  -     -     -         1606   10    0 
+madprof   936939249  8  1 Bf  -     -     -         1596    5    0 
+madprof   936939272  8  8 f   -     -     -         1591    0    0 
+madprof   936939281  8  7 f   -     -     -         1591    0    0 
+madprof   936939334  8  6 f   -     -     -         1591    0    0 
+madprof   936939381  8  5 f   -     -     -         1591    0    0 
+madprof   936939406  8  4 f   -     -     -         1591    0    0 
+madprof   936939459  8  3 f   -     -     -         1591    0    0 
+madprof   936939492  8  2 Bc  k     k     k         1591   45    0 Qc Kd
+madprof   936939525  8  1 Bf  -     -     -         1546    5    0 
+madprof   936939557  8  8 f   -     -     -         1541    0    0 
+madprof   936939588  8  7 f   -     -     -         1541    0    0 
+madprof   936939634  7  5 f   -     -     -         1541    0    0 
+madprof   936939660  6  3 f   -     -     -         1541    0    0 
+madprof   936939682  6  2 Bf  -     -     -         1541   10    0 
+madprof   936939708  6  1 Bc  kr    bcA   -         1531 1531 3072 Kd Tc
+madprof   936939735  6  6 c   f     -     -         3072   35    0 
+madprof   936939756  6  5 cc  r     bA    -         3037 3037 6554 Ac 8d
+madprof   936939788  6  4 f   -     -     -         6554    0    0 
+madprof   936939816  6  3 f   -     -     -         6554    0    0 
+madprof   936939839  6  2 Bk  c     kf    -         6554   50    0 
+madprof   936939875  6  1 Bf  -     -     -         6504    5    0 
+madprof   936939899  6  6 f   -     -     -         6499    0    0 
+madprof   936939920  6  5 f   -     -     -         6499    0    0 
+madprof   936939943  6  4 f   -     -     -         6499    0    0 
+madprof   936939959  6  3 r   k     kf    -         6499   35    0 
+madprof   936939988  6  2 Bf  -     -     -         6464   10    0 
+madprof   936940009  6  1 Bf  -     -     -         6454    5    0 
+madprof   936940026  6  6 c   f     -     -         6449   35    0 
+madprof   936940061  6  5 f   -     -     -         6414    0    0 
+madprof   936940080  6  4 r   b     b     -         6414  355  480 
+madprof   936940107  6  3 f   -     -     -         6539    0    0 
+madprof   936940119  6  2 Bk  kf    -     -         6539   10    0 
+madprof   936940152  5  1 Bcc kr    -     -         6529 1255 1815 Qd Kd
+madprof   936940193  4  4 f   -     -     -         7089    0    0 
+madprof   936940232  5  5 r   b     bf    -         7089  625    0 
+madprof   936940266  5  4 f   -     -     -         6464    0    0 
+madprof   936940296  5  3 f   -     -     -         6464    0    0 
+madprof   936940315  5  2 Bf  -     -     -         6464   10    0 
+madprof   936940347  5  1 Bc  kf    -     -         6454   10    0 
+madprof   936940364  5  5 f   -     -     -         6444    0    0 
+madprof   936940370  5  4 f   -     -     -         6444    0    0 
+madprof   936940390  5  3 f   -     -     -         6444    0    0 
+madprof   936940407  5  2 Bf  -     -     -         6444   10    0 
+madprof   936940438  5  1 Bcf -     -     -         6434   10    0 
+madprof   936940480  6  5 r   r     -     -         6424  882 1378 
+madprof   936940531  6  4 c   b     b     -         6920  130  180 
+madprof   936940560  6  3 r   k     kc    kc        6970  515    0 Td Ac
+madprof   936940589  6  2 Bc  kf    -     -         6455   35    0 
+madprof   936940615  6  1 Bf  -     -     -         6420    5    0 
+madprof   936940646  6  6 r   -     -     -         6415   35   50 
+madprof   936940666  7  5 c   c     f     -         6430   65    0 
+madprof   936940708  7  4 cc  b     -     -         6365  330  550 
+madprof   936940735  7  3 cc  k     b     -         6585  340  570 
+madprof   936940770  7  2 Bc  kf    -     -         6815   35    0 
+madprof   936940811  7  1 Bc  b     -     -         6780   60  100 
+madprof   936940842  7  7 f   -     -     -         6820    0    0 
+madprof   936940882  7  6 f   -     -     -         6820    0    0 
+madprof   936940932  7  5 f   -     -     -         6820    0    0 
+madprof   936940969  6  3 f   -     -     -         6820    0    0 
+madprof   936941006  6  2 Bk  kr    b     b         6820 1010 1350 
+madprof   936941040  6  1 Bc  k     k     k         7160   45  270 Th As
+madprof   936941080  7  7 c   k     b     -         7385  145  220 
+madprof   936941110  7  6 f   -     -     -         7460    0    0 
+madprof   936941138  7  5 f   -     -     -         7460    0    0 
+madprof   936941177  7  4 cc  kf    -     -         7460   55    0 
+madprof   936941230  7  3 fQ  -     -     -         7405    0    0 
+madprof   936997033  7  6 f   -     -     -         7680    0    0 
+madprof   936997073  7  5 r   b     -     -         7680  150  210 
+madprof   936997100  8  4 f   -     -     -         7740    0    0 
+madprof   936997132  7  3 f   -     -     -         7740    0    0 
+madprof   936997186  7  2 Bc  kf    -     -         7740   35    0 
+madprof   936997218  7  1 Bc  kf    -     -         7705   10    0 
+madprof   936997251  7  7 f   -     -     -         7695    0    0 
+madprof   936997286  7  6 r   b     b     -         7695  375  510 
+madprof   936997314  8  5 r   k     b     -         7830  185  280 
+madprof   936997356  8  4 cc  kf    -     -         7925   55    0 
+madprof   936997388  9  3 f   -     -     -         7870    0    0 
+madprof   936997434  9  2 Bk  k     k     k         7870   10    0 As Qh
+madprof   936997514  9  1 Bc  k     k     k         7860   10    0 Ks 2c
+madprof   936997549 10 10 c   b     -     -         7850   60  100 
+madprof   936997606 10  9 f   -     -     -         7890    0    0 
+madprof   936997677 10  8 f   -     -     -         7890    0    0 
+madprof   936997719 10  7 r   -     -     -         7890   35   50 
+madprof   936997742 10  6 f   -     -     -         7905    0    0 
+madprof   936997788 10  5 c   kf    -     -         7905   10    0 
+madprof   936997836 10  4 cf  -     -     -         7895   10    0 
+madprof   936997871  9  2 Bk  k     k     k         7885   10    0 4s 2c
+madprof   936997929  9  1 Bc  kf    -     -         7875   45    0 
+madprof   936998025  9  9 c   c     b     k         7830  190    0 4h Kh
+madprof   936998118  8  7 f   -     -     -         7640    0    0 
+madprof   936998191 10  8 f   -     -     -         7640    0    0 
+madprof   936998245  9  6 f   -     -     -         7640    0    0 
+madprof   936998328 10  6 f   -     -     -         7640    0    0 
+madprof   936998389 10  5 f   -     -     -         7640    0    0 
+madprof   936998427 10  4 r   b     -     -         7640  120  170 
+madprof   936998442 10  3 f   -     -     -         7690    0    0 
+madprof   936998474 10  2 Bk  b     -     -         7690   35   50 
+madprof   936998501 10  1 Bf  -     -     -         7705    5    0 
+madprof   936998539 10 10 f   -     -     -         7700    0    0 
+madprof   936998615 10  9 f   -     -     -         7700    0    0 
+madprof   936998658 10  8 f   -     -     -         7700    0    0 
+madprof   936998682 10  7 c   b     kf    -         7700   60    0 
+madprof   936998730 10  6 cc  c     c     c         7640 2010 4050 Td Ac
+madprof   936998811 10  5 c   c     kc    kf        9680  285    0 
+madprof   936998872 10  4 f   -     -     -         9395    0    0 
+madprof   936998902 10  3 f   -     -     -         9395    0    0 
+madprof   936998923 10  2 Bc  k     kf    -         9395   55    0 
+madprof   936999002  9  1 Bf  -     -     -         9340    5    0 
+madprof   936999035 10 10 f   -     -     -         9335    0    0 
+madprof   936999058 10  9 r   b     k     k         9335  115  240 Jc Kc
+madprof   936999094 10  8 f   -     -     -         9460    0    0 
+madprof   936999146 10  7 f   -     -     -         9460    0    0 
+madprof   936999190 10  6 f   -     -     -         9460    0    0 
+madprof   936999212 10  5 f   -     -     -         9460    0    0 
+madprof   936999242  9  3 c   bc    kf    -         9460  190    0 
+madprof   936999287  9  2 B   -     -     -         9270   10   15 
+madprof   936999297  9  1 Bf  -     -     -         9275    5    0 
+madprof   936999327  9  9 c   c     k     k         9270  120  255 9h Td
+madprof   936999361  9  8 f   -     -     -         9405    0    0 
+madprof   936999390  9  7 r   b     -     -         9405  375  510 
+madprof   936999406  9  6 f   -     -     -         9540    0    0 
+madprof   936999433  9  5 r   kf    -     -         9540   35    0 
+madprof   936999469  9  4 f   -     -     -         9505    0    0 
+madprof   936999529 10  4 c   b     c     c         9505  465    0 Qd Jh
+madprof   936999569 10  3 f   -     -     -         9040    0    0 
+madprof   936999588 10  2 Bk  k     k     kf        9040   10    0 
+madprof   936999640 10  1 Bcc kc    k     k         9030   90  180 Qc 9h
+madprof   936999677 10 10 f   -     -     -         9120    0    0 
+madprof   936999710  9  8 f   Q     -     -         9120    0    0 
+madprof   936999822  7  3 f   -     -     -         9120    0    0 
+madprof   936999846  7  2 Bk  bc    f     -         9120  130    0 
+madprof   936999883  7  1 Bf  -     -     -         8990    5    0 
+madprof   936999928  6  6 rc  c     k     k         8985  270  540 3h Ts
+madprof   936999983  6  6 f   -     -     -         9255    0    0 
+madprof   937000018  6  5 f   -     -     -         9255    0    0 
+madprof   937000055  6  4 f   -     -     -         9255    0    0 
+madprof   937000066  6  3 f   -     -     -         9255    0    0 
+madprof   937000101  6  2 Bf  -     -     -         9255   10    0 
+madprof   937000131  6  1 Bf  -     -     -         9245    5    0 
+madprof   937000182  6  6 f   -     -     -         9240    0    0 
+madprof   937000200  6  5 f   -     -     -         9240    0    0 
+madprof   937000226  6  4 f   -     -     -         9240    0    0 
+madprof   937000239  6  3 f   -     -     -         9240    0    0 
+madprof   937000261  6  2 Bf  -     -     -         9240   10    0 
+madprof   937000280  6  1 Bc  bc    kf    -         9230  770    0 
+madprof   937000321  6  6 f   -     -     -         8460    0    0 
+madprof   937000332  6  5 r   -     -     -         8460   35   50 
+madprof   937000359  6  4 f   -     -     -         8475    0    0 
+madprof   937000391  6  3 f   -     -     -         8475    0    0 
+madprof   937000434  6  2 Bf  -     -     -         8475   10    0 
+madprof   937000469  6  1 Bc  b     -     -         8465   40   60 
+madprof   937000493  6  6 f   -     -     -         8485    0    0 
+madprof   937000520  6  5 f   -     -     -         8485    0    0 
+madprof   937000553  6  4 r   k     kc    k         8485  120  255 9c 9h
+madprof   937000582  7  3 f   -     -     -         8620    0    0 
+madprof   937000622  8  2 Bk  kf    -     -         8620   10    0 
+madprof   937000657  8  1 Bf  -     -     -         8610    5    0 
+madprof   937000684  8  8 f   -     -     -         8605    0    0 
+madprof   937000707  8  7 f   -     -     -         8605    0    0 
+madprof   937000713  8  6 r   k     k     k         8605   35    0 As Qc
+madprof   937000763  8  5 f   -     -     -         8570    0    0 
+madprof   937000807  8  4 f   -     -     -         8570    0    0 
+madprof   937000838  7  2 cc  kc    k     k         8570  130    0 5h 5d
+madprof   937000923  7  1 Bk  kc    k     k         8440   50    0 2h Ad
+madprof   937000989  7  1 Bc  b     kf    -         8390   40    0 
+madprof   937001022  7  7 f   -     -     -         8350    0    0 
+madprof   937001045  7  6 f   -     -     -         8350    0    0 
+madprof   937001089  7  5 f   -     -     -         8350    0    0 
+madprof   937001119  7  4 f   -     -     -         8350    0    0 
+madprof   937001141  7  3 f   -     -     -         8350    0    0 
+madprof   937001162  7  2 Bc  kr    -     -         8350  335  450 
+madprof   937001201  7  1 Bc  b     -     -         8465   40   60 
+madprof   937001222  7  7 f   Q     -     -         8485    0    0 
+madprof   937028237  9  9 c   b     -     -         8485   50   80 
+madprof   937028280  9  8 f   -     -     -         8515    0    0 
+madprof   937028322  9  7 c   c     k     k         8515  155    0 Tc Ad
+madprof   937028346  9  6 f   -     -     -         8360    0    0 
+madprof   937028380  9  5 f   -     -     -         8360    0    0 
+madprof   937028409  9  4 f   -     -     -         8360    0    0 
+madprof   937028464  9  3 f   -     -     -         8360    0    0 
+madprof   937028488  9  2 Bk  b     -     -         8360   40   60 
+madprof   937028509  9  1 Bf  -     -     -         8380    5    0 
+madprof   937028532  9  9 c   f     -     -         8375   10    0 
+madprof   937028598 10  8 f   -     -     -         8365    0    0 
+madprof   937028640 10  7 c   c     k     k         8365   55  135 Jc 9c
+madprof   937028694 10  6 f   -     -     -         8445    0    0 
+madprof   937028760 10  5 f   -     -     -         8445    0    0 
+madprof   937028817 10  5 f   -     -     -         8445    0    0 
+madprof   937028881  9  3 f   -     -     -         8445    0    0 
+madprof   937028955 10  2 Bf  -     -     -         8445   10    0 
+madprof   937029001  9  1 Bc  b     -     -         8435  115  160 
+madprof   937029022 10  9 f   -     -     -         8480    0    0 
+madprof   937029046 10  8 f   -     -     -         8480    0    0 
+madprof   937029070 10  7 f   -     -     -         8480    0    0 
+madprof   937029110  9  5 rc  f     -     -         8480  215    0 
+madprof   937029142  9  4 f   -     -     -         8265    0    0 
+madprof   937029221  9  3 f   -     -     -         8265    0    0 
+madprof   937029241  9  2 Bk  k     kf    -         8265   10    0 
+madprof   937029270  9  1 Bf  -     -     -         8255    5    0 
+madprof   937029315  9  9 f   -     -     -         8250    0    0 
+madprof   937029395  8  7 c   c     c     k         8250  890 2720 As 9s
+madprof   937029431  8  7 f   -     -     -        10080    0    0 
+madprof   937029469  7  5 f   -     -     -        10080    0    0 
+madprof   937029504  8  4 f   -     -     -        10080    0    0 
+madprof   937029542  8  3 f   -     -     -        10080    0    0 
+madprof   937029560  8  2 Bf  -     -     -        10080   10    0 
+madprof   937029609  8  1 Bf  -     -     -        10070    5    0 
+madprof   937029632  8  8 f   -     -     -        10065    0    0 
+madprof   937029661  9  8 c   k     c     k        10065   70    0 6s 7s
+madprof   937029711  9  7 f   -     -     -         9995    0    0 
+madprof   937029763  9  6 f   -     -     -         9995    0    0 
+madprof   937029785  9  5 f   -     -     -         9995    0    0 
+madprof   937029812  9  4 f   -     -     -         9995    0    0 
+madprof   937029852  9  3 f   -     -     -         9995    0    0 
+madprof   937029887  9  2 Bc  k     bf    -         9995  405    0 
+madprof   937029969  9  1 Bf  -     -     -         9590    5    0 
+madprof   937030001  9  9 f   -     -     -         9585    0    0 
+madprof   937030105  8  7 c   rf    -     -         9585  645    0 
+madprof   937030157  8  6 f   -     -     -         8940    0    0 
+madprof   937030173  8  5 r   b     -     -         8940  110  150 
+madprof   937030194  8  4 f   -     -     -         8980    0    0 
+madprof   937030225  8  3 f   -     -     -         8980    0    0 
+madprof   937030252  8  2 Bc  kf    -     -         8980   35    0 
+madprof   937030286  8  1 Bf  -     -     -         8945    5    0 
+madprof   937030342  8  8 r   b     b     -         8940  355  480 
+madprof   937030374  8  7 f   -     -     -         9065    0    0 
+madprof   937030409  8  6 f   -     -     -         9065    0    0 
+madprof   937030427  8  5 f   -     -     -         9065    0    0 
+madprof   937030469  8  4 f   -     -     -         9065    0    0 
+madprof   937030505  8  3 f   -     -     -         9065    0    0 
+madprof   937030546  9  2 Bk  kf    -     -         9065   10    0 
+madprof   937030586  9  1 Bc  b     k     k         9055   50  120 9c Qs
+madprof   937030622 10 10 f   -     -     -         9125    0    0 
+madprof   937030645 10  9 f   -     -     -         9125    0    0 
+madprof   937030719 10  8 f   -     -     -         9125    0    0 
+madprof   937030766 10  7 r   b     b     -         9125 2710 3690 
+madprof   937030865 10  6 f   -     -     -        10105    0    0 
+madprof   937030932 10  5 f   -     -     -        10105    0    0 
+madprof   937030976 10  4 f   -     -     -        10105    0    0 
+madprof   937031022 10  3 f   -     -     -        10105    0    0 
+madprof   937031062 10  2 Br  b     b     b        10105 3310 6461 Ac Ah
+madprof   937031123  9  1 Bc  kc    kc    b        13256 1650 2560 
+madprof   937031200  9  9 c   b     -     -        14166  240  390 
+madprof   937031242  9  8 f   -     -     -        14316    0    0 
+madprof   937031283  9  7 f   -     -     -        14316    0    0 
+madprof   937031334  9  6 f   -     -     -        14316    0    0 
+madprof   937031381  9  5 f   -     -     -        14316    0    0 
+madprof   937031420  8  3 rc  kf    -     -        14316  120    0 
+madprof   937031504  8  2 Bc  k     kf    -        14196   55    0 
+madprof   937031559  8  1 Bc  kc    kf    -        14141  115    0 
+madprof   937031596  8  8 f   -     -     -        14026    0    0 
+madprof   937031614  8  7 f   -     -     -        14026    0    0 
+madprof   937031660  8  6 f   -     -     -        14026    0    0 
+madprof   937031701  8  5 f   -     -     -        14026    0    0 
+madprof   937031736  8  4 cc  f     -     -        14026   60    0 
+madprof   937031782  8  3 c   kf    -     -        13966   10    0 
+madprof   937031811  8  2 Bf  -     -     -        13956   10    0 
+madprof   937031901  7  1 Bc  b     -     -        13946   60  100 
+madprof   937031940  7  7 c   rf    -     -        13986  785    0 
+madprof   937031994  8  7 c   k     f     -        13201   45    0 
+madprof   937032050  9  7 f   -     -     -        13156    0    0 
+madprof   937032079  9  6 c   k     k     k        13156   10    0 Kh Jd
+madprof   937032111  9  5 c   kf    -     -        13146   35    0 
+madprof   937032144  8  4 f   -     -     -        13111    0    0 
+madprof   937032175  8  3 f   -     -     -        13111    0    0 
+madprof   937032224  8  2 Bf  -     -     -        13111   10    0 
+madprof   937032254  8  1 Bf  -     -     -        13101    5    0 
+madprof   937032291  8  8 f   -     -     -        13096    0    0 
+madprof   937032308  8  7 f   -     -     -        13096    0    0 
+madprof   937032332  8  6 f   -     -     -        13096    0    0 
+madprof   937032363  7  5 c   k     f     -        13096   35    0 
+madprof   937032398  7  4 fQ  -     -     -        13061    0    0 
+madprof   937033044  6  3 f   -     -     -        13061    0    0 
+madprof   937033078  6  2 Bk  kf    -     -        13061   10    0 
+madprof   937033113  6  1 Bf  -     -     -        13051    5    0 
+madprof   937033140  6  6 cc  c     c     b        13046 2985 4480 
+madprof   937033189  6  5 f   -     -     -        14541    0    0 
+madprof   937033222  6  4 f   -     -     -        14541    0    0 
+madprof   937033235  6  3 r   b     f     -        14541  175    0 
+madprof   937033273  6  2 Bf  -     -     -        14366   10    0 
+madprof   937033290  6  1 Bc  kc    kf    -        14356   40    0 
+madprof   937033319  6  6 c   f     -     -        14316   35    0 
+madprof   937033352  6  5 f   -     -     -        14281    0    0 
+madprof   937033383  6  4 f   -     -     -        14281    0    0 
+madprof   937033400  6  3 f   -     -     -        14281    0    0 
+madprof   937033420  6  2 Bc  kf    -     -        14281   35    0 
+madprof   937033439  6  1 Bf  -     -     -        14246    5    0 
+madprof   937033468  6  6 f   -     -     -        14241    0    0 
+madprof   937033496  6  5 r   b     bf    -        14241  595    0 
+madprof   937033526  6  4 f   -     -     -        13646    0    0 
+madprof   937033546  6  3 cc  kf    -     -        13646   55    0 
+madprof   937033585  6  2 Bc  f     -     -        13591   35    0 
+madprof   937033611  6  1 Bc  bc    k     b        13556 1930 2610 
+madprof   937033658  6  6 f   -     -     -        14236    0    0 
+madprof   937033675  6  5 c   b     bc    f        14236  660    0 
+madprof   937033720  6  4 f   -     -     -        13576    0    0 
+madprof   937033751  6  3 f   -     -     -        13576    0    0 
+madprof   937033762  6  2 Bf  -     -     -        13576   10    0 
+madprof   937033783  6  1 Bf  -     -     -        13566    5    0 
+madprof   937033810  6  6 f   -     -     -        13561    0    0 
+madprof   937033837  6  5 f   -     -     -        13561    0    0 
+madprof   937033862  6  4 c   b     b     -        13561  110  150 
+madprof   937033886  6  3 f   -     -     -        13601    0    0 
+madprof   937033913  6  2 Bc  kf    -     -        13601   35    0 
+madprof   937033933  6  1 Bf  -     -     -        13566    5    0 
+madprof   937033958  6  6 cc  c     k     c        13561  813    0 Qh Jc
+madprof   937033993  6  5 f   -     -     -        12748    0    0 
+madprof   937034007  6  4 f   -     -     -        12748    0    0 
+madprof   937034032  6  3 f   -     -     -        12748    0    0 
+madprof   937034058  6  2 Bk  k     b     -        12748   40   60 
+madprof   937034078  6  1 Bc  kc    k     k        12768   60    0 6d 6h
+madprof   937034123  5  5 c   b     b     -        12708  150  210 
+madprof   937034148  5  4 f   -     -     -        12768    0    0 
+madprof   937034168  5  3 f   -     -     -        12768    0    0 
+madprof   937034201  5  2 Bk  b     bc    kf       12768  465    0 
+madprof   937034244  5  1 Bc  kc    kf    -        12303  135    0 
+madprof   937034296  5  5 f   -     -     -        12168    0    0 
+madprof   937034328  5  4 fQ  -     -     -        12168    0    0 
+madprof   937190179  9  2 Bf  -     -     -        13083   10    0 
+madprof   937190223  9  1 Bc  kc    kf    -        13073   30    0 
+madprof   937190286  9  9 f   -     -     -        13043    0    0 
+madprof   937190388  9  8 f   -     -     -        13043    0    0 
+madprof   937190408  9  7 c   f     -     -        13043   10    0 
+madprof   937190465  9  6 f   -     -     -        13033    0    0 
+madprof   937190503  9  5 f   -     -     -        13033    0    0 
+madprof   937190554  8  3 f   -     -     -        13033    0    0 
+madprof   937190601  8  2 Bc  b     -     -        13033  160  240 
+madprof   937190638  8  1 Bc  b     -     -        13113   50   80 
+madprof   937190671  8  8 r   c     c     b        13143 1010 1350 
+madprof   937190708  8  7 r   b     b     -        13483  335  450 
+madprof   937190741  8  6 c   b     b     -        13598  210  320 
+madprof   937190785  8  5 f   -     -     -        13708    0    0 
+madprof   937190803  8  4 cc  kf    -     -        13708   55    0 
+madprof   937190845  8  3 f   -     -     -        13653    0    0 
+madprof   937190885  8  2 Bf  -     -     -        13653   10    0 
+madprof   937190900  8  1 Bf  -     -     -        13643    5    0 
+madprof   937190945  7  7 c   b     b     b        13638  465  630 
+madprof   937191000  9  8 f   -     -     -        13803    0    0 
+madprof   937191034  9  7 f   -     -     -        13803    0    0 
+madprof   937191072  9  6 rc  f     -     -        13803  150    0 
+madprof   937191102  9  5 f   -     -     -        13653    0    0 
+madprof   937191167  9  4 f   -     -     -        13653    0    0 
+madprof   937191208  9  3 cc  kf    -     -        13653   45    0 
+madprof   937191257  9  2 Bk  k     k     k        13608   10    0 4s 8h
+madprof   937191293  9  1 Bf  -     -     -        13598    5    0 
+madprof   937191316  9  9 f   -     -     -        13593    0    0 
+madprof   937191353  9  8 f   -     -     -        13593    0    0 
+madprof   937191400  9  7 f   -     -     -        13593    0    0 
+madprof   937191445  9  6 f   -     -     -        13593    0    0 
+madprof   937191488  9  5 cf  -     -     -        13593   35    0 
+madprof   937191532  9  4 f   -     -     -        13558    0    0 
+madprof   937191560  9  3 f   -     -     -        13558    0    0 
+madprof   937191597  9  2 Bf  -     -     -        13558   10    0 
+madprof   937191630  9  1 Bf  -     -     -        13548    5    0 
+madprof   937191673  9  9 r   k     f     -        13543   55    0 
+madprof   937191717  9  8 c   b     b     bf       13488  660    0 
+madprof   937191775  9  7 c   f     -     -        12828   35    0 
+madprof   937191810 10  7 f   -     -     -        12793    0    0 
+madprof   937191863 10  6 f   -     -     -        12793    0    0 
+madprof   937191917 10  5 f   -     -     -        12793    0    0 
+madprof   937191975 10  4 f   -     -     -        12793    0    0 
+madprof   937192007 10  3 f   -     -     -        12793    0    0 
+madprof   937192054 10  2 Bf  -     -     -        12793   10    0 
+madprof   937192086 10  1 Bf  -     -     -        12783    5    0 
+madprof   937192135 10 10 f   -     -     -        12778    0    0 
+madprof   937192164 10  9 c   k     f     -        12778   35    0 
+madprof   937192227 10  8 f   -     -     -        12743    0    0 
+madprof   937192266 10  7 c   f     -     -        12743   35    0 
+madprof   937192322  9  5 f   -     -     -        12708    0    0 
+madprof   937192387  9  4 f   -     -     -        12708    0    0 
+madprof   937192444  9  3 f   -     -     -        12708    0    0 
+madprof   937192482  9  2 Bf  -     -     -        12708   10    0 
+madprof   937192537  9  1 Bc  k     b     b        12698  210  300 
+madprof   937192623  8  8 f   -     -     -        12788    0    0 
+madprof   937192656  8  7 c   b     b     -        12788  210  300 
+madprof   937192695  8  6 c   b     b     b        12878  465    0 6h As
+madprof   937192771  8  5 c   f     -     -        12413   35    0 
+madprof   937192794  8  4 cc  bc    kf    -        12378  765    0 
+madprof   937192838  8  3 f   -     -     -        11613    0    0 
+madprof   937192887  8  2 Bk  b     k     k        11613   45    0 2d 4h
+madprof   937192926  8  1 Bc  kf    -     -        11568   10    0 
+madprof   937193014  8  8 f   -     -     -        11558    0    0 
+madprof   937193051  8  7 c   c     c     c        11558  400  810 Td 8c
+madprof   937193099  8  6 f   -     -     -        11968    0    0 
+madprof   937193138  8  5 r   b     b     b        11968 1010 1350 
+madprof   937193189  9  4 f   -     -     -        12308    0    0 
+madprof   937193237  9  4 f   -     -     -        12308    0    0 
+madprof   937193275  8  2 Bc  kf    -     -        12308   35    0 
+madprof   937193308  9  1 Bf  -     -     -        12273    5    0 
+madprof   937193371 10 10 f   -     -     -        12268    0    0 
+madprof   937193467  9  8 f   -     -     -        12268    0    0 
+madprof   937193529 10  8 f   -     -     -        12268    0    0 
+madprof   937193577 10  7 f   -     -     -        12268    0    0 
+madprof   937193656 10  6 c   f     -     -        12268   35    0 
+madprof   937193708 10  5 f   -     -     -        12233    0    0 
+madprof   937193760 10  4 c   kf    -     -        12233   10    0 
+madprof   937193801 10  3 r   b     b     -        12223  475  660 
+madprof   937193826 10  2 Bc  kf    -     -        12408   35    0 
+madprof   937193881 10  1 Bf  -     -     -        12373    5    0 
+madprof   937193937 10 10 c   f     -     -        12368   65    0 
+madprof   937193993 10  9 f   -     -     -        12303    0    0 
+madprof   937194039 10  8 f   -     -     -        12303    0    0 
+madprof   937194102 10  7 r   b     b     -        12303  795 1110 
+madprof   937194173 10  6 cc  k     f     -        12618   50    0 
+madprof   937194243 10  5 f   -     -     -        12568    0    0 
+madprof   937194295 10  4 cc  f     -     -        12568   70    0 
+madprof   937194350 10  3 cc  kc    k     b        12498 2710 4200 
+madprof   937194440 10  2 Bc  kf    -     -        13988   35    0 
+madprof   937194480 10  1 BQ  -     -     -        13953    5    0 
+madprof   937276635  9  2 Bk  r     b     -        15228  530  720 
+madprof   937276680  9  1 Bf  -     -     -        15418    5    0 
+madprof   937276737  9  9 c   c     f     -        15413   65    0 
+madprof   937276821  9  8 f   -     -     -        15348    0    0 
+madprof   937276855  9  7 r   b     -     -        15348  120  170 
+madprof   937276875  9  6 f   -     -     -        15398    0    0 
+madprof   937276896  9  5 f   -     -     -        15398    0    0 
+madprof   937276917  9  4 f   -     -     -        15398    0    0 
+madprof   937276948  9  3 cc  b     b     k        15398 2775    0 5d Kd
+madprof   937277017  9  2 Bk  k     c     rc       12623 1610 3240 Qc 2h
+madprof   937277065  9  1 Bf  -     -     -        14253    5    0 
+madprof   937277114  8  8 f   -     -     -        14248    0    0 
+madprof   937277173  8  7 r   b     b     -        14248 1230 1880 
+madprof   937277223  8  6 f   -     -     -        14898    0    0 
+madprof   937277256  8  5 r   k     c     b        14898  910 2100 5h Ah
+madprof   937277313  9  4 f   -     -     -        16088    0    0 
+madprof   937277371  7  2 Bk  k     kc    kf       16088   65    0 
+madprof   937277436  7  1 Bc  kc    k     kf       16023   50    0 
+madprof   937277486  6  6 f   -     -     -        15973    0    0 
+madprof   937277513  7  6 c   b     b     -        15973  150  210 
+madprof   937277535  7  5 r   -     -     -        16033   35   50 
+madprof   937277545  7  4 f   -     -     -        16048    0    0 
+madprof   937277608  7  3 f   -     -     -        16048    0    0 
+madprof   937277655  7  2 Bk  kf    -     -        16048   10    0 
+madprof   937277701  7  1 Bc  k     k     k        16038   10    0 Jd 2h
+madprof   937277753  7  7 c   b     b     k        16028  250  540 Jh Tc
+madprof   937277910  6  5 c   b     b     k        16318  150    0 Tc 7c
+madprof   937277955  6  4 c   b     k     b        16168  190  405 Th Js
+madprof   937277995  6  3 r   b     -     -        16383  110  150 
+madprof   937278012  6  2 Br  b     b     bf       16423 2080    0 
+madprof   937278067  6  1 Bc  k     b     -        14343   40   60 
+madprof   937278101  6  6 r   b     b     b        14363 1075    0 Th 7s
+madprof   937278133  6  5 r   -     -     -        13288   35   50 
+madprof   937278148  6  4 r   b     k     k        13303  150    0 9h 9c
+madprof   937278177  6  3 c   k     k     k        13153   10    0 Ah 7s
+madprof   937278236  6  2 Bk  k     b     -        13143   35   50 
+madprof   937278257  5  1 Bc  k     bf    -        13158   40    0 
+madprof   937278299  5  5 r   b     -     -        13118  110  150 
+madprof   937278320  5  4 f   -     -     -        13158    0    0 
+madprof   937278350  5  3 c   kf    -     -        13158   10    0 
+madprof   937278373  5  2 Bk  b     k     b        13148   90  120 
+madprof   937278405  5  1 Bf  -     -     -        13178    5    0 
+madprof   937278412  5  5 r   b     b     -        13173  465  630 
+madprof   937278433  5  4 r   f     -     -        13338   45    0 
+madprof   937278454  5  3 f   -     -     -        13293    0    0 
+madprof   937278485  5  2 Bf  -     -     -        13293   10    0 
+madprof   937278513  5  1 Bc  k     k     k        13283   10    0 Qh 5d
+madprof   937278552  5  5 f   -     -     -        13273    0    0 
+madprof   937278604  5  4 f   -     -     -        13273    0    0 
+madprof   937278631  5  3 f   -     -     -        13273    0    0 
+madprof   937278650  5  2 Bk  kf    Q     -        13273   10    0 
+madprof   937370963  4  2 Bk  f     -     -         8048   10    0 
+madprof   937370981  4  1 Bc  k     b     b         8038  130  180 
+madprof   937371004  4  4 r   b     -     -         8088  115  160 
+madprof   937371024  4  3 f   -     -     -         8133    0    0 
+madprof   937371041  4  2 Bk  b     b     k         8133  130    0 Jh Ts
+madprof   937371064  4  1 Bf  -     -     -         8003    5    0 
+madprof   937371074  4  4 cc  c     c     k         7998  530 1080 Ts Js
+madprof   937371106  4  3 c   kf    -     -         8548   10    0 
+madprof   937371133  4  2 Bc  k     f     -         8538   35    0 
+madprof   937371157  4  1 Bc  b     -     -         8503   40   60 
+madprof   937371168  4  4 f   -     -     -         8523    0    0 
+madprof   937371192  4  3 f   -     -     -         8523    0    0 
+madprof   937371212  4  2 Bf  -     -     -         8523   10    0 
+madprof   937371223  4  1 Bc  b     kc    k         8513  130    0 Th 6d
+madprof   937371248  4  4 f   -     -     -         8383    0    0 
+madprof   937371270  4  3 cc  kf    -     -         8383   45    0 
+madprof   937371288  4  2 Bk  b     -     -         8338   40   60 
+madprof   937371305  4  1 Bc  k     k     k         8358   10   30 Tc Ad
+madprof   937371325  4  4 c   k     c     r         8378  465  630 
+madprof   937371361  4  3 r   b     -     -         8543  140  210 
+madprof   937371374  4  2 Bk  f     -     -         8613   10    0 
+madprof   937371388  4  1 Bcc kc    kf    -         8603  160    0 
+madprof   937371414  5  4 c   f     -     -         8443   10    0 
+madprof   937371447  5  3 f   -     -     -         8433    0    0 
+madprof   937371461  5  2 Bk  b     b     k         8433   90  180 6d Ks
+madprof   937371501  5  1 Bf  -     -     -         8523    5    0 
+madprof   937371531  5  5 c   b     bf    -         8518  170    0 
+madprof   937371586  5  4 c   r     -     -         8348  170  240 
+madprof   937371613  5  3 r   b     -     -         8418  155  240 
+madprof   937371630  5  2 Bk  c     b     b         8503  690  960 
+madprof   937371658  5  1 Bc  kf    -     -         8773   10    0 
+madprof   937371689  5  5 r   bf    -     -         8763  110    0 
+madprof   937371708  5  4 f   -     -     -         8653    0    0 
+madprof   937371746  5  3 c   k     k     b         8653   55    0 Qs 2s
+madprof   937371784  5  2 Bk  kf    -     -         8598   10    0 
+madprof   937371826  5  1 Bf  -     -     -         8588    5    0 
+madprof   937371854  5  5 f   -     -     -         8583    0    0 
+madprof   937371921  5  4 f   -     -     -         8583    0    0 
+madprof   937371962  5  3 r   k     bc    k         8583  375  765 9c Ks
+madprof   937371994  5  2 Bk  k     f     -         8973   10    0 
+madprof   937372036  5  1 Bc  k     k     k         8963   10   30 2c 6d
+madprof   937372058  5  5 c   b     b     -         8983  170  240 
+madprof   937372099  5  4 c   f     -     -         9053   10    0 
+madprof   937372133  5  3 f   -     -     -         9043    0    0 
+madprof   937372167  5  2 Bk  k     k     k         9043   10    0 4s Js
+madprof   937372200  5  1 Bc  kf    -     -         9033   10    0 
+madprof   937372278  5  5 f   -     -     -         9023    0    0 
+madprof   937372311  5  5 c   b     b     c         9023  465  945 7d 6d
+madprof   937372342  5  4 r   b     -     -         9503  140  210 
+madprof   937372365  5  3 r   kf    -     -         9573   35    0 
+madprof   937372392  5  2 Bf  -     -     -         9538   10    0 
+madprof   937372415  5  1 Bf  -     -     -         9528    5    0 
+madprof   937372451  5  5 c   b     k     k         9523   45  105 5h 5d
+madprof   937372482  5  4 c   bc    k     k         9583  170    0 7d Tc
+madprof   937372512  5  3 cc  b     k     k         9413  210    0 9c Jd
+madprof   937372551  5  2 Bk  k     k     k         9203   10    0 3c Jc
+madprof   937372577  6  1 Bc  k     k     k         9193   10    0 Ad 3h
+madprof   937372604  6  6 c   -     -     -         9183   10   25 
+madprof   937372671  5  4 c   f     -     -         9198   10    0 
+madprof   937372693  5  4 f   -     -     -         9188    0    0 
+madprof   937372733  5  3 c   f     -     -         9188   10    0 
+madprof   937372755  5  2 Bf  -     -     -         9178   10    0 
+madprof   937372784  6  1 Bc  b     b     kc        9168  400    0 9s Jc
+madprof   937372829  6  6 c   f     -     -         8768   10    0 
+madprof   937372862  6  5 f   -     -     -         8758    0    0 
+madprof   937372902  6  4 f   -     -     -         8758    0    0 
+madprof   937372939  6  3 cc  k     f     -         8758   45    0 
+madprof   937372967  6  2 Bf  -     -     -         8713   10    0 
+madprof   937373020  6  1 Bcc kf    -     -         8703   50    0 
+madprof   937373046  6  6 cc  f     -     -         8653   50    0 
+madprof   937373071  6  5 f   -     -     -         8603    0    0 
+madprof   937373085  6  4 fQ  -     -     -         8603    0    0 
+madprof   937458140  9  8 r   b     b     -         8633  455  630 
+madprof   937458165  9  7 rf  -     -     -         8808   35    0 
+madprof   937458189  8  6 r   k     f     -         8773   35    0 
+madprof   937458227  8  5 f   -     -     -         8738    0    0 
+madprof   937458270  8  4 f   -     -     -         8738    0    0 
+madprof   937458280  8  3 f   -     -     -         8738    0    0 
+madprof   937458309  8  2 Bk  b     kf    -         8738   35    0 
+madprof   937458330  8  1 Bc  k     b     -         8703   40   60 
+madprof   937458353  8  8 f   -     -     -         8723    0    0 
+madprof   937458384  8  7 r   f     -     -         8723   45    0 
+madprof   937458404  8  6 r   -     -     -         8678   35   50 
+madprof   937458411  8  5 f   -     -     -         8693    0    0 
+madprof   937458426  8  4 f   -     -     -         8693    0    0 
+madprof   937458467  8  3 f   -     -     -         8693    0    0 
+madprof   937458478  8  2 Bk  kf    -     -         8693   10    0 
+madprof   937458496  8  1 Bf  -     -     -         8683    5    0 
+madprof   937458522  8  8 f   -     -     -         8678    0    0 
+madprof   937458556  8  7 c   b     -     -         8678   60  100 
+madprof   937458592  8  6 f   -     -     -         8718    0    0 
+madprof   937458618  8  5 c   k     k     kf        8718   10    0 
+madprof   937458661  7  3 r   b     kf    -         8708  190    0 
+madprof   937458699  7  2 Bk  k     k     k         8518   10    0 8h Kd
+madprof   937458728  7  1 Bc  k     k     k         8508   10    0 9h 2s
+madprof   937458796  7  7 cc  k     k     f         8498   45    0 
+madprof   937458839  7  6 r   b     -     -         8453  190  270 
+madprof   937458873  7  5 f   -     -     -         8533    0    0 
+madprof   937458901  6  3 c   b     -     -         8533   40   60 
+madprof   937458921  6  2 Bk  k     k     k         8553   10    0 Js Qc
+madprof   937458949  7  1 Bc  kf    -     -         8543   10    0 
+madprof   937458990  7  7 f   -     -     -         8533    0    0 
+madprof   937459017  8  7 f   -     -     -         8533    0    0 
+madprof   937459043  8  6 c   r     b     -         8533 5200 7840 
+madprof   937459084  8  5 f   -     -     -        11173    0    0 
+madprof   937459102  8  4 f   -     -     -        11173    0    0 
+madprof   937459142  8  3 f   -     -     -        11173    0    0 
+madprof   937459170  8  2 Bk  kc    k     b        11173  210  450 9c 4c
+madprof   937459200  8  1 Bc  k     b     kc       11413  495    0 Th Tc
+madprof   937459238  8  8 f   -     -     -        10918    0    0 
+madprof   937459279  8  7 c   r     -     -        10918  375  510 
+madprof   937459306  8  6 c   r     b     b        11053 10450 10530 As 4d
+madprof   937459344  8  5 c   f     -     -        11133   10    0 
+madprof   937459387  8  4 f   -     -     -        11123    0    0 
+madprof   937459426  8  3 cc  kc    b     k        11123  955 2880 Tc Js
+madprof   937459477  8  2 Bk  c     kf    -        13048   50    0 
+madprof   937459543  8  1 Bc  kf    -     -        12998   10    0 
+madprof   937459571  8  8 c   f     -     -        12988   35    0 
+madprof   937459604  8  7 f   -     -     -        12953    0    0 
+madprof   937459631  8  6 c   c     f     -        12953   70    0 
+madprof   937459685  8  5 f   -     -     -        12883    0    0 
+madprof   937459709  8  4 f   -     -     -        12883    0    0 
+madprof   937459755  7  3 f   -     -     -        12883    0    0 
+madprof   937459838  7  2 Bk  kf    -     -        12883   10    0 
+madprof   937459867  7  1 Bc  k     kc    krc      12873 1610    0 As Kd
+madprof   937459911  7  7 c   c     k     k        11263   55    0 7s Ks
+madprof   937459961  7  6 f   -     -     -        11208    0    0 
+madprof   937460007  8  5 c   k     c     b        11208  285  660 Ad 9h
+madprof   937460061  9  4 cc  k     k     k        11583  155    0 Js Ah
+madprof   937460130  9  3 f   -     -     -        11428    0    0 
+madprof   937460189  9  2 Bc  f     -     -        11428   80    0 
+madprof   937460230  9  1 Bc  kcc   kf    -        11348  310    0 
+madprof   937460333  9  9 f   -     -     -        11038    0    0 
+madprof   937460381  9  8 c   k     f     -        11038   10    0 
+madprof   937460440  9  7 f   -     -     -        11028    0    0 
+madprof   937460463  9  6 c   b     b     -        11028  130  180 
+madprof   937460487  9  5 f   -     -     -        11078    0    0 
+madprof   937460521  9  4 c   c     f     -        11078  180    0 
+madprof   937460556  9  3 f   -     -     -        10898    0    0 
+madprof   937460599  9  2 Bc  k     kf    -        10898   60    0 
+madprof   937460652  9  1 Bf  -     -     -        10838    5    0 
+madprof   937460685  9  9 f   -     -     -        10833    0    0 
+madprof   937460765  9  8 f   -     -     -        10833    0    0 
+madprof   937460835  9  7 c   f     -     -        10833   10    0 
+madprof   937460886  9  6 rr  b     -     -        10823 1540 2070 
+madprof   937460906  9  5 f   -     -     -        11353    0    0 
+madprof   937460957  9  4 f   -     -     -        11353    0    0 
+madprof   937460990  9  3 cc  k     k     kc       11353  340    0 4d As
+madprof   937461073 10  2 Bc  kc    k     kf       11013  225    0 
+madprof   937461140 10  1 Bf  -     -     -        10788    5    0 
+madprof   937461206 10 10 c   k     f     -        10783   10    0 
+madprof   937461363  9  8 c   rc    c     f        10773 3310    0 
+madprof   937461584  9  7 f   -     Q     -         7463    0    0 
+madprof   937461881  9  8 c   c     c     c         7463 3155    0 7d 8d
+madprof   937461951  9  7 f   -     -     -         4308    0    0 
+madprof   937461996  9  6 f   -     -     -         4308    0    0 
+madprof   937462028  9  5 f   -     -     -         4308    0    0 
+madprof   937462064  9  4 f   -     -     -         4308    0    0 
+madprof   937462091  9  3 f   -     -     -         4308    0    0 
+madprof   937462132  9  2 Bk  kc    k     k         4308  290  910 Qd 3c
+madprof   937462176  9  1 Bc  kc    kf    -         4928   50    0 
+madprof   937462229  9  9 f   -     -     -         4878    0    0 
+madprof   937462274  9  8 cf  -     -     -         4878   10    0 
+madprof   937462319  9  7 f   -     -     -         4868    0    0 
+madprof   937462345 10  7 r   -     -     -         4868   35   50 
+madprof   937462357 10  6 f   -     -     -         4883    0    0 
+madprof   937462419  9  5 f   -     -     -         4883    0    0 
+madprof   937462485  9  4 cc  c     k     k         4883  430    0 Ac 8d
+madprof   937462550  9  3 c   b     c     f         4453  185    0 
+madprof   937462602 10  2 Bf  -     -     -         4268   10    0 
+madprof   937462638 10  1 Bc  kf    -     -         4258   55    0 
+madprof   937462688  9  9 f   -     -     -         4203    0    0 
+madprof   937462748  9  8 f   -     -     -         4203    0    0 
+madprof   937462805  7  5 f   -     -     -         4203    0    0 
+madprof   937462852  7  4 f   -     -     -         4203    0    0 
+madprof   937462881  8  4 f   -     -     -         4203    0    0 
+madprof   937462923  8  3 f   -     -     -         4203    0    0 
+madprof   937462993  8  2 Bk  kf    -     -         4203   10    0 
+madprof   937463055  9  1 Bc  kf    -     -         4193   45    0 
+madprof   937463098  9  9 c   f     -     -         4148   55    0 
+madprof   937463176 10  9 f   -     -     -         4093    0    0 
+madprof   937463262  9  7 cc  bA    -     -         4093 4093    0 9c Ah

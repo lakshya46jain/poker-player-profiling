@@ -1,0 +1,1621 @@
+rankine   928281166  3  2 Bk  k     b     b         2508  100  170 
+rankine   928281198  3  1 Bc  kc    kf    -         2578   40    0 
+rankine   928281221  3  3 f   -     -     -         2538    0    0 
+rankine   928281245  3  2 B   -     -     -         2538   20   30 
+rankine   928281249  2  1 Bf  -     -     -         2548   10    0 
+rankine   928281252  2  2 B   -     -     -         2538   20   30 
+rankine   928281255  2  1 Bc  kc    kf    -         2548   40    0 
+rankine   928281277  2  2 B   -     -     -         2508   20   30 
+rankine   928281281  2  1 Bf  -     -     -         2518   10    0 
+rankine   928281284  3  3 f   -     -     -         2508    0    0 
+rankine   928281288  3  2 Bf  -     -     -         2508   20    0 
+rankine   928281299  3  1 Bf  -     -     -         2488   10    0 
+rankine   928281307  3  3 cc  k     c     k         2478   80  170 Kc Tc
+rankine   928281328  3  2 Bf  -     -     -         2568   20    0 
+rankine   928281337  3  1 Bc  bc    b     kr        2548  180  360 As 9s
+rankine   928281368  3  3 f   -     -     -         2728    0    0 
+rankine   928281374  3  2 Bk  k     k     b         2728   60   90 
+rankine   928281406  3  1 Bf  -     -     -         2758   10    0 
+rankine   928281409  3  3 f   -     -     -         2748    0    0 
+rankine   928281440  3  2 Bk  kc    kc    k         2748   80  170 Jd 9h
+rankine   928281475  3  1 Bc  kf    -     -         2838   20    0 
+rankine   928281498  3  3 f   -     -     -         2818    0    0 
+rankine   928281519  3  2 Bf  -     -     -         2818   20    0 
+rankine   928281524  3  1 Bf  -     -     -         2798   10    0 
+rankine   928281529  3  3 f   -     -     -         2788    0    0 
+rankine   928281543  3  2 B   -     -     -         2788   20   30 
+rankine   928281546  3  1 Bc  krr   b     kc        2798  200    0 Qd Qs
+rankine   928281584  3  3 f   -     -     -         2598    0    0 
+rankine   928281589  3  2 B   -     -     -         2598   20   30 
+rankine   928281598  3  1 Bc  kc    kf    -         2608   40    0 
+rankine   928281619  3  3 cc  r     b     br        2568  240    0 6d 6c
+rankine   928281651  3  2 Bk  kf    -     -         2328   20    0 
+rankine   928281685  3  1 Bcc kc    kr    k         2308  140  280 Kh Qs
+rankine   928281725  4  4 f   -     -     -         2448    0    0 
+rankine   928281772  6  5 f   -     -     -         2448    0    0 
+rankine   928281844  7  5 f   -     -     -         2448    0    0 
+rankine   928281877  7  4 f   -     -     -         2448    0    0 
+rankine   928281898  7  3 f   -     -     -         2448    0    0 
+rankine   928281933  7  2 Bk  kf    -     -         2448   20    0 
+rankine   928282002  7  1 Bf  -     -     -         2428   10    0 
+rankine   928282050  7  7 f   -     -     -         2418    0    0 
+rankine   928282101  6  5 f   -     -     -         2418    0    0 
+rankine   928282130  8  5 f   -     -     -         2418    0    0 
+rankine   928282180  9  5 f   -     -     -         2418    0    0 
+rankine   928282204  8  4 cc  c     r     b         2418  180  540 7h 5h
+rankine   928282252  8  3 c   kc    k     k         2778   60    0 Qc Ac
+rankine   928282301  8  2 Bc  kf    -     -         2718   40    0 
+rankine   928282358  8  1 Bf  -     -     -         2678   10    0 
+rankine   928282379  8  8 f   -     -     -         2668    0    0 
+rankine   928282441  8  7 f   -     -     -         2668    0    0 
+rankine   928282493  8  6 f   -     -     -         2668    0    0 
+rankine   928282525  9  5 f   -     -     -         2668    0    0 
+rankine   928282597  9  4 f   -     -     -         2668    0    0 
+rankine   928282654  8  3 cc  kc    kr    b         2668  180  390 Jh Qh
+rankine   928282687  8  2 Bf  -     -     -         2878   20    0 
+rankine   928282760  8  1 Bc  b     b     bc        2858  160    0 7d 6h
+rankine   928282805  8  8 f   -     -     -         2698    0    0 
+rankine   928282846  8  7 f   -     -     -         2698    0    0 
+rankine   928282883  9  6 f   -     Q     -         2698    0    0 
+rankine   928372179 10  7 f   -     -     -         2338    0    0 
+rankine   928372238 10  6 f   -     -     -         2338    0    0 
+rankine   928372297 10  5 f   -     -     -         2338    0    0 
+rankine   928372342  9  3 f   -     -     -         2338    0    0 
+rankine   928372376  8  1 B   -     -     -         2338   20   20 
+rankine   928372387  8  1 Bcc kr    k     k         2338  100    0 Th Kd
+rankine   928372449  8  8 f   -     -     -         2238    0    0 
+rankine   928372476  9  8 f   -     -     -         2238    0    0 
+rankine   928372522 10  8 c   bc    f     -         2238   60    0 
+rankine   928372568 10  8 f   -     -     -         2178    0    0 
+rankine   928372595  9  6 f   -     -     -         2178    0    0 
+rankine   928372633  8  4 f   -     -     -         2178    0    0 
+rankine   928372661  8  3 c   k     k     k         2178   20    0 Jh Qh
+rankine   928372703  8  2 Bf  -     -     -         2158   20    0 
+rankine   928372726  7  1 Bc  krc   kc    k         2138  140  180 Qd Kc
+rankine   928372762  6  6 c   c     c     f         2178   80    0 
+rankine   928372836  6  5 c   k     b     b         2098  100  180 
+rankine   928372877  6  4 c   c     c     c         2178  120    0 Ts As
+rankine   928372917  6  3 f   -     -     -         2058    0    0 
+rankine   928372942  6  2 Bk  kf    -     -         2058   20    0 
+rankine   928372969  6  1 Bc  kc    kc    b         2038  120    0 5d 6d
+rankine   928373016  6  6 f   -     -     -         1918    0    0 
+rankine   928373065  6  5 f   -     -     -         1918    0    0 
+rankine   928373086  6  4 c   k     k     k         1918   20   60 8d Ad
+rankine   928373116  6  3 f   -     -     -         1958    0    0 
+rankine   928373172  7  2 Bk  kc    kc    kf        1958   80    0 
+rankine   928373219  7  1 Bf  -     -     -         1878   10    0 
+rankine   928373289  7  7 f   -     -     -         1868    0    0 
+rankine   928373334  6  5 f   -     -     -         1868    0    0 
+rankine   928373356  6  5 f   -     -     -         1868    0    0 
+rankine   928373394  6  4 c   kf    -     -         1868   20    0 
+rankine   928373446  6  3 f   -     -     -         1848    0    0 
+rankine   928373480  6  2 Bc  k     k     kf        1848   40    0 
+rankine   928373517  7  1 Bc  k     k     b         1808   60  100 
+rankine   928373540  8  8 f   -     -     -         1848    0    0 
+rankine   928373572  8  7 f   -     -     -         1848    0    0 
+rankine   928373585  8  6 f   -     -     -         1848    0    0 
+rankine   928373615  8  5 f   -     -     -         1848    0    0 
+rankine   928373650  7  4 f   -     -     -         1848    0    0 
+rankine   928373683  7  3 f   -     -     -         1848    0    0 
+rankine   928373712  6  2 Bc  kr    k     k         1848   80  250 6d 2c
+rankine   928373751  6  1 Bc  krc   kf    -         2018  100    0 
+rankine   928373786  6  6 cc  r     b     b         1918  160    0 Ac 8c
+rankine   928373813  6  5 f   -     -     -         1758    0    0 
+rankine   928373847  6  4 f   -     -     -         1758    0    0 
+rankine   928373860  6  3 r   r     b     -         1758  120  220 
+rankine   928373900  6  2 Bk  r     -     -         1858   60  100 
+rankine   928373914  7  1 Bc  kf    -     -         1898   20    0 
+rankine   928373953  6  6 f   -     -     -         1878    0    0 
+rankine   928373962  5  4 f   -     -     -         1878    0    0 
+rankine   928373996  4  2 B   -     -     -         1878   20   30 
+rankine   928374002  4  1 Bcc kc    kf    -         1888   60    0 
+rankine   928374021  5  5 rc  f     -     -         1828   60    0 
+rankine   928374076  6  4 Q   -     -     -         1768    0    0 
+rankine   928457326  9  5 f   -     -     -         2431    0    0 
+rankine   928457350  9  4 f   -     -     -         2431    0    0 
+rankine   928457406  9  3 f   -     -     -         2431    0    0 
+rankine   928457426  9  2 Bc  kf    -     -         2431   60    0 
+rankine   928457470  9  1 Bf  -     -     -         2371   10    0 
+rankine   928457506  9  9 f   -     -     -         2361    0    0 
+rankine   928457534  9  8 f   -     -     -         2361    0    0 
+rankine   928457546  9  6 c   bc    k     b         2361  120    0 Kc Jd
+rankine   928457606  9  5 cc  r     r     rrr       2241  400  810 3d Ad
+rankine   928457673  9  4 f   -     -     -         2651    0    0 
+rankine   928457701  9  3 f   -     -     -         2651    0    0 
+rankine   928457717  9  2 Bf  -     -     -         2651   20    0 
+rankine   928457760 10  1 Bc  kc    kc    kf        2631  160    0 
+rankine   928457837 10 10 f   -     -     -         2471    0    0 
+rankine   928457888 10  9 cr  b     r     b         2471  240    0 Qs Ad
+rankine   928457965  9  7 Q   -     -     -         2231    0    0 
+rankine   928707759  8  5 f   -     -     -         2324    0    0 
+rankine   928707795  8  4 cc  f     -     -         2324   40    0 
+rankine   928707842  8  3 f   -     -     -         2284    0    0 
+rankine   928707870  8  2 Bf  -     -     -         2284   20    0 
+rankine   928707902  8  1 Bc  kc    kc    b         2264  120  260 8c 7h
+rankine   928707938  9  8 f   -     -     -         2404    0    0 
+rankine   928708005  8  7 c   k     k     c         2404   60  130 Tc Td
+rankine   928708038  9  6 f   -     -     -         2474    0    0 
+rankine   928708099  9  5 r   b     b     b         2474  140  330 
+rankine   928708128  9  4 f   -     -     -         2664    0    0 
+rankine   928708181  9  3 f   -     -     -         2664    0    0 
+rankine   928708211  9  2 Bk  k     k     k         2664   20    0 9s 9d
+rankine   928708238  9  1 Bf  -     -     -         2644   10    0 
+rankine   928708278  9  9 f   -     -     -         2634    0    0 
+rankine   928708331  9  8 c   c     f     -         2634   60    0 
+rankine   928708403 10  7 f   -     -     -         2574    0    0 
+rankine   928708456  9  5 f   -     -     -         2574    0    0 
+rankine   928708499  9  4 f   -     -     -         2574    0    0 
+rankine   928708531  9  3 f   -     -     -         2574    0    0 
+rankine   928708573  9  2 Bf  -     -     -         2574   20    0 
+rankine   928708632 10  1 Bc  k     kc    k         2554   60  160 Qd Ah
+rankine   928708673  9  9 f   Q     -     -         2654    0    0 
+rankine   928708959  9  8 f   -     -     -         2654    0    0 
+rankine   928708987  9  7 f   -     -     -         2654    0    0 
+rankine   928709020  9  6 c   c     c     k         2654  100  470 9h Ah
+rankine   928709070  9  5 f   -     -     -         3024    0    0 
+rankine   928709095  9  4 f   -     -     -         3024    0    0 
+rankine   928709148  9  3 c   kc    kc    kc        3024  140    0 Qs Ts
+rankine   928709215  9  2 Bk  k     k     kf        2884   20    0 
+rankine   928709274  9  1 Bf  -     -     -         2864   10    0 
+rankine   928709314  9  9 f   -     -     -         2854    0    0 
+rankine   928709329  9  8 f   -     -     -         2854    0    0 
+rankine   928709361  9  7 f   -     -     -         2854    0    0 
+rankine   928709398  9  6 c   kc    kf    -         2854   60    0 
+rankine   928709438  9  5 f   -     -     -         2794    0    0 
+rankine   928709465  9  4 c   f     -     -         2794   20    0 
+rankine   928709492  9  3 f   -     -     -         2774    0    0 
+rankine   928709537 10  2 Bf  -     -     -         2774   20    0 
+rankine   928709579 10  1 Bcc kf    -     -         2754   80    0 
+rankine   928709659  9  9 fQ  -     -     -         2674    0    0 
+rankine   928710610  8  4 f   -     -     -         2674    0    0 
+rankine   928710640  8  3 f   -     -     -         2674    0    0 
+rankine   928710659  8  2 Bk  k     k     b         2674   60  100 
+rankine   928710706  8  1 Bf  -     -     -         2714   10    0 
+rankine   928710745  8  8 f   -     -     -         2704    0    0 
+rankine   928710772  8  7 f   -     -     -         2704    0    0 
+rankine   928710780  8  6 f   -     -     -         2704    0    0 
+rankine   928710807  8  5 f   -     -     -         2704    0    0 
+rankine   928710836  8  4 c   b     -     -         2704   40  120 
+rankine   928710863  9  3 f   -     -     -         2784    0    0 
+rankine   928710894 10  2 Bf  -     -     -         2784   20    0 
+rankine   928710947 10  1 Brc b     b     k         2764  140  720 Kc Kd
+rankine   928711054 10 10 f   -     -     -         3344    0    0 
+rankine   928711131 10  9 rc  b     b     b         3344  180  630 Kh Ad
+rankine   928711214 10  8 f   -     -     -         3794    0    0 
+rankine   928711286 10  7 r   b     br    b         3794  220    0 Ah Kc
+rankine   928711333 10  6 f   -     -     -         3574    0    0 
+rankine   928711438 10  5 f   -     -     -         3574    0    0 
+rankine   928711470 10  4 f   -     -     -         3574    0    0 
+rankine   928711509 10  3 rc  kc    k     kf        3574  120    0 
+rankine   928711581 10  2 Bc  k     kf    -         3454   40    0 
+rankine   928711631 10  1 Bf  -     -     -         3414   10    0 
+rankine   928711663 10 10 cc  c     c     k         3404  140    0 9h Jd
+rankine   928711719 10  9 cc  f     -     -         3264   80    0 
+rankine   928711813 10  8 f   -     -     -         3184    0    0 
+rankine   928711844  9  6 f   -     -     -         3184    0    0 
+rankine   928711866  9  5 f   -     -     -         3184    0    0 
+rankine   928711924  9  5 cc  kc    b     b         3184  160  450 
+rankine   928712051  7  2 cc  kfQ   -     -         3474   40    0 
+rankine   928723549  7  2 Br  kr    k     kc        4014  140    0 Ad Qd
+rankine   928723633  7  1 Bc  k     k     k         3874   20    0 Jc 5d
+rankine   928723740  8  7 f   -     -     -         3854    0    0 
+rankine   928723792  8  6 f   -     -     -         3854    0    0 
+rankine   928723835  8  5 f   -     -     -         3854    0    0 
+rankine   928723897  8  4 f   -     -     -         3854    0    0 
+rankine   928723970  8  3 c   c     c     kc        3854  120    0 Js Qs
+rankine   928724036  8  2 Bk  kc    kc    bf        3734  120    0 
+rankine   928724101  8  1 Bf  -     -     -         3614   10    0 
+rankine   928724177  8  8 f   -     -     -         3604    0    0 
+rankine   928724235  9  7 f   -     -     -         3604    0    0 
+rankine   928724300  9  6 c   k     f     -         3604   40    0 
+rankine   928724345  9  5 c   f     -     -         3564   20    0 
+rankine   928724403  9  4 c   k     k     br        3544  140  340 4d As
+rankine   928724515  9  3 c   k     k     b         3744   60  130 
+rankine   928724572  8  2 Bk  krc   kc    kr        3814  200    0 Kh 5s
+rankine   928724645  8  1 Bc  b     b     brc       3614  240    0 8d 9d
+rankine   928724721  8  8 f   -     -     -         3374    0    0 
+rankine   928724779  8  6 f   -     -     -         3374    0    0 
+rankine   928724819  7  5 c   b     c     b         3374  120  250 As Ks
+rankine   928724857  8  5 f   -     -     -         3504    0    0 
+rankine   928724893  8  4 f   -     -     -         3504    0    0 
+rankine   928724917  8  3 f   -     -     -         3504    0    0 
+rankine   928724938  8  2 Bc  b     kf    -         3504   60    0 
+rankine   928724984  8  1 Bc  kr    kc    kc        3444  140    0 6d 6c
+rankine   928725055  9  8 f   -     -     -         3304    0    0 
+rankine   928725091  9  7 r   b     b     b         3304  160  350 Ac Ad
+rankine   928725166  9  6 f   -     -     -         3494    0    0 
+rankine   928725215  9  5 f   -     -     -         3494    0    0 
+rankine   928725257 10  4 f   -     -     -         3494    0    0 
+rankine   928725302 10  3 f   -     -     -         3494    0    0 
+rankine   928725326 10  2 Bc  kf    -     -         3494   40    0 
+rankine   928725377 10  1 Bcrc kc    kc    kc        3454  180    0 Kc Js
+rankine   928725459  9  9 f   Q     -     -         3274    0    0 
+rankine   928803578  4  2 Bc  b     -     -         2794   60  110 
+rankine   928803599  4  1 Bc  k     b     -         2844   60   80 
+rankine   928803619  4  4 f   -     -     -         2864    0    0 
+rankine   928803629  4  3 c   c     r     -         2864  120  210 
+rankine   928803649  4  2 Bk  k     b     -         2954   60   90 
+rankine   928803666  4  1 Bf  -     -     -         2984   10    0 
+rankine   928803675  4  4 f   -     -     -         2974    0    0 
+rankine   928803684  4  3 f   -     -     -         2974    0    0 
+rankine   928803708  5  2 Bk  b     b     k         2974   80    0 2d 9d
+rankine   928803740  6  1 Bf  -     -     -         2894   10    0 
+rankine   928803749  6  6 c   rr    r     -         2884  200  390 
+rankine   928803766  6  5 c   k     b     -         3074   60  120 
+rankine   928803805  6  4 f   -     -     -         3134    0    0 
+rankine   928803850  7  4 f   -     -     -         3134    0    0 
+rankine   928803889  8  4 f   -     -     -         3134    0    0 
+rankine   928803930  8  3 c   b     -     -         3134   40   70 
+rankine   928803949  8  2 Bk  b     -     -         3164   40   80 
+rankine   928803974  8  1 Bcc k     k     kf        3204   40    0 
+rankine   928804033  8  8 f   -     -     -         3164    0    0 
+rankine   928804059  8  7 r   kc    kc    k         3164  100    0 6s As
+rankine   928804114  8  6 f   -     -     -         3064    0    0 
+rankine   928804153  8  5 c   rc    c     c         3064  160    0 7s As
+rankine   928804191  7  3 f   -     -     -         2904    0    0 
+rankine   928804242  7  2 Bk  k     kf    -         2904   20    0 
+rankine   928804268  7  1 Bf  -     -     -         2884   10    0 
+rankine   928804295  7  7 f   -     -     -         2874    0    0 
+rankine   928804364  7  6 c   k     k     c         2874   60   75 As 3c
+rankine   928804419  6  4 r   c     c     c         2889  140  290 Kh Ah
+rankine   928804465  6  3 f   -     -     -         3039    0    0 
+rankine   928804503  6  2 Bk  kf    -     -         3039   20    0 
+rankine   928804549  6  1 Bf  -     -     -         3019   10    0 
+rankine   928804558  6  6 f   -     -     -         3009    0    0 
+rankine   928804580  6  5 f   -     -     -         3009    0    0 
+rankine   928804596  6  4 c   b     kf    -         3009   40    0 
+rankine   928804639  6  3 c   r     b     r         2969  180  330 
+rankine   928804678  6  2 Bk  kf    -     -         3119   20    0 
+rankine   928804696  6  1 Bf  -     -     -         3099   10    0 
+rankine   928804730  6  6 f   -     -     -         3089    0    0 
+rankine   928804750  7  6 f   -     -     -         3089    0    0 
+rankine   928804771  7  5 f   -     -     -         3089    0    0 
+rankine   928804787  7  4 f   -     -     -         3089    0    0 
+rankine   928804832  8  4 f   -     -     -         3089    0    0 
+rankine   928804867  8  3 f   -     -     -         3089    0    0 
+rankine   928804905  8  2 Bf  -     -     -         3089   20    0 
+rankine   928804939  9  1 Bf  -     -     -         3069   10    0 
+rankine   928805005  9  9 f   -     -     -         3059    0    0 
+rankine   928805044  8  7 c   f     -     -         3059   20    0 
+rankine   928805084  8  7 f   -     -     -         3039    0    0 
+rankine   928805094  7  5 f   -     -     -         3039    0    0 
+rankine   928805106  7  4 f   -     -     -         3039    0    0 
+rankine   928805158  7  3 f   -     -     -         3039    0    0 
+rankine   928805200  7  2 Bc  bc    kf    -         3039   80    0 
+rankine   928805230  7  1 Bc  kf    -     -         2959   20    0 
+rankine   928805282  7  7 f   -     -     -         2939    0    0 
+rankine   928805291  8  6 f   -     -     -         2939    0    0 
+rankine   928805329  9  6 f   -     -     -         2939    0    0 
+rankine   928805376  9  5 c   f     -     -         2939   20    0 
+rankine   928805452  9  4 c   kf    -     -         2919   20    0 
+rankine   928805502  9  4 f   -     -     -         2899    0    0 
+rankine   928805513  9  3 c   rc    c     k         2899  120  260 8h 7h
+rankine   928805555  9  2 B   -     -     -         3039   20   30 
+rankine   928805571  9  1 Bc  b     -     -         3049   40   80 
+rankine   928805602  8  8 f   -     -     -         3089    0    0 
+rankine   928805633  7  6 cc  r     k     f         3089  120    0 
+rankine   928805697  9  7 f   -     -     -         2969    0    0 
+rankine   928805744  9  6 f   -     -     -         2969    0    0 
+rankine   928805759  9  5 cc  b     b     b         2969  140  340 
+rankine   928805797  9  4 f   -     -     -         3169    0    0 
+rankine   928805818  8  3 c   b     -     -         3169   40  120 
+rankine   928805843  8  2 Bf  -     -     -         3249   20    0 
+rankine   928805884  9  1 Bc  bc    k     b         3229  100  200 
+rankine   928805927  9  9 f   -     -     -         3329    0    0 
+rankine   928805960  8  7 c   c     c     f         3329   80    0 
+rankine   928805991  8  3 Q   -     -     -         3249    0    0 
+rankine   928807608 10  4 f   -     -     -         3054    0    0 
+rankine   928807625 10  3 f   -     -     -         3054    0    0 
+rankine   928807673 10  2 Bc  kf    -     -         3054   40    0 
+rankine   928807736 10  1 Bc  kr    k     b         3014  120    0 Ks 5d
+rankine   928807809 10 10 f   -     -     -         2894    0    0 
+rankine   928807844 10  9 f   -     -     -         2894    0    0 
+rankine   928807872 10  8 f   -     -     -         2894    0    0 
+rankine   928807932 10  7 f   -     -     -         2894    0    0 
+rankine   928807967  9  5 f   -     -     -         2894    0    0 
+rankine   928808003  9  4 f   -     -     -         2894    0    0 
+rankine   928808055 10  3 f   -     -     -         2894    0    0 
+rankine   928808107 10  2 Bc  kc    kc    k         2894  100  310 5c Ac
+rankine   928808152 10  1 Bf  -     -     -         3104   10    0 
+rankine   928808198 10 10 cc  f     -     -         3094   80    0 
+rankine   928808257 10  9 cc  f     -     -         3014   80    0 
+rankine   928808366 10  9 f   -     -     -         2934    0    0 
+rankine   928808403 10  7 f   -     -     -         2934    0    0 
+rankine   928808464 10  6 c   c     r     b         2934  180  420 
+rankine   928808535 10  5 f   -     -     -         3174    0    0 
+rankine   928808582 10  4 f   -     -     -         3174    0    0 
+rankine   928808615 10  3 f   -     -     -         3174    0    0 
+rankine   928808648 10  2 Bf  -     -     -         3174   20    0 
+rankine   928808714  9  1 Bf  -     -     -         3154   10    0 
+rankine   928808751  9  9 f   -     -     -         3144    0    0 
+rankine   928808823  9  8 f   -     -     -         3144    0    0 
+rankine   928808865  9  8 r   b     -     -         3144   60  130 
+rankine   928808923  7  5 f   -     -     -         3214    0    0 
+rankine   928808962  8  4 f   -     -     -         3214    0    0 
+rankine   928808986  8  3 c   k     b     -         3214   60  120 
+rankine   928809024  8  2 Bf  -     -     -         3274   20    0 
+rankine   928809053  8  1 Bf  -     -     -         3254   10    0 
+rankine   928809069  8  8 f   -     -     -         3244    0    0 
+rankine   928809118  8  7 f   -     -     -         3244    0    0 
+rankine   928809158  8  6 f   -     -     -         3244    0    0 
+rankine   928809197  8  5 f   -     -     -         3244    0    0 
+rankine   928809229  8  4 f   -     -     -         3244    0    0 
+rankine   928809250  7  2 Bc  kc    kr    k         3244  140  470 Ah 8c
+rankine   928809298  7  1 Bf  -     -     -         3574   10    0 
+rankine   928809317  7  7 f   -     -     -         3564    0    0 
+rankine   928809368  7  6 cc  b     b     b         3564  160  370 
+rankine   928809414  6  4 f   -     -     -         3774    0    0 
+rankine   928809453  6  3 cc  cc    b     k         3774  120    0 Ad 3d
+rankine   928809512  6  2 Br  kc    kc    kc        3654  180    0 Ah Qh
+rankine   928809584  6  1 Bf  -     -     -         3474   10    0 
+rankine   928809624  6  6 f   -     -     -         3464    0    0 
+rankine   928809663  5  4 f   -     -     -         3464    0    0 
+rankine   928809703  4  3 f   -     -     -         3464    0    0 
+rankine   928809738  5  2 Bf  -     -     -         3464   20    0 
+rankine   928809779  6  1 Bf  -     -     -         3444   10    0 
+rankine   928809803  6  6 f   -     -     -         3434    0    0 
+rankine   928809821  6  5 f   -     -     -         3434    0    0 
+rankine   928809845  6  4 f   -     -     -         3434    0    0 
+rankine   928809884  6  3 f   -     -     -         3434    0    0 
+rankine   928809912  6  2 Bf  -     -     -         3434   20    0 
+rankine   928809945  6  1 Bf  -     -     -         3414   10    0 
+rankine   928809976  6  6 f   -     -     -         3404    0    0 
+rankine   928809992  6  5 f   -     -     -         3404    0    0 
+rankine   928810012  6  4 f   -     -     -         3404    0    0 
+rankine   928810036  7  4 f   -     -     -         3404    0    0 
+rankine   928810083  7  3 f   -     -     -         3404    0    0 
+rankine   928810121  7  2 Bc  cc    kc    kc        3404  160    0 7d 7s
+rankine   928810158  7  1 Bcc kf    -     -         3244   80    0 
+rankine   928810228  7  7 f   -     -     -         3164    0    0 
+rankine   928810300  7  6 f   -     -     -         3164    0    0 
+rankine   928810320  8  6 f   -     -     -         3164    0    0 
+rankine   928810352  8  5 f   -     -     -         3164    0    0 
+rankine   928810389  8  4 f   -     -     -         3164    0    0 
+rankine   928810438  8  3 f   -     -     -         3164    0    0 
+rankine   928810480  8  2 Bk  k     k     b         3164   60  130 5c Qc
+rankine   928810520  8  1 Bc  kf    -     -         3234   20    0 
+rankine   928810563  8  8 f   -     -     -         3214    0    0 
+rankine   928810625  8  7 f   -     -     -         3214    0    0 
+rankine   928810653  8  6 rc  rc    c     c         3214  220  640 Qc Qh
+rankine   928810701  8  5 f   -     -     -         3634    0    0 
+rankine   928810731  8  5 f   -     -     -         3634    0    0 
+rankine   928810765  6  3 f   -     -     -         3634    0    0 
+rankine   928810791  6  2 Bf  -     -     -         3634   20    0 
+rankine   928810814  6  1 Bf  -     -     -         3614   10    0 
+rankine   928810835  6  6 cc  f     -     -         3604   60    0 
+rankine   928810861  6  5 f   -     -     -         3544    0    0 
+rankine   928810887  6  4 f   -     -     -         3544    0    0 
+rankine   928810902  6  3 f   -     -     -         3544    0    0 
+rankine   928810911  6  2 Bc  kc    kc    kr        3544  180  370 
+rankine   928810940  6  1 Bc  kr    kc    kc        3734  160    0 Jh Th
+rankine   928810980  6  6 f   -     -     -         3574    0    0 
+rankine   928811000  6  5 f   -     -     -         3574    0    0 
+rankine   928811012  6  4 f   -     -     -         3574    0    0 
+rankine   928811016  6  3 f   -     -     -         3574    0    0 
+rankine   928811024  6  2 Bf  -     -     -         3574   20    0 
+rankine   928811046  6  1 Bcc kc    k     krr       3554  240  640 6h 5d
+rankine   928811099  6  6 f   -     -     -         3954    0    0 
+rankine   928811129  6  5 f   -     -     -         3954    0    0 
+rankine   928811155  6  4 f   -     -     -         3954    0    0 
+rankine   928811175  6  3 crc k     r     b         3954  200  820 Ac Ad
+rankine   928811223  7  2 BQ  -     -     -         4574   20    0 
+rankine   928889535  5  3 cc  c     c     c         4554  140    0 As Ts
+rankine   928889607  6  2 Bk  b     -     -         4414   40   60 
+rankine   928889635  5  1 Bf  -     -     -         4434   10    0 
+rankine   928889657  6  6 f   -     -     -         4424    0    0 
+rankine   928889667  6  5 f   -     -     -         4424    0    0 
+rankine   928889694  6  4 f   -     -     -         4424    0    0 
+rankine   928889701  6  3 c   kc    kc    b         4424  120  230 
+rankine   928889726  6  2 Br  c     k     b         4534  100  200 5s 5c
+rankine   928889747  6  1 Bf  -     -     -         4634   10    0 
+rankine   928889764  6  6 f   -     -     -         4624    0    0 
+rankine   928889770  6  5 f   -     -     -         4624    0    0 
+rankine   928889775  6  4 f   -     -     -         4624    0    0 
+rankine   928889782  6  3 cc  c     f     -         4624   80    0 
+rankine   928889802  6  2 Bc  kc    kc    k         4544  100    0 7h 7c
+rankine   928889836  6  1 Bf  -     -     -         4444   10    0 
+rankine   928889856  6  6 f   -     -     -         4434    0    0 
+rankine   928889878  6  5 f   -     -     -         4434    0    0 
+rankine   928889894  6  4 f   -     -     -         4434    0    0 
+rankine   928889909  6  3 f   -     -     -         4434    0    0 
+rankine   928889919  6  2 Bc  kc    bc    kc        4434  180    0 6d 4d
+rankine   928889945  6  1 Bf  -     -     -         4254   10    0 
+rankine   928889965  6  6 f   -     -     -         4244    0    0 
+rankine   928889978  6  5 cc  kc    kc    k         4244  100  230 9c Jc
+rankine   928890006  6  4 f   -     -     -         4374    0    0 
+rankine   928890045  6  3 f   -     -     -         4374    0    0 
+rankine   928890055  6  2 Bk  r     b     b         4374  140  280 As Ah
+rankine   928890080  6  1 Bcf -     -     -         4514   20    0 
+rankine   928890093  7  7 f   -     -     -         4494    0    0 
+rankine   928890111  7  6 f   -     -     -         4494    0    0 
+rankine   928890131  7  5 f   -     -     -         4494    0    0 
+rankine   928890139  7  4 f   -     -     -         4494    0    0 
+rankine   928890158  7  3 f   -     -     -         4494    0    0 
+rankine   928890169  7  2 Bc  kf    -     -         4494   40    0 
+rankine   928890205  7  1 Bc  bc    k     kc        4454  100    0 7s 5s
+rankine   928890253  7  7 f   -     -     -         4354    0    0 
+rankine   928890273  7  6 f   -     -     -         4354    0    0 
+rankine   928890291  7  5 f   -     -     -         4354    0    0 
+rankine   928890336  8  4 crc bc    c     c         4354  200    0 Ah Kh
+rankine   928890397  8  3 f   -     -     -         4154    0    0 
+rankine   928890442  8  2 Bk  kc    kc    b         4154  120  210 
+rankine   928890486  8  1 Bf  -     -     -         4244   10    0 
+rankine   928890506  8  8 cc  c     c     c         4234  160    0 As 7c
+rankine   928890565  8  7 c   f     -     -         4074   20    0 
+rankine   928890615  7  5 f   -     -     -         4054    0    0 
+rankine   928890622  7  4 f   -     -     -         4054    0    0 
+rankine   928890646  7  3 f   -     -     -         4054    0    0 
+rankine   928890655  7  2 Bk  rr    kr    kc        4054  220    0 5c Kh
+rankine   928890699  7  1 Bc  kf    -     -         3834   20    0 
+rankine   928890749  7  7 r   b     b     b         3814  140  270 
+rankine   928890791  7  6 f   -     -     -         3944    0    0 
+rankine   928890822  7  5 f   -     -     -         3944    0    0 
+rankine   928890859  8  4 c   b     b     -         3944   80  130 
+rankine   928890879  7  2 Bk  r     kf    -         3994   60    0 
+rankine   928890919  8  1 Bf  -     -     -         3934   10    0 
+rankine   928890927  8  8 f   -     -     -         3924    0    0 
+rankine   928890938  8  7 f   -     -     -         3924    0    0 
+rankine   928890962  8  6 c   kc    k     f         3924   60    0 
+rankine   928891011  8  5 f   -     -     -         3864    0    0 
+rankine   928891028  8  4 c   rc    kc    kf        3864  120    0 
+rankine   928891073  8  3 c   kf    -     -         3744   20    0 
+rankine   928891113  8  2 Bf  -     -     -         3724   20    0 
+rankine   928891135  7  1 Bc  br    -     -         3704  100  220 
+rankine   928891156  7  7 f   -     -     -         3824    0    0 
+rankine   928891188  7  6 f   -     -     -         3824    0    0 
+rankine   928891233  7  5 f   -     -     -         3824    0    0 
+rankine   928891248  7  4 cc  r     kf    -         3824   80    0 
+rankine   928891297  7  3 f   -     -     -         3744    0    0 
+rankine   928891327  7  2 Br  br    b     b         3744  200  400 As Ah
+rankine   928891350  7  1 Bf  -     -     -         3944   10    0 
+rankine   928891364  7  7 c   b     -     -         3934   40   70 
+rankine   928891407  7  5 f   -     -     -         3964    0    0 
+rankine   928891424  7  4 f   -     -     -         3964    0    0 
+rankine   928891449  7  3 f   -     -     -         3964    0    0 
+rankine   928891481  7  2 Bc  kc    kr    -         3964  140  250 
+rankine   928891506  8  1 Bc  kf    -     -         4074   20    0 
+rankine   928891545  7  7 f   -     -     -         4054    0    0 
+rankine   928891599  8  7 rc  k     f     -         4054   60    0 
+rankine   928891645  8  6 c   kc    k     b         3994   80  210 9h Ah
+rankine   928891694  9  6 f   -     -     -         4124    0    0 
+rankine   928891723  9  5 f   -     -     -         4124    0    0 
+rankine   928891778  8  3 f   -     -     -         4124    0    0 
+rankine   928891828  6  2 Bc  kr    k     b         4124  120  210 
+rankine   928891893  7  1 Bf  -     -     -         4214   10    0 
+rankine   928891906  7  7 c   f     -     -         4204   20    0 
+rankine   928891951  7  6 f   -     -     -         4184    0    0 
+rankine   928891986  7  5 r   kr    kc    kf        4184  120    0 
+rankine   928892023  8  4 f   -     -     -         4064    0    0 
+rankine   928892051  8  3 cr  k     c     f         4064  100    0 
+rankine   928892099  8  2 Bk  kf    -     -         3964   20    0 
+rankine   928892122  8  1 Bc  kcf   -     -         3944   60    0 
+rankine   928892189  8  8 f   -     -     -         3884    0    0 
+rankine   928892215  8  7 f   -     -     -         3884    0    0 
+rankine   928892244  8  6 c   c     r     b         3884  160  420 9d 9c
+rankine   928892312  8  5 f   -     -     -         4144    0    0 
+rankine   928892352  8  4 f   -     -     -         4144    0    0 
+rankine   928892369  8  3 f   -     -     -         4144    0    0 
+rankine   928892414 10  2 Bk  k     kc    r         4144  140  380 8d Qd
+rankine   928892468 10  1 Bf  -     -     -         4384   10    0 
+rankine   928892535 10 10 f   -     -     -         4374    0    0 
+rankine   928892566 10  9 f   -     -     -         4374    0    0 
+rankine   928892644 10  8 r   b     k     f         4374   60    0 
+rankine   928892703 10  7 f   -     -     -         4314    0    0 
+rankine   928892733 10  6 f   -     -     -         4314    0    0 
+rankine   928892774 10  5 f   -     -     -         4314    0    0 
+rankine   928892821 10  4 f   -     -     -         4314    0    0 
+rankine   928892857 10  3 f   -     -     -         4314    0    0 
+rankine   928892908 10  2 Bk  krc   kc    bf        4314  180    0 
+rankine   928892981 10  1 Bf  -     -     -         4134   10    0 
+rankine   928893024 10 10 f   -     -     -         4124    0    0 
+rankine   928893077  9  8 f   -     -     -         4124    0    0 
+rankine   928893116 10  7 f   -     -     -         4124    0    0 
+rankine   928893174 10  6 f   -     -     -         4124    0    0 
+rankine   928893264  9  5 c   f     -     -         4124   20    0 
+rankine   928893294  8  3 f   -     -     -         4104    0    0 
+rankine   928893339  8  2 Bk  kc    b     kf        4104   80    0 
+rankine   928893396  8  1 Bf  -     -     -         4024   10    0 
+rankine   928893409  8  8 cc  r     f     -         4014   80    0 
+rankine   928893462  8  7 c   c     f     -         3934   40    0 
+rankine   928893501  8  6 f   -     -     -         3894    0    0 
+rankine   928893516  8  5 f   -     -     -         3894    0    0 
+rankine   928893567  8  4 f   -     -     -         3894    0    0 
+rankine   928893598  8  3 f   -     -     -         3894    0    0 
+rankine   928893613  8  2 Bk  k     b     b         3894  100    0 2s 6h
+rankine   928893657  7  1 Bf  -     -     -         3794   10    0 
+rankine   928893702  7  7 f   -     -     -         3784    0    0 
+rankine   928893735  7  6 f   -     -     -         3784    0    0 
+rankine   928893783  7  5 f   -     -     -         3784    0    0 
+rankine   928893809  7  4 rc  kc    kc    kr        3784  200  430 Kh As
+rankine   928893843  8  4 f   -     -     -         4014    0    0 
+rankine   928893876  8  3 f   -     -     -         4014    0    0 
+rankine   928893931  8  2 Bc  b     k     bc        4014  140    0 Kd Jd
+rankine   928894004  8  1 Bf  -     -     -         3874   10    0 
+rankine   928894048  8  8 f   -     -     -         3864    0    0 
+rankine   928894102  6  5 f   -     -     -         3864    0    0 
+rankine   928894142  6  4 c   b     k     b         3864   80  160 
+rankine   928894177  6  3 c   b     -     -         3944   40  110 
+rankine   928894194  6  2 Bk  b     bc    kc        4014  160  350 Td Kc
+rankine   928894225  6  1 Bc  kc    b     k         4204   80    0 7h 6h
+rankine   928894260  6  6 cc  f     -     -         4124   40    0 
+rankine   928894294  7  6 f   -     -     -         4084    0    0 
+rankine   928894329  7  5 r   f     -     -         4084   40    0 
+rankine   928894363  7  4 c   bc    k     b         4044  100  200 
+rankine   928894429  7  3 f   -     -     -         4144    0    0 
+rankine   928894454  7  2 Bc  kf    -     -         4144   40    0 
+rankine   928894482  7  1 Br  b     bc    k         4104  140  280 Kc Td
+rankine   928894512  8  7 f   -     -     -         4244    0    0 
+rankine   928894532  8  6 f   -     -     -         4244    0    0 
+rankine   928894556  9  6 f   -     -     -         4244    0    0 
+rankine   928894582  9  5 cc  kc    c     b         4244  160    0 Qh 2h
+rankine   928894665  9  4 f   -     -     -         4084    0    0 
+rankine   928894718  9  3 f   -     -     -         4084    0    0 
+rankine   928894765  9  2 Bc  kr    k     b         4084  120  290 Qd 6d
+rankine   928894825  8  1 Bc  kf    -     -         4254   20    0 
+rankine   928894856  8  8 f   -     -     -         4234    0    0 
+rankine   928894870  8  7 c   rc    k     c         4234  120    0 Ad 8d
+rankine   928894915  8  6 f   -     -     -         4114    0    0 
+rankine   928894950  7  5 f   -     -     -         4114    0    0 
+rankine   928895037  8  4 f   -     -     -         4114    0    0 
+rankine   928895075  7  3 f   -     -     -         4114    0    0 
+rankine   928895103  7  2 Bc  kc    b     b         4114  140  290 Kd Jd
+rankine   928895150  7  1 Bcc kc    kr    br        4264  280  620 3c 4c
+rankine   928895202  7  7 c   k     f     -         4604   20    0 
+rankine   928895247  8  7 cc  kc    kc    brr       4584  300  740 9d 8h
+rankine   928895310  8  6 c   f     -     -         5024   20    0 
+rankine   928895396  8  5 f   -     -     -         5004    0    0 
+rankine   928895423  8  4 c   kc    k     kf        5004   40    0 
+rankine   928895532  9  3 f   -     -     -         4964    0    0 
+rankine   928895597  9  2 Bk  kf    -     -         4964   20    0 
+rankine   928895667  9  1 Br  kr    k     k         4944   80    0 Qc Qh
+rankine   928895724  9  9 f   -     -     -         4864    0    0 
+rankine   928895786  9  8 cc  f     -     -         4864   40    0 
+rankine   928895849  9  7 f   -     -     -         4824    0    0 
+rankine   928895919  9  6 f   -     -     -         4824    0    0 
+rankine   928895975  9  5 r   b     b     -         4824  100  170 
+rankine   928896016  7  3 f   -     -     -         4894    0    0 
+rankine   928896048  7  2 Bc  kf    -     -         4894   40    0 
+rankine   928896082  7  1 Bc  k     bc    k         4854  120  280 9s Qs
+rankine   928896131  8  8 f   -     -     -         5014    0    0 
+rankine   928896169  8  5 Q   -     -     -         5014    0    0 
+rankine   928975537  9  6 f   -     -     -         5014    0    0 
+rankine   928975593  9  5 f   -     -     -         5014    0    0 
+rankine   928975639  9  4 f   -     -     -         5014    0    0 
+rankine   928975680 10  3 f   -     -     -         5014    0    0 
+rankine   928975746 10  2 Bf  -     -     -         5014   20    0 
+rankine   928975784 10  1 Bc  kc    kc    k         4994   80   80 Jh 4h
+rankine   928975817 10 10 c   c     c     b         4994  120    0 Td Tc
+rankine   928975876 10  9 f   -     -     -         4874    0    0 
+rankine   928975917 10  8 f   -     -     -         4874    0    0 
+rankine   928975960 10  7 f   -     -     -         4874    0    0 
+rankine   928976001  9  5 f   -     -     -         4874    0    0 
+rankine   928976032 10  4 c   k     kc    k         4874   60    0 5c 7c
+rankine   928976112 10  4 f   -     -     -         4814    0    0 
+rankine   928976123  9  2 Bf  -     -     -         4814   20    0 
+rankine   928976176  9  1 Bf  -     -     -         4794   10    0 
+rankine   928976230  9  9 f   -     -     -         4784    0    0 
+rankine   928976279  9  8 f   -     -     -         4784    0    0 
+rankine   928976327  9  7 f   -     -     -         4784    0    0 
+rankine   928976416  9  6 c   c     f     -         4784   60    0 
+rankine   928976506 10  6 f   -     -     -         4724    0    0 
+rankine   928976557 10  5 f   -     -     -         4724    0    0 
+rankine   928976597 10  4 f   -     -     -         4724    0    0 
+rankine   928976644 10  3 f   -     -     -         4724    0    0 
+rankine   928976684 10  2 Bf  -     -     -         4724   20    0 
+rankine   928976711 10  1 Bf  -     -     -         4704   10    0 
+rankine   928976734 10 10 f   -     -     -         4694    0    0 
+rankine   928976775 10  9 f   -     -     -         4694    0    0 
+rankine   928976828 10  8 f   -     -     -         4694    0    0 
+rankine   928976891 10  7 f   -     -     -         4694    0    0 
+rankine   928976916 10  6 f   -     -     -         4694    0    0 
+rankine   928976946  9  4 f   -     -     -         4694    0    0 
+rankine   928976962  9  3 c   r     k     b         4694  100    0 5d 5s
+rankine   928977030  9  2 Bk  kc    k     k         4594   40  170 Ah 8s
+rankine   928977155  8  1 Bf  -     -     -         4724   10    0 
+rankine   928977188  8  8 cc  c     c     f         4714  120    0 
+rankine   928977250  9  8 f   -     -     -         4594    0    0 
+rankine   928977318  9  7 f   -     -     -         4594    0    0 
+rankine   928977364  9  6 f   -     -     -         4594    0    0 
+rankine   928977397  9  5 f   -     -     -         4594    0    0 
+rankine   928977426  9  4 f   -     -     -         4594    0    0 
+rankine   928977454  9  3 cc  kc    b     b         4594  140  510 Jd Kc
+rankine   928977507  9  2 Bk  b     b     kc        4964  120    0 6h Qd
+rankine   928977559  9  1 Bc  b     k     b         4844   80    0 Ts Qh
+rankine   928977597  9  9 cc  r     b     b         4764  160  460 6s 8s
+rankine   928977666  9  8 c   c     f     -         5064   60    0 
+rankine   928977729  9  7 f   -     -     -         5004    0    0 
+rankine   928977770  9  6 f   -     -     -         5004    0    0 
+rankine   928977828  9  5 f   -     -     -         5004    0    0 
+rankine   928977861  9  5 c   b     b     b         5004  120  290 
+rankine   928977900  8  3 cc  kc    kf    -         5174   60    0 
+rankine   928977935  9  3 cc  kc    kc    k         5114  100    0 2c Ac
+rankine   928977983 10  2 Bf  -     -     -         5014   20    0 
+rankine   928978033  9  1 Bf  -     -     -         4994   10    0 
+rankine   928978070  9  9 f   -     -     -         4984    0    0 
+rankine   928978122  9  8 f   -     -     -         4984    0    0 
+rankine   928978152  9  7 f   -     -     -         4984    0    0 
+rankine   928978189  9  6 cc  br    kr    k         4984  180    0 As Qh
+rankine   928978256  9  5 f   -     -     -         4804    0    0 
+rankine   928978321  9  5 f   -     -     -         4804    0    0 
+rankine   928978371  8  3 f   -     -     -         4804    0    0 
+rankine   928978404  8  2 Bc  kc    kc    k         4804  100  140 Kd 4d
+rankine   928978445  8  1 Bf  -     -     -         4844   10    0 
+rankine   928978478  8  8 f   -     -     -         4834    0    0 
+rankine   928978498  8  7 f   -     -     -         4834    0    0 
+rankine   928978542  8  6 cc  c     f     -         4834   80    0 
+rankine   928978597  7  6 f   -     -     -         4754    0    0 
+rankine   928978647  7  5 f   -     -     -         4754    0    0 
+rankine   928978664  7  4 rc  c     c     r         4754  220  760 Qc Qs
+rankine   928978709  7  3 f   -     -     -         5294    0    0 
+rankine   928978736  7  2 Bc  cc    f     -         5294   80    0 
+rankine   928978770  7  1 Bf  -     -     -         5214   10    0 
+rankine   928978832  7  7 f   -     -     -         5204    0    0 
+rankine   928978858  7  6 c   b     k     r         5204  140    0 4c 4h
+rankine   928978909  7  5 cc  b     b     b         5064  140  380 
+rankine   928978947  8  4 c   b     bc    kc        5304  160    0 Ad 7s
+rankine   928978982  9  3 f   -     -     -         5144    0    0 
+rankine   928979036  9  2 Bk  r     k     b         5144  100    0 7h Tc
+rankine   928979070 10  1 Bc  kc    kc    k         5044   80    0 4s 5h
+rankine   928979157 10 10 c   c     k     f         4964   40    0 
+rankine   928979242  9  8 f   -     -     -         4924    0    0 
+rankine   928979273 10  8 f   -     -     -         4924    0    0 
+rankine   928979337 10  8 f   -     -     -         4924    0    0 
+rankine   928979359  9  6 f   -     -     -         4924    0    0 
+rankine   928979401  9  5 c   c     c     f         4924   80    0 
+rankine   928979457 10  4 f   -     -     -         4844    0    0 
+rankine   928979522 10  3 f   -     -     -         4844    0    0 
+rankine   928979580  9  2 Bk  b     kc    kc        4844  120    0 8s 8c
+rankine   928979638  9  1 Bf  -     -     -         4724   10    0 
+rankine   928979688  9  9 f   -     -     -         4714    0    0 
+rankine   928979726  9  8 r   k     b     r         4714  160  310 
+rankine   928979766  8  6 f   -     -     -         4864    0    0 
+rankine   928979805  7  4 f   -     -     -         4864    0    0 
+rankine   928979841  7  4 f   -     -     -         4864    0    0 
+rankine   928979866  7  3 c   c     c     b         4864  120  320 
+rankine   928979908  7  2 Bc  k     b     b         5064  120    0 5d 5s
+rankine   928979953  7  1 Bc  kf    -     -         4944   20    0 
+rankine   928980005  7  7 c   f     -     -         4924   20    0 
+rankine   928980058  8  7 r   r     k     c         4904  120    0 Qc Qd
+rankine   928980125  8  6 f   -     -     -         4784    0    0 
+rankine   928980173  8  5 f   -     -     -         4784    0    0 
+rankine   928980194  8  4 f   -     -     -         4784    0    0 
+rankine   928980225  8  3 f   -     -     -         4784    0    0 
+rankine   928980283  8  2 Bk  kc    k     b         4784   80  160 
+rankine   928980338  8  1 Bc  kc    kc    b         4864  120    0 Ac 9s
+rankine   928980402  7  7 f   -     -     -         4744    0    0 
+rankine   928980426  7  6 f   -     -     -         4744    0    0 
+rankine   928980431  7  5 c   r     k     r         4744  160  350 4c Ad
+rankine   928980458  7  4 f   -     -     -         4934    0    0 
+rankine   928980496  8  4 f   -     -     -         4934    0    0 
+rankine   928980507  8  3 f   -     -     -         4934    0    0 
+rankine   928980550  8  2 Bk  r     k     c         4934  100    0 Td Ts
+rankine   928980576  7  1 Bc  b     k     b         4834   80  180 
+rankine   928980614  7  7 f   -     -     -         4934    0    0 
+rankine   928980643  7  6 f   -     -     -         4934    0    0 
+rankine   928980658  7  5 f   -     -     -         4934    0    0 
+rankine   928980691  6  3 f   -     -     -         4934    0    0 
+rankine   928980723  6  2 Bk  c     c     c         4934  120    0 Tc Jh
+rankine   928980773  6  1 Bf  -     -     -         4814   10    0 
+rankine   928980791  6  6 f   -     -     -         4804    0    0 
+rankine   928980803  6  5 f   -     -     -         4804    0    0 
+rankine   928980842  5  3 c   r     b     -         4804  100  180 
+rankine   928980866  5  3 f   -     -     -         4884    0    0 
+rankine   928980900  6  2 Bc  kc    c     c         4884  180    0 Qs Qh
+rankine   928980950  6  1 Bc  kc    kf    -         4704   40    0 
+rankine   928980998  8  8 c   r     f     -         4664   60    0 
+rankine   928981043  8  7 c   b     b     b         4604  120  260 
+rankine   928981085  9  6 c   f     -     -         4744   20    0 
+rankine   928981137  9  3 Q   -     -     -         4724    0    0 
+rankine   929161091 10  3 f   -     -     -         4624    0    0 
+rankine   929161130 10  2 Bcc k     k     k         4624   60    0 9c 8c
+rankine   929161191 10  1 Bc  bc    b     kc        4564  140    0 3c Qc
+rankine   929161257  9  9 c   k     b     -         4424   60   90 
+rankine   929161295  9  8 f   -     -     -         4454    0    0 
+rankine   929161350 10  8 f   -     -     -         4454    0    0 
+rankine   929161386 10  7 f   -     -     -         4454    0    0 
+rankine   929161417 10  6 f   -     -     -         4454    0    0 
+rankine   929161446 10  5 c   k     k     kf        4454   20    0 
+rankine   929161493 10  4 f   -     -     -         4434    0    0 
+rankine   929161550 10  3 f   -     -     -         4434    0    0 
+rankine   929161590 10  2 Bk  k     r     b         4434  140  210 3h 7c
+rankine   929161652 10  1 Bc  kf    -     -         4504   20    0 
+rankine   929161700 10 10 f   -     -     -         4484    0    0 
+rankine   929161723 10  9 f   -     -     -         4484    0    0 
+rankine   929161792  9  7 f   -     -     -         4484    0    0 
+rankine   929161853  9  6 c   kf    -     -         4484   20    0 
+rankine   929161985  9  5 f   -     -     -         4464    0    0 
+rankine   929162005  9  4 f   -     -     -         4464    0    0 
+rankine   929162040  9  3 c   k     b     c         4464  100  240 Kd Td
+rankine   929162086 10  3 f   -     -     -         4604    0    0 
+rankine   929162135  9  1 Bk  b     k     b         4604   80  160 
+rankine   929162161  9  1 Bc  kc    kf    -         4684   60    0 
+rankine   929162228  9  9 f   -     -     -         4624    0    0 
+rankine   929162262  9  8 c   f     -     -         4624   40    0 
+rankine   929162288  9  7 f   -     -     -         4584    0    0 
+rankine   929162328  9  6 f   -     -     -         4584    0    0 
+rankine   929162360  9  5 f   -     -     -         4584    0    0 
+rankine   929162395  9  4 f   -     -     -         4584    0    0 
+rankine   929162440  9  3 f   -     -     -         4584    0    0 
+rankine   929162490  8  2 Bk  kc    kc    k         4584  100    0 5s 7h
+rankine   929162566  8  1 Br  b     -     -         4484   60  100 
+rankine   929162587  8  8 f   -     -     -         4524    0    0 
+rankine   929162612  8  7 f   -     -     -         4524    0    0 
+rankine   929162657  8  6 f   -     -     -         4524    0    0 
+rankine   929162681  7  4 f   -     -     -         4524    0    0 
+rankine   929162735  7  3 f   -     -     -         4524    0    0 
+rankine   929162766  8  2 Bk  k     k     b         4524   60    0 9h Jh
+rankine   929162800  8  1 Bc  kf    -     -         4464   20    0 
+rankine   929162825  8  8 f   -     -     -         4444    0    0 
+rankine   929162876  9  8 f   -     -     -         4444    0    0 
+rankine   929162913  9  8 f   -     -     -         4444    0    0 
+rankine   929162973  8  6 c   f     -     -         4444   20    0 
+rankine   929163010  8  5 c   b     -     -         4424   40  120 
+rankine   929163045  8  4 f   -     -     -         4504    0    0 
+rankine   929163051  8  3 f   -     -     -         4504    0    0 
+rankine   929163110  8  2 Bk  c     f     -         4504   40    0 
+rankine   929163146  8  1 Bc  k     k     k         4464   20    0 7d 2d
+rankine   929163191  8  8 c   k     f     -         4444   20    0 
+rankine   929163254  8  7 r   c     f     -         4424   60    0 
+rankine   929163291  8  6 f   -     -     -         4364    0    0 
+rankine   929163348  7  4 f   Q     -     -         4364    0    0 
+rankine   929238560  9  9 c   f     -     -         4864   20    0 
+rankine   929238603  9  8 f   -     -     -         4844    0    0 
+rankine   929238660  9  7 c   kc    kf    -         4844   40    0 
+rankine   929238703  9  6 f   -     -     -         4804    0    0 
+rankine   929238741  9  5 f   -     -     -         4804    0    0 
+rankine   929238772 10  4 c   k     f     -         4804   20    0 
+rankine   929238799 10  3 cc  kf    -     -         4784   40    0 
+rankine   929238886 10  2 Bc  r     b     b         4744  160    0 Th 8c
+rankine   929238943 10  1 Bf  -     -     -         4584   10    0 
+rankine   929239012  9  9 r   b     r     b         4574  200    0 Ac Ts
+rankine   929239069 10  8 f   -     -     -         4374    0    0 
+rankine   929239119 10  7 f   -     -     -         4374    0    0 
+rankine   929239175  9  5 f   -     -     -         4374    0    0 
+rankine   929239226  9  4 f   -     -     -         4374    0    0 
+rankine   929239309  9  3 f   -     -     -         4374    0    0 
+rankine   929239377  9  2 Bc  kc    f     -         4374   60    0 
+rankine   929239416  9  1 Bf  -     -     -         4314   10    0 
+rankine   929239433  8  8 f   -     -     -         4304    0    0 
+rankine   929239468  8  7 f   -     -     -         4304    0    0 
+rankine   929239512  8  6 cc  c     c     c         4304  140  460 Qs 9s
+rankine   929239572  8  5 f   -     -     -         4624    0    0 
+rankine   929239599  8  4 f   -     -     -         4624    0    0 
+rankine   929239637  8  3 c   b     brc   c         4624  240    0 2c 2h
+rankine   929239723  9  2 Bk  b     b     k         4384   80  170 8h 9s
+rankine   929239772  9  1 Bcc kc    kc    k         4474  100    0 6h 5c
+rankine   929239851  9  9 f   -     -     -         4374    0    0 
+rankine   929239911  9  8 f   -     -     -         4374    0    0 
+rankine   929239935  9  7 f   -     -     -         4374    0    0 
+rankine   929239949  9  6 f   -     -     -         4374    0    0 
+rankine   929240008  9  5 f   -     -     -         4374    0    0 
+rankine   929240055  9  3 f   -     -     -         4374    0    0 
+rankine   929240083  9  2 Bk  kf    -     -         4374   20    0 
+rankine   929240155  9  1 Bf  -     -     -         4354   10    0 
+rankine   929240221  9  9 c   r     r     b         4344  200    0 6h Ah
+rankine   929240293  9  8 c   c     k     f         4144   60    0 
+rankine   929240334  9  7 c   r     k     c         4084  120    0 Jd Ts
+rankine   929240411  9  6 f   -     -     -         3964    0    0 
+rankine   929240473  8  5 r   -     -     -         3964   40   70 
+rankine   929240489  9  4 r   kf    -     -         3994   40    0 
+rankine   929240528  9  3 r   b     kc    k         3954  100  290 9c Kh
+rankine   929240569  9  2 Bc  kf    -     -         4144   40    0 
+rankine   929240611  9  1 Bc  kc    k     kf        4104   60    0 
+rankine   929240686  9  9 f   -     -     -         4044    0    0 
+rankine   929240718  9  8 f   -     -     -         4044    0    0 
+rankine   929240744  9  7 c   b     b     -         4044   80  160 
+rankine   929240775  9  6 f   -     -     -         4124    0    0 
+rankine   929240814  9  5 f   -     -     -         4124    0    0 
+rankine   929240867 10  5 f   -     -     -         4124    0    0 
+rankine   929240916 10  4 f   -     -     -         4124    0    0 
+rankine   929240970 10  3 cc  kc    kf    -         4124   60    0 
+rankine   929241023 10  2 Bc  kc    kc    kf        4064  120    0 
+rankine   929241102 10  1 Bf  -     -     -         3944   10    0 
+rankine   929241152  9  9 c   f     -     -         3934   40    0 
+rankine   929241218  8  7 f   -     -     -         3894    0    0 
+rankine   929241239  8  6 f   -     -     -         3894    0    0 
+rankine   929241266  7  5 c   b     -     -         3894   40   70 
+rankine   929241294  7  4 f   -     -     -         3924    0    0 
+rankine   929241360  8  3 f   -     -     -         3924    0    0 
+rankine   929241425  8  2 Bk  k     k     kf        3924   20    0 
+rankine   929241468  8  1 Brc kf    -     -         3904   80    0 
+rankine   929241498  8  8 f   -     -     -         3824    0    0 
+rankine   929241586  9  8 f   -     -     -         3824    0    0 
+rankine   929241623  9  7 cc  kc    kc    kc        3824  140  370 Kh Th
+rankine   929241676  9  6 f   -     -     -         4054    0    0 
+rankine   929241719  9  5 r   r     b     c         4054  160    0 Qd Qs
+rankine   929241777  9  4 f   -     -     -         3894    0    0 
+rankine   929241809  8  3 c   k     b     bf        3894  100    0 
+rankine   929241861  8  2 Bk  c     rc    b         3794  200    0 2h Ah
+rankine   929241918  9  1 Bc  kf    -     -         3594   40    0 
+rankine   929241952  9  9 f   -     -     -         3554    0    0 
+rankine   929241973  9  8 f   -     -     -         3554    0    0 
+rankine   929242038  9  7 f   -     -     -         3554    0    0 
+rankine   929242073  8  5 c   b     kc    kc        3554  120  145 2h Ad
+rankine   929242115  8  4 f   -     -     -         3579    0    0 
+rankine   929242157  8  3 f   -     -     -         3579    0    0 
+rankine   929242177  8  2 Bf  -     -     -         3579   20    0 
+rankine   929242203  8  1 Bf  -     -     -         3559   10    0 
+rankine   929242223  8  8 f   -     -     -         3549    0    0 
+rankine   929242248  8  7 f   -     -     -         3549    0    0 
+rankine   929242276  8  6 f   -     -     -         3549    0    0 
+rankine   929242299  8  5 f   -     -     -         3549    0    0 
+rankine   929242320  8  4 f   -     -     -         3549    0    0 
+rankine   929242355  8  3 r   b     b     b         3549  140  270 
+rankine   929242380  8  2 Bc  kc    kc    b         3679  160  510 4s 5d
+rankine   929242450  8  1 Bf  -     -     -         4029   10    0 
+rankine   929242480  8  8 f   -     -     -         4019    0    0 
+rankine   929242502  8  7 f   -     -     -         4019    0    0 
+rankine   929242526  8  6 f   -     -     -         4019    0    0 
+rankine   929242587  9  6 f   -     -     -         4019    0    0 
+rankine   929242614  9  5 f   -     -     -         4019    0    0 
+rankine   929242658 10  5 f   -     -     -         4019    0    0 
+rankine   929242686 10  4 cc  kc    k     b         4019  120    0 2c Ac
+rankine   929242741 10  3 r   b     kc    c         3899  180    0 Qs Ad
+rankine   929242808 10  2 Bc  kf    -     -         3719   40    0 
+rankine   929242848  9  1 BQ  -     -     -         3679   10    0 
+rankine   929247061  9  2 Bf  -     -     -         3699   20    0 
+rankine   929247095  8  1 Bc  bc    kc    k         3679  120    0 Kd Jd
+rankine   929247138  9  9 f   -     -     -         3559    0    0 
+rankine   929247199 10  8 f   -     -     -         3559    0    0 
+rankine   929247252 10  7 f   -     -     -         3559    0    0 
+rankine   929247309 10  6 f   -     -     -         3559    0    0 
+rankine   929247375 10  5 f   -     -     -         3559    0    0 
+rankine   929247411  9  4 f   -     -     -         3559    0    0 
+rankine   929247453  9  3 c   b     b     r         3559  160  500 Jc Kc
+rankine   929247502  8  2 Bk  f     -     -         3899   20    0 
+rankine   929247530  8  1 Bc  k     kf    -         3879   20    0 
+rankine   929247586  7  7 f   -     -     -         3859    0    0 
+rankine   929247625  7  6 f   -     -     -         3859    0    0 
+rankine   929247656  7  5 r   b     b     -         3859  100  170 
+rankine   929247682  7  4 f   -     -     -         3929    0    0 
+rankine   929247697  7  3 f   -     -     -         3929    0    0 
+rankine   929247705  7  2 B   -     -     -         3929   20   30 
+rankine   929247715  7  1 Bf  -     -     -         3939   10    0 
+rankine   929247727  7  7 f   -     -     -         3929    0    0 
+rankine   929247755  7  6 f   -     -     -         3929    0    0 
+rankine   929247793  8  5 f   -     -     -         3929    0    0 
+rankine   929247826  9  5 f   -     -     -         3929    0    0 
+rankine   929247898 10  4 cc  k     bf    -         3929   80    0 
+rankine   929247965  9  2 Bc  kc    kc    kf        3849  120    0 
+rankine   929248057 10  1 Br  b     -     -         3729   60  140 
+rankine   929248090 10 10 f   -     -     -         3809    0    0 
+rankine   929248117 10  9 c   r     b     b         3809  140  310 
+rankine   929248195 10  8 f   -     -     -         3979    0    0 
+rankine   929248257 10  7 f   -     -     -         3979    0    0 
+rankine   929248299 10  6 f   -     -     -         3979    0    0 
+rankine   929248344 10  5 f   -     -     -         3979    0    0 
+rankine   929248385 10  4 c   b     b     bc        3979  160    0 Ad Qc
+rankine   929248462 10  3 f   -     -     -         3819    0    0 
+rankine   929248551 10  2 Br  kr    b     b         3819  200  560 Kh Ks
+rankine   929248629 10  1 Bf  -     -     -         4179   10    0 
+rankine   929248676 10 10 f   -     -     -         4169    0    0 
+rankine   929248718 10  9 f   -     -     -         4169    0    0 
+rankine   929248791 10  8 f   -     -     -         4169    0    0 
+rankine   929248947  9  7 f   -     -     -         4169    0    0 
+rankine   929248988  8  5 f   -     -     -         4169    0    0 
+rankine   929249042  9  5 f   -     -     -         4169    0    0 
+rankine   929249117  9  4 cc  kc    kc    kf        4169  100    0 
+rankine   929249241  9  3 f   -     -     -         4069    0    0 
+rankine   929249295  8  2 Bk  kf    -     -         4069   20    0 
+rankine   929249559  9  1 Bc  kc    kc    kf        4049   80    0 
+rankine   929249645  9  9 f   -     -     -         3969    0    0 
+rankine   929249708  9  8 f   -     -     -         3969    0    0 
+rankine   929249833  9  7 f   -     -     -         3969    0    0 
+rankine   929249857  9  6 cr  r     b     b         3969  180  410 
+rankine   929249892  8  4 f   -     -     -         4199    0    0 
+rankine   929249923  8  3 c   r     k     bc        4199  140    0 9s 7s
+rankine   929249972  9  2 Bk  k     b     -         4059   60  130 
+rankine   929250011 10  1 Bc  k     b     -         4129   80  200 
+rankine   929250044 10 10 c   b     b     c         4249  120  380 9h Qh
+rankine   929250094 10  9 f   -     -     -         4509    0    0 
+rankine   929250151 10  8 f   -     -     -         4509    0    0 
+rankine   929250206 10  7 f   -     -     -         4509    0    0 
+rankine   929250243 10  6 cc  kr    br    k         4509  200  510 8c 8h
+rankine   929250288 10  5 f   -     -     -         4819    0    0 
+rankine   929250356 10  4 cc  kc    kf    -         4819   60    0 
+rankine   929250419 10  3 f   -     -     -         4759    0    0 
+rankine   929250450  9  2 Bk  kc    kf    -         4759   40    0 
+rankine   929250499  8  1 Bc  br    brr   b         4719  340  840 2s 3d
+rankine   929250546  8  8 c   c     k     b         5219   80    0 9d Ts
+rankine   929250588  8  7 f   -     -     -         5139    0    0 
+rankine   929250624  9  6 f   -     -     -         5139    0    0 
+rankine   929250678 10  6 f   -     -     -         5139    0    0 
+rankine   929250688 10  5 f   -     -     -         5139    0    0 
+rankine   929250709 10  4 cc  kc    kf    -         5139   60    0 
+rankine   929250784 10  3 f   -     -     -         5079    0    0 
+rankine   929250837 10  2 B   -     -     -         5079   20   30 
+rankine   929250859 10  1 Bc  kc    b     k         5089   80  180 Jh Jc
+rankine   929250899 10 10 f   -     -     -         5189    0    0 
+rankine   929250958 10  9 c   r     bc    c         5189  180    0 9h Jc
+rankine   929251018 10  8 f   -     -     -         5009    0    0 
+rankine   929251069 10  7 f   -     -     -         5009    0    0 
+rankine   929251110 10  6 r   k     b     b         5009  120    0 As Kc
+rankine   929251161 10  5 f   -     -     -         4889    0    0 
+rankine   929251227 10  4 f   -     -     -         4889    0    0 
+rankine   929251269 10  3 f   -     -     -         4889    0    0 
+rankine   929251330 10  2 Br  b     b     b         4889  140  390 
+rankine   929251376 10  1 Bf  -     -     -         5139   10    0 
+rankine   929251418 10 10 f   -     -     -         5129    0    0 
+rankine   929251451 10  9 f   -     -     -         5129    0    0 
+rankine   929251507 10  8 r   bc    b     b         5129  160  510 Ad Ah
+rankine   929251567 10  7 cc  kf    -     -         5479   40    0 
+rankine   929251714 10  6 c   k     f     -         5439   20    0 
+rankine   929251765 10  5 f   -     -     -         5419    0    0 
+rankine   929251811  9  4 c   k     k     c         5419   60    0 Ts Ks
+rankine   929251894  9  3 cc  kc    kc    b         5359  140  330 
+rankine   929251959  9  2 Bf  -     -     -         5549   20    0 
+rankine   929252034  8  1 Bc  k     k     k         5529   20    0 Th 9c
+rankine   929252101  8  8 c   f     -     -         5509   40    0 
+rankine   929252127  9  8 f   -     -     -         5469    0    0 
+rankine   929252181  9  7 f   -     -     -         5469    0    0 
+rankine   929252221 10  7 f   -     -     -         5469    0    0 
+rankine   929252295 10  6 c   k     bc    kc        5469  140    0 Ac Ad
+rankine   929252357 10  5 f   -     -     -         5329    0    0 
+rankine   929252418 10  4 r   c     b     b         5329  140    0 Ad 2s
+rankine   929252467 10  3 cc  kc    kc    kc        5189  140    0 Th Ah
+rankine   929252544 10  2 Bc  kf    -     -         5049   40    0 
+rankine   929252627 10  1 Bc  kc    kc    kf        5009   80    0 
+rankine   929252681 10 10 f   -     -     -         4929    0    0 
+rankine   929252742 10  9 f   -     -     -         4929    0    0 
+rankine   929252828 10  8 f   -     -     -         4929    0    0 
+rankine   929252885 10  7 f   -     -     -         4929    0    0 
+rankine   929252947 10  6 c   c     k     kf        4929   40    0 
+rankine   929253004 10  5 f   -     -     -         4889    0    0 
+rankine   929253070 10  4 f   -     -     -         4889    0    0 
+rankine   929253149 10  3 cc  f     -     -         4889   40    0 
+rankine   929253241 10  2 Bc  kf    -     -         4849   40    0 
+rankine   929253276 10  1 Bc  kf    -     -         4809   20    0 
+rankine   929253340 10 10 f   -     -     -         4789    0    0 
+rankine   929253393 10  9 f   -     -     -         4789    0    0 
+rankine   929253449 10  8 f   -     -     -         4789    0    0 
+rankine   929253491  9  6 c   bc    kf    -         4789   60    0 
+rankine   929253595  8  5 c   f     -     -         4729   20    0 
+rankine   929253682  8  4 c   k     k     b         4709   60  110 
+rankine   929253785  8  3 cc  kc    k     c         4759  100    0 Ah 9h
+rankine   929253880  9  2 Bk  k     kf    -         4659   20    0 
+rankine   929253947  9  1 Bc  k     k     bc        4639  100    0 Qs 6s
+rankine   929254020  9  9 f   -     -     -         4539    0    0 
+rankine   929254099 10  9 f   -     -     -         4539    0    0 
+rankine   929254164 10  8 c   r     b     bc        4539  180    0 Kc Js
+rankine   929254224 10  7 c   k     b     b         4359  140    0 Jh Qh
+rankine   929254270  9  6 c   kc    kr    b         4219  160  390 5c 4h
+rankine   929254326  9  5 cc  kf    -     -         4449   40    0 
+rankine   929254394  9  4 f   -     -     -         4409    0    0 
+rankine   929254437  9  3 c   kc    kf    -         4409   40    0 
+rankine   929254474  9  2 Bk  k     kf    -         4369   20    0 
+rankine   929254547  9  1 Bc  kc    kf    -         4349   80    0 
+rankine   929254608  9  9 c   c     c     b         4269  160  520 Ac Tc
+rankine   929254661  9  8 f   -     -     -         4629    0    0 
+rankine   929254720  8  6 f   -     -     -         4629    0    0 
+rankine   929254736  8  5 rr  b     b     bc        4629  220    0 Kc Kd
+rankine   929254792  9  4 c   b     -     -         4409   40  120 
+rankine   929254827  9  3 c   b     -     -         4489   40  160 
+rankine   929254860  9  2 Bk  kf    -     -         4609   20    0 
+rankine   929254915  9  1 Bc  kf    -     -         4589   40    0 
+rankine   929254959  9  9 f   -     -     -         4549    0    0 
+rankine   929255008  9  8 f   -     -     -         4549    0    0 
+rankine   929255023  9  7 f   -     -     -         4549    0    0 
+rankine   929255051  9  6 f   -     -     -         4549    0    0 
+rankine   929255066  9  5 f   -     -     -         4549    0    0 
+rankine   929255086  9  4 f   -     -     -         4549    0    0 
+rankine   929255130  9  3 f   -     -     -         4549    0    0 
+rankine   929255185  9  2 Br  b     kc    k         4549  120    0 Ac Qd
+rankine   929255244 10  1 BQ  -     -     -         4429   10    0 
+rankine   929323795 10  7 f   -     -     -         4244    0    0 
+rankine   929323865  9  5 f   -     -     -         4244    0    0 
+rankine   929323899 10  5 f   -     -     -         4244    0    0 
+rankine   929323910 10  4 f   -     -     -         4244    0    0 
+rankine   929323927 10  3 cc  c     c     c         4244  140  420 3s 3d
+rankine   929323971 10  2 Bk  kf    -     -         4524   20    0 
+rankine   929324014 10  1 Bf  -     -     -         4504   10    0 
+rankine   929324047 10 10 c   c     c     c         4494  160    0 Jd As
+rankine   929324093  9  8 f   -     -     -         4334    0    0 
+rankine   929324130  9  7 f   -     -     -         4334    0    0 
+rankine   929324156  9  6 f   -     -     -         4334    0    0 
+rankine   929324208 10  6 f   -     -     -         4334    0    0 
+rankine   929324263 10  5 f   -     -     -         4334    0    0 
+rankine   929324284 10  4 f   -     -     -         4334    0    0 
+rankine   929324304 10  3 f   -     -     -         4334    0    0 
+rankine   929324324 10  2 Bf  -     -     -         4334   20    0 
+rankine   929324340 10  1 Bf  -     -     -         4314   10    0 
+rankine   929324383 10 10 f   -     -     -         4304    0    0 
+rankine   929324432 10  9 f   -     -     -         4304    0    0 
+rankine   929324501 10  8 f   -     -     -         4304    0    0 
+rankine   929324532 10  7 cc  cc    c     f         4304  140    0 
+rankine   929324628 10  6 f   -     -     -         4164    0    0 
+rankine   929324678 10  5 c   c     r     b         4164  200  610 7d 7s
+rankine   929324724 10  4 f   -     -     -         4574    0    0 
+rankine   929324768 10  3 f   -     -     -         4574    0    0 
+rankine   929324823 10  2 Bk  kc    kf    -         4574   40    0 
+rankine   929324885 10  1 Bc  kc    kc    kr        4534  160    0 8d Qd
+rankine   929324963 10 10 f   -     -     -         4374    0    0 
+rankine   929325011 10  9 f   -     -     -         4374    0    0 
+rankine   929325059 10  8 f   -     -     -         4374    0    0 
+rankine   929325096 10  7 f   -     -     -         4374    0    0 
+rankine   929325133 10  6 f   -     -     -         4374    0    0 
+rankine   929325166 10  5 f   -     -     -         4374    0    0 
+rankine   929325212 10  4 f   -     -     -         4374    0    0 
+rankine   929325260 10  3 f   -     -     -         4374    0    0 
+rankine   929325307 10  2 Bf  -     -     -         4374   20    0 
+rankine   929325337 10  1 Bf  -     -     -         4354   10    0 
+rankine   929325375 10 10 f   -     -     -         4344    0    0 
+rankine   929325430 10  9 f   -     -     -         4344    0    0 
+rankine   929325482 10  8 f   -     -     -         4344    0    0 
+rankine   929325550 10  7 f   -     -     -         4344    0    0 
+rankine   929325587  9  6 c   c     c     f         4344   80    0 
+rankine   929325643  9  5 f   -     -     -         4264    0    0 
+rankine   929325668  9  4 cc  bc    k     b         4264  120  230 
+rankine   929325709  8  3 f   -     -     -         4374    0    0 
+rankine   929325770  8  2 Bk  k     k     k         4374   20    0 4h 5h
+rankine   929325797  9  1 Bf  -     -     -         4354   10    0 
+rankine   929325845 10 10 f   -     -     -         4344    0    0 
+rankine   929325899 10  9 f   -     -     -         4344    0    0 
+rankine   929325971 10  8 f   -     -     -         4344    0    0 
+rankine   929326035  9  6 f   -     -     -         4344    0    0 
+rankine   929326079  9  5 f   -     -     -         4344    0    0 
+rankine   929326110  9  4 f   -     -     -         4344    0    0 
+rankine   929326147 10  3 f   -     -     -         4344    0    0 
+rankine   929326215 10  2 Br  kcc   kf    -         4344  100    0 
+rankine   929326326 10  1 Bf  -     -     Q         4244   10    0 
+rankine   929326521 10  2 Bc  k     b     b         4234  120    0 3c Ad
+rankine   929326603  9  1 Bc  kc    kc    k         4114   80  200 Ts 8h
+rankine   929326664  9  9 f   -     -     -         4234    0    0 
+rankine   929326696  9  8 f   -     -     -         4234    0    0 
+rankine   929326727  9  7 cc  b     b     b         4234  140    0 Jh Jc
+rankine   929326770  9  6 f   -     -     -         4094    0    0 
+rankine   929326798  9  5 f   -     -     -         4094    0    0 
+rankine   929326849  9  4 f   -     -     -         4094    0    0 
+rankine   929326888  9  3 f   -     -     -         4094    0    0 
+rankine   929326917  8  2 Bk  kf    -     -         4094   20    0 
+rankine   929326967  9  1 Br  br    br    kc        4074  360    0 Ad As
+rankine   929327028  9  9 f   -     -     -         3714    0    0 
+rankine   929327084  9  8 c   c     c     rf        3714  160    0 
+rankine   929327131  9  7 f   -     -     -         3554    0    0 
+rankine   929327171  8  6 r   r     bc    b         3554  200    0 Kc Ac
+rankine   929327232  7  4 c   bc    kc    kc        3354  140    0 7d Jd
+rankine   929327291  8  3 r   KQ    -     -         3214   40    0 
+rankine   929328720  7  5 f   -     -     -         3174    0    0 
+rankine   929328747  7  4 fQ  -     -     -         3174    0    0 
+rankine   929826079  9  8 f   -     -     -         6908    0    0 
+rankine   929826160 10  7 f   -     -     -         6908    0    0 
+rankine   929826203 10  6 f   -     -     -         6908    0    0 
+rankine   929826267  9  4 f   -     -     -         6908    0    0 
+rankine   929826294  8  2 Bc  kf    -     -         6908   40    0 
+rankine   929826355  9  1 Bc  kf    -     -         6868   20    0 
+rankine   929826395  9  9 f   -     -     -         6848    0    0 
+rankine   929826475  9  8 f   -     -     -         6848    0    0 
+rankine   929826530 10  7 f   -     -     -         6848    0    0 
+rankine   929826562 10  6 cc  c     f     -         6848   60    0 
+rankine   929826662 10  5 c   k     k     b         6788   60  130 
+rankine   929826713 10  4 crc bc    b     b         6858  200  680 Js Kh
+rankine   929826785 10  3 f   -     -     -         7338    0    0 
+rankine   929826853 10  2 Bk  k     kc    k         7338   60  160 8d Kd
+rankine   929826905  9  1 Bf  -     -     -         7438   10    0 
+rankine   929826949 10 10 c   c     c     k         7428  100    0 7c 7h
+rankine   929827016 10  9 f   -     -     -         7328    0    0 
+rankine   929827058 10  8 c   c     f     -         7328   40    0 
+rankine   929827100 10  7 f   -     -     -         7288    0    0 
+rankine   929827126 10  6 f   -     -     -         7288    0    0 
+rankine   929827158  9  4 f   -     -     -         7288    0    0 
+rankine   929835887  9  2 Bc  cc    f     -        31215   80    0 
+rankine   929835984  9  1 Bc  k     b     k        31135   60  200 9h Jh
+rankine   929836034 10 10 c   c     c     b        31275  140  450 Ad 5d
+rankine   929836087 10  9 f   -     -     -        31585    0    0 
+rankine   929836111 10  8 f   -     -     -        31585    0    0 
+rankine   929836143 10  7 f   -     -     -        31585    0    0 
+rankine   929836173 10  6 f   -     -     -        31585    0    0 
+rankine   929836198 10  5 f   -     -     -        31585    0    0 
+rankine   929836267 10  4 f   -     -     -        31585    0    0 
+rankine   929836312 10  3 Q   -     -     -        31585    0    0 
+rankine   929836404 10  8 f   -     -     -        31585    0    0 
+rankine   929836416 10  7 f   -     -     -        31585    0    0 
+rankine   929836451 10  6 c   b     b     k        31585   80    0 Jc Jh
+rankine   929836508 10  5 f   -     -     -        31505    0    0 
+rankine   929836568 10  4 cc  kf    -     -        31505   60    0 
+rankine   929836604 10  3 f   -     -     -        31445    0    0 
+rankine   929836619  9  2 Bf  -     -     -        31445   20    0 
+rankine   929836693 10  1 Bf  -     -     -        31425   10    0 
+rankine   929836730  9  9 f   -     -     -        31415    0    0 
+rankine   929836757  9  8 f   -     -     -        31415    0    0 
+rankine   929836830 10  8 f   -     -     -        31415    0    0 
+rankine   929836890 10  7 f   -     -     -        31415    0    0 
+rankine   929836942  9  5 f   -     -     -        31415    0    0 
+rankine   929836986  8  4 c   k     c     b        31415  100  370 Qh Kd
+rankine   929837048  7  2 Bf  -     -     -        31685   20    0 
+rankine   929837081  7  1 Bc  kf    -     -        31665   40    0 
+rankine   929837101  7  7 f   -     -     -        31625    0    0 
+rankine   929837119  7  6 c   f     -     -        31625   20    0 
+rankine   929837138  7  5 c   rc    c     c        31605  160  340 Kd As
+rankine   929837167  7  4 f   -     -     -        31785    0    0 
+rankine   929837181  7  3 f   -     -     -        31785    0    0 
+rankine   929837205  7  2 Bc  kc    kc    kc       31785  140    0 6s 6d
+rankine   929837244  7  1 Bf  -     -     -        31645   10    0 
+rankine   929837271  8  8 f   -     -     -        31635    0    0 
+rankine   929837289  8  7 f   -     -     -        31635    0    0 
+rankine   929837326  8  6 f   -     -     -        31635    0    0 
+rankine   929837347  9  6 cc  kc    kc    kc       31635  160  550 Ts 9h
+rankine   929837392  9  5 f   -     -     -        32025    0    0 
+rankine   929837419  9  4 c   bf    -     -        32025   40    0 
+rankine   929837468 10  3 f   -     -     -        31985    0    0 
+rankine   929837515 10  2 Bc  kf    -     -        31985   40    0 
+rankine   929837563 10  1 Bf  -     -     -        31945   10    0 
+rankine   929837606 10 10 c   f     -     -        31935   40    0 
+rankine   929837675  8  7 f   -     -     -        31895    0    0 
+rankine   929837708  8  6 c   b     b     -        31895   80  160 
+rankine   929837747  9  6 f   -     -     -        31975    0    0 
+rankine   929837778  9  6 f   -     -     -        31975    0    0 
+rankine   929837806  7  3 f   -     -     -        31975    0    0 
+rankine   929837843  7  2 Bf  -     -     -        31975   20    0 
+rankine   929837854  7  1 Bc  kc    kf    -        31955   40    0 
+rankine   929837878  7  7 f   -     -     -        31915    0    0 
+rankine   929837898  6  5 f   -     -     -        31915    0    0 
+rankine   929837925  6  4 f   -     -     -        31915    0    0 
+rankine   929837947  6  3 f   -     -     -        31915    0    0 
+rankine   929837984  6  2 Bk  c     kf    -        31915   40    0 
+rankine   929838028  6  1 Bcc kf    -     -        31875   40    0 
+rankine   929838051  7  7 f   -     -     -        31835    0    0 
+rankine   929838090  7  6 f   -     -     -        31835    0    0 
+rankine   929838127  7  5 cc  c     c     c        31835  140    0 4h 6s
+rankine   929838156  7  4 f   -     -     -        31695    0    0 
+rankine   929838187  7  3 f   -     -     -        31695    0    0 
+rankine   929838233  8  2 Bk  k     b     b        31695  100    0 6d 6h
+rankine   929838262 10  1 Bf  -     -     -        31595   10    0 
+rankine   929838300 10 10 f   -     -     -        31585    0    0 
+rankine   929838336 10  9 c   b     b     b        31585  120    0 5h Ad
+rankine   929838379 10  8 f   -     -     -        31465    0    0 
+rankine   929838403 10  7 f   -     -     -        31465    0    0 
+rankine   929838437  9  6 f   -     -     -        31465    0    0 
+rankine   929838466 10  6 f   -     -     -        31465    0    0 
+rankine   929838492  9  4 f   -     -     -        31465    0    0 
+rankine   929838528 10  3 f   -     -     -        31465    0    0 
+rankine   929838558 10  2 Bc  kf    -     -        31465   40    0 
+rankine   929838645 10  1 Bc  kf    -     -        31425   40    0 
+rankine   929838706  8  8 f   -     -     -        31385    0    0 
+rankine   929838725  8  7 f   -     -     -        31385    0    0 
+rankine   929838741 10  7 c   r     b     b        31385  160  470 Th Qs
+rankine   929838775 10  6 c   f     -     -        31695   20    0 
+rankine   929838797 10  5 c   c     b     b        31675  120  320 Qs Jh
+rankine   929838907 10  4 Q   -     -     -        31875    0    0 
+rankine   929901996  4  3 f   -     -     -        33842    0    0 
+rankine   929902017  4  2 Bk  f     -     -        33842   20    0 
+rankine   929902037  5  1 Bc  k     kf    -        33822   20    0 
+rankine   929902093  6  6 f   -     -     -        33802    0    0 
+rankine   929902179  5  5 f   -     -     -        33802    0    0 
+rankine   929902189  4  3 f   -     -     -        33802    0    0 
+rankine   929902210  4  3 f   -     -     -        33802    0    0 
+rankine   929902227  4  2 Bk  kc    bc    k        33802  120    0 8s 3s
+rankine   929902244  3  1 Bcc kf    -     -        33682   40    0 
+rankine   929902264  4  3 cc  kc    k     kc       33642  100    0 8c Ac
+rankine   929902295  5  2 Br  kc    k     c        33542  100    0 9d 9h
+rankine   929902328  6  1 Bf  -     -     -        33442   10    0 
+rankine   929902350  6  6 f   -     -     -        33432    0    0 
+rankine   929902360  6  5 c   f     -     -        33432   20    0 
+rankine   929902377  6  4 f   -     -     -        33412    0    0 
+rankine   929902384  6  3 f   -     -     -        33412    0    0 
+rankine   929902395  6  2 Bk  b     k     f        33412   40    0 
+rankine   929902418  6  1 Bf  -     -     -        33372   10    0 
+rankine   929902425  6  6 c   f     -     -        33362   20    0 
+rankine   929902436  6  5 f   -     -     -        33342    0    0 
+rankine   929902441  6  4 c   c     f     -        33342   40    0 
+rankine   929902458  7  3 f   -     -     -        33302    0    0 
+rankine   929902463  7  2 Bk  f     -     -        33302   20    0 
+rankine   929902479  7  1 Br  -     -     -        33282   40   60 
+rankine   929902486  8  8 f   -     -     -        33302    0    0 
+rankine   929902508  8  7 c   c     f     -        33302   60    0 
+rankine   929902537  8  6 f   -     -     -        33242    0    0 
+rankine   929902558  8  5 c   k     b     -        33242   60  140 
+rankine   929902581  8  4 c   c     c     k        33322   80  250 Ah 5c
+rankine   929902604  8  3 c   c     kf    -        33492   40    0 
+rankine   929902631  8  2 Bk  b     k     r        33452  120  220 
+rankine   929902656  7  1 Bc  kc    kc    kf       33552   80    0 
+rankine   929902694  7  7 f   -     -     -        33472    0    0 
+rankine   929902715  7  6 f   -     -     -        33472    0    0 
+rankine   929902739  7  5 f   -     -     -        33472    0    0 
+rankine   929902759  7  4 c   f     -     -        33472   20    0 
+rankine   929902780  8  4 f   -     -     -        33452    0    0 
+rankine   929902812  8  3 f   -     -     -        33452    0    0 
+rankine   929902830  8  2 Bcc kc    kc    k        33452  120    0 Tc 6c
+rankine   929902888  7  1 Bf  -     -     -        33332   10    0 
+rankine   929902921  7  7 r   b     -     -        33322   60  120 
+rankine   929902937  7  6 f   -     -     -        33382    0    0 
+rankine   929902960  7  5 c   b     -     -        33382   40   90 
+rankine   929902976  7  4 f   -     -     -        33432    0    0 
+rankine   929902995  7  3 c   b     b     b        33432  120    0 Qh Ts
+rankine   929903014  7  2 Bc  kc    kc    kf       33312  100    0 
+rankine   929903064  8  1 Bc  k     kf    -        33212   20    0 
+rankine   929903103  8  8 r   b     -     -        33192   60  170 
+rankine   929903121  8  7 c   c     c     c        33302  120    0 Jc Kc
+rankine   929903145  8  6 r   b     -     -        33182   60  110 
+rankine   929903164  8  5 f   -     -     -        33232    0    0 
+rankine   929903190  8  4 r   b     k     bf       33232  100    0 
+rankine   929903215  8  3 f   -     -     -        33132    0    0 
+rankine   929903241  8  2 Br  b     -     -        33132   60  140 
+rankine   929903269  8  1 Bc  k     kc    b        33212  100    0 7d 8h
+rankine   929903291  8  8 r   b     -     -        33112   60  130 
+rankine   929903305  8  7 c   r     b     b        33182  140    0 8s 9s
+rankine   929903342  8  6 cc  rc    c     k        33042  160    0 6d 4h
+rankine   929903375  8  5 r   cc    kc    kf       32882  120    0 
+rankine   929903407  8  4 f   -     -     -        32762    0    0 
+rankine   929903444  8  3 c   f     -     -        32762   20    0 
+rankine   929903466  8  2 Bk  rr    bc    c        32742  260    0 Jd Tc
+rankine   929903501  8  1 Bf  -     -     -        32482   10    0 
+rankine   929903524  8  8 f   -     -     -        32472    0    0 
+rankine   929903542  8  7 c   k     k     b        32472   60  120 
+rankine   929903568  8  6 r   b     b     b        32532  140  270 
+rankine   929903590  8  5 r   b     b     b        32662  140  350 Qc Qh
+rankine   929903612  8  4 f   -     -     -        32872    0    0 
+rankine   929903633  8  3 f   -     -     -        32872    0    0 
+rankine   929903654  8  2 Bk  b     b     b        32872  120  240 
+rankine   929903675  8  1 Bc  kc    kc    kf       32992   80    0 
+rankine   929903696  8  8 cc  f     -     -        32912   40    0 
+rankine   929903720  8  7 r   r     r     c        32872  200    0 Ac 7s
+rankine   929903751  8  6 f   -     -     -        32672    0    0 
+rankine   929903775  8  5 f   -     -     -        32672    0    0 
+rankine   929903801  8  4 f   -     -     -        32672    0    0 
+rankine   929903839  8  3 c   k     k     b        32672   60  140 
+rankine   929903870  8  2 Bk  k     b     b        32752  100  270 2s Ks
+rankine   929903890  8  1 Bcc kr    kf    -        32922   80    0 
+rankine   929903920  8  8 f   -     -     -        32842    0    0 
+rankine   929903945  8  7 cc  f     -     -        32842   40    0 
+rankine   929903986  9  7 cr  b     b     b        32802  160  450 Qc Qd
+rankine   929904011  9  6 f   -     -     -        33092    0    0 
+rankine   929904040  9  5 f   -     -     -        33092    0    0 
+rankine   929904083  9  4 f   -     -     -        33092    0    0 
+rankine   929904119  9  3 f   -     -     -        33092    0    0 
+rankine   929904155  9  2 Bk  kf    -     -        33092   20    0 
+rankine   929904179  9  1 Bf  -     -     -        33072   10    0 
+rankine   929904201  8  8 c   c     c     c        33062  120  270 Jd Jh
+rankine   929904218  8  7 c   cc    kc    k        33212  100    0 Qd Ad
+rankine   929904246  8  6 f   -     -     -        33112    0    0 
+rankine   929904268  8  5 f   -     -     -        33112    0    0 
+rankine   929904285  8  4 f   -     -     -        33112    0    0 
+rankine   929904303  8  3 c   kr    b     b        33112  140  390 8h 8s
+rankine   929904330  8  2 Bk  kf    -     -        33362   20    0 
+rankine   929904353  8  1 Bc  kc    kc    k        33342   80    0 8h Qc
+rankine   929904385  8  8 cc  b     k     b        33262  100  260 
+rankine   929904419  8  7 c   c     c     bc       33422  160    0 As Jh
+rankine   929904451  9  6 c   b     b     -        33262   80  200 
+rankine   929904478  9  5 f   -     -     -        33382    0    0 
+rankine   929904513  9  5 f   -     -     -        33382    0    0 
+rankine   929904525  8  3 f   -     -     -        33382    0    0 
+rankine   929904551  8  2 Bf  -     -     -        33382   20    0 
+rankine   929904583  8  1 Bc  k     kf    -        33362   20    0 
+rankine   929904608  8  8 f   -     -     -        33342    0    0 
+rankine   929904636  8  7 cc  bc    b     b        33342  160  620 4s Js
+rankine   929904689  7  6 f   -     -     -        33802    0    0 
+rankine   929904717  6  4 f   -     -     -        33802    0    0 
+rankine   929904737  5  2 f   -     -     -        33802    0    0 
+rankine   929904752  4  2 Bk  k     k     k        33802   20    0 8c 4h
+rankine   929904781  3  1 Bc  k     k     k        33782   20    0 6h 7c
+rankine   929904806  4  3 Q   -     -     -        33762    0    0 
+rankine   929905648 10  6 f   -     -     -        33762    0    0 
+rankine   929905683  8  3 f   -     -     -        33762    0    0 
+rankine   929905707  8  2 Bk  kf    -     -        33762   20    0 
+rankine   929905754  8  1 Bc  kc    kf    -        33742   60    0 
+rankine   929905789  7  7 f   -     -     -        33682    0    0 
+rankine   929905799  7  6 f   Q     -     -        33682    0    0 
+rankine   929907001  9  3 f   -     -     -        33832    0    0 
+rankine   929907048  9  2 Bk  bf    -     -        33832   40    0 
+rankine   929907084  9  1 Bc  bc    k     b        33792  100    0 8h 5h
+rankine   929907126  9  9 c   r     b     b        33692  140  320 
+rankine   929907177  9  8 c   f     -     -        33872   20    0 
+rankine   929907225  9  7 c   b     kf    -        33852   40    0 
+rankine   929907266  9  6 f   -     -     -        33812    0    0 
+rankine   929907310  9  5 f   -     -     -        33812    0    0 
+rankine   929907337  9  4 c   bc    kc    k        33812  100    0 6s Ks
+rankine   929907376  9  3 f   -     -     -        33712    0    0 
+rankine   929907414  9  2 Bc  kc    kc    kr       33712  180  410 Tc 9h
+rankine   929907452  9  1 Bf  -     -     -        33942   10    0 
+rankine   929907464  9  9 r   b     b     b        33932  140  340 Ad Ac
+rankine   929907495  9  8 c   k     b     k        34132   60    0 6h 5c
+rankine   929907522  9  7 f   -     -     -        34072    0    0 
+rankine   929907564 10  6 r   b     b     b        34072  160  350 2d As
+rankine   929907594 10  5 f   -     -     -        34262    0    0 
+rankine   929907616  8  3 c   kc    k     b        34262  100    0 Ks Qc
+rankine   929907659  9  2 Bk  kf    -     -        34162   20    0 
+rankine   929907684  9  1 Bc  kc    kf    -        34142   40    0 
+rankine   929907728  9  9 f   -     -     -        34102    0    0 
+rankine   929907772  8  7 f   -     -     -        34102    0    0 
+rankine   929907796  9  7 f   -     -     -        34102    0    0 
+rankine   929907811  9  6 f   -     -     -        34102    0    0 
+rankine   929907834  9  5 f   -     -     -        34102    0    0 
+rankine   929907874  9  4 f   -     -     -        34102    0    0 
+rankine   929907894  9  3 f   -     -     -        34102    0    0 
+rankine   929907920  9  2 Bc  kf    -     -        34102   40    0 
+rankine   929907940  9  1 Bf  -     -     -        34062   10    0 
+rankine   929907969  9  9 c   f     -     -        34052   20    0 
+rankine   929908005 10  9 f   -     -     -        34032    0    0 
+rankine   929908033 10  8 c   b     k     rrr      34032  280  690 6c 8c
+rankine   929908140 10  7 f   -     -     -        34442    0    0 
+rankine   929908196 10  6 f   -     -     -        34442    0    0 
+rankine   929908274 10  5 f   -     -     -        34442    0    0 
+rankine   929908293 10  4 f   -     -     -        34442    0    0 
+rankine   929908332 10  3 c   f     -     -        34442   20    0 
+rankine   929908383 10  2 Br  kr    kc    kc       34422  160    0 Ad Kc
+rankine   929908439 10  1 Bc  kf    -     -        34262   20    0 
+rankine   929908490 10 10 f   -     -     -        34242    0    0 
+rankine   929908528 10  9 f   -     -     -        34242    0    0 
+rankine   929908601 10  8 r   r     c     b        34242  180  390 7d 2d
+rankine   929908634 10  7 r   brr   rc    c        34452  300  730 Ks Ac
+rankine   929908701 10  6 r   br    b     b        34882  180  560 
+rankine   929908776 10  5 r   rrc   c     b        35262  220    0 9h 3h
+rankine   929908813 10  4 f   -     -     -        35042    0    0 
+rankine   929908841 10  3 f   -     -     -        35042    0    0 
+rankine   929908932 10  2 Bk  kf    -     -        35042   20    0 
+rankine   929908968 10  1 Br  b     kc    k        35022  100    0 2h 8s
+rankine   929909005 10 10 f   -     -     -        34922    0    0 
+rankine   929909041 10  9 f   -     -     -        34922    0    0 
+rankine   929909074 10  8 cc  b     k     b        34922  120  290 
+rankine   929909127 10  7 f   -     -     -        35092    0    0 
+rankine   929909150 10  6 f   -     -     -        35092    0    0 
+rankine   929909174 10  5 f   -     -     -        35092    0    0 
+rankine   929909213 10  4 c   c     f     -        35092   60    0 
+rankine   929909243 10  3 f   -     -     -        35032    0    0 
+rankine   929909286 10  2 Bk  kf    -     -        35032   20    0 
+rankine   929909329 10  1 Bc  kc    b     b        35012  120  280 9h 4h
+rankine   929909370 10 10 c   rc    c     c        35172  180    0 Jc Kd
+rankine   929909420 10  9 c   c     c     k        34992   80    0 Th 8d
+rankine   929909475 10  8 c   c     f     -        34912   40    0 
+rankine   929909498 10  7 c   r     c     c        34872  140    0 8c 8s
+rankine   929909553  9  5 f   -     -     -        34732    0    0 
+rankine   929909587 10  4 f   -     -     -        34732    0    0 
+rankine   929909629 10  3 rc  c     c     f        34732  120    0 
+rankine   929909667 10  2 Br  b     k     kc       34612  120    0 Ah 8s
+rankine   929909706  9  1 Bc  b     b     b        34492  120  260 8c Qc
+rankine   929909739  9  9 f   -     -     -        34632    0    0 
+rankine   929909775  9  8 c   rc    k     bc       34632  160    0 Jh Th
+rankine   929909820  9  7 f   -     -     -        34472    0    0 
+rankine   929909853  9  6 c   c     c     k        34472   80    0 Kh 6h
+rankine   929909889  9  5 c   bc    kr    k        34392  140    0 3h Jh
+rankine   929909949 10  4 c   k     k     k        34252   20    0 Ah 5d
+rankine   929909996 10  3 f   -     -     -        34232    0    0 
+rankine   929910016 10  2 Bk  kf    -     -        34232   20    0 
+rankine   929910054 10  1 Bc  k     k     kc       34212   60    0 2c Kh
+rankine   929910103 10 10 f   -     -     -        34152    0    0 
+rankine   929910133 10  9 f   -     -     -        34152    0    0 
+rankine   929910168 10  8 c   c     c     c        34152  120    0 4s 4h
+rankine   929910207 10  7 f   -     -     -        34032    0    0 
+rankine   929910235 10  6 cc  bf    -     -        34032   60    0 
+rankine   929910274  9  4 f   -     -     -        33972    0    0 
+rankine   929910294  9  4 c   r     b     b        33972  140  400 Ah 9h
+rankine   929910333  9  3 f   -     -     -        34232    0    0 
+rankine   929910348  9  2 Bk  k     kr    k        34232  100  170 Qd Kh
+rankine   929910403  9  1 Bf  -     -     -        34302   10    0 
+rankine   929910436 10 10 f   -     -     -        34292    0    0 
+rankine   929910456 10  9 f   -     -     -        34292    0    0 
+rankine   929910495 10  8 c   k     k     k        34292   20   50 Kc Tc
+rankine   929910518 10  7 f   -     -     -        34322    0    0 
+rankine   929910547 10  6 f   -     -     -        34322    0    0 
+rankine   929910582 10  5 cc  k     kc    kf       34322   80    0 
+rankine   929910625 10  4 cc  kc    kf    -        34242   60    0 
+rankine   929910665 10  3 f   -     -     -        34182    0    0 
+rankine   929910700 10  2 Bk  k     k     b        34182   60  120 
+rankine   929910736 10  1 Bf  -     -     -        34242   10    0 
+rankine   929910792 10 10 c   bc    c     f        34232  100    0 
+rankine   929910829 10  9 f   -     -     -        34132    0    0 
+rankine   929910870  9  7 r   b     b     k        34132  100  250 2s 8d
+rankine   929910909  9  6 f   -     -     -        34282    0    0 
+rankine   929910950  9  5 f   -     -     -        34282    0    0 
+rankine   929910968  9  4 r   k     r     b        34282  160  520 Ah 5s
+rankine   929911011  9  3 c   kf    -     -        34642   20    0 
+rankine   929911066  9  2 Bc  kc    k     b        34622  100    0 2s 5s
+rankine   929911116 10  1 Bf  -     -     -        34522   10    0 
+rankine   929911171 10 10 c   k     k     k        34512   20    0 Qc Jc
+rankine   929911238 10  9 f   -     -     -        34492    0    0 
+rankine   929911282 10  8 f   -     -     -        34492    0    0 
+rankine   929911314 10  7 f   -     -     -        34492    0    0 
+rankine   929911363 10  6 c   f     -     -        34492   40    0 
+rankine   929911391 10  6 f   -     -     -        34452    0    0 
+rankine   929911428 10  4 f   -     -     -        34452    0    0 
+rankine   929911450 10  3 c   f     -     -        34452   20    0 
+rankine   929911486 10  2 Bc  k     kc    k        34432   80  170 Jd 6h
+rankine   929911520  9  1 Bf  -     -     -        34522   10    0 
+rankine   929911540  9  9 f   -     -     -        34512    0    0 
+rankine   929911576  9  8 f   -     -     -        34512    0    0 
+rankine   929911624  9  7 f   -     -     -        34512    0    0 
+rankine   929911650  9  6 f   -     -     -        34512    0    0 
+rankine   929911677  9  5 f   -     -     -        34512    0    0 
+rankine   929911698  9  4 f   -     -     -        34512    0    0 
+rankine   929911727  9  3 c   b     b     -        34512   80  190 
+rankine   929911760  9  2 Bc  kf    -     -        34622   40    0 
+rankine   929911805  8  1 Bf  -     -     -        34582   10    0 
+rankine   929911834  8  8 r   c     k     c        34572  100  210 As 2d
+rankine   929911859  8  7 c   f     -     -        34682   20    0 
+rankine   929911881  9  6 c   f     -     -        34662   20    0 
+rankine   929911915 10  5 f   Q     -     -        34642    0    0 
+rankine   930013593  4  2 Bf  -     -     -        19122   20    0 
+rankine   930013671  5  1 Bc  bf    -     -        19102   60    0 
+rankine   930013724  5  5 f   -     -     -        19042    0    0 
+rankine   930013740  5  4 f   -     -     -        19042    0    0 
+rankine   930013749  4  3 c   r     b     b        19042  140    0 Ac Ts
+rankine   930013778  4  2 Bf  -     -     -        18902   20    0 
+rankine   930013794  3  1 Bc  kc    kf    -        18882   60    0 
+rankine   930013817  3  3 f   -     -     -        18822    0    0 
+rankine   930013819  3  2 Bf  -     -     -        18822   20    0 
+rankine   930013836  3  1 Br  b     -     -        18802   60  100 
+rankine   930013846  3  3 f   -     -     -        18842    0    0 
+rankine   930013868  3  2 Bc  rc    f     -        18842  100    0 
+rankine   930013891  4  1 Bf  -     -     -        18742   10    0 
+rankine   930013899  5  4 f   -     -     -        18732    0    0 
+rankine   930013918  7  3 f   -     -     -        18732    0    0 
+rankine   930013940  7  2 Bc  b     b     -        18732  100  210 
+rankine   930013954  7  1 Bf  -     -     -        18842   10    0 
+rankine   930013969  7  7 c   rc    c     c        18832  180  550 Ks Td
+rankine   930014004  7  6 c   c     rf    -        19202  140    0 
+rankine   930014023  7  5 f   -     -     -        19062    0    0 
+rankine   930014036  7  4 f   -     -     -        19062    0    0 
+rankine   930014051  7  3 f   -     -     -        19062    0    0 
+rankine   930014068  7  2 Bf  -     -     -        19062   20    0 
+rankine   930014086  7  1 Br  b     kc    kf       19042  160    0 
+rankine   930014134  7  7 cc  r     c     r        18882  240    0 As Kc
+rankine   930014205  7  6 rc  c     c     rc       18642  260    0 4c As
+rankine   930014233  7  5 r   b     -     -        18382   80  330 
+rankine   930014258  8  4 f   -     -     -        18632    0    0 
+rankine   930014323  8  3 f   -     -     -        18632    0    0 
+rankine   930014383  7  2 Bc  b     -     -        18632   60  140 
+rankine   930014423  6  1 Bc  kc    kc    bc       18712  200    0 5d 5h
+rankine   930014471  7  7 c   r     k     f        18512   60    0 
+rankine   930014503  6  6 c   c     c     f        18452  100    0 
+rankine   930014538  6  5 f   -     -     -        18352    0    0 
+rankine   930014584  6  4 f   -     -     -        18352    0    0 
+rankine   930014640  7  3 cc  kc    kc    kr       18352  180  420 Qc Kh
+rankine   930014665  7  2 Bc  fQ    -     -        18592   40    0 
+rankine   930021550  9  1 Bk  kf    -     -        12340   20    0 
+rankine   930021592 10  1 Bf  -     -     -        12320   10    0 
+rankine   930021614  9  9 f   -     -     -        12310    0    0 
+rankine   930021674 10  9 c   f     -     -        12310   20    0 
+rankine   930021730 10  8 f   -     -     -        12290    0    0 
+rankine   930021775 10  7 Q   -     -     -        12290    0    0 
+rankine   930509664  3  3 r   b     bc    k         2907  140    0 Kc Ac
+rankine   930509687  3  2 Bk  k     k     k         2767   20   40 Ks Js
+rankine   930509701  3  1 Bf  -     -     -         2787   10    0 
+rankine   930509718  3  3 f   -     -     -         2777    0    0 
+rankine   930509723  3  2 Bk  c     f     -         2777   40    0 
+rankine   930509732  3  1 Bf  -     -     -         2737   10    0 
+rankine   930509736  3  3 f   -     -     -         2727    0    0 
+rankine   930509738  3  2 Bk  k     k     b         2727   60    0 7d Qs
+rankine   930509758  3  1 Bc  k     kc    kf        2667   60    0 
+rankine   930509789  3  3 c   k     k     r         2607  100    0 Ah As
+rankine   930509806  3  2 Bk  k     b     -         2507   60   80 
+rankine   930509829  3  1 Bc  kc    kf    -         2527   40    0 
+rankine   930509848  3  3 f   -     -     -         2487    0    0 
+rankine   930509850  3  2 B   -     -     -         2487   20   30 
+rankine   930509855  3  1 Bc  b     b     bc        2497  180    0 8d 8c
+rankine   930509880  3  3 f   -     -     -         2317    0    0 
+rankine   930509898  3  2 Bk  k     kf    -         2317   20    0 
+rankine   930509910  3  1 Br  b     bf    -         2297  100    0 
+rankine   930509932  3  3 c   rc    c     c         2197  160    0 2c 2s
+rankine   930509963  3  2 Bk  f     -     -         2037   20    0 
+rankine   930509996  3  1 Br  -     -     -         2017   40   60 
+rankine   930510004  3  3 r   k     f     -         2037   40    0 
+rankine   930510037  3  2 Bk  f     -     -         1997   20    0 
+rankine   930510058  3  1 Bf  -     -     -         1977   10    0 
+rankine   930510062  4  3 f   -     -     -         1967    0    0 
+rankine   930510075  4  2 Bk  kf    -     -         1967   20    0 
+rankine   930510099  4  1 Br  b     b     -         1947  100  160 
+rankine   930510114  4  4 f   -     -     -         2007    0    0 
+rankine   930510137  4  3 c   r     r     c         2007  180  370 7d Qd
+rankine   930510165  4  2 Bf  -     -     -         2197   20    0 
+rankine   930510183  4  1 Bf  -     -     -         2177   10    0 
+rankine   930510217  4  4 f   -     -     -         2167    0    0 
+rankine   930510251  4  3 f   -     -     -         2167    0    0 
+rankine   930510270  5  2 Bk  k     k     k         2167   20   60 2s 3c
+rankine   930510290  5  1 Bc  k     k     k         2207   20   40 Qc 9h
+rankine   930510310  5  5 f   -     -     -         2227    0    0 
+rankine   930510331  5  4 c   c     f     -         2227   40    0 
+rankine   930510382  5  3 f   -     -     -         2187    0    0 
+rankine   930510397  5  2 Bk  b     k     b         2187   80    0 Kd 2d
+rankine   930510418  5  1 Br  b     -     -         2107   60  100 
+rankine   930510431  5  5 c   c     c     f         2147   80    0 
+rankine   930510464  5  4 c   k     b     b         2067  100    0 Ah 9h
+rankine   930510491  5  3 f   -     -     -         1967    0    0 
+rankine   930510514  5  2 Br  b     b     b         1967  140  280 Ac 9h
+rankine   930510532  5  1 Bf  -     -     -         2107   10    0 
+rankine   930510550  5  5 f   -     -     -         2097    0    0 
+rankine   930510555  5  4 f   -     -     -         2097    0    0 
+rankine   930510567  5  3 f   -     -     -         2097    0    0 
+rankine   930510581  5  2 Bk  k     k     k         2097   20   40 4c Qs
+rankine   930510592  5  1 Bf  -     -     -         2117   10    0 
+rankine   930510610  5  5 f   -     -     -         2107    0    0 
+rankine   930510634  6  5 f   -     -     -         2107    0    0 
+rankine   930510653  6  4 cc  k     r     b         2107  160  490 Td Kc
+rankine   930510694  6  3 f   -     -     -         2437    0    0 
+rankine   930510714  6  2 Bf  -     -     -         2437   20    0 
+rankine   930510730  6  1 Bc  b     b     b         2417  120  260 6s As
+rankine   930510751  6  6 f   -     -     -         2557    0    0 
+rankine   930510791  6  5 f   -     -     -         2557    0    0 
+rankine   930510811  6  4 f   -     -     -         2557    0    0 
+rankine   930510816  6  3 f   -     -     -         2557    0    0 
+rankine   930510835  6  2 Bk  kf    -     -         2557   20    0 
+rankine   930510851  6  1 Bc  kf    -     -         2537   20    0 
+rankine   930510864  6  6 f   -     -     -         2517    0    0 
+rankine   930510869  6  5 r   b     b     b         2517  160  430 Qc Qd
+rankine   930510889  6  4 f   -     -     -         2787    0    0 
+rankine   930510918  6  3 f   -     -     -         2787    0    0 
+rankine   930510934  6  2 Bk  k     f     -         2787   20    0 
+rankine   930510957  6  1 Bf  -     -     -         2767   10    0 
+rankine   930510979  6  6 r   k     f     -         2757   40    0 
+rankine   930511010  5  5 f   -     -     -         2717    0    0 
+rankine   930511030  5  4 f   -     -     -         2717    0    0 
+rankine   930511052  5  3 f   -     -     -         2717    0    0 
+rankine   930511060  5  2 Bk  b     -     -         2717   40   60 
+rankine   930511068  5  1 Br  b     bc    kc        2737  200  420 Ac Ad
+rankine   930511088  5  5 f   -     -     -         2957    0    0 
+rankine   930511101  5  4 f   -     -     -         2957    0    0 
+rankine   930511105  5  3 f   -     -     -         2957    0    0 
+rankine   930511115  4  2 Bc  kc    kc    kr        2957  180  370 Ad 3c
+rankine   930511142  3  1 Bc  k     b     -         3147   60   80 
+rankine   930511158  3  3 c   b     -     -         3167   40   70 
+rankine   930511170  4  2 Bc  b     -     -         3197   60  140 
+rankine   930511188  5  1 Bf  -     -     -         3277   10    0 
+rankine   930511208  5  5 c   rr    b     -         3267  160  330 
+rankine   930511232  5  4 f   -     -     -         3437    0    0 
+rankine   930511253  5  3 r   b     bc    c         3437  180    0 Tc Td
+rankine   930511279  5  2 Bk  r     b     k         3257  100  100 7c 9d
+rankine   930511315  6  1 Bf  -     -     -         3257   10    0 
+rankine   930511343  6  6 c   r     r     r         3247  220  610 9s 9d
+rankine   930511381  7  6 f   -     -     -         3637    0    0 
+rankine   930511392  7  5 f   -     -     -         3637    0    0 
+rankine   930511411  7  4 f   -     -     -         3637    0    0 
+rankine   930511440  7  3 cc  kcc   kc    b         3637  180  540 9s As
+rankine   930511484  8  2 Bk  k     b     -         3997   60   90 
+rankine   930511505  8  1 Bc  b     -     -         4027   60  160 
+rankine   930511522  7  7 f   -     -     -         4127    0    0 
+rankine   930511550  7  6 f   -     -     -         4127    0    0 
+rankine   930511570  7  5 f   -     -     -         4127    0    0 
+rankine   930511596  7  4 f   -     -     -         4127    0    0 
+rankine   930511608  7  3 f   -     -     -         4127    0    0 
+rankine   930511625  7  2 Bc  kf    -     -         4127   40    0 
+rankine   930511649  7  1 Bf  -     -     -         4087   10    0 
+rankine   930511682  7  7 f   -     -     -         4077    0    0 
+rankine   930511717  7  6 f   -     -     -         4077    0    0 
+rankine   930511734  7  5 f   -     -     -         4077    0    0 
+rankine   930511740  7  4 f   -     -     -         4077    0    0 
+rankine   930511764  7  3 c   bc    k     f         4077   60    0 
+rankine   930511795  7  2 Bf  -     -     -         4017   20    0 
+rankine   930511809  7  1 Bc  kr    b     b         3997  160  400 5s 5c
+rankine   930511842  7  7 f   -     -     -         4237    0    0 
+rankine   930511854  7  6 f   -     -     -         4237    0    0 
+rankine   930511861  8  5 r   -     -     -         4237   40   70 
+rankine   930511875  8  4 f   -     -     -         4267    0    0 
+rankine   930511907  8  3 f   -     -     -         4267    0    0 
+rankine   930511946  8  2 Bc  kf    -     -         4267   40    0 
+rankine   930511992  8  1 Bc  k     k     b         4227   60  140 
+rankine   930512032  8  8 f   -     -     -         4307    0    0 
+rankine   930512056  8  7 f   -     -     -         4307    0    0 
+rankine   930512081  8  6 r   k     c     f         4307   80    0 
+rankine   930512097  8  5 f   -     -     -         4227    0    0 
+rankine   930512127  8  4 f   -     -     -         4227    0    0 
+rankine   930512155  8  3 f   -     -     -         4227    0    0 
+rankine   930512179  8  2 Bc  k     kc    kf        4227   80    0 
+rankine   930512215  8  1 Bf  -     -     -         4147   10    0 
+rankine   930512245  8  8 f   -     -     -         4137    0    0 
+rankine   930512279  8  7 f   -     -     -         4137    0    0 
+rankine   930512290  8  6 c   c     c     c         4137  140    0 Ad Qc
+rankine   930512313  8  5 f   -     -     -         3997    0    0 
+rankine   930512329  8  4 f   -     -     -         3997    0    0 
+rankine   930512386  8  3 f   -     -     -         3997    0    0 
+rankine   930512422  7  2 Bk  k     r     b         3997  140  240 
+rankine   930512460  8  1 Bf  -     -     -         4097   10    0 
+rankine   930512514  8  8 c   r     b     f         4087  140    0 
+rankine   930512550  8  7 f   -     -     -         3947    0    0 
+rankine   930512574  8  6 c   r     k     k         3947   60  220 Qh Qc
+rankine   930512609  8  5 c   b     b     k         4107  100  145 Qd Jc
+rankine   930512661  8  4 c   b     b     b         4152  140  330 Tc Qc
+rankine   930512690  8  3 f   -     -     -         4342    0    0 
+rankine   930512704  8  2 Bk  k     k     k         4342   20   60 As 6s
+rankine   930512739  8  1 Bf  -     -     -         4382   10    0 
+rankine   930512778  8  8 f   -     -     -         4372    0    0 
+rankine   930512848  7  6 f   -     -     -         4372    0    0 
+rankine   930512865  6  4 f   -     -     -         4372    0    0 
+rankine   930512879  6  3 f   -     -     -         4372    0    0 
+rankine   930512886  6  2 Bf  -     -     -         4372   20    0 
+rankine   930512901  6  1 Bc  k     k     k         4352   20   80 Td Tc
+rankine   930512933  7  7 f   -     -     -         4412    0    0 
+rankine   930512949  7  6 c   c     r     k         4412  180    0 Qs Qc
+rankine   930512992  7  5 f   -     -     -         4232    0    0 
+rankine   930513016  7  4 f   -     -     -         4232    0    0 
+rankine   930513041  8  3 f   -     -     -         4232    0    0 
+rankine   930513063  8  2 Bc  kf    -     -         4232   40    0 
+rankine   930513103  8  1 Bc  kc    bc    kc        4192  160    0 4s 6s
+rankine   930513145  8  8 c   f     -     Q         4032   20    0 

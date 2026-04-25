@@ -1,0 +1,1101 @@
+SmoothB   963455402  3  3 f   -     -     -         2080    0    0 
+SmoothB   963455412  3  2 B   -     -     -         2080   20   30 
+SmoothB   963455416  3  1 Brc b     -     -         2090   80  140 
+SmoothB   963455429  3  3 rc  f     -     -         2150   60    0 
+SmoothB   963455458  3  2 Bc  kf    -     -         2090   40    0 
+SmoothB   963455475  3  1 Br  b     b     -         2050  100  180 
+SmoothB   963455489  3  3 f   -     -     -         2130    0    0 
+SmoothB   963455496  3  2 Bc  b     b     -         2130  100  200 
+SmoothB   963455515  3  1 Bf  -     -     -         2230   10    0 
+SmoothB   963455520  3  3 r   b     bc    f         2220  140    0 
+SmoothB   963455541  3  2 Bf  -     -     -         2080   20    0 
+SmoothB   963455568  3  1 Bcr b     -     -         2060   80  140 
+SmoothB   963455587  3  3 r   k     f     -         2120   40    0 
+SmoothB   963455602  3  2 B   -     -     -         2080   20   30 
+SmoothB   963455605  3  1 Bc  kf    -     -         2090   20    0 
+SmoothB   963455635  3  3 r   b     b     b         2070  140  250 
+SmoothB   963455656  3  2 Br  kr    b     -         2180  140  250 
+SmoothB   963455682  3  1 Br  k     b     -         2290   80  140 
+SmoothB   963455700  3  3 r   b     bc    c         2350  180    0 Qd Tc
+SmoothB   963455723  3  2 Bf  -     -     -         2170   20    0 
+SmoothB   963455736  3  1 Bc  kf    -     -         2150   20    0 
+SmoothB   963455764  3  3 f   -     -     -         2130    0    0 
+SmoothB   963455768  3  2 Brc bc    bc    kf        2130  200    0 
+SmoothB   963455799  3  1 Br  b     k     brrc      1930  300    0 Ah 6s
+SmoothB   963455828  3  3 rc  f     -     -         1630   60    0 
+SmoothB   963455850  3  2 Bc  kc    krr   b         1570  260    0 7d 6s
+SmoothB   963455891  3  1 Bf  -     -     -         1310   10    0 
+SmoothB   963455907  3  3 r   b     -     -         1300   60  110 
+SmoothB   963455919  3  2 Bc  bc    kf    -         1350   80    0 
+SmoothB   963455949  3  1 Brr bc    kc    kc        1270  200    0 Ah Qd
+SmoothB   963455976  3  3 f   -     -     -         1070    0    0 
+SmoothB   963455984  3  2 Bk  k     f     -         1070   20    0 
+SmoothB   963455998  3  1 Bc  kf    -     -         1050   20    0 
+SmoothB   963456010  3  3 r   -     -     -         1030   40   70 
+SmoothB   963456016  3  2 Bk  b     k     f         1060   40    0 
+SmoothB   963456036  3  1 Brc bc    kc    k         1020  140    0 Qc Ah
+SmoothB   963456063  3  3 rc  b     b     -          880  120  260 
+SmoothB   963456095  3  2 Bk  b     -     -         1020   40   60 
+SmoothB   963456108  3  1 Br  -     -     -         1040   40   60 
+SmoothB   963456114  4  3 r   k     b     b         1060  120  250 Kh 4c
+SmoothB   963456137  5  2 Bf  -     -     -         1190   20    0 
+SmoothB   963456183  5  1 Br  b     -     -         1170   60  140 
+SmoothB   963456213  5  5 r   r     b     b         1250  160  360 4s Ah
+SmoothB   963456244  5  4 rc  rc    rc    c         1450  300 1000 Jd Ah
+SmoothB   963456294  5  3 f   -     -     -         2150    0    0 
+SmoothB   963456316  5  2 Bc  kf    -     -         2150   40    0 
+SmoothB   963456343  5  1 Bf  -     -     -         2110   10    0 
+SmoothB   963456356  5  5 r   r     c     f         2100  120    0 
+SmoothB   963456386  5  4 f   -     -     -         1980    0    0 
+SmoothB   963456395  5  3 r   b     kf    -         1980   60    0 
+SmoothB   963456426  5  2 Bc  kc    kr    bc        1920  220  450 Jd Kd
+SmoothB   963456458  5  1 Bf  -     -     -         2150   10    0 
+SmoothB   963456492  5  5 f   -     -     -         2140    0    0 
+SmoothB   963456531  5  4 cf  -     -     -         2140   20    0 
+SmoothB   963456566  6  3 rc  kf    -     -         2120   60    0 
+SmoothB   963456602  6  2 Bf  -     -     -         2060   20    0 
+SmoothB   963456634  6  1 Bf  -     -     -         2040   10    0 
+SmoothB   963456670  6  6 rc  rc    b     k         2030  160    0 Js 6c
+SmoothB   963456716  6  5 f   -     -     -         1870    0    0 
+SmoothB   963456744  6  4 f   -     -     -         1870    0    0 
+SmoothB   963456781  6  3 rrc bc    kc    kc        1870  220    0 7s 7d
+SmoothB   963456818  6  2 Bf  -     -     -         1650   20    0 
+SmoothB   963456849  6  1 Br  k     brc   kc        1630  240    0 Ad As
+SmoothB   963456886  6  6 r   rc    r     b         1390  220  580 Kh Tc
+SmoothB   963456927  7  6 rc  k     kf    -         1750   60    0 
+SmoothB   963456979  8  6 f   -     -     -         1690    0    0 
+SmoothB   963457018  8  5 f   -     -     -         1690    0    0 
+SmoothB   963457055  8  4 f   -     -     -         1690    0    0 
+SmoothB   963457081  8  3 f   -     -     -         1690    0    0 
+SmoothB   963457136  8  2 Bf  -     -     -         1690   20    0 
+SmoothB   963457183  8  1 Bc  kf    -     -         1670   40    0 
+SmoothB   963457216  9  9 cc  f     -     -         1630   40    0 
+SmoothB   963457268 10  9 f   -     -     -         1590    0    0 
+SmoothB   963457348  9  8 f   -     -     -         1590    0    0 
+SmoothB   963457382  9  7 f   -     -     -         1590    0    0 
+SmoothB   963457412  9  6 f   -     -     -         1590    0    0 
+SmoothB   963457464 10  5 f   -     -     -         1590    0    0 
+SmoothB   963457504 10  4 f   -     -     -         1590    0    0 
+SmoothB   963457532 10  3 f   -     -     -         1590    0    0 
+SmoothB   963457574 10  2 Bk  k     f     -         1590   20    0 
+SmoothB   963457611 10  1 Bf  -     -     -         1570   10    0 
+SmoothB   963457655 10 10 f   -     -     -         1560    0    0 
+SmoothB   963457689  9  8 f   -     -     -         1560    0    0 
+SmoothB   963457748  9  7 c   b     b     k         1560   80  120 7d Ad
+SmoothB   963457816  9  6 c   k     k     f         1600   20    0 
+SmoothB   963457865  9  5 f   -     -     -         1580    0    0 
+SmoothB   963457914  9  4 f   -     -     -         1580    0    0 
+SmoothB   963457960  9  3 f   -     -     -         1580    0    0 
+SmoothB   963457988  9  2 Bk  k     kf    -         1580   20    0 
+SmoothB   963458030  9  1 Bf  -     -     -         1560   10    0 
+SmoothB   963458078  9  9 f   -     -     -         1550    0    0 
+SmoothB   963458095  9  8 f   -     -     -         1550    0    0 
+SmoothB   963458135  9  7 r   brc   c     c         1550  200    0 Ad Ah
+SmoothB   963458201  9  6 f   -     -     -         1350    0    0 
+SmoothB   963458251  9  5 f   -     -     Q         1350    0    0 
+SmoothB   963869648  6  4 f   -     -     -         2597    0    0 
+SmoothB   963869672  6  3 f   -     -     -         2597    0    0 
+SmoothB   963869710  6  2 Bk  k     kc    k         2597   60    0 Th 5h
+SmoothB   963869751  6  1 Bc  b     b     b         2537  120  300 
+SmoothB   963869815  6  6 f   -     -     -         2717    0    0 
+SmoothB   963869882  7  5 f   -     -     -         2717    0    0 
+SmoothB   963869947  7  4 c   k     k     k         2717   20   60 Tc Ad
+SmoothB   963869976  7  3 f   -     -     -         2757    0    0 
+SmoothB   963869990  7  2 Bf  -     -     -         2757   20    0 
+SmoothB   963870013  7  1 Bf  -     -     -         2737   10    0 
+SmoothB   963870046  7  7 f   -     -     -         2727    0    0 
+SmoothB   963870078  7  6 f   -     -     -         2727    0    0 
+SmoothB   963870158  8  5 f   -     -     -         2727    0    0 
+SmoothB   963870193  8  4 f   -     -     -         2727    0    0 
+SmoothB   963870250  8  3 f   -     -     -         2727    0    0 
+SmoothB   963870292  8  2 BKQ -     -     -         2727   20    0 
+SmoothB   963870538 10  8 f   -     -     -         2707    0    0 
+SmoothB   963870562 10  7 f   -     -     -         2707    0    0 
+SmoothB   963870588 10  6 f   -     -     -         2707    0    0 
+SmoothB   963870621 10  5 f   -     -     -         2707    0    0 
+SmoothB   963870656 10  4 c   kf    -     -         2707   20    0 
+SmoothB   963870708  9  3 f   -     -     -         2687    0    0 
+SmoothB   963870795  9  2 Bf  -     -     -         2687   20    0 
+SmoothB   963870844  9  1 Bf  -     -     -         2667   10    0 
+SmoothB   963870896  9  9 c   r     k     k         2657   60   76 4d 3d
+SmoothB   963870939  9  8 f   -     -     -         2673    0    0 
+SmoothB   963870987  9  7 f   Q     -     -         2673    0    0 
+SmoothB   963872295 10  1 Br  b     b     b         2673  140  240 
+SmoothB   963872323 10  5 Q   -     -     -         2773    0    0 
+SmoothB   963875159 10  5 r   k     b     k         2773   80    0 As Qs
+SmoothB   963875223 10  4 f   -     -     -         2693    0    0 
+SmoothB   963875276 10  3 c   k     b     k         2693   60    0 Qh Ad
+SmoothB   963875327 10  2 Bk  kf    -     -         2633   20    0 
+SmoothB   963875400 10  1 Bf  -     -     -         2613   10    0 
+SmoothB   963875460 10 10 f   -     -     -         2603    0    0 
+SmoothB   963875521 10  9 c   b     k     k         2603   40  130 3c 3h
+SmoothB   963875566 10  8 f   -     -     -         2693    0    0 
+SmoothB   963875620 10  7 f   -     -     -         2693    0    0 
+SmoothB   963875663 10  6 f   -     -     -         2693    0    0 
+SmoothB   963875697  9  5 cc  bc    k     kf        2693   80    0 
+SmoothB   963875738 10  4 f   -     -     -         2613    0    0 
+SmoothB   963875786 10  3 f   -     -     -         2613    0    0 
+SmoothB   963875854 10  2 Bk  k     kf    -         2613   20    0 
+SmoothB   963875896 10  1 Bc  kf    -     -         2593   20    0 
+SmoothB   963875958 10 10 f   -     -     -         2573    0    0 
+SmoothB   963876024 10  9 f   -     -     -         2573    0    0 
+SmoothB   963876088 10  8 f   -     -     -         2573    0    0 
+SmoothB   963876133 10  7 c   b     -     -         2573   40  100 
+SmoothB   963876167 10  6 f   -     -     -         2633    0    0 
+SmoothB   963876206 10  5 c   r     b     c         2633  140    0 Qc Kh
+SmoothB   963876272 10  4 r   b     k     k         2493   60    0 Ks Ad
+SmoothB   963876323 10  3 f   -     -     -         2433    0    0 
+SmoothB   963876407 10  2 Bk  f     -     -         2433   20    0 
+SmoothB   963876458 10  1 Bc  kf    -     -         2413   20    0 
+SmoothB   963876501 10 10 f   -     -     -         2393    0    0 
+SmoothB   963876552 10  9 f   -     -     -         2393    0    0 
+SmoothB   963876587 10  8 f   -     -     -         2393    0    0 
+SmoothB   963876640 10  7 c   kf    -     -         2393   20    0 
+SmoothB   963876692 10  6 f   -     -     -         2373    0    0 
+SmoothB   963876746 10  5 f   -     -     -         2373    0    0 
+SmoothB   963876789 10  4 c   b     k     k         2373   40    0 6s 5s
+SmoothB   963876857 10  3 f   -     -     -         2333    0    0 
+SmoothB   963876908 10  2 Bc  krc   kc    k         2333  140    0 4s Ad
+SmoothB   963876961  8  1 Bc  br    b     b         2193  160    0 Ad Kh
+SmoothB   963877004  9  9 f   -     -     -         2033    0    0 
+SmoothB   963877031  9  8 f   -     -     -         2033    0    0 
+SmoothB   963877072  9  7 f   -     -     -         2033    0    0 
+SmoothB   963877141  9  6 f   -     -     -         2033    0    0 
+SmoothB   963877167  9  5 c   rc    f     -         2033   80    0 
+SmoothB   963877222  9  4 f   -     -     -         1953    0    0 
+SmoothB   963877263  9  3 f   -     -     -         1953    0    0 
+SmoothB   963877308  9  2 Bk  bc    krr   b         1953  260    0 Qc 5c
+SmoothB   963877358  9  1 Bf  -     -     -         1693   10    0 
+SmoothB   963877392  9  9 r   -     -     -         1683   40   70 
+SmoothB   963877407  9  8 KQ  -     -     -         1713    0    0 
+SmoothB   963881218 10  1 Bf  -     -     -         2253   10    0 
+SmoothB   963881299 10 10 f   -     -     -         2243    0    0 
+SmoothB   963881340 10  9 f   -     -     -         2243    0    0 
+SmoothB   963881383 10  8 f   -     -     -         2243    0    0 
+SmoothB   963881460 10  7 f   -     -     -         2243    0    0 
+SmoothB   963881516 10  6 f   -     -     -         2243    0    0 
+SmoothB   963881563 10  5 f   -     -     -         2243    0    0 
+SmoothB   963881606 10  4 f   -     -     -         2243    0    0 
+SmoothB   963881661 10  3 f   -     -     -         2243    0    0 
+SmoothB   963881707 10  2 Bk  b     b     -         2243   80  140 
+SmoothB   963881753 10  1 Bf  -     -     -         2303   10    0 
+SmoothB   963881791 10 10 f   -     -     -         2293    0    0 
+SmoothB   963881849 10  9 c   b     b     -         2293   80  180 
+SmoothB   963881921 10  8 c   r     b     k         2393  120    0 Ah Jh
+SmoothB   963881993 10  7 f   -     -     -         2273    0    0 
+SmoothB   963882070 10  6 f   -     -     -         2273    0    0 
+SmoothB   963882223 10  5 f   -     -     -         2273    0    0 
+SmoothB   963882283 10  4 f   -     -     -         2273    0    0 
+SmoothB   963882352 10  3 f   -     -     -         2273    0    0 
+SmoothB   963882427 10  2 Bf  -     -     -         2273   20    0 
+SmoothB   963882508 10  1 Bc  kf    -     -         2253   20    0 
+SmoothB   963882552 10 10 f   -     -     -         2233    0    0 
+SmoothB   963882596 10  9 f   -     -     -         2233    0    0 
+SmoothB   963882637 10  8 f   -     -     -         2233    0    0 
+SmoothB   963882744 10  7 f   -     -     -         2233    0    0 
+SmoothB   963882790 10  6 f   -     -     -         2233    0    0 
+SmoothB   963882831 10  5 f   -     -     -         2233    0    0 
+SmoothB   963882880 10  4 f   -     -     -         2233    0    0 
+SmoothB   963882927 10  3 f   -     -     -         2233    0    0 
+SmoothB   963883003 10  2 Bk  kf    -     -         2233   20    0 
+SmoothB   963883040 10  1 Bc  kf    -     -         2213   20    0 
+SmoothB   963883102 10 10 f   -     -     -         2193    0    0 
+SmoothB   963883177 10  9 f   -     -     -         2193    0    0 
+SmoothB   963883272 10  8 cc  c     c     f         2193  100    0 
+SmoothB   963883336 10  7 c   r     k     k         2093   60    0 6h 5h
+SmoothB   963883393 10  6 r   rr    b     b         2033  200  800 As Ad
+SmoothB   963883467 10  5 f   -     -     -         2633    0    0 
+SmoothB   963883529 10  4 f   -     -     -         2633    0    0 
+SmoothB   963883608 10  3 f   -     -     -         2633    0    0 
+SmoothB   963883652 10  2 Bk  kf    -     -         2633   20    0 
+SmoothB   963883701 10  1 Bf  -     -     -         2613   10    0 
+SmoothB   963883737 10 10 f   -     -     -         2603    0    0 
+SmoothB   963883814 10  9 f   -     -     -         2603    0    0 
+SmoothB   963883862 10  8 f   -     -     -         2603    0    0 
+SmoothB   963883897 10  7 f   -     -     -         2603    0    0 
+SmoothB   963883990 10  6 f   Q     -     -         2603    0    0 
+SmoothB   963945688  3  2 Br  b     -     -         2628   60  100 
+SmoothB   963945698  3  1 Br  b     br    b         2668  220  480 Qs Jc
+SmoothB   963945722  3  3 f   -     -     -         2928    0    0 
+SmoothB   963945729  3  2 Bk  k     k     k         2928   20   30 7s Ac
+SmoothB   963945745  3  1 Bc  b     -     -         2938   40   60 
+SmoothB   963945756  4  3 f   -     -     -         2958    0    0 
+SmoothB   963945769  4  2 Bk  kf    -     -         2958   20    0 
+SmoothB   963945780  4  1 Bc  kf    -     -         2938   20    0 
+SmoothB   963945794  4  4 r   b     -     -         2918   60  140 
+SmoothB   963945813  4  3 f   -     -     -         2998    0    0 
+SmoothB   963945827  4  2 Bf  -     -     -         2998   20    0 
+SmoothB   963945844  4  1 Bc  k     kf    -         2978   20    0 
+SmoothB   963945861  4  4 r   b     b     b         2958  140  440 Kc As
+SmoothB   963945908  4  3 f   -     -     -         3258    0    0 
+SmoothB   963945926  5  2 Bc  kf    -     -         3258   40    0 
+SmoothB   963945951  5  1 Bc  kf    -     -         3218   40    0 
+SmoothB   963945977  5  5 r   b     c     b         3178  140  300 Kd Ah
+SmoothB   963946000  5  4 f   -     -     -         3338    0    0 
+SmoothB   963946028  6  3 f   -     -     -         3338    0    0 
+SmoothB   963946034  6  2 BQ  -     -     -         3338   20    0 
+SmoothB   963946200  6  3 f   -     -     -         3318    0    0 
+SmoothB   963946227  7  2 Bf  -     -     -         3318   20    0 
+SmoothB   963946258  6  1 Bc  b     bc    kc        3298  160    0 9c Jc
+SmoothB   963946308  6  5 f   -     -     -         3138    0    0 
+SmoothB   963946335  7  5 r   b     -     -         3138   60  190 
+SmoothB   963946351  8  5 f   -     -     -         3268    0    0 
+SmoothB   963946384  8  4 f   -     -     -         3268    0    0 
+SmoothB   963946404  9  3 f   -     -     -         3268    0    0 
+SmoothB   963946441  9  2 Bk  f     -     -         3268   20    0 
+SmoothB   963946477 10  1 Bf  -     -     -         3248   10    0 
+SmoothB   963946523 10 10 f   -     -     -         3238    0    0 
+SmoothB   963946544 10  9 f   -     -     -         3238    0    0 
+SmoothB   963946579 10  8 f   -     -     -         3238    0    0 
+SmoothB   963946639 10  7 f   -     -     -         3238    0    0 
+SmoothB   963946679 10  6 f   -     -     -         3238    0    0 
+SmoothB   963946715 10  5 f   -     -     -         3238    0    0 
+SmoothB   963946744 10  4 f   -     -     -         3238    0    0 
+SmoothB   963946769 10  3 c   bc    k     k         3238   60  180 Js Ks
+SmoothB   963946812 10  2 Bc  k     b     b         3358  120  185 Ad Jc
+SmoothB   963946859 10  1 Bf  -     -     -         3423   10    0 
+SmoothB   963946897 10 10 f   -     -     -         3413    0    0 
+SmoothB   963946954 10  9 f   -     -     -         3413    0    0 
+SmoothB   963947000 10  8 f   -     -     -         3413    0    0 
+SmoothB   963947051 10  7 f   -     -     -         3413    0    0 
+SmoothB   963947187  9  6 c   r     b     b         3413  160  310 
+SmoothB   963947219  9  5 cc  f     -     -         3563   40    0 
+SmoothB   963947257  9  4 f   -     -     -         3523    0    0 
+SmoothB   963947281  9  3 f   -     -     -         3523    0    0 
+SmoothB   963947307  9  2 Bk  b     kc    kf        3523   80    0 
+SmoothB   963947360  9  1 Bf  -     -     -         3443   10    0 
+SmoothB   963947395  9  9 c   f     -     -         3433   40    0 
+SmoothB   963947422  9  8 f   -     -     -         3393    0    0 
+SmoothB   963947500  9  7 f   -     -     -         3393    0    0 
+SmoothB   963947531  9  6 f   -     -     -         3393    0    0 
+SmoothB   963947565  9  5 f   -     -     -         3393    0    0 
+SmoothB   963947607 10  4 f   -     -     -         3393    0    0 
+SmoothB   963947665 10  3 f   -     -     -         3393    0    0 
+SmoothB   963947719 10  2 Bf  -     -     -         3393   20    0 
+SmoothB   963947761 10  1 Bc  kf    -     -         3373   40    0 
+SmoothB   963947803 10 10 f   -     -     -         3333    0    0 
+SmoothB   963947837 10  9 c   c     f     -         3333   60    0 
+SmoothB   963947888 10  8 f   -     -     -         3273    0    0 
+SmoothB   963947927 10  7 f   -     -     -         3273    0    0 
+SmoothB   963947965 10  6 f   -     -     -         3273    0    0 
+SmoothB   963948012 10  5 f   -     -     -         3273    0    0 
+SmoothB   963948039 10  4 f   -     -     -         3273    0    0 
+SmoothB   963948088 10  3 c   kQ    -     -         3273   20    0 
+SmoothB   963952196  6  2 Bk  b     -     -         3223   40  100 
+SmoothB   963952222  7  1 Bf  -     -     -         3283   10    0 
+SmoothB   963952251  7  7 f   -     -     -         3273    0    0 
+SmoothB   963952260  7  6 f   -     -     -         3273    0    0 
+SmoothB   963952309  7  5 f   -     -     -         3273    0    0 
+SmoothB   963952384  6  4 f   -     -     -         3273    0    0 
+SmoothB   963952402  6  3 f   -     -     -         3273    0    0 
+SmoothB   963952456  6  2 Bk  f     -     -         3273   20    0 
+SmoothB   963952496  6  1 Bc  bc    k     k         3253   60    0 Tc Qd
+SmoothB   963952532  6  6 f   -     -     -         3193    0    0 
+SmoothB   963952571  6  5 f   -     -     -         3193    0    0 
+SmoothB   963952620  7  4 f   -     -     -         3193    0    0 
+SmoothB   963952656  7  3 f   -     -     -         3193    0    0 
+SmoothB   963952697  7  2 Bf  -     -     -         3193   20    0 
+SmoothB   963952724  7  1 Bf  -     -     -         3173   10    0 
+SmoothB   963952771  7  7 f   -     -     -         3163    0    0 
+SmoothB   963952792  7  6 r   bc    c     rf        3163  200    0 
+SmoothB   963952841  7  5 f   -     -     -         2963    0    0 
+SmoothB   963952892  7  4 f   -     -     -         2963    0    0 
+SmoothB   963952936  7  3 f   -     -     -         2963    0    0 
+SmoothB   963952988  7  2 Bk  k     k     k         2963   20    0 8s Qh
+SmoothB   963953066  8  1 Bc  kf    -     -         2943   20    0 
+SmoothB   963953124  7  7 f   -     -     -         2923    0    0 
+SmoothB   963953151  8  7 f   -     -     -         2923    0    0 
+SmoothB   963953174  8  6 f   -     -     -         2923    0    0 
+SmoothB   963953249  7  4 f   -     -     -         2923    0    0 
+SmoothB   963953296  7  3 cc  b     b     b         2923  140  350 Ts Ks
+SmoothB   963953332  7  2 Bc  b     b     bc        3133  180    0 9h As
+SmoothB   963953395  8  1 Bf  -     -     -         2953   10    0 
+SmoothB   963953450  8  8 r   b     -     -         2943   60  110 
+SmoothB   963953482  8  7 f   -     -     -         2993    0    0 
+SmoothB   963953534  8  6 r   b     bc    c         2993  180  390 Ks Kc
+SmoothB   963953560  8  5 f   -     -     -         3203    0    0 
+SmoothB   963953604  9  5 f   -     -     -         3203    0    0 
+SmoothB   963953649  9  4 f   -     -     -         3203    0    0 
+SmoothB   963953673  9  3 f   -     -     -         3203    0    0 
+SmoothB   963953732  9  2 Bk  kf    -     -         3203   20    0 
+SmoothB   963953789  9  1 Bf  -     -     -         3183   10    0 
+SmoothB   963953849 10 10 fQ  -     -     -         3173    0    0 
+SmoothB   964042438 10  4 f   -     -     -        18095    0    0 
+SmoothB   964042462 10  3 f   -     -     -        18095    0    0 
+SmoothB   964042502 10  2 Bk  kf    -     -        18095   20    0 
+SmoothB   964042533  9  1 Bf  -     -     -        18075   10    0 
+SmoothB   964042569  9  9 f   -     -     -        18065    0    0 
+SmoothB   964042617  8  7 c   kf    -     -        18065   20    0 
+SmoothB   964042655  9  7 f   -     -     -        18045    0    0 
+SmoothB   964042703  9  6 f   -     -     -        18045    0    0 
+SmoothB   964042733  9  5 f   -     -     -        18045    0    0 
+SmoothB   964042793  8  4 f   -     -     -        18045    0    0 
+SmoothB   964042833  8  3 f   -     -     -        18045    0    0 
+SmoothB   964042892  8  2 Bk  k     k     kc       18045   60    0 Qd 5c
+SmoothB   964042965  8  1 Bf  -     -     -        17985   10    0 
+SmoothB   964042992  8  8 c   b     -     -        17975   40  110 
+SmoothB   964043023  8  7 f   -     -     -        18045    0    0 
+SmoothB   964043042  8  6 f   -     -     -        18045    0    0 
+SmoothB   964043059  7  5 c   b     b     b        18045  120    0 Qc Jh
+SmoothB   964043087  7  4 c   b     b     b        17925  140  310 Kh Qs
+SmoothB   964043118  7  3 cc  f     -     -        18095   40    0 
+SmoothB   964043135  7  2 Bk  kc    kf    -        18055   40    0 
+SmoothB   964043175  8  1 Bc  kf    -     -        18015   20    0 
+SmoothB   964043212  8  8 c   k     bc    k        17995  120    0 4c 7c
+SmoothB   964043249  8  7 f   -     -     -        17875    0    0 
+SmoothB   964043268  8  6 f   -     -     -        17875    0    0 
+SmoothB   964043305  8  5 c   f     -     -        17875   20    0 
+SmoothB   964043323  8  4 f   -     -     -        17855    0    0 
+SmoothB   964043359  9  3 f   -     -     -        17855    0    0 
+SmoothB   964043409  9  2 Bk  kf    -     -        17855   20    0 
+SmoothB   964043432  9  1 Bf  -     -     -        17835   10    0 
+SmoothB   964043482 10 10 f   -     -     -        17825    0    0 
+SmoothB   964043563  8  7 f   -     -     -        17825    0    0 
+SmoothB   964043615  8  6 f   -     -     -        17825    0    0 
+SmoothB   964043641  8  5 f   -     -     -        17825    0    0 
+SmoothB   964043690  8  4 cc  kf    -     -        17825   40    0 
+SmoothB   964043737  8  3 f   -     -     -        17785    0    0 
+SmoothB   964043769  8  2 Bk  kf    -     -        17785   20    0 
+SmoothB   964043837  9  1 Bf  -     -     -        17765   10    0 
+SmoothB   964043885  9  9 f   -     -     -        17755    0    0 
+SmoothB   964043936 10  9 f   -     -     -        17755    0    0 
+SmoothB   964044025  8  6 cc  bc    k     kc       17755  120    0 Kh Jc
+SmoothB   964044057  9  6 f   -     -     -        17635    0    0 
+SmoothB   964044097  9  5 f   -     -     -        17635    0    0 
+SmoothB   964044142  9  4 f   -     -     -        17635    0    0 
+SmoothB   964044185  9  3 f   -     -     -        17635    0    0 
+SmoothB   964044207 10  2 Bf  -     -     -        17635   20    0 
+SmoothB   964044233  9  1 Bc  kf    -     -        17615   20    0 
+SmoothB   964044303  8  8 f   -     -     -        17595    0    0 
+SmoothB   964044343  9  8 f   -     -     -        17595    0    0 
+SmoothB   964044368  9  7 f   -     -     -        17595    0    0 
+SmoothB   964044403  9  6 f   -     -     -        17595    0    0 
+SmoothB   964044415  9  5 c   f     -     -        17595   20    0 
+SmoothB   964044432 10  4 cc  b     b     b        17575  140  360 
+SmoothB   964044492 10  3 f   -     -     -        17795    0    0 
+SmoothB   964044554 10  2 Bf  -     -     -        17795   20    0 
+SmoothB   964044578 10  1 Bf  -     -     -        17775   10    0 
+SmoothB   964044607 10 10 f   -     -     -        17765    0    0 
+SmoothB   964044649 10  9 f   -     -     -        17765    0    0 
+SmoothB   964044690 10  8 f   -     -     -        17765    0    0 
+SmoothB   964044723 10  7 c   rc    c     f        17765  120    0 
+SmoothB   964044790  9  6 f   -     -     -        17645    0    0 
+SmoothB   964044832  9  5 f   -     -     -        17645    0    0 
+SmoothB   964044876 10  4 f   -     -     -        17645    0    0 
+SmoothB   964044902 10  3 c   f     -     -        17645   20    0 
+SmoothB   964044953 10  2 Bk  cc    kf    -        17625   60    0 
+SmoothB   964045011 10  1 Bf  -     -     -        17565   10    0 
+SmoothB   964045051 10 10 r   b     b     k        17555  100  410 Js Jd
+SmoothB   964045130 10  9 f   -     -     -        17865    0    0 
+SmoothB   964045175 10  8 f   -     -     -        17865    0    0 
+SmoothB   964045201 10  7 f   -     -     -        17865    0    0 
+SmoothB   964045252 10  6 r   b     b     -        17865  100  260 
+SmoothB   964045296 10  5 f   -     -     -        18025    0    0 
+SmoothB   964045348 10  4 f   -     -     -        18025    0    0 
+SmoothB   964045387 10  3 fQ  -     -     -        18025    0    0 
+SmoothB   964477786  9  3 fQ  -     -     -         4455    0    0 
+SmoothB   964495305 10  4 cc  f     -     -         8389   60    0 
+SmoothB   964495395  9  2 Bk  b     b     k         8329   80  170 Td 3c
+SmoothB   964495420  9  1 Bf  -     -     -         8419   10    0 
+SmoothB   964495447  9  9 f   -     -     -         8409    0    0 
+SmoothB   964495489  9  8 f   -     -     -         8409    0    0 
+SmoothB   964495528  9  7 r   b     -     -         8409   60  110 
+SmoothB   964495541  9  6 f   -     -     -         8459    0    0 
+SmoothB   964495591  9  5 f   -     -     -         8459    0    0 
+SmoothB   964495638  9  4 f   -     -     -         8459    0    0 
+SmoothB   964495667  9  3 f   -     -     -         8459    0    0 
+SmoothB   964495692  9  2 Bf  -     -     -         8459   20    0 
+SmoothB   964495718  9  1 Br  -     -     -         8439   40   60 
+SmoothB   964495730  9  9 f   -     -     -         8459    0    0 
+SmoothB   964495783  9  8 r   -     -     -         8459   40   70 
+SmoothB   964495797  9  7 f   -     -     -         8489    0    0 
+SmoothB   964495818 10  7 r   b     k     b         8489  100  420 Ac Ks
+SmoothB   964495881 10  6 f   -     -     -         8809    0    0 
+SmoothB   964495925 10  5 c   k     bc    c         8809  140    0 3s As
+SmoothB   964495980 10  4 f   -     -     -         8669    0    0 
+SmoothB   964496021 10  3 cc  bc    brrc  kc        8659  360    0 8d 6d
+SmoothB   964496105 10  2 Bk  kf    -     -         8299   20    0 
+SmoothB   964496207 10  1 Bc  b     b     b         8279  120  140 8h Qc
+SmoothB   964496247 10 10 f   -     -     -         8299    0    0 
+SmoothB   964496310 10  9 f   -     -     -         8299    0    0 
+SmoothB   964496373 10  8 c   k     b     -         8299   60  130 
+SmoothB   964496411 10  7 f   -     -     -         8369    0    0 
+SmoothB   964496434 10  6 c   kf    -     -         8369   20    0 
+SmoothB   964496495 10  5 f   -     -     -         8349    0    0 
+SmoothB   964496556 10  4 f   -     -     -         8349    0    0 
+SmoothB   964496605 10  3 f   -     -     -         8349    0    0 
+SmoothB   964496656 10  2 Bf  -     -     -         8349   20    0 
+SmoothB   964496706 10  1 Bc  k     kf    -         8329   20    0 
+SmoothB   964496735 10 10 KQ  -     -     -         8309    0    0 
+SmoothB   964550391  2  2 B   -     -     -        43566   20   30 
+SmoothB   964550447  2  1 Bf  -     -     -        43571   10    0 
+SmoothB   964550483  2  2 B   -     -     -        43561   20   30 
+SmoothB   964550486  2  1 Bf  -     -     -        43571   10    0 
+SmoothB   964550489  2  2 Bk  f     -     -        43561   20    0 
+SmoothB   964550516  2  1 Bf  -     -     -        43541   10    0 
+SmoothB   964550519  2  2 B   -     -     -        43531   20   30 
+SmoothB   964550521  2  1 Br  -     -     -        43541   40   60 
+SmoothB   964550526  2  2 B   -     -     -        43561   20   30 
+SmoothB   964550527  2  1 Brc bc    kf    -        43571  100    0 
+SmoothB   964550545  2  2 B   -     -     -        43471   20   30 
+SmoothB   964550547  2  1 Br  k     bc    kf       43481  120    0 
+SmoothB   964550565  2  2 Bk  r     c     b        43361  140  240 
+SmoothB   964550586  2  1 Bf  -     -     -        43461   10    0 
+SmoothB   964550589  2  2 Bk  r     b     -        43451  100  160 
+SmoothB   964550602  2  1 Br  b     -     -        43511   60  100 
+SmoothB   964550608  2  2 Br  c     f     -        43551   60    0 
+SmoothB   964550619  2  1 Bf  -     -     -        43491   10    0 
+SmoothB   964550623  2  2 B   -     -     -        43481   20   30 
+SmoothB   964550625  2  1 Br  -     -     -        43491   40   60 
+SmoothB   964550627  2  2 Bf  -     -     -        43511   20    0 
+SmoothB   964550631  2  1 Br  -     -     -        43491   40   60 
+SmoothB   964550635  2  2 B   -     -     -        43511   20   30 
+SmoothB   964550637  2  1 Br  -     -     -        43521   40   60 
+SmoothB   964550640  2  2 Brc f     -     -        43541   80    0 
+SmoothB   964550652  2  1 Br  k     bc    bc       43461  200  400 7h Qh
+SmoothB   964550689  2  2 B   -     -     -        43661   20   30 
+SmoothB   964550699  2  1 Br  -     -     -        43671   40   60 
+SmoothB   964550707  2  2 Bk  r     b     b        43691  140  280 Qh Th
+SmoothB   964550725  2  1 Bf  -     -     -        43831   10    0 
+SmoothB   964550734  2  2 B   -     -     -        43821   20   30 
+SmoothB   964550736  2  1 Br  kf    -     -        43831   40    0 
+SmoothB   964550771  2  2 Bk  r     b     b        43791  140  280 3h Kh
+SmoothB   964550791  2  1 Br  -     -     -        43931   40   60 
+SmoothB   964550809  2  2 B   -     -     -        43951   20   30 
+SmoothB   964550812  2  1 Bf  -     -     -        43961   10    0 
+SmoothB   964550815  2  2 B   -     -     -        43951   20   30 
+SmoothB   964550825  2  1 Br  -     -     -        43961   40   60 
+SmoothB   964550828  2  2 Bk  b     -     -        43981   40   60 
+SmoothB   964550853  2  1 Br  -     -     -        44001   40   60 
+SmoothB   964550859  2  2 Br  c     rf    -        44021  140    0 
+SmoothB   964550878  2  1 Bf  -     -     -        43881   10    0 
+SmoothB   964550882  2  2 B   -     -     -        43871   20   30 
+SmoothB   964550884  2  1 Bf  -     -     -        43881   10    0 
+SmoothB   964550887  2  2 B   -     -     -        43871   20   30 
+SmoothB   964550889  2  1 Br  k     bf    -        43881   80    0 
+SmoothB   964550902  2  2 B   -     -     -        43801   20   30 
+SmoothB   964550905  2  1 Br  -     -     -        43811   40   60 
+SmoothB   964550909  2  2 B   -     -     -        43831   20   30 
+SmoothB   964550911  2  1 Br  -     -     -        43841   40   60 
+SmoothB   964550917  2  2 B   -     -     -        43861   20   30 
+SmoothB   964550918  2  1 Br  br    b     -        43871  140  240 
+SmoothB   964550931  2  2 Bf  -     -     -        43971   20    0 
+SmoothB   964550934  2  1 Bf  -     -     -        43951   10    0 
+SmoothB   964550939  2  2 B   -     -     -        43941   20   30 
+SmoothB   964550942  2  1 Br  b     b     b        43951  140    0 Ac 7s
+SmoothB   964550959  2  2 B   -     -     -        43811   20   30 
+SmoothB   964550970  2  1 Br  b     k     b        43821  100  160 
+SmoothB   964550991  2  2 B   -     -     -        43881   20   30 
+SmoothB   964551000  2  1 Br  k     k     k        43891   40   80 8h Th
+SmoothB   964551022  2  2 B   -     -     -        43931   20   30 
+SmoothB   964551026  2  1 Bf  -     -     -        43941   10    0 
+SmoothB   964551030  2  2 B   -     -     -        43931   20   30 
+SmoothB   964551033  3  1 Br  kr    b     b        43941  160    0 4c Ac
+SmoothB   964551057  3  3 f   -     -     -        43781    0    0 
+SmoothB   964551085  3  2 Bf  -     -     -        43781   20    0 
+SmoothB   964551107  3  1 Bf  -     -     -        43761   10    0 
+SmoothB   964551111  3  3 rf  -     -     -        43751   40    0 
+SmoothB   964551132  3  2 Br  k     b     b        43711  140  290 9h Ah
+SmoothB   964551152  3  1 Bf  -     -     -        43861   10    0 
+SmoothB   964551175  3  3 r   b     -     -        43851   60  140 
+SmoothB   964551193  3  2 Bc  kr    b     -        43931  120  210 
+SmoothB   964551210  3  1 Bf  -     -     -        44021   10    0 
+SmoothB   964551215  3  3 f   -     -     -        44011    0    0 
+SmoothB   964551218  3  2 Bc  k     b     b        44011  120  210 
+SmoothB   964551233  3  1 Bf  -     -     -        44101   10    0 
+SmoothB   964551236  3  3 f   -     -     -        44091    0    0 
+SmoothB   964551249  3  2 Bf  -     -     -        44091   20    0 
+SmoothB   964551269  3  1 Br  -     -     -        44071   40   60 
+SmoothB   964551290  3  3 f   -     -     -        44091    0    0 
+SmoothB   964551304  3  2 Bk  brc   k     k        44091  100  105 Ts 7c
+SmoothB   964551339  3  1 Br  kf    -     -        44096   40    0 
+SmoothB   964551360  3  3 f   -     -     -        44056    0    0 
+SmoothB   964551379  3  2 B   -     -     -        44056   20   30 
+SmoothB   964551382  3  1 Br  b     b     br       44066  220  440 2s Ks
+SmoothB   964551395  3  3 r   f     -     -        44286   40    0 
+SmoothB   964551426  3  2 Brr k     b     b        44246  180  370 Qs Qc
+SmoothB   964551457  3  1 Br  k     kf    -        44436   40    0 
+SmoothB   964551493  2  2 r   -     -     -        44396   40   60 
+SmoothB   964551499  2  2 Bk  r     k     f        44416   60    0 
+SmoothB   964551523  2  1 Bf  -     -     -        44356   10    0 
+SmoothB   964551527  2  2 Bk  f     -     -        44346   20    0 
+SmoothB   964551536  2  1 Br  b     -     -        44326   60  100 
+SmoothB   964551545  2  2 Bk  f     -     -        44366   20    0 
+SmoothB   964551554  2  1 Br  kc    kr    -        44346  140  240 
+SmoothB   964551568  2  2 B   -     -     -        44446   20   30 
+SmoothB   964551570  2  1 Br  brc   kc    k        44456  160    0 Ts 5s
+SmoothB   964551601  2  2 B   -     -     -        44296   20   30 
+SmoothB   964551611  2  1 Br  -     -     -        44306   40   60 
+SmoothB   964551631  2  2 B   -     -     -        44326   20   30 
+SmoothB   964551639  2  1 Br  -     -     -        44336   40   60 
+SmoothB   964551663  2  2 Bf  -     -     -        44356   20    0 
+SmoothB   964551682  2  1 Br  bc    k     b        44336  120  200 
+SmoothB   964551711  2  2 B   -     -     -        44416   20   30 
+SmoothB   964551713  2  1 Br  br    b     b        44426  180  360 Qh 6h
+SmoothB   964551742  2  2 Bk  c     r     -        44606  120  200 
+SmoothB   964551782  2  1 Br  b     -     -        44686   60  100 
+SmoothB   964551790  2  2 Bk  k     b     -        44726   60   80 
+SmoothB   964551801  2  1 Br  -     -     -        44746   40   60 
+SmoothB   964551804  2  2 Br  r     c     k        44766  140    0 Ah Ts
+SmoothB   964551823  2  1 Bf  -     -     -        44626   10    0 
+SmoothB   964551831  2  2 B   -     -     -        44616   20   30 
+SmoothB   964551833  2  1 Br  b     b     -        44626  100  160 
+SmoothB   964551845  2  2 Br  r     b     rf       44686  200    0 
+SmoothB   964551866  2  1 Br  -     -     -        44486   40   60 
+SmoothB   964551876  2  2 Bk  k     k     f        44506   20    0 
+SmoothB   964551915  2  1 Br  bc    kr    b        44486  200    0 Td Kc
+SmoothB   964551934  2  2 Bk  k     b     -        44286   60   80 
+SmoothB   964551952  2  1 Br  -     -     -        44306   40   60 
+SmoothB   964551955  2  2 B   -     -     -        44326   20   30 
+SmoothB   964551957  2  1 Br  -     -     -        44336   40   60 
+SmoothB   964551960  2  2 Bk  b     -     -        44356   40   60 
+SmoothB   964551970  2  1 Bf  -     -     -        44376   10    0 
+SmoothB   964551973  2  2 Bf  -     -     -        44366   20    0 
+SmoothB   964551977  2  1 Br  b     b     brc      44346  260    0 Qc 5h
+SmoothB   964551993  2  2 Bk  k     f     -        44086   20    0 
+SmoothB   964552018  2  1 Bf  -     -     -        44066   10    0 
+SmoothB   964552021  2  2 B   -     -     -        44056   20   30 
+SmoothB   964552023  2  1 Bf  -     -     -        44066   10    0 
+SmoothB   964552026  2  2 Bk  f     -     -        44056   20    0 
+SmoothB   964552034  2  1 Br  -     -     -        44036   40   60 
+SmoothB   964552037  2  2 B   -     -     -        44056   20   30 
+SmoothB   964552039  2  1 Br  k     kf    -        44066   40    0 
+SmoothB   964552053  2  2 Bk  k     f     -        44026   20    0 
+SmoothB   964552125  2  1 Bf  -     -     -        44006   10    0 
+SmoothB   964552128  2  2 Bf  -     -     -        43996   20    0 
+SmoothB   964552133  2  1 Br  bc    b     b        43976  160    0 6s Ac
+SmoothB   964552148  2  2 B   -     -     -        43816   20   30 
+SmoothB   964552154  2  1 Br  b     k     krf      43826  140    0 
+SmoothB   964552174  2  2 B   -     -     -        43686   20   30 
+SmoothB   964552180  2  1 Br  -     -     -        43696   40   60 
+SmoothB   964552195  2  2 Br  b     -     -        43716   60  100 
+SmoothB   964552225  2  1 Br  k     b     -        43756   80  120 
+SmoothB   964552269  2  2 Bf  -     -     -        43796   20    0 
+SmoothB   964552283  2  1 Br  kr    b     b        43776  160  320 6c 6s
+SmoothB   964552327  2  2 B   -     -     -        43936   20   30 
+SmoothB   964552336  2  1 Brc kf    -     -        43946   60    0 
+SmoothB   964552350  2  2 Br  b     -     -        43886   60  100 
+SmoothB   964552358  2  1 Bf  -     -     -        43926   10    0 
+SmoothB   964552361  2  2 Bc  r     b     b        43916  160    0 7d 8d
+SmoothB   964552384  2  1 Bf  -     -     -        43756   10    0 
+SmoothB   964552395  2  2 Br  r     bc    r        43746  260    0 Jh 8h
+SmoothB   964552446  2  1 Bf  -     -     -        43486   10    0 
+SmoothB   964552456  2  2 Bk  c     b     b        43476  120  240 9d 4s
+SmoothB   964552472  2  1 Bf  -     -     -        43596   10    0 
+SmoothB   964552486  2  2 B   -     -     -        43586   20   30 
+SmoothB   964552489  2  1 Brf -     -     -        43596   40    0 
+SmoothB   964552495  2  2 B   -     -     -        43556   20   30 
+SmoothB   964552510  2  1 Bf  -     -     -        43566   10    0 
+SmoothB   964552524  2  2 Br  br    b     -        43556  140  240 
+SmoothB   964552541  2  1 Br  b     -     -        43656   60  100 
+SmoothB   964552548  2  2 Bk  b     bc    f        43696  120    0 
+SmoothB   964552572  2  1 Br  kf    -     -        43576   40    0 
+SmoothB   964552582  2  2 Bk  f     -     -        43536   20    0 
+SmoothB   964552592  2  1 Br  -     -     -        43516   40   60 
+SmoothB   964552596  2  2 Bf  -     -     -        43536   20    0 
+SmoothB   964552602  2  1 Br  -     -     -        43516   40   60 
+SmoothB   964552604  2  2 Br  r     bf    -        43536  140    0 
+SmoothB   964552629  2  1 Bf  -     -     -        43396   10    0 
+SmoothB   964552632  2  2 Bf  -     -     -        43386   20    0 
+SmoothB   964552640  2  1 Br  br    b     bc       43366  220  440 9h Jc
+SmoothB   964552659  2  2 Bf  -     -     -        43586   20    0 
+SmoothB   964552680  2  1 Bf  -     -     -        43566   10    0 
+SmoothB   964552682  2  2 Bk  b     -     -        43556   40   60 
+SmoothB   964552694  2  1 Br  -     -     -        43576   40   60 
+SmoothB   964552697  2  2 B   -     -     -        43596   20   30 
+SmoothB   964552700  2  1 Br  kf    -     -        43606   40    0 
+SmoothB   964552710  2  2 B   -     -     -        43566   20   30 
+SmoothB   964552713  2  1 Bf  -     -     -        43576   10    0 
+SmoothB   964552715  2  2 B   -     -     -        43566   20   30 
+SmoothB   964552717  2  1 Br  b     -     -        43576   60  100 
+SmoothB   964552725  2  2 B   -     -     -        43616   20   30 
+SmoothB   964552727  2  1 Br  k     b     -        43626   80  120 
+SmoothB   964552740  2  2 B   -     -     -        43666   20   30 
+SmoothB   964552743  2  1 Br  -     -     -        43676   40   60 
+SmoothB   964552747  2  2 Bf  -     -     -        43696   20    0 
+SmoothB   964552750  2  1 Bf  -     -     -        43676   10    0 
+SmoothB   964552753  2  2 Br  -     -     -        43666   60  100 
+SmoothB   964552758  2  1 Br  b     b     b        43706  140    0 5d Ah
+SmoothB   964552796  2  2 B   -     -     -        43566   20   30 
+SmoothB   964552802  2  1 Bc  bf    -     -        43576   40    0 
+SmoothB   964552855  2  2 B   -     -     -        43531   20   30 
+SmoothB   964552857  2  1 Br  -     -     -        43541   40   60 
+SmoothB   964552860  2  2 Bc  r     b     b        43561  160    0 8c 9h
+SmoothB   964552877  2  1 Bf  -     -     -        43401   10    0 
+SmoothB   964552882  2  2 Bk  f     -     -        43391   20    0 
+SmoothB   964552918  2  1 Br  k     b     -        43371   80  120 
+SmoothB   964552929  2  2 Br  r     b     b        43411  180    0 Ah 9h
+SmoothB   964552949  2  1 Bf  -     -     -        43231   10    0 
+SmoothB   964552955  2  2 B   -     -     -        43221   20   30 
+SmoothB   964552957  2  1 Br  -     -     -        43231   40   60 
+SmoothB   964552960  2  2 B   -     -     -        43251   20   30 
+SmoothB   964552964  2  1 Bf  -     -     -        43261   10    0 
+SmoothB   964552967  2  2 Bk  f     -     -        43251   20    0 
+SmoothB   964552976  2  1 Br  kc    k     b        43231  100  200 Ad 7c
+SmoothB   964552991  2  2 Bk  k     b     -        43331   60   80 
+SmoothB   964553010  2  1 Br  -     -     -        43351   40   60 
+SmoothB   964553013  2  2 B   -     -     -        43371   20   30 
+SmoothB   964553014  2  1 Br  kf    -     -        43381   40    0 
+SmoothB   964553023  2  2 B   -     -     -        43341   20   30 
+SmoothB   964553026  2  1 Bf  -     -     -        43351   10    0 
+SmoothB   964553029  2  2 Br  b     bc    b        43341  180  360 Js Jd
+SmoothB   964553053  2  1 Br  b     -     -        43521   60  100 
+SmoothB   964553084  2  2 Bk  f     -     -        43561   20    0 
+SmoothB   964553100  2  1 Br  kc    k     b        43541  100  200 As Qd
+SmoothB   964553115  2  2 B   -     -     -        43641   20   30 
+SmoothB   964553118  2  1 Bf  -     -     -        43651   10    0 
+SmoothB   964553122  2  2 Bf  -     -     -        43641   20    0 
+SmoothB   964553127  2  1 Br  bc    k     b        43621  120    0 Td Ad
+SmoothB   964553141  2  2 B   -     -     -        43501   20   30 
+SmoothB   964553144  2  1 Bf  -     -     -        43511   10    0 
+SmoothB   964553147  2  2 Br  c     bf    -        43501  120    0 
+SmoothB   964553161  2  1 Bf  -     -     -        43381   10    0 
+SmoothB   964553168  2  2 B   -     -     -        43371   20   30 
+SmoothB   964553169  2  1 Br  -     -     -        43381   40   60 
+SmoothB   964553172  2  2 Bk  r     b     -        43401  100  160 
+SmoothB   964553187  2  1 Bf  -     -     -        43461   10    0 
+SmoothB   964553191  2  2 B   -     -     -        43451   20   30 
+SmoothB   964553193  2  1 Bf  -     -     -        43461   10    0 
+SmoothB   964553196  2  2 B   -     -     -        43451   20   30 
+SmoothB   964553198  2  1 Bf  -     -     -        43461   10    0 
+SmoothB   964553201  2  2 Bk  c     b     -        43451   80  120 
+SmoothB   964553214  2  1 Bf  -     -     -        43491   10    0 
+SmoothB   964553216  2  2 B   -     -     -        43481   20   30 
+SmoothB   964553223  2  1 Bf  -     -     -        43491   10    0 
+SmoothB   964553226  2  2 Br  b     -     -        43481   60  100 
+SmoothB   964553234  2  1 Br  b     bf    -        43521  100    0 
+SmoothB   964553245  2  2 B   -     -     -        43421   20   30 
+SmoothB   964553247  2  1 Bf  -     -     -        43431   10    0 
+SmoothB   964553250  2  2 Bk  c     r     f        43421  120    0 
+SmoothB   964553268  2  1 Bf  -     -     -        43301   10    0 
+SmoothB   964553272  2  2 B   -     -     -        43291   20   30 
+SmoothB   964553277  2  1 Bf  -     -     -        43301   10    0 
+SmoothB   964553293  2  2 B   -     -     -        43291   20   30 
+SmoothB   964553303  2  1 Br  b     b     -        43301  100  160 
+SmoothB   964553371  2  2 Bk  b     -     -        43361   40   60 
+SmoothB   964553380  2  1 Bf  -     -     -        43381   10    0 
+SmoothB   964553383  2  2 Bk  f     -     -        43371   20    0 
+SmoothB   964553391  2  1 Bf  -     -     -        43351   10    0 
+SmoothB   964553394  2  2 Br  rr    b     b        43341  200  400 Td Ts
+SmoothB   964553412  2  1 Bf  -     -     -        43541   10    0 
+SmoothB   964553441  2  2 B   -     -     -        43531   20   30 
+SmoothB   964553446  2  1 Br  bc    k     b        43541  120    0 Kd 9s
+SmoothB   964553468  2  2 Bf  -     -     -        43421   20    0 
+SmoothB   964553475  2  1 Bf  -     -     -        43401   10    0 
+SmoothB   964553484  2  2 B   -     -     -        43391   20   30 
+SmoothB   964553487  2  1 Br  -     -     -        43401   40   60 
+SmoothB   964553490  2  2 Br  b     bf    -        43421  100    0 
+SmoothB   964553510  2  1 Brc br    bc    k        43321  200    0 Ts 9c
+SmoothB   964553564  2  2 B   -     -     -        43121   20   30 
+SmoothB   964553568  2  1 Br  b     b     -        43131  100  160 
+SmoothB   964553579  2  2 B   -     -     -        43191   20   30 
+SmoothB   964553582  2  1 Br  -     -     -        43201   40   60 
+SmoothB   964553588  2  2 Bf  -     -     -        43221   20    0 
+SmoothB   964553592  2  1 Bf  -     -     -        43201   10    0 
+SmoothB   964553598  2  2 Bk  b     -     -        43191   40   60 
+SmoothB   964553660  2  1 Bf  -     -     -        43211   10    0 
+SmoothB   964553666  2  2 B   -     -     -        43201   20   30 
+SmoothB   964553669  2  1 Br  bf    -     -        43211   60    0 
+SmoothB   964553679  3  2 Bf  -     -     Q        43151   20    0 
+SmoothB   964568601 10 10 c   f     -     -        15602   40    0 
+SmoothB   964568717  9  8 f   -     -     -        15562    0    0 
+SmoothB   964568775  8  6 f   -     Q     -        15562    0    0 
+SmoothB   964634315  6  4 r   kf    -     -         5265   40    0 
+SmoothB   964634346  6  3 cc  r     b     -         5225  120  240 
+SmoothB   964634378  6  2 Bf  -     -     -         5345   20    0 
+SmoothB   964634437  6  1 Bf  -     -     -         5325   10    0 
+SmoothB   964634481  6  6 f   -     -     -         5315    0    0 
+SmoothB   964634509  7  5 f   -     -     -         5315    0    0 
+SmoothB   964634554  6  3 f   -     -     -         5315    0    0 
+SmoothB   964634574  6  3 f   -     -     -         5315    0    0 
+SmoothB   964634610  6  2 Bf  -     -     -         5315   20    0 
+SmoothB   964634670  8  1 Bc  b     b     b         5295  120  380 4h 4s
+SmoothB   964634727  8  8 f   -     -     -         5555    0    0 
+SmoothB   964634752  8  7 r   br    b     b         5555  180  230 Qd Kd
+SmoothB   964634790  8  6 f   -     -     -         5605    0    0 
+SmoothB   964634807  8  5 f   -     -     -         5605    0    0 
+SmoothB   964634831  8  4 f   -     -     -         5605    0    0 
+SmoothB   964634866  8  3 f   -     -     -         5605    0    0 
+SmoothB   964634882  8  2 Bf  -     -     -         5605   20    0 
+SmoothB   964634914  8  1 Bf  -     -     -         5585   10    0 
+SmoothB   964634961  8  8 rc  r     bf    -         5575  140    0 
+SmoothB   964635001  8  7 f   -     -     -         5435    0    0 
+SmoothB   964635074  8  6 f   -     -     -         5435    0    0 
+SmoothB   964635097  9  6 rc  r     -     -         5435  120  250 
+SmoothB   964635131  9  5 f   -     -     -         5565    0    0 
+SmoothB   964635158  9  4 fQ  -     -     -         5565    0    0 
+SmoothB   964635718  8  5 f   -     -     -         5465    0    0 
+SmoothB   964635727  8  4 r   -     -     -         5465   40   70 
+SmoothB   964635747  8  3 cc  bc    kf    -         5495   80    0 
+SmoothB   964635797  8  2 Bf  -     -     -         5415   20    0 
+SmoothB   964635876  8  1 Bf  -     -     -         5395   10    0 
+SmoothB   964635935  9  8 rc  r     bc    cc        5385  320    0 Ks Kc
+SmoothB   964636006 10  8 f   -     -     -         5065    0    0 
+SmoothB   964636094 10  7 c   brc   b     b         5065  180  570 Tc Ts
+SmoothB   964636147 10  6 f   -     -     -         5455    0    0 
+SmoothB   964636213  9  4 f   -     -     -         5455    0    0 
+SmoothB   964636241 10  4 cc  kf    -     -         5455   40    0 
+SmoothB   964636299 10  3 f   -     -     -         5415    0    0 
+SmoothB   964636337 10  2 Br  b     b     kf        5415  100    0 
+SmoothB   964636394  9  1 Bf  -     -     -         5315   10    0 
+SmoothB   964636453  9  9 f   -     -     -         5305    0    0 
+SmoothB   964636519  9  8 f   -     -     -         5305    0    0 
+SmoothB   964636588  9  7 f   -     -     -         5305    0    0 
+SmoothB   964636625  9  6 f   -     -     -         5305    0    0 
+SmoothB   964636662  8  4 f   -     -     -         5305    0    0 
+SmoothB   964636690  8  3 f   -     -     -         5305    0    0 
+SmoothB   964636716  8  2 B   -     -     -         5305   20   30 
+SmoothB   964636736  8  1 Bf  -     -     -         5315   10    0 
+SmoothB   964636764  8  8 f   -     -     -         5305    0    0 
+SmoothB   964636816  8  7 f   -     -     -         5305    0    0 
+SmoothB   964636850  8  6 f   -     -     -         5315    0    0 
+SmoothB   964636901  9  5 c   b     -     -         5315   40   90 
+SmoothB   964636938  9  4 f   -     -     -         5365    0    0 
+SmoothB   964636974  9  3 c   kf    -     -         5365   20    0 
+SmoothB   964637017  9  2 Bf  -     -     -         5345   20    0 
+SmoothB   964637042  9  1 Bf  -     -     -         5325   10    0 
+SmoothB   964637118  9  9 f   -     -     -         5315    0    0 
+SmoothB   964637152 10  9 f   -     -     -         5315    0    0 
+SmoothB   964637182 10  8 f   -     -     -         5315    0    0 
+SmoothB   964637246 10  8 cc  b     -     -         5315   60  170 
+SmoothB   964637280  9  6 f   -     -     -         5425    0    0 
+SmoothB   964637329  8  4 f   -     -     -         5425    0    0 
+SmoothB   964637342  8  3 f   -     -     -         5425    0    0 
+SmoothB   964637362  8  2 Br  b     c     c         5425  160  320 Qh Qd
+SmoothB   964637407  8  1 Bf  -     -     -         5585   10    0 
+SmoothB   964637464  8  8 f   -     -     -         5575    0    0 
+SmoothB   964637487  8  7 f   -     -     -         5575    0    0 
+SmoothB   964637550  6  5 f   -     -     -         5575    0    0 
+SmoothB   964637574  6  4 f   -     -     -         5575    0    0 
+SmoothB   964637622  4  2 Bk  k     b     bc        5575  140    0 7d Tc
+SmoothB   964637653  4  1 Bf  -     -     -         5435   10    0 
+SmoothB   964637664  4  4 f   -     -     -         5425    0    0 
+SmoothB   964637669  4  4 r   k     k     k         5425   40    0 8s Jd
+SmoothB   964637684  3  2 Bc  b     b     -         5385  100  200 
+SmoothB   964637709  2  1 Brc kr    b     -         5485  140  240 
+SmoothB   964637726  2  2 Bk  k     f     -         5585   20    0 
+SmoothB   964637737  2  1 Brc b     bf    -         5565  120    0 
+SmoothB   964637748  2  2 Bc  k     rc    r         5445  240  480 9d 8h
+SmoothB   964637772  2  1 Bf  -     -     -         5685   10    0 
+SmoothB   964637781  2  2 Bk  k     b     -         5675   60   80 
+SmoothB   964637794  2  1 Brc kr    br    b         5695  260  520 3s As
+SmoothB   964637814  3  2 Bf  -     -     -         5955   20    0 
+SmoothB   964637824  3  1 Bf  -     -     -         5935   10    0 
+SmoothB   964637833  3  3 r   -     -     -         5925   40   70 
+SmoothB   964637838  3  2 Bk  k     f     -         5955   20    0 
+SmoothB   964637849  3  1 Brc b     b     b         5935  160    0 Tc 9s
+SmoothB   964637867  3  3 r   b     b     k         5775  100    0 7d 7h
+SmoothB   964637886  3  2 Br  k     b     -         5675   80  130 
+SmoothB   964637901  3  1 Bf  -     -     -         5725   10    0 
+SmoothB   964637911  3  3 f   -     -     -         5715    0    0 
+SmoothB   964637913  3  2 Bk  k     f     -         5715   20    0 
+SmoothB   964637928  2  1 Bf  -     -     -         5695   10    0 
+SmoothB   964637931  2  2 B   -     -     -         5685   20   30 
+SmoothB   964637934  2  1 Bf  -     -     -         5695   10    0 
+SmoothB   964637937  2  2 Bk  k     k     k         5685   20    0 4s 8d
+SmoothB   964637949  2  1 Bf  -     -     -         5665   10    0 
+SmoothB   964637956  2  2 B   -     -     -         5655   20   30 
+SmoothB   964637958  2  1 Br  k     b     -         5665   80  120 
+SmoothB   964637967  3  2 Br  kr    b     -         5705  120  210 
+SmoothB   964637984  3  1 Br  -     -     -         5795   40   60 
+SmoothB   964637989  3  3 f   -     -     -         5815    0    0 
+SmoothB   964637993  3  2 B   -     -     -         5815   20   30 
+SmoothB   964637997  3  1 Bf  -     -     -         5825   10    0 
+SmoothB   964638003  3  3 r   k     k     k         5815   40    0 4c 6c
+SmoothB   964638022  4  2 Br  b     kf    -         5775   80    0 
+SmoothB   964638051  4  1 Br  b     b     b         5695  160  340 
+SmoothB   964638074  4  4 r   b     b     b         5875  140  270 
+SmoothB   964638094  4  3 r   k     k     k         6005   40   50 Th Ac
+SmoothB   964638106  4  2 Bf  -     -     -         6015   20    0 
+SmoothB   964638114  4  1 Bf  -     -     -         5995   10    0 
+SmoothB   964638121  4  4 rc  rc    f     -         5985  120    0 
+SmoothB   964638145  4  3 f   -     -     -         5865    0    0 
+SmoothB   964638157  4  2 Bk  kf    -     -         5865   20    0 
+SmoothB   964638169  4  1 Br  -     -     -         5845   40   60 
+SmoothB   964638175  4  4 r   -     -     -         5865   40   70 
+SmoothB   964638182  4  3 f   -     -     -         5895    0    0 
+SmoothB   964638204  4  2 Bk  k     k     f         5895   20    0 
+SmoothB   964638228  4  1 Br  -     -     -         5875   40   60 
+SmoothB   964638234  4  4 rc  rc    c     c         5895  200    0 9d Js
+SmoothB   964638260  4  3 f   -     -     -         5695    0    0 
+SmoothB   964638288  4  2 Br  kf    -     -         5695   40    0 
+SmoothB   964638320  4  1 Bf  -     -     -         5655   10    0 
+SmoothB   964638336  4  4 c   f     -     -         5645   20    0 
+SmoothB   964638351  4  3 f   -     -     -         5625    0    0 
+SmoothB   964638365  4  2 Bk  r     b     k         5625  100  220 Jh 8s
+SmoothB   964638443  3  1 Bf  -     -     -         5745   10    0 
+SmoothB   964638450  3  3 Q   -     -     -         5735    0    0 
+SmoothB   964644902  2  1 Bf  -     -     -         3950   10    0 
+SmoothB   964644907  2  2 B   -     -     -         3930   20   30 
+SmoothB   964644908  2  1 Brc bc    kc    k         3940  140    0 7c Ks
+SmoothB   964644924  2  2 B   -     -     -         3800   20   30 
+SmoothB   964644927  2  1 Br  -     -     -         3810   40   60 
+SmoothB   964644931  2  2 Bc  r     b     b         3830  160  280 
+SmoothB   964644942  2  1 Bf  -     -     -         3950   10    0 
+SmoothB   964644945  2  2 Br  b     -     -         3940   80  140 
+SmoothB   964644952  2  1 Bf  -     -     -         4000   10    0 
+SmoothB   964644955  2  2 B   -     -     -         3990   20   30 
+SmoothB   964644957  2  1 Bf  -     -     -         4000   10    0 
+SmoothB   964644960  2  2 B   -     -     -         3990   20   30 
+SmoothB   964644963  2  1 Bf  -     -     -         4000   10    0 
+SmoothB   964644966  2  2 Bf  -     -     -         3990   20    0 
+SmoothB   964644971  2  1 Br  -     -     -         3970   40   60 
+SmoothB   964644974  2  2 Br  bc    c     c         3990  180    0 Ac 3d
+SmoothB   964644989  2  1 Br  -     -     -         3810   40   60 
+SmoothB   964644995  2  2 B   -     -     -         3830   20   30 
+SmoothB   964644996  2  1 Brc b     -     -         3840   80  140 
+SmoothB   964645008  2  2 B   -     -     -         3900   20   30 
+SmoothB   964645009  2  1 Br  k     b     -         3910   80  120 
+SmoothB   964645017  2  2 B   -     -     -         3950   20   30 
+SmoothB   964645018  2  1 Br  b     kr    b         3960  180    0 9c Ac
+SmoothB   964645031  2  2 Bf  -     -     -         3780   20    0 
+SmoothB   964645037  2  1 Bf  -     -     -         3760   10    0 
+SmoothB   964645039  2  2 B   -     -     -         3750   20   30 
+SmoothB   964645040  2  1 Bf  -     -     -         3760   10    0 
+SmoothB   964645042  2  2 B   -     -     -         3750   20   30 
+SmoothB   964645045  2  1 Br  bc    bf    -         3760  120    0 
+SmoothB   964645058  2  2 Bf  -     -     -         3640   20    0 
+SmoothB   964645061  2  1 Br  -     -     -         3620   40   60 
+SmoothB   964645064  2  2 Bf  -     -     -         3640   20    0 
+SmoothB   964645067  2  1 Bf  -     -     -         3620   10    0 
+SmoothB   964645069  2  2 Br  k     k     k         3610   60    0 Jh 9c
+SmoothB   964645082  2  1 Bf  -     -     -         3550   10    0 
+SmoothB   964645087  2  2 B   -     -     -         3540   20   30 
+SmoothB   964645089  2  1 Br  br    b     b         3550  180  320 
+SmoothB   964645102  2  2 Bf  -     -     -         3690   20    0 
+SmoothB   964645105  2  1 Bf  -     -     -         3670   10    0 
+SmoothB   964645108  2  2 B   -     -     -         3660   20   30 
+SmoothB   964645109  2  1 Br  -     -     -         3670   40   60 
+SmoothB   964645112  2  2 Br  b     -     -         3690   80  140 
+SmoothB   964645121  2  1 Bf  -     -     -         3750   10    0 
+SmoothB   964645124  2  2 B   -     -     -         3740   20   30 
+SmoothB   964645127  2  1 Bf  -     -     -         3750   10    0 
+SmoothB   964645131  2  2 B   -     -     -         3740   20   30 
+SmoothB   964645134  2  1 Br  k     bc    b         3750  160  160 7d Jh
+SmoothB   964645147  2  2 Bf  -     -     -         3750   20    0 
+SmoothB   964645153  2  1 Bf  -     -     -         3730   10    0 
+SmoothB   964645156  2  2 B   -     -     -         3720   20   30 
+SmoothB   964645157  2  1 Br  kc    k     b         3730  100  200 4s 6d
+SmoothB   964645170  2  2 Br  k     r     b         3830  180    0 Js Qc
+SmoothB   964645192  2  1 Bf  -     -     -         3650   10    0 
+SmoothB   964645197  2  2 Bf  -     -     -         3640   20    0 
+SmoothB   964645204  2  1 Br  k     b     b         3620  120    0 7c Qd
+SmoothB   964645218  2  2 Bf  -     -     -         3500   20    0 
+SmoothB   964645223  2  1 Br  br    b     b         3480  180    0 Th 8h
+SmoothB   964645236  2  2 B   -     -     -         3300   20   30 
+SmoothB   964645253  2  1 Bf  -     -     -         3310   10    0 
+SmoothB   964645255  2  2 B   -     -     -         3300   20   30 
+SmoothB   964645257  2  1 Bf  -     -     -         3310   10    0 
+SmoothB   964645267  2  2 B   -     -     -         3300   20   30 
+SmoothB   964645280  2  1 Br  b     -     -         3310   60  100 
+SmoothB   964645304  2  2 B   -     -     -         3350   20   30 
+SmoothB   964645313  2  1 Br  kr    bc    kc        3360  200    0 Kc 9s
+SmoothB   964645337  2  2 B   -     -     -         3160   20   30 
+SmoothB   964645340  2  1 Br  -     -     -         3170   40   60 
+SmoothB   964645344  2  2 B   -     -     -         3190   20   30 
+SmoothB   964645347  2  1 Br  -     -     -         3200   40   60 
+SmoothB   964645351  2  2 B   -     -     -         3220   20   30 
+SmoothB   964645353  2  1 Br  -     -     -         3230   40   60 
+SmoothB   964645362  3  3 f   -     -     -         3250    0    0 
+SmoothB   964645365  3  2 Br  k     b     -         3250  100  170 
+SmoothB   964645379  3  1 Bf  -     -     -         3320   10    0 
+SmoothB   964645383  3  3 f   -     -     -         3310    0    0 
+SmoothB   964645388  3  2 Br  rf    -     -         3310   80    0 
+SmoothB   964645402  3  1 Br  -     -     -         3230   40   60 
+SmoothB   964645407  3  3 f   -     -     -         3250    0    0 
+SmoothB   964645412  3  2 Bf  -     -     -         3250   20    0 
+SmoothB   964645416  3  1 Br  -     -     -         3230   40   60 
+SmoothB   964645422  3  3 r   -     -     -         3250   40   70 
+SmoothB   964645427  3  2 Bf  -     -     -         3280   20    0 
+SmoothB   964645431  3  1 Bf  -     -     -         3260   10    0 
+SmoothB   964645435  3  3 f   -     -     -         3250    0    0 
+SmoothB   964645447  3  2 Br  b     b     b         3250  160  330 4c Ac
+SmoothB   964645459  3  1 Br  k     b     b         3420  140  150 Ac 8h
+SmoothB   964645477  3  3 r   c     r     b         3430  180    0 Ts Qh
+SmoothB   964645497  3  2 Br  r     b     c         3250  160  320 Ad Ac
+SmoothB   964645518  3  1 Bf  -     -     -         3410   10    0 
+SmoothB   964645533  4  4 r   f     -     -         3400   40    0 
+SmoothB   964645550  3  3 r   b     b     -         3360  100  170 
+SmoothB   964645570  3  2 Bk  b     -     -         3430   40   70 
+SmoothB   964645584  3  1 Br  -     -     -         3460   40   60 
+SmoothB   964645587  3  3 r   r     b     c         3480  160    0 Ks 5h
+SmoothB   964645609  3  2 Br  kc    k     b         3320  120  250 Jd Ah
+SmoothB   964645632  4  1 Brr b     bc    kc        3450  220    0 Ad Kc
+SmoothB   964645656  4  4 f   -     -     -         3230    0    0 
+SmoothB   964645665  3  2 Q   -     -     -         3230    0    0 
+SmoothB   964645860  4  2 Bk  KQ    -     -         3230   20    0 
+SmoothB   964645912  4  4 f   -     -     -         3210    0    0 
+SmoothB   964645931  4  3 r   -     -     -         3210   40   70 
+SmoothB   964645943  5  2 Br  k     rr    k         3240  220    0 7d 7h
+SmoothB   964645968  5  1 BQ  -     -     -         3020   10    0 
+SmoothB   964646658  9  5 f   -     -     -         3010    0    0 
+SmoothB   964646673  9  4 f   -     -     -         3010    0    0 
+SmoothB   964646692  9  3 cf  -     -     -         3010   20    0 
+SmoothB   964646712  9  2 Bk  krr   b     b         2990  180  380 Qs Ac
+SmoothB   964646739  9  1 Bf  -     -     -         3190   10    0 
+SmoothB   964646772  9  9 r   brc   c     c         3180  200    0 Ks Kd
+SmoothB   964646817  9  8 f   -     -     -         2980    0    0 
+SmoothB   964646854  9  4 Q   -     -     -         2980    0    0 
+SmoothB   964649212  9  9 c   b     b     b         2980  140  290 
+SmoothB   964649246 10  9 f   -     -     -         3130    0    0 
+SmoothB   964649290  9  7 cc  f     -     -         3130   40    0 
+SmoothB   964649331  8  6 f   -     -     -         3090    0    0 
+SmoothB   964649361  8  5 c   f     -     -         3090   20    0 
+SmoothB   964649394  9  4 f   -     -     -         3070    0    0 
+SmoothB   964649444  9  3 f   -     -     -         3070    0    0 
+SmoothB   964649460  9  2 B   -     -     -         3070   20   30 
+SmoothB   964649476  9  1 Bf  -     -     -         3080   10    0 
+SmoothB   964649533  9  9 f   -     -     -         3070    0    0 
+SmoothB   964649549  9  8 rc  r     b     b         3070  200  490 7d 6d
+SmoothB   964649584  9  7 c   f     -     -         3360   20    0 
+SmoothB   964649632 10  8 f   -     -     -         3340    0    0 
+SmoothB   964649655 10  6 f   -     -     -         3340    0    0 
+SmoothB   964649691 10  5 f   -     -     -         3340    0    0 
+SmoothB   964649757  9  4 f   -     -     -         3340    0    0 
+SmoothB   964649823  9  3 f   -     -     -         3340    0    0 
+SmoothB   964649873  9  2 Bk  b     -     -         3340   40   90 
+SmoothB   964649909  9  1 Bf  -     -     -         3390   10    0 
+SmoothB   964649935  9  9 f   -     -     -         3380    0    0 
+SmoothB   964649978 10  9 f   -     -     -         3380    0    0 
+SmoothB   964650025 10  8 c   krc   k     b         3380  120    0 Jh Td
+SmoothB   964650097 10  7 c   r     c     b         3260  140  350 Jc Qh
+SmoothB   964650131 10  6 f   -     -     -         3470    0    0 
+SmoothB   964650169 10  5 c   c     r     b         3470  160  380 9s 9c
+SmoothB   964650221  9  3 f   -     -     -         3690    0    0 
+SmoothB   964650336  9  2 Bc  kc    kc    kc        3690  140    0 9d Ac
+SmoothB   964650382  9  1 Bf  -     -     -         3550   10    0 
+SmoothB   964650462  8  8 f   -     -     -         3540    0    0 
+SmoothB   964650486  8  7 f   -     -     -         3540    0    0 
+SmoothB   964650515  8  6 f   -     -     -         3540    0    0 
+SmoothB   964650534  8  5 c   f     -     -         3540   20    0 
+SmoothB   964650560  8  4 f   -     -     -         3520    0    0 
+SmoothB   964650579  8  3 f   -     -     -         3520    0    0 
+SmoothB   964650619  7  2 Bf  -     -     -         3520   20    0 
+SmoothB   964650631  7  1 Bc  kf    -     -         3500   20    0 
+SmoothB   964650653  7  7 f   -     -     -         3480    0    0 
+SmoothB   964650680  7  6 c   b     b     b         3480  120  390 Ks Qd
+SmoothB   964650729  8  5 f   -     -     -         3750    0    0 
+SmoothB   964650788  8  4 f   -     -     -         3750    0    0 
+SmoothB   964650854  9  3 f   -     -     -         3750    0    0 
+SmoothB   964650899  9  2 Bk  kf    -     -         3750   20    0 
+SmoothB   964650948  9  1 Bf  -     -     -         3730   10    0 
+SmoothB   964650971  9  9 r   b     bc    k         3720  160  490 Ac Kd
+SmoothB   964651010  9  8 f   -     -     -         4050    0    0 
+SmoothB   964651043  8  6 f   -     -     -         4050    0    0 
+SmoothB   964651088  8  5 f   -     -     -         4050    0    0 
+SmoothB   964651133 10  4 f   -     -     -         4050    0    0 
+SmoothB   964651184 10  3 f   -     -     -         4050    0    0 
+SmoothB   964651232  9  1 Bf  -     -     -         4050   20    0 
+SmoothB   964651259  9  1 Bf  -     -     -         4030   10    0 
+SmoothB   964651286  9  9 f   -     -     -         4020    0    0 
+SmoothB   964651297  9  8 f   -     -     -         4020    0    0 
+SmoothB   964651310  9  7 f   -     -     -         4020    0    0 
+SmoothB   964651333  9  6 f   -     -     -         4020    0    0 
+SmoothB   964651376  8  5 f   -     -     -         4020    0    0 
+SmoothB   964651402  8  4 r   br    b     b         4020  180  440 Ah As
+SmoothB   964651437  8  3 f   -     -     -         4280    0    0 
+SmoothB   964651461  9  2 Bc  bc    kr    k         4280  160    0 Js Kd
+SmoothB   964651494  9  1 Bc  k     b     bc        4120  160    0 Tc Ts
+SmoothB   964651540  9  9 f   -     -     -         3960    0    0 
+SmoothB   964651566  9  8 f   -     -     -         3960    0    0 
+SmoothB   964651615  9  7 f   -     -     -         3960    0    0 
+SmoothB   964651649  9  6 f   -     -     -         3960    0    0 
+SmoothB   964651687  9  5 f   -     -     -         3960    0    0 
+SmoothB   964651726  9  4 f   -     -     -         3960    0    0 
+SmoothB   964651755  9  3 f   -     -     -         3960    0    0 
+SmoothB   964651812  9  2 Bf  -     -     -         3960   20    0 
+SmoothB   964651847  8  1 Bc  k     kf    -         3940   20    0 
+SmoothB   964651887  8  8 cc  c     r     b         3920  240  770 Ks Jc
+SmoothB   964651931  8  7 f   -     -     -         4450    0    0 
+SmoothB   964651964  8  6 f   -     -     -         4450    0    0 
+SmoothB   964651990  8  5 f   -     -     -         4450    0    0 
+SmoothB   964652031  8  4 f   -     -     -         4450    0    0 
+SmoothB   964652054  8  3 f   -     -     -         4450    0    0 
+SmoothB   964652089  8  2 Bc  bc    kc    kf        4450  120    0 
+SmoothB   964652130  8  1 Bf  -     -     -         4330   10    0 
+SmoothB   964652165  9  9 f   -     -     -         4320    0    0 
+SmoothB   964652191  9  8 rc  c     rc    r         4320  280  540 
+SmoothB   964652219  9  7 f   -     -     -         4580    0    0 
+SmoothB   964652239  9  6 f   -     -     -         4580    0    0 
+SmoothB   964652264  9  5 f   -     -     -         4580    0    0 
+SmoothB   964652292  9  4 f   -     -     -         4580    0    0 
+SmoothB   964652353 10  4 f   -     -     -         4580    0    0 
+SmoothB   964652416 10  3 cc  bc    kf    -         4580   80    0 
+SmoothB   964652457 10  2 Bf  -     -     -         4500   20    0 
+SmoothB   964652496 10  1 Bf  -     -     -         4480   10    0 
+SmoothB   964652570 10 10 f   -     -     -         4470    0    0 
+SmoothB   964652631 10  9 f   -     -     -         4470    0    0 
+SmoothB   964652663 10  8 f   -     -     -         4470    0    0 
+SmoothB   964652699 10  7 f   -     -     -         4470    0    0 
+SmoothB   964652740 10  6 f   -     -     -         4470    0    0 
+SmoothB   964652768 10  5 f   -     -     -         4470    0    0 
+SmoothB   964652846 10  4 f   -     -     -         4470    0    0 
+SmoothB   964652950 10  3 cc  bcc   kf    -         4470  120    0 
+SmoothB   964653022 10  2 Bf  -     -     -         4350   20    0 
+SmoothB   964653062 10  1 Bf  -     -     -         4330   10    0 
+SmoothB   964653102 10 10 f   -     -     -         4320    0    0 
+SmoothB   964653155 10  9 f   -     -     -         4320    0    0 
+SmoothB   964653222 10  8 f   -     -     -         4320    0    0 
+SmoothB   964653245 10  7 f   -     -     -         4320    0    0 
+SmoothB   964653276 10  6 r   b     b     b         4320  140  270 
+SmoothB   964653297 10  5 f   -     -     -         4450    0    0 
+SmoothB   964653308 10  4 f   -     -     -         4450    0    0 
+SmoothB   964653337 10  3 f   -     -     -         4450    0    0 
+SmoothB   964653372 10  2 Bk  kf    -     -         4450   20    0 
+SmoothB   964653448  9  1 Bf  -     -     -         4430   10    0 
+SmoothB   964653502  9  9 r   b     -     -         4420   60  130 
+SmoothB   964653524  8  7 c   b     -     -         4490   40  100 
+SmoothB   964653540  8  6 f   -     -     -         4550    0    0 
+SmoothB   964653553  8  5 f   -     -     -         4550    0    0 
+SmoothB   964653575  8  4 f   -     -     -         4550    0    0 
+SmoothB   964653601  8  3 r   b     b     b         4550  140  300 As Ah
+SmoothB   964653622  8  2 Bk  kf    -     -         4710   20    0 
+SmoothB   964653651  8  1 Bc  kf    -     -         4690   20    0 
+SmoothB   964653691  8  8 f   -     -     -         4670    0    0 
+SmoothB   964653733  8  7 f   -     -     -         4670    0    0 
+SmoothB   964653761  8  6 c   k     f     -         4670   20    0 
+SmoothB   964653785  8  5 c   k     k     k         4650   20   70 Kd Ts
+SmoothB   964653829  7  3 f   -     -     -         4700    0    0 
+SmoothB   964653865  7  2 Bc  kc    kf    -         4700   60    0 
+SmoothB   964653900  8  1 Bf  -     -     -         4640   10    0 
+SmoothB   964653934  8  8 f   -     -     -         4630    0    0 
+SmoothB   964653940  8  7 c   f     -     -         4630   20    0 
+SmoothB   964653964  8  6 f   -     -     -         4610    0    0 
+SmoothB   964653988  8  5 f   -     -     -         4610    0    0 
+SmoothB   964654006  8  4 f   -     -     -         4610    0    0 
+SmoothB   964654023  8  3 f   -     -     -         4610    0    0 
+SmoothB   964654051  8  2 Bk  k     kf    -         4610   20    0 
+SmoothB   964654085  7  1 Bf  -     -     -         4590   10    0 
+SmoothB   964654116  7  7 f   -     -     -         4580    0    0 
+SmoothB   964654146  7  6 r   -     -     -         4580   40   70 
+SmoothB   964654154  7  5 c   b     -     -         4610   40   70 
+SmoothB   964654167  7  4 f   -     -     -         4640    0    0 
+SmoothB   964654187  7  3 f   -     -     -         4640    0    0 
+SmoothB   964654216  7  2 Bf  -     -     -         4640   20    0 
+SmoothB   964654244  7  1 Br  -     -     -         4620   40   60 
+SmoothB   964654255  7  7 c   b     b     -         4640   80  150 
+SmoothB   964654276  7  6 f   -     -     -         4710    0    0 
+SmoothB   964654287  7  5 f   -     -     -         4710    0    0 
+SmoothB   964654292  7  4 f   -     -     -         4710    0    0 
+SmoothB   964654309  7  3 r   kf    -     -         4710   40    0 
+SmoothB   964654325  7  2 Bk  k     f     -         4670   20    0 
+SmoothB   964654351  7  1 Bf  -     -     -         4650   10    0 
+SmoothB   964654375  7  7 c   b     bf    -         4640   80    0 
+SmoothB   964654401  6  6 f   -     -     -         4560    0    0 
+SmoothB   964654426  6  5 f   -     -     -         4560    0    0 
+SmoothB   964654436  6  4 f   -     -     -         4560    0    0 
+SmoothB   964654461  6  3 f   -     -     -         4560    0    0 
+SmoothB   964654477  6  2 Bf  -     -     -         4560   20    0 
+SmoothB   964654494  6  1 Bf  -     -     -         4540   10    0 
+SmoothB   964654507  5  5 f   -     -     -         4530    0    0 
+SmoothB   964654525  4  4 f   -     -     -         4530    0    0 
+SmoothB   964654538  4  3 f   -     -     -         4530    0    0 
+SmoothB   964654542  4  2 Br  rf    -     -         4530   80    0 
+SmoothB   964654556  4  1 Bf  -     -     -         4450   10    0 
+SmoothB   964654562  4  4 c   k     c     k         4440   60    0 Ac 3d
+SmoothB   964654587  4  4 f   -     -     -         4380    0    0 
+SmoothB   964654603  3  2 Bf  -     -     -         4380   20    0 
+SmoothB   964654608  3  1 Bc  kc    krrc  kc        4360  300    0 4c Jc
+SmoothB   964654639  3  3 f   -     -     -         4060    0    0 
+SmoothB   964654648  3  2 Bc  bc    kc    k         4060  120    0 2d Qc
+SmoothB   964654668  2  1 Br  -     -     -         3940   40   60 

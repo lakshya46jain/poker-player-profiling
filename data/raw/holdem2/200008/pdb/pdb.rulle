@@ -1,0 +1,883 @@
+rulle     966554512 10  5 c   c     c     c         3940  120  350 8h Jh
+rulle     966554573 10  4 c   rc    kc    k         4170  120    0 4s Tc
+rulle     966554639 10  3 c   k     kf    -         4050   20    0 
+rulle     966554685 10  2 Bc  k     b     k         4030   80    0 Qd 8c
+rulle     966554729 10  1 Bc  kc    kf    -         3950   80    0 
+rulle     966554786 10 10 f   -     -     -         3870    0    0 
+rulle     966554798 10  9 c   c     f     -         3870   40    0 
+rulle     966554850  9  7 f   -     -     -         3830    0    0 
+rulle     966554914 10  6 r   c     c     c         3830  160    0 Ad Js
+rulle     966554938 10  5 c   c     bc    c         3670  180    0 Jh 3h
+rulle     966554997 10  4 c   r     b     b         3490  140    0 4s Tc
+rulle     966555041 10  3 cc  kc    kc    kc        3350  140    0 6s Kc
+rulle     966555102 10  2 Bc  k     kc    k         3210   80    0 2s 9s
+rulle     966555176 10  1 Bf  -     -     -         3130   10    0 
+rulle     966555238 10 10 c   k     f     -         3120   20    0 
+rulle     966555265 10  9 f   -     -     -         3100    0    0 
+rulle     966555293 10  8 f   -     -     -         3100    0    0 
+rulle     966555350 10  7 c   c     f     -         3100   40    0 
+rulle     966555390 10  6 c   k     k     k         3060   20    0 Ks Qd
+rulle     966555424 10  5 c   b     k     f         3040   40    0 
+rulle     966555514 10  4 c   kc    kc    kf        3000   80    0 
+rulle     966555565 10  3 c   br    kc    k         2920  140  460 9c Jc
+rulle     966555607 10  2 Bk  k     c     k         3240   60  160 5s 9s
+rulle     966555651 10  1 Bc  b     b     -         3340   80  160 
+rulle     966555679  9  9 f   -     -     -         3420    0    0 
+rulle     966555692  9  8 c   b     -     -         3420   40  110 
+rulle     966555723  9  7 r   b     k     f         3490   80    0 
+rulle     966555775  9  6 c   rc    c     f         3410  140    0 
+rulle     966555814  9  5 c   rrr   c     c         3270  220    0 Jc 4c
+rulle     966555852  9  4 c   b     -     -         3050   40   70 
+rulle     966555881  9  3 cc  kc    kf    -         3080   60    0 
+rulle     966555916  8  2 Bk  cf    -     -         3020   40    0 
+rulle     966555965  8  1 Bc  kf    -     -         2980   40    0 
+rulle     966556016  8  8 r   b     b     k         2940  120    0 Jh Td
+rulle     966556055  8  7 f   -     -     -         2820    0    0 
+rulle     966556095  8  6 c   c     c     k         2820  120    0 9h 4h
+rulle     966556153  9  6 c   bc    kc    kf        2700  100    0 
+rulle     966556194  8  4 r   b     b     b         2600  140  400 Jh Js
+rulle     966556230  8  3 c   b     b     b         2860  120    0 8s Td
+rulle     966556269  7  2 B   -     -     -         2740   20   30 
+rulle     966556286  7  1 Bc  kf    -     -         2750   20    0 
+rulle     966556334  7  7 c   b     -     -         2730   40  110 
+rulle     966556359  7  6 r   c     c     r         2800  180  450 
+rulle     966556395  7  5 c   kf    -     -         3070   20    0 
+rulle     966556441  6  3 r   -     -     -         3050   40   70 
+rulle     966556455  6  2 Bc  k     k     k         3080   40    0 Ts 8c
+rulle     966556477  6  1 Bc  kc    kc    kf        3040  100    0 
+rulle     966556504  5  5 c   c     c     k         2940   80   80 Kc 5d
+rulle     966556527  5  5 c   b     b     b         2940  120  230 
+rulle     966556561  5  4 f   -     -     -         3050    0    0 
+rulle     966556581  5  3 c   k     k     k         3050   20    0 7c Qs
+rulle     966556603  5  2 Br  b     -     -         3030   60  110 
+rulle     966556637  5  1 Bc  k     k     kf        3080   20    0 
+rulle     966556679  6  6 c   f     -     -         3060   40    0 
+rulle     966556710  6  5 c   c     f     -         3020   40    0 
+rulle     966556761  6  4 r   b     b     b         2980  140  300 Qs Kd
+rulle     966556777  6  3 r   b     b     k         3140  100    0 9d Td
+rulle     966556810  6  2 Bk  c     k     k         3040   40   80 7h Jh
+rulle     966556846  6  1 Br  k     k     kf        3080   40    0 
+rulle     966556876  6  6 cc  f     -     -         3040   40    0 
+rulle     966556919  7  6 r   f     -     -         3000   40    0 
+rulle     966556945  7  5 c   k     k     f         2960   40    0 
+rulle     966556973  7  4 cc  kf    -     -         2920   40    0 
+rulle     966557023  7  3 f   -     -     -         2880    0    0 
+rulle     966557051  8  2 Bk  kf    -     -         2880   20    0 
+rulle     966557089  8  1 Bc  kf    -     -         2860   20    0 
+rulle     966557127  8  8 r   b     b     b         2840  140  310 6h 6c
+rulle     966557155  8  7 c   b     -     -         3010   40   70 
+rulle     966557189  8  6 cc  kc    kf    -         3040   60    0 
+rulle     966557217  8  5 r   b     b     k         2980  100  230 8d Ac
+rulle     966557238  8  4 r   k     b     k         3110   80  110 Qd 5c
+rulle     966557263  8  3 c   c     c     r         3140  160  360 8s 7c
+rulle     966557314  8  2 Br  bc    kc    kf        3340  120    0 
+rulle     966557351  8  1 Bc  kc    kc    kf        3220  120    0 
+rulle     966557393  7  7 r   k     c     k         3100   80    0 Jc 9s
+rulle     966557422  7  6 r   rr    b     k         3020  160  390 Jh Ac
+rulle     966557457  8  6 r   b     b     b         3250  140  450 Qd Qh
+rulle     966557531  8  5 c   c     f     -         3560   40    0 
+rulle     966557575  8  4 r   b     b     b         3520  140  350 
+rulle     966557614  8  3 cc  kc    kc    kf        3730  100    0 
+rulle     966557649  8  2 Br  bc    kc    kc        3630  160    0 Td Qc
+rulle     966557707  8  1 Bc  kcc   kc    k         3470  140    0 Ad 3h
+rulle     966557748  8  8 r   k     k     k         3330   40    0 6h 7h
+rulle     966557782  8  7 c   Q     -     -         3290   20    0 
+rulle     966808123  3  1 Bf  -     -     -         3270   10    0 
+rulle     966808139  3  3 rr  b     b     k         3260  140  145 6d Ac
+rulle     966808156  3  2 Bc  k     f     -         3265   40    0 
+rulle     966808172  3  1 Bc  b     b     -         3225   80  120 
+rulle     966808187  3  3 r   k     c     k         3265   80  170 Qd Jc
+rulle     966808202  3  2 Bc  cc    kc    k         3355  140    0 Ts 8d
+rulle     966808229  3  1 Bf  -     -     -         3215   10    0 
+rulle     966808259  4  4 c   b     -     -         3205   40   70 
+rulle     966808271  4  3 r   b     -     -         3235   60  110 
+rulle     966808284  4  2 Bc  kc    k     k         3285   60  130 Jc 5d
+rulle     966808303  4  1 Brr k     b     b         3355  180  380 Ad Js
+rulle     966808324  4  4 c   r     b     f         3555  120    0 
+rulle     966808357  4  3 f   -     -     -         3435    0    0 
+rulle     966808379  4  2 Bk  kcc   kf    -         3435   60    0 
+rulle     966808407  4  1 Bc  bc    kc    kc        3375  180  440 2d 2h
+rulle     966808430  4  4 r   b     b     b         3635  160  440 Ad 2d
+rulle     966808460  4  3 f   -     -     -         3915    0    0 
+rulle     966808467  4  2 Bc  c     c     f         3915  100    0 
+rulle     966808483  4  1 Bf  -     -     -         3815   10    0 
+rulle     966808514  4  4 c   b     bc    c         3805  180    0 Kh Jh
+rulle     966808543  4  3 cc  c     c     c         3625  140    0 Kc 6c
+rulle     966808560  4  2 B   -     -     -         3485   20   30 
+rulle     966808570  4  1 Bc  kf    -     -         3495   20    0 
+rulle     966808579  3  3 f   -     -     -         3475    0    0 
+rulle     966808601  3  2 Bk  k     bf    -         3475   60    0 
+rulle     966808618  3  1 Bc  kf    -     -         3415   20    0 
+rulle     966808627  3  3 r   b     -     -         3395   60  110 
+rulle     966808637  3  2 Bk  k     f     -         3445   20    0 
+rulle     966808651  3  1 Bc  kf    -     -         3425   20    0 
+rulle     966808665  3  3 c   b     -     -         3405   40   70 
+rulle     966808675  3  2 Bf  -     -     -         3435   20    0 
+rulle     966808684  3  1 Bc  k     b     b         3415  120  240 
+rulle     966808709  3  3 r   k     k     k         3535   40   90 Ah 4d
+rulle     966808722  3  2 Bc  kc    kc    k         3585  100  240 Qs 2d
+rulle     966808748  4  1 Bc  brc   k     b         3725  160  340 Jc 8c
+rulle     966808773  4  4 r   k     k     k         3905   60  150 Td As
+rulle     966808789  4  3 cc  c     f     -         3995   60    0 
+rulle     966808802  4  2 Bcc kc    k     f         3935  100    0 
+rulle     966808828  4  1 Bc  kf    -     -         3835   20    0 
+rulle     966808863  4  4 cc  c     c     c         3815  140  320 Tc 8h
+rulle     966808888  4  3 r   bc    k     f         3995   80    0 
+rulle     966808908  4  2 Bf  -     -     -         3915   20    0 
+rulle     966808922  4  1 Bc  kf    -     -         3895   40    0 
+rulle     966808945  4  4 c   r     b     k         3855  120    0 Jc 2c
+rulle     966808965  5  4 r   b     -     -         3735   60  120 
+rulle     966808979  6  4 c   c     c     f         3795   80    0 
+rulle     966809014  6  3 r   k     r     b         3715  160  290 
+rulle     966809041  5  2 Br  b     -     -         3845   60  110 
+rulle     966809053  5  1 Bc  br    k     bc        3895  180    0 8c 2c
+rulle     966809075  5  5 c   c     f     -         3715   40    0 
+rulle     966809105  5  4 r   b     b     -         3675  100  170 
+rulle     966809126  5  3 rr  rc    rr    kc        3745  340    0 Jh Ad
+rulle     966809194  5  2 Brc b     b     b         3405  180  520 
+rulle     966809236  5  1 Br  k     kf    -         3745   40    0 
+rulle     966809254  5  5 c   k     c     f         3705   60    0 
+rulle     966809282  5  4 r   r     c     c         3645  160  330 3d Ac
+rulle     966809302  5  3 r   b     k     k         3815   60  140 Jh Qd
+rulle     966809323  5  2 Bc  kc    kf    -         3895   60    0 
+rulle     966809338  5  1 Bc  k     k     kf        3835   40    0 
+rulle     966809367  5  5 f   -     -     -         3795    0    0 
+rulle     966809390  5  4 c   f     -     -         3795   20    0 
+rulle     966809416  5  3 rr  kc    k     r         3775  180  480 Jc Jd
+rulle     966809447  5  2 Brc kr    b     b         4075  200  490 8h As
+rulle     966809480  5  1 Br  k     bc    kc        4365  160    0 8s 3s
+rulle     966809512  6  6 rc  c     f     -         4205   80    0 
+rulle     966809537  6  5 c   f     -     -         4125   20    0 
+rulle     966809551  6  4 r   b     r     f         4105  140    0 
+rulle     966809578  6  3 rr  b     b     b         3965  180  380 5s 5c
+rulle     966809595  6  2 Bc  kf    -     -         4165   40    0 
+rulle     966809609  6  1 Br  b     brr   b         4125  300  560 
+rulle     966809638  6  6 r   k     k     k         4385   40    0 7d 6h
+rulle     966809654  6  5 c   k     f     -         4345   40    0 
+rulle     966809679  6  4 f   -     -     -         4305    0    0 
+rulle     966809696  6  3 rrr b     -     -         4305  140  290 
+rulle     966809713  5  2 Brrr b     k     kf        4455  160    0 
+rulle     966809734  5  1 Bc  bc    kc    kf        4295  100    0 
+rulle     966809763  5  5 r   -     -     -         4195   40   70 
+rulle     966809774  5  4 r   k     rc    c         4225  200    0 2h 9h
+rulle     966809808  6  3 rc  c     c     k         4025  120  260 Jd 7h
+rulle     966809837  6  2 Bk  k     k     k         4165   20    0 Jh 2c
+rulle     966809874  6  1 Bf  -     -     -         4145   10    0 
+rulle     966809895  6  6 rc  c     c     c         4135  180  390 Ad 8s
+rulle     966809914  6  5 f   -     -     -         4345    0    0 
+rulle     966809922  6  4 f   -     -     -         4345    0    0 
+rulle     966809944  6  3 cc  c     c     r         4345  180  420 3s Tc
+rulle     966809967  7  3 rc  bc    kc    k         4585  140  310 Kh 3h
+rulle     966809997  7  2 Bcc kf    -     -         4755   80    0 
+rulle     966810051  7  1 Bcc kf    -     -         4675   40    0 
+rulle     966810099  7  7 f   -     -     -         4635    0    0 
+rulle     966810130  7  6 cc  f     -     -         4635   80    0 
+rulle     966810166  6  5 rr  rc    c     f         4555  180    0 
+rulle     966810200  6  4 r   c     c     c         4375  140    0 Td 9h
+rulle     966810223  6  3 f   -     -     -         4235    0    0 
+rulle     966810260  6  2 B   -     -     -         4235   20   30 
+rulle     966810271  6  1 Bc  kf    -     -         4245   40    0 
+rulle     966810308  6  6 f   -     -     -         4205    0    0 
+rulle     966810333  6  5 r   c     c     f         4205  100    0 
+rulle     966810359  6  4 f   -     -     -         4105    0    0 
+rulle     966810387  6  3 r   bc    kc    kf        4105  120    0 
+rulle     966810434  6  2 Bk  kf    -     -         3985   20    0 
+rulle     966810460  6  1 Bc  b     k     b         3965   80  180 2h 8d
+rulle     966810484  6  6 c   k     c     k         4065   60    0 6s 8c
+rulle     966810504  6  5 rc  c     cc    f         4005  260    0 
+rulle     966810548  6  4 fQ  -     -     -         3745    0    0 
+rulle     966895143  4  4 c   -     -     -         3745   20   50 
+rulle     966895149  3  2 rc  r     b     b         3775  180  360 9h 7h
+rulle     966895181  3  2 Bk  b     -     -         3955   40   60 
+rulle     966895198  3  1 Bc  k     kc    k         3975   60    0 3s 2d
+rulle     966895211  3  3 cc  f     -     -         3915   40    0 
+rulle     966895228  3  2 Bc  b     b     b         3875  140  160 8d 5h
+rulle     966895244  3  1 Brrr k     b     b         3895  200  420 Ah Ks
+rulle     966895264  4  4 r   k     k     k         4115   40   90 Kd Qs
+rulle     966895291  4  3 r   -     -     -         4165   40   70 
+rulle     966895297  4  2 Bc  kc    k     kf        4195   60    0 
+rulle     966895351  5  1 Bc  kf    -     -         4135   20    0 
+rulle     966895373  5  5 c   c     f     -         4115   40    0 
+rulle     966895397  5  4 r   kc    kc    kc        4075  140  330 6d Ah
+rulle     966895425  5  3 f   -     -     -         4265    0    0 
+rulle     966895441  5  2 Br  b     -     -         4265   80  150 
+rulle     966895455  4  1 Bc  kc    kc    k         4335   80    0 6s Ac
+rulle     966895471  5  4 c   b     -     -         4255   40   70 
+rulle     966895499  5  3 f   -     -     -         4285    0    0 
+rulle     966895504  5  2 Bk  k     k     k         4285   20   50 4h Ac
+rulle     966895535  5  1 Bc  kf    -     -         4315   20    0 
+rulle     966895557  5  5 r   -     -     -         4295   40   70 
+rulle     966895565  5  4 c   k     f     -         4325   40    0 
+rulle     966895600  5  3 c   f     -     -         4285   20    0 
+rulle     966895637  4  2 B   -     -     -         4265   20   30 
+rulle     966895641  4  1 Br  b     -     -         4275   80  160 
+rulle     966895665  4  4 f   -     -     -         4355    0    0 
+rulle     966895682  4  3 f   -     -     -         4355    0    0 
+rulle     966895701  4  2 Bc  kc    kc    kf        4355  120    0 
+rulle     966895742  4  1 Br  b     -     -         4235   80  160 
+rulle     966895763  3  3 c   k     k     k         4315   20   25 Qc 5h
+rulle     966895780  3  2 Bf  -     -     -         4320   20    0 
+rulle     966895805  3  1 Br  -     -     -         4300   40   60 
+rulle     966895813  3  3 r   c     c     r         4320  180  370 6h 6s
+rulle     966895836  3  2 B   -     -     -         4510   20   30 
+rulle     966895841  3  1 Br  -     -     -         4520   40   60 
+rulle     966895847  3  3 r   -     -     -         4540   40   70 
+rulle     966895853  3  2 Bf  -     -     -         4570   20    0 
+rulle     966895877  4  1 Br  -     -     -         4550   40   60 
+rulle     966895887  4  4 r   c     c     f         4570  100    0 
+rulle     966895910  5  3 r   -     -     -         4470   40   70 
+rulle     966895920  5  2 Bc  b     b     k         4500  100    0 4c 4d
+rulle     966895946  5  1 Bc  kcc   kf    Q         4400   80    0 
+rulle     966905644 10  4 cc  b     kc    k         4320  100    0 3c 3d
+rulle     966905724 10  3 f   -     -     -         4220    0    0 
+rulle     966905767 10  2 Bcc kcf   -     -         4220  100    0 
+rulle     966905837 10  1 Bc  k     b     -         4120   60  100 
+rulle     966905871 10 10 c   f     -     -         4160   20    0 
+rulle     966905954 10  9 r   r     b     b         4140  160  310 
+rulle     966905992 10  8 cc  c     c     c         4290  200    0 7h 8c
+rulle     966906058 10  7 ccc ccc   k     k         4090  160    0 Kh 9h
+rulle     966906149 10  6 c   f     -     -         3930   20    0 
+rulle     966906191 10  5 c   c     c     k         3910   80    0 7s Ts
+rulle     966906238 10  4 c   r     b     kc        3830  160  610 5s 9d
+rulle     966906303 10  3 c   cc    k     kf        4280   60    0 
+rulle     966906359 10  2 Bk  b     k     k         4220   40  160 2d Kh
+rulle     966906398 10  1 Bc  b     kr    b         4340  160  360 3s 5h
+rulle     966906439 10 10 c   r     k     k         4540   80    0 6c 3c
+rulle     966906491 10  9 c   f     -     -         4460   40    0 
+rulle     966906518 10  8 c   k     k     f         4420   20    0 
+rulle     966906566 10  7 cc  kf    -     -         4400   40    0 
+rulle     966906603 10  6 f   -     -     -         4360    0    0 
+rulle     966906629 10  5 c   f     -     -         4360   20    0 
+rulle     966906687 10  4 rc  kc    k     k         4340  100  330 Ts 6s
+rulle     966906761 10  3 rc  cc    f     -         4570  100    0 
+rulle     966906849 10  2 Bk  b     -     -         4470   40   60 
+rulle     966906868 10  1 Bf  -     -     -         4490   10    0 
+rulle     966906911 10 10 c   Q     -     -         4480   40    0 
+rulle     966983925 10  6 c   f     -     -         4440   20    0 
+rulle     966983952 10  5 cc  f     -     -         4420   40    0 
+rulle     966983979 10  4 c   bc    c     k         4380  120    0 Ah 3c
+rulle     966984023 10  3 c   bc    kc    kf        4260  100    0 
+rulle     966984068 10  2 Br  b     k     kc        4160  100  390 Ac 8c
+rulle     966984128 10  1 Bc  b     b     k         4450   80    0 Qc Ts
+rulle     966984161 10 10 f   -     -     -         4370    0    0 
+rulle     966984202 10  9 c   k     k     f         4370   20    0 
+rulle     966984268 10  8 cc  krr   b     b         4350  200  830 9s Jc
+rulle     966984344 10  7 r   f     -     -         4980   40    0 
+rulle     966984423 10  6 f   -     -     -         4940    0    0 
+rulle     966984483 10  5 f   -     -     -         4940    0    0 
+rulle     966984559 10  4 r   bf    -     -         4940   60    0 
+rulle     966984625 10  3 c   kc    kf    -         4880   40    0 
+rulle     966984662 10  2 Br  k     b     -         4840  100  250 
+rulle     966984694 10  1 Bc  b     bf    -         4990   80    0 
+rulle     966984721 10 10 c   k     f     -         4910   20    0 
+rulle     966984752 10  9 c   c     c     c         4890  140  480 3s 9s
+rulle     966984787 10  8 c   c     c     cc        5230  220    0 Qc 9s
+rulle     966984835 10  7 r   c     c     k         5010  100    0 3d Ad
+rulle     966984872 10  6 c   f     Q     -         4910   40    0 
+rulle     966987277 10  9 c   c     b     k         4870   80  240 Kh Qc
+rulle     966987350 10  8 r   k     b     brrrrr    5030  520 1110 As Ah
+rulle     966987407  9  6 r   k     f     -         5620   40    0 
+rulle     966987457  9  5 f   -     -     -         5580    0    0 
+rulle     966987520  9  4 r   b     -     -         5580   60  130 
+rulle     966987545  9  3 cf  -     -     -         5650   20    0 
+rulle     966987599  9  2 Bc  kc    k     kc        5630  100    0 7d 8s
+rulle     966987628  9  1 Bc  k     kf    -         5530   40    0 
+rulle     966987678 10 10 c   f     -     -         5490   20    0 
+rulle     966987740 10  9 rc  f     -     -         5470   60    0 
+rulle     966987785 10  8 f   -     -     -         5410    0    0 
+rulle     966987841 10  7 r   c     c     f         5410  100    0 
+rulle     966987884 10  6 c   kc    kf    -         5310   40    0 
+rulle     966987931 10  5 c   cc    cc    kf        5270  140    0 
+rulle     966987988 10  4 c   b     b     -         5130   80  190 
+rulle     966988021 10  3 r   f     -     -         5240   40    0 
+rulle     966988041 10  2 Br  b     b     b         5200  140    0 Js Ts
+rulle     966988087 10  1 Br  kc    kf    -         5060   60    0 
+rulle     966988128 10 10 c   b     f     -         5000   40    0 
+rulle     966988169  8  8 c   c     r     r         4960  220  500 9s 8h
+rulle     966988215  8  8 f   -     -     -         5240    0    0 
+rulle     966988252  8  7 r   -     -     -         5240   40   70 
+rulle     966988263  8  6 f   Q     -     -         5270    0    0 
+rulle     966989252  9  5 c   bc    kc    kf        5270  100    0 
+rulle     966989298  9  4 c   kc    k     b         5170   80  180 
+rulle     966989357  8  3 r   b     -     -         5270   60  200 
+rulle     966989424  8  2 Bk  b     b     b         5410  120  220 
+rulle     966989465  8  1 Bf  -     -     -         5510   10    0 
+rulle     966989502  8  8 c   f     -     -         5500   20    0 
+rulle     966989541  8  7 r   c     c     k         5480  100    0 Ac Tc
+rulle     966989604  8  6 c   k     b     b         5380  100  340 8h 2s
+rulle     966989670  8  5 rc  c     r     b         5620  220  510 
+rulle     966989718  8  4 r   k     k     k         5910   40    0 7c Kc
+rulle     966989741  8  3 f   -     -     -         5870    0    0 
+rulle     966989757  8  2 Bk  k     k     k         5870   20    0 6s Th
+rulle     966989808  9  1 Br  bc    kc    k         5850  160  440 8d Ad
+rulle     966989918  9  9 c   cc    c     k         6130  160    0 3h 2s
+rulle     966989995 10  8 c   c     f     -         5970   40    0 
+rulle     966990062 10  7 f   -     -     -         5930    0    0 
+rulle     966990126 10  6 r   c     c     f         5930  100    0 
+rulle     966990167 10  5 rc  kc    k     kc        5830  120  270 Ah 8d
+rulle     966990204 10  4 rc  k     bc    kf        5980  140    0 
+rulle     966990268 10  3 cc  b     b     k         5840  100  280 9s 8s
+rulle     966990304 10  2 Bc  b     b     b         6020  140  430 8h 3h
+rulle     966990349  9  1 Bc  bc    kc    k         6310  100    0 4c 7c
+rulle     966990392 10 10 c   c     c     k         6210   80  260 Jc 2d
+rulle     966990436 10  9 c   c     c     c         6390  120  195 Kh 4c
+rulle     966990499 10  8 f   -     -     -         6465    0    0 
+rulle     966990564  9  6 r   b     b     b         6465  140    0 Ad 3d
+rulle     966990600  9  5 cc  c     b     b         6325  140  480 2s 5s
+rulle     966990666  9  4 cc  bc    kr    kc        6665  200    0 3s 6d
+rulle     966990723  9  4 c   b     k     kf        6465   40    0 
+rulle     966990769  8  2 B   -     -     -         6425   20   30 
+rulle     966990789  9  1 Bc  kf    -     -         6435   40    0 
+rulle     966990843  9  9 c   k     c     f         6395   80    0 
+rulle     966990963  8  7 c   f     -     -         6315   40    0 
+rulle     966991002  9  7 rc  c     f     -         6275  160    0 
+rulle     966991057 10  7 rc  kc    kc    k         6115  120  310 7s 8s
+rulle     966991106 10  6 r   kc    k     k         6305   60    0 Qs Qc
+rulle     966991166 10  5 cc  kf    -     -         6245   40    0 
+rulle     966991257 10  4 f   -     -     -         6205    0    0 
+rulle     966991332 10  3 rc  k     k     kf        6205   60    0 
+rulle     966991361  9  2 Bc  bc    kc    kc        6145  160    0 3s Qd
+rulle     966991398  9  1 Br  b     -     -         5985   60  100 
+rulle     966991418  9  9 cc  c     c     r         6025  180  420 Js 2h
+rulle     966991465  9  8 cc  kr    b     b         6265  160  185 3s Ts
+rulle     966991497  9  7 rr  bc    k     kc        6290  160    0 Qh Kh
+rulle     966991557  9  6 cc  k     k     kf        6130   40    0 
+rulle     966991604  9  5 rc  k     bc    kc        6090  180    0 Ad 3d
+rulle     966991643  9  4 cc  kf    -     -         5910   40    0 
+rulle     966991663  9  3 f   -     -     -         5870    0    0 
+rulle     966991709 10  2 Bc  kf    -     -         5870   40    0 
+rulle     966991740 10  1 Bc  kf    -     -         5830   40    0 
+rulle     966991816 10 10 cc  rr    rr    r         5790  360  800 Ks 2s
+rulle     966991871 10  9 rrrrrrrr k     b     b         6230  400  830 Ad Jd
+rulle     966991953 10  8 cc  kf    -     -         6660   40    0 
+rulle     966992006 10  7 cc  b     b     k         6620  100  270 Kd 6c
+rulle     966992056 10  6 cc  b     k     k         6790   80  310 As 7d
+rulle     966992101 10  5 rc  c     k     k         7020   80    0 7c Tc
+rulle     966992150 10  4 cc  f     -     -         6940   80    0 
+rulle     966992217 10  3 c   bc    kc    k         6860  140    0 8s 9c
+rulle     966992270 10  2 Bc  b     b     b         6720  140  320 3c Jc
+rulle     966992301 10  1 Bcc kcc   kc    k         6900  160  480 7h Ac
+rulle     966992355 10 10 cc  c     f     -         7220   60    0 
+rulle     966992396 10  9 cc  b     -     -         7160   80  270 
+rulle     966992435 10  8 f   -     -     -         7350    0    0 
+rulle     966992517 10  7 f   -     -     -         7350    0    0 
+rulle     966992561 10  6 rr  b     b     f         7350  140    0 
+rulle     966992613 10  5 cc  kc    kf    -         7210   60    0 
+rulle     966992655 10  4 rr  br    k     f         7150  140    0 
+rulle     966992715 10  3 cc  c     r     b         7010  180  460 6c Ah
+rulle     966992770 10  2 Bc  rc    cc    k         7290  260    0 Ac 7d
+rulle     966992810 10  1 Bc  kcc   kf    -         7030  120    0 
+rulle     966992863 10 10 c   c     cc    f         6910  140    0 
+rulle     966992913 10  9 f   -     -     -         6770    0    0 
+rulle     966992922 10  8 f   -     -     -         6770    0    0 
+rulle     966992937 10  7 r   -     -     -         6770   40   70 
+rulle     966992950 10  6 r   bf    -     -         6800   60    0 
+rulle     966992996 10  5 r   c     k     c         6740  100  155 5d Ad
+rulle     966993052 10  4 c   r     -     -         6795   60  130 
+rulle     966993087 10  3 c   f     -     -         6865   20    0 
+rulle     966993113 10  2 Bc  kc    kc    kf        6845  100    0 
+rulle     966993164 10  1 Bcc kf    -     -         6745   80    0 
+rulle     966993261 10 10 r   k     r     b         6665  160  290 
+rulle     966993315 10  9 r   -     -     -         6795   40   70 
+rulle     966993325 10  8 c   c     c     c         6825  120    0 8c Kh
+rulle     966993363 10  7 c   c     c     f         6705  100    0 
+rulle     966993422 10  6 r   b     k     k         6605   60    0 8d 9c
+rulle     966993449 10  5 cc  bc    kc    kf        6545  120    0 
+rulle     966993517 10  4 c   f     -     -         6425   20    0 
+rulle     966993535 10  3 f   -     -     -         6405    0    0 
+rulle     966993589  9  2 Bk  b     b     -         6405   80  180 
+rulle     966993642  9  1 Bc  bc    kc    k         6505  120  540 6h 8d
+rulle     966993690  9  9 c   cc    f     -         6925   60    0 
+rulle     966993731  9  8 f   -     -     -         6865    0    0 
+rulle     966993772  9  7 f   -     -     -         6865    0    0 
+rulle     966993802  9  6 cc  kc    kc    kc        6865  140    0 Kc 8s
+rulle     966993880  9  5 cc  bc    kc    kc        6725  160    0 Jc 4d
+rulle     966993919  9  4 cc  c     c     c         6565  160    0 5d Jd
+rulle     966993949  9  3 c   c     r     kf        6405  120    0 
+rulle     966993996  9  2 Bc  fQ    -     -         6285   60    0 
+rulle     967066565  8  5 r   b     -     -         6225   60  130 
+rulle     967066584  8  4 c   k     b     -         6295   60   90 
+rulle     967066611  8  3 c   kf    -     -         6325   20    0 
+rulle     967066648  8  2 Bf  -     -     -         6305   20    0 
+rulle     967066692  8  1 Br  b     k     br        6285  180  420 Ks Qs
+rulle     967066743  7  7 rc  k     c     f         6525  120    0 
+rulle     967066774  7  6 c   c     f     -         6405   60    0 
+rulle     967066817  7  5 r   b     b     b         6345  160  310 
+rulle     967066852  7  4 c   b     k     k         6495   40  190 8s 5h
+rulle     967066904  7  3 r   k     f     -         6645   40    0 
+rulle     967066932  7  2 Bf  -     -     -         6605   20    0 
+rulle     967066966  7  1 Bc  b     b     -         6585   80  140 
+rulle     967066992  6  6 r   c     c     c         6645  200  210 Ah 9h
+rulle     967067024  7  6 c   b     -     -         6655   40   90 
+rulle     967067045  7  5 f   -     -     -         6705    0    0 
+rulle     967067051  7  4 f   -     -     -         6705    0    0 
+rulle     967067095  7  3 r   b     bf    -         6705  100    0 
+rulle     967067128  7  2 Bk  b     b     b         6605  120  135 3h Ac
+rulle     967067148  7  1 Br  kc    kc    krc       6620  220    0 Ks 8h
+rulle     967067187  8  8 c   c     f     -         6400   40    0 
+rulle     967067217  9  8 r   b     k     k         6360   60  240 Ac 9d
+rulle     967067240  9  7 c   kf    -     -         6540   20    0 
+rulle     967067282  8  5 c   b     bf    -         6520   80    0 
+rulle     967067347  8  4 c   b     k     k         6440   40    0 5d Qs
+rulle     967067382  8  3 c   c     c     f         6400   80    0 
+rulle     967067412  8  2 Bc  kc    kr    b         6320  180  370 7d Jh
+rulle     967067441  8  1 Bc  kc    kc    k         6510  100    0 5h 3h
+rulle     967067470  8  8 c   bc    c     f         6410  100    0 
+rulle     967067521  8  7 r   k     c     f         6310   80    0 
+rulle     967067558  8  6 c   c     k     k         6230   40    0 Qd 7s
+rulle     967067600  8  5 c   f     -     -         6190   40    0 
+rulle     967067652  8  4 f   -     -     -         6150    0    0 
+rulle     967067664  8  3 r   b     -     -         6150   60  130 
+rulle     967067683  7  2 Bf  -     -     -         6220   20    0 
+rulle     967067719  7  1 Bc  k     kc    k         6200   80    0 Jc 6h
+rulle     967067755  8  8 c   f     -     -         6120   20    0 
+rulle     967067811  8  7 r   k     c     c         6100  140    0 Jc Ad
+rulle     967067846  8  6 c   k     Q     -         5960   20    0 
+rulle     967073499 10  4 cc  kc    krrrr krc       5940  500    0 3c 2c
+rulle     967073554 10  3 c   k     k     k         5440   20    0 Td 2s
+rulle     967073626 10  2 Bc  b     k     k         5420   60    0 3s 2s
+rulle     967073674 10  1 Bc  k     b     k         5360   60    0 Qc 8h
+rulle     967073739 10 10 r   k     c     k         5300   80    0 Ks Ts
+rulle     967073783 10  9 c   c     c     k         5220   80    0 4s 3h
+rulle     967073843 10  8 c   c     c     f         5140   80    0 
+rulle     967073903 10  7 c   k     kc    kf        5060   60    0 
+rulle     967073993 10  6 c   c     c     k         5000   80    0 6d 5d
+rulle     967074043 10  5 f   -     -     -         4920    0    0 
+rulle     967074100 10  4 c   kc    kc    k         4920   80    0 Ah 9d
+rulle     967074226  9  3 c   k     kf    -         4840   20    0 
+rulle     967074274  9  2 Br  kf    -     -         4820   40    0 
+rulle     967074346  8  1 Bc  kf    -     Q         4780   40    0 
+rulle     967156208 10  2 BKQ -     -     -         4740   20    0 
+rulle     967156395 10  7 r   b     b     -         4720  100  230 
+rulle     967156437 10  6 cc  c     c     c         4850  140    0 7c Qs
+rulle     967156458 10  5 r   k     f     -         4710   40    0 
+rulle     967156485 10  4 r   c     c     f         4670  100    0 
+rulle     967156535 10  3 r   b     -     -         4570   60  200 
+rulle     967156570 10  2 Bk  kc    kf    -         4710   40    0 
+rulle     967156611 10  1 Br  b     b     -         4670  100  220 
+rulle     967156649 10 10 c   f     -     -         4790   40    0 
+rulle     967156699 10  9 c   c     k     f         4750   60    0 
+rulle     967156744 10  8 c   c     c     c         4690  140    0 8h Jd
+rulle     967156782 10  7 c   Q     -     -         4550   40    0 
+rulle     967158415 10  4 c   k     f     -         4510   20    0 
+rulle     967158450 10  3 f   -     -     -         4490    0    0 
+rulle     967158496 10  2 Bk  kf    -     -         4490   20    0 
+rulle     967158548 10  1 Br  b     b     -         4470  100  220 
+rulle     967158615 10 10 c   f     -     -         4590   20    0 
+rulle     967158645 10  9 f   -     -     -         4570    0    0 
+rulle     967158705 10  8 r   -     -     -         4570   40   70 
+rulle     967158721 10  7 f   -     -     -         4600    0    0 
+rulle     967158767 10  6 c   kf    -     -         4600   20    0 
+rulle     967158825 10  5 r   b     b     b         4580  140  310 Kd Qc
+rulle     967158849 10  4 f   -     -     -         4750    0    0 
+rulle     967158891 10  3 r   b     b     bc        4750  180    0 Jh Qs
+rulle     967158933 10  2 Bc  r     b     b         4570  160  360 8d Tc
+rulle     967158975 10  1 Br  b     b     -         4770  120  220 
+rulle     967159006 10 10 c   c     c     k         4870   80    0 3h As
+rulle     967159054 10  9 c   c     c     f         4790   80    0 
+rulle     967159093 10  8 c   f     -     -         4710   20    0 
+rulle     967159130 10  7 rc  b     -     -         4690   80  220 
+rulle     967159171 10  6 f   -     -     -         4830    0    0 
+rulle     967159184 10  5 f   -     -     -         4830    0    0 
+rulle     967159199 10  4 f   -     -     -         4830    0    0 
+rulle     967159223 10  3 f   -     -     -         4830    0    0 
+rulle     967159253 10  2 Br  kc    k     k         4830   60    0 Js Qc
+rulle     967159283 10  1 Bf  -     -     -         4770   10    0 
+rulle     967159340 10 10 c   b     b     b         4760  120  290 
+rulle     967159411 10  9 rc  c     f     -         4930  100    0 
+rulle     967159446 10  8 f   -     -     -         4830    0    0 
+rulle     967159470 10  7 cc  b     k     b         4830  100  190 
+rulle     967159521 10  6 fQ  -     -     -         4920    0    0 
+rulle     967162776 10  2 Bc  bc    kc    kf        4920  160    0 
+rulle     967162846 10  1 Bc  kc    kc    k         4760  100    0 Qc Kd
+rulle     967162886 10 10 cc  f     -     -         4660   60    0 
+rulle     967162957 10  9 cr  c     c     c         4600  160    0 Kh Kc
+rulle     967163025 10  8 c   c     c     f         4440  100    0 
+rulle     967163056 10  7 c   c     f     -         4340   60    0 
+rulle     967163092 10  6 f   -     -     -         4280    0    0 
+rulle     967163104 10  5 f   -     -     -         4280    0    0 
+rulle     967163133 10  4 c   kf    -     -         4280   20    0 
+rulle     967163181 10  3 c   kc    kf    -         4260   40    0 
+rulle     967163237 10  2 Bk  kc    kf    -         4220   40    0 
+rulle     967163265 10  1 Br  b     k     k         4180   80  180 Kd Qd
+rulle     967163298 10 10 c   f     -     -         4280   40    0 
+rulle     967163356 10  9 f   -     -     -         4240    0    0 
+rulle     967163373 10  8 c   f     -     -         4240   20    0 
+rulle     967163448 10  7 r   kc    kc    k         4220  100  270 Th 8h
+rulle     967163495 10  6 c   b     -     -         4390   40   80 
+rulle     967163520 10  5 rc  cc    k     k         4430  120    0 8h 9h
+rulle     967163567 10  4 r   k     k     f         4310   40    0 
+rulle     967163639 10  3 f   -     -     -         4270    0    0 
+rulle     967163687 10  2 Bk  k     kf    -         4270   20    0 
+rulle     967163728 10  1 Bc  kf    -     -         4250   40    0 
+rulle     967163763 10 10 f   -     -     -         4210    0    0 
+rulle     967163834 10  9 c   f     -     -         4210   20    0 
+rulle     967163868 10  8 c   c     f     -         4190   40    0 
+rulle     967163911 10  7 f   -     -     -         4150    0    0 
+rulle     967164002 10  6 c   k     k     f         4150   20    0 
+rulle     967164064 10  5 cc  c     c     f         4130  100    0 
+rulle     967164125 10  4 c   c     c     f         4030   80    0 
+rulle     967164160  9  2 B   -     -     -         3950   20   30 
+rulle     967164181  8  1 Br  -     -     -         3960   40   60 
+rulle     967164197  8  8 c   cf    -     -         3980   60    0 
+rulle     967164278  9  8 f   -     -     -         3920    0    0 
+rulle     967164298  9  7 c   c     f     -         3920   40    0 
+rulle     967164328  9  6 c   fQ    -     -         3880   20    0 
+rulle     967239565  7  6 r   b     br    bc        3860  260    0 Qd Th
+rulle     967239641  4  3 c   c     f     -         3600   40    0 
+rulle     967239668  4  2 Bc  kc    kf    -         3560   60    0 
+rulle     967239685  4  1 Br  -     -     -         3500   40   60 
+rulle     967239692  4  4 c   c     c     f         3520   80    0 
+rulle     967239710  3  2 Bk  b     -     -         3440   40   80 
+rulle     967239725  3  1 Bf  -     -     -         3480   10    0 
+rulle     967239738  3  3 f   -     -     -         3470    0    0 
+rulle     967239754  3  2 Bf  -     -     -         3470   20    0 
+rulle     967239762  2  1 Br  -     -     -         3450   40   60 
+rulle     967239767  2  2 Bk  b     -     -         3470   40   60 
+rulle     967239778  2  1 Br  b     b     bc        3490  180    0 9h 9s
+rulle     967239792  2  2 Bc  r     b     rc        3310  240    0 Kc Jd
+rulle     967239812  2  1 Bc  k     k     k         3070   20    0 5s 9h
+rulle     967239826  2  2 B   -     -     -         3050   20   30 
+rulle     967239830  2  1 Br  b     -     -         3060   60  100 
+rulle     967239839  2  2 B   -     -     -         3100   20   30 
+rulle     967239841  2  1 Br  b     b     kc        3110  140    0 6s Js
+rulle     967239853  2  2 Bc  r     b     b         2970  160  320 9d 4d
+rulle     967239871  2  1 Brr b     br    k         3130  220    0 Qd Ah
+rulle     967239894  2  2 Bc  c     r     b         2910  180  360 9d Th
+rulle     967239913  2  1 Br  -     -     -         3090   40   60 
+rulle     967239919  2  2 Br  b     b     r         3110  180  360 Ks Kh
+rulle     967239935  2  1 Br  b     -     -         3290   60  100 
+rulle     967239944  2  2 Br  rr    b     b         3330  200  400 Ks 5s
+rulle     967239961  2  1 Br  k     kf    -         3530   40    0 
+rulle     967239976  2  2 Br  b     k     c         3490  100    0 3s 3h
+rulle     967239987  2  1 Br  b     -     -         3390   60  100 
+rulle     967239996  2  2 Br  k     f     -         3430   40    0 
+rulle     967240010  2  1 Bf  -     -     -         3390   10    0 
+rulle     967240013  2  2 Bk  c     r     b         3380  160  320 9s 2h
+rulle     967240028  2  1 Br  k     k     k         3540   40   80 7s 8d
+rulle     967240042  2  2 Br  b     -     -         3580   60  100 
+rulle     967240053  2  1 Bcf -     -     -         3620   20    0 
+rulle     967240059  2  2 B   -     -     -         3600   20   30 
+rulle     967240062  2  1 Bcc k     b     -         3610   80  120 
+rulle     967240074  2  2 Bk  c     c     f         3650   80    0 
+rulle     967240088  2  1 Br  bf    -     -         3570   60    0 
+rulle     967240095  2  2 Bk  k     b     r         3510  140    0 2s 4s
+rulle     967240113  2  1 Br  k     b     b         3370  120  200 
+rulle     967240131  2  2 Br  -     -     -         3450   40   60 
+rulle     967240136  2  1 Br  b     -     -         3470   60  100 
+rulle     967240143  2  2 Bk  k     k     k         3510   20   40 6d 9c
+rulle     967240154  2  1 Br  bc    kc    kf        3530  120    0 
+rulle     967240175  2  2 Br  b     -     -         3410   60  100 
+rulle     967240181  2  1 Br  b     -     -         3450   60  100 
+rulle     967240186  2  2 Bk  b     b     -         3490   80  120 
+rulle     967240198  2  1 Bf  -     -     -         3530   10    0 
+rulle     967240201  2  2 B   -     -     -         3520   20   30 
+rulle     967240308  2  1 Br  b     b     b         3530  140  280 Qd 8d
+rulle     967240345  2  2 B   -     -     -         3670   20   30 
+rulle     967240358  2  1 Bcc kf    -     -         3680   40    0 
+rulle     967240373  2  2 Br  r     k     c         3640  120    0 3s 8s
+rulle     967240405  2  1 Br  b     bc    kc        3520  180    0 5s Qc
+rulle     967240430  2  2 Brc c     c     f         3340  140    0 
+rulle     967240449  2  1 Bf  -     -     -         3200   10    0 
+rulle     967240451  2  2 Brc c     f     -         3190  100    0 
+rulle     967240465  2  1 Bc  k     k     k         3090   20   20 2h Ts
+rulle     967240484  2  2 Bc  c     c     f         3090  100    0 
+rulle     967240507  2  1 Br  br    b     b         2990  180  320 
+rulle     967240529  2  2 Bk  f     -     -         3130   20    0 
+rulle     967240540  2  1 Br  b     b     k         3110  100    0 8c 5d
+rulle     967240561  2  2 Br  f     -     -         3010   40    0 
+rulle     967240577  2  1 Br  -     -     -         2970   40   60 
+rulle     967240583  2  2 Br  b     b     k         2990  100  100 6h Qh
+rulle     967240602  2  1 Br  b     -     -         2990   60  100 
+rulle     967240614  2  2 Bk  c     c     f         3030   80    0 
+rulle     967240634  2  1 Bc  b     b     kf        2950   80    0 
+rulle     967240656  2  2 B   -     -     -         2870   20   30 
+rulle     967240658  2  1 Bc  k     b     -         2880   60   80 
+rulle     967240667  2  2 Bk  c     r     b         2900  160  320 5c Jh
+rulle     967240691  2  1 Bcc b     b     kc        3060  140    0 5h Tc
+rulle     967240715  2  2 B   -     -     -         2920   20   30 
+rulle     967240721  2  1 Br  k     k     kc        2930   80  160 7c Ad
+rulle     967240735  2  2 B   -     -     -         3010   20   30 
+rulle     967240740  2  1 Br  -     -     -         3020   40   60 
+rulle     967240744  2  2 Br  k     k     k         3040   40   80 Qh Ac
+rulle     967240784  2  1 Br  b     b     b         3080  140  280 Ah Kd
+rulle     967240801  2  2 Bk  f     -     -         3220   20    0 
+rulle     967240811  2  1 Bf  -     -     -         3200   10    0 
+rulle     967240814  2  2 Bk  b     -     -         3190   40   60 
+rulle     967240821  2  1 Bf  -     -     -         3210   10    0 
+rulle     967240824  2  2 Bk  c     r     r         3200  200  400 6h 9s
+rulle     967240842  2  1 Bc  b     b     -         3400   80  120 
+rulle     967240854  2  2 Br  r     k     f         3440   80    0 
+rulle     967240869  2  1 Bc  b     -     -         3360   40   60 
+rulle     967240889  2  2 Br  b     f     -         3380   60    0 
+rulle     967240902  2  1 Bc  kf    -     -         3320   20    0 
+rulle     967240909  2  2 Bk  c     c     c         3300  120    0 4d 6c
+rulle     967240926  2  1 Bc  b     -     -         3180   40   60 
+rulle     967240942  2  2 Br  c     f     -         3200   60    0 
+rulle     967240952  2  1 Bc  b     -     -         3140   40   60 
+rulle     967240957  2  2 Bk  r     b     b         3160  140  280 9c 5s
+rulle     967240974  2  1 Br  -     -     -         3300   40   60 
+rulle     967240980  2  2 Bf  -     -     -         3320   20    0 
+rulle     967240985  2  1 Br  b     -     -         3300   60  100 
+rulle     967240992  2  2 Bk  c     f     -         3340   40    0 
+rulle     967241001  2  1 Bcc kf    -     -         3300   40    0 
+rulle     967241016  2  2 Bk  f     -     -         3260   20    0 
+rulle     967241025  2  1 Brc bc    kc    kr        3240  220  440 4h 5h
+rulle     967241063  2  2 B   -     -     -         3460   20   30 
+rulle     967241069  2  1 Br  -     -     -         3470   40   60 
+rulle     967241072  2  2 B   -     -     -         3490   20   30 
+rulle     967241074  2  1 Brc krc   kc    kc        3500  200    0 Ah 5d
+rulle     967241094  2  2 Br  r     k     k         3300   80  160 2c Ah
+rulle     967241119  2  1 Br  kf    -     -         3380   40    0 
+rulle     967241131  2  2 B   -     -     -         3340   20   30 
+rulle     967241134  2  1 Br  k     b     -         3350   80  120 
+rulle     967241153  2  2 Br  k     c     c         3390  120  240 As 4d
+rulle     967241171  2  1 Bc  kc    kc    kf        3510   80    0 
+rulle     967241190  2  2 Bc  c     f     -         3430   60    0 
+rulle     967241199  2  1 Brc bc    kf    -         3370  100    0 
+rulle     967241212  2  2 B   -     -     -         3270   20   30 
+rulle     967241215  2  1 Brc kc    kr    b         3280  200  400 9h Qd
+rulle     967241239  2  2 B   -     -     -         3480   20   30 
+rulle     967241243  2  1 Br  -     -     -         3490   40   60 
+rulle     967241248  2  2 Bc  f     -     -         3510   40    0 
+rulle     967241256  2  1 Bc  k     k     k         3470   20    0 6c 5d
+rulle     967241278  2  2 Bk  k     f     -         3450   20    0 
+rulle     967241293  2  1 Br  -     -     -         3430   40   60 
+rulle     967241296  2  2 Br  c     c     c         3450  140    0 Qs Js
+rulle     967241312  2  1 Bc  kc    kf    -         3310   40    0 
+rulle     967241329  2  2 Br  r     b     b         3270  160  280 
+rulle     967241350  2  1 Br  -     -     -         3390   40   60 
+rulle     967241352  2  2 Br  c     c     r         3410  180  360 As Ks
+rulle     967241372  2  1 Br  -     -     -         3590   40   60 
+rulle     967241378  2  2 Bk  c     c     f         3610   80    0 
+rulle     967241394  2  1 Br  -     -     -         3530   40   60 
+rulle     967241398  2  2 Br  rc    c     c         3550  180    0 9s Ad
+rulle     967241420  2  1 Bc  k     kf    -         3370   20    0 
+rulle     967241442  3  2 Br  f     -     -         3350   40    0 
+rulle     967241458  3  1 Br  b     kc    k         3310  100    0 9h 6h
+rulle     967241493  3  3 r   f     -     -         3210   40    0 
+rulle     967241508  3  2 Bk  k     kQ    -         3170   20    0 
+rulle     967242656  2  2 B   -     -     -         3150   20   30 
+rulle     967242660  2  1 Bcc b     -     -         3160   60  100 
+rulle     967242677  2  2 Br  b     b     k         3200  120    0 Ts Tc
+rulle     967242690  2  1 Br  -     -     -         3080   40   60 
+rulle     967242698  2  2 Bc  f     -     -         3100   40    0 
+rulle     967242704  2  1 Bcc kf    -     -         3060   40    0 
+rulle     967242713  2  2 Bf  -     -     -         3020   20    0 
+rulle     967242720  2  1 Brc kf    -     -         3000   60    0 
+rulle     967242731  2  2 B   -     -     -         2940   20   30 
+rulle     967242733  2  1 Bc  k     kc    k         2950   60  120 8d 5c
+rulle     967242748  2  2 B   -     -     -         3010   20   30 
+rulle     967242753  2  1 Br  -     -     -         3020   40   60 
+rulle     967242757  2  2 Br  b     k     c         3040  120    0 Jh Ah
+rulle     967242769  2  1 Br  kc    kc    kc        2920  140    0 Qd 5s
+rulle     967242790  2  2 Bc  rc    c     k         2780  140  140 Td 5c
+rulle     967242808  2  1 Bc  k     kc    kf        2780   60    0 
+rulle     967242845  2  2 B   -     -     -         2720   20   30 
+rulle     967242847  2  1 Br  -     -     -         2730   40   60 
+rulle     967242850  2  2 Bc  c     b     k         2750  100  200 7d 3s
+rulle     967242863  2  1 Br  -     -     -         2850   40   60 
+rulle     967242868  2  2 Br  b     -     -         2870   80  140 
+rulle     967242877  2  1 Br  -     -     -         2930   40   60 
+rulle     967242880  2  2 B   -     -     -         2950   20   30 
+rulle     967242882  2  1 Brc kf    -     -         2960   60    0 
+rulle     967242888  2  2 Br  b     br    b         2900  240  480 6h 6s
+rulle     967242903  2  1 Br  -     -     -         3140   40   60 
+rulle     967242908  2  2 Brr b     b     b         3160  200  400 9s Js
+rulle     967242929  2  1 Br  b     bf    -         3360  100    0 
+rulle     967242942  2  2 Bc  b     -     -         3260   60  100 
+rulle     967242948  2  1 Br  b     b     kc        3300  140    0 7d Ac
+rulle     967242961  2  2 Br  k     k     k         3160   60  120 6d Jd
+rulle     967242976  2  1 Bc  b     -     -         3220   40   60 
+rulle     967242986  2  2 B   -     -     -         3240   20   30 
+rulle     967242987  2  1 Br  -     -     -         3250   40   60 
+rulle     967242989  2  2 B   -     -     -         3270   20   30 
+rulle     967242991  2  1 Bcf -     -     -         3280   20    0 
+rulle     967243004  2  2 B   -     -     -         3260   20   30 
+rulle     967243008  2  1 Bc  bc    k     bc        3270  140    0 7s 3c
+rulle     967243030  2  2 B   -     -     -         3130   20   30 
+rulle     967243037  2  1 Bc  kc    kf    -         3140   40    0 
+rulle     967243056  2  2 B   -     -     -         3100   20   30 
+rulle     967243058  2  1 Br  -     -     -         3110   40   60 
+rulle     967243061  2  2 B   -     -     -         3130   20   30 
+rulle     967243063  2  1 Br  -     -     -         3140   40   60 
+rulle     967243065  2  2 B   -     -     -         3160   20   30 
+rulle     967243068  2  1 Bcf -     -     -         3170   20    0 
+rulle     967243074  2  2 Bf  -     -     -         3150   20    0 
+rulle     967243079  2  1 Brrc kc    kf    -         3130  120    0 
+rulle     967243096  2  2 B   -     -     -         3010   20   30 
+rulle     967243099  2  1 Bf  -     -     -         3020   10    0 
+rulle     967243101  2  2 B   -     -     -         3010   20   30 
+rulle     967243103  2  1 Brr kr    kc    b         3020  200    0 9s 5s
+rulle     967243143  2  2 B   -     -     -         2820   20   30 
+rulle     967243149  2  1 Br  -     -     -         2830   40   60 
+rulle     967243155  2  2 B   -     -     -         2850   20   30 
+rulle     967243157  2  1 Br  -     -     -         2860   40   60 
+rulle     967243160  2  2 Bc  c     r     k         2880  140    0 8h Ks
+rulle     967243174  2  1 Br  -     -     -         2740   40   60 
+rulle     967243181  2  2 Bc  c     k     c         2760  100    0 Ah 2d
+rulle     967243195  2  1 Br  -     -     -         2660   40   60 
+rulle     967243200  2  2 B   -     -     -         2680   20   30 
+rulle     967243203  2  1 Bc  b     b     kf        2690   80    0 
+rulle     967243220  2  2 Bf  -     -     -         2610   20    0 
+rulle     967243224  2  1 Bcc k     k     k         2590   40    0 3c 8d
+rulle     967243237  2  2 B   -     -     -         2550   20   30 
+rulle     967243243  2  1 Brr b     b     b         2560  180  360 Ts 8s
+rulle     967243261  2  2 Bf  -     -     -         2740   20    0 
+rulle     967243268  2  1 Bc  b     -     -         2720   40   60 
+rulle     967243276  2  2 B   -     -     -         2740   20   30 
+rulle     967243277  2  1 Bc  k     kc    k         2750   60    0 3c 4h
+rulle     967243291  2  2 Bc  c     k     b         2690  100  200 3s Jh
+rulle     967243311  2  1 Br  -     -     -         2790   40   60 
+rulle     967243316  2  2 Bc  c     r     b         2810  180  360 8d 6s
+rulle     967243328  2  1 Brc kc    k     k         2990   80    0 4s Kc
+rulle     967243349  2  2 Bc  c     c     k         2910  100    0 Jh 5c
+rulle     967243363  2  1 Br  b     b     b         2810  140  280 5s As
+rulle     967243375  2  2 B   -     -     -         2950   20   30 
+rulle     967243381  2  1 Br  -     -     -         2960   40   60 
+rulle     967243385  2  2 B   -     -     -         2980   20   30 
+rulle     967243386  2  1 Br  -     -     -         2990   40   60 
+rulle     967243388  2  2 B   -     -     -         3010   20   30 
+rulle     967243390  2  1 Bc  b     -     -         3020   40   60 
+rulle     967243396  2  2 Bc  c     f     -         3040   60    0 
+rulle     967243433  2  1 Br  -     -     -         2980   40   60 
+rulle     967243437  2  2 Br  bc    c     r         3000  220  440 6d 7d
+rulle     967243459  2  1 Br  -     -     -         3220   40   60 
+rulle     967243464  2  2 B   -     -     -         3240   20   30 
+rulle     967243466  2  1 Br  b     b     b         3250  140  140 2s Ah
+rulle     967243475  2  2 Br  k     f     -         3250   60    0 
+rulle     967243512  2  1 Br  kc    kf    -         3190   60    0 
+rulle     967243527  2  2 Bf  -     -     -         3130   20    0 
+rulle     967243531  2  1 Br  -     -     -         3110   40   60 
+rulle     967243533  2  2 B   -     -     -         3130   20   30 
+rulle     967243536  2  1 Br  -     -     -         3140   40   60 
+rulle     967243538  2  2 Bc  f     -     -         3160   40    0 
+rulle     967243543  2  1 Bf  -     -     -         3120   10    0 
+rulle     967243555  2  2 BQ  -     -     -         3110   20    0 
+rulle     967506444 10  8 KQ  -     -     -         3090    0    0 
+rulle     967506601 10  6 r   bc    k     kf        3090   80    0 
+rulle     967506658 10  5 r   k     kf    -         3010   40    0 
+rulle     967506702  9  4 c   c     c     f         2970   80    0 
+rulle     967506732  8  2 Bk  b     b     b         2890  120  340 
+rulle     967506782  7  1 Bc  bf    -     -         3110   40    0 
+rulle     967506833  7  7 r   b     r     c         3070  180    0 9d Ah
+rulle     967506865  7  6 r   f     -     -         2890   40    0 
+rulle     967506898  7  5 cc  c     c     k         2850  100    0 7s 3s
+rulle     967506947  7  4 rc  kc    kc    f         2750  120    0 
+rulle     967507022  7  3 c   r     b     f         2630  100    0 
+rulle     967507064  7  2 Bc  kf    -     -         2530   60    0 
+rulle     967507148  7  1 Br  -     -     -         2470   40   60 
+rulle     967507167  7  7 c   c     rr    b         2490  240  730 4h Td
+rulle     967507228  8  7 r   b     b     k         2980  100  240 9h 4c
+rulle     967507276  8  6 cc  b     kc    kr        3120  220  330 4h Td
+rulle     967507351  8  5 c   k     k     k         3230   20    0 2d Jc
+rulle     967507395  6  3 r   kc    kc    kf        3210  100    0 
+rulle     967507440  6  2 Bc  cr    r     kc        3110  220  880 6h 8s
+rulle     967507545  6  1 Bcc krc   kc    kc        3770  200    0 5c 2c
+rulle     967507599  7  7 r   c     c     f         3570  100    0 
+rulle     967507638  7  6 r   -     -     -         3470   40   70 
+rulle     967507654  7  5 c   kc    kf    -         3500   40    0 
+rulle     967507698  7  4 r   k     f     -         3460   40    0 
+rulle     967507732  7  3 cc  c     c     f         3420  100    0 
+rulle     967507814  7  2 Br  b     r     b         3320  180  360 Jh Qh
+rulle     967507851  7  1 Bc  k     kf    -         3500   20    0 
+rulle     967507911  8  7 r   k     r     b         3480  160  350 2c 8d
+rulle     967508001  6  5 f   -     -     -         3670    0    0 
+rulle     967508054  8  6 rc  c     c     r         3670  220  365 8d Jh
+rulle     967508117  9  5 r   f     -     -         3815   40    0 
+rulle     967508150  9  4 c   b     b     k         3775   80    0 6c 4h
+rulle     967508180  9  3 c   k     b     k         3695   60  130 9d 3h
+rulle     967508204  9  2 Bk  c     cc    kf        3765  120    0 
+rulle     967508249  9  1 Br  kc    kc    k         3645  100    0 8c 2c
+rulle     967508273 10 10 r   k     k     k         3545   40    0 Th 5s
+rulle     967508327 10  9 r   r     c     f         3505  140    0 
+rulle     967508382 10  8 r   b     b     b         3365  140  310 Jh Jc
+rulle     967508404 10  7 f   -     -     -         3535    0    0 
+rulle     967508457 10  6 r   b     b     kf        3535  100    0 
+rulle     967508537 10  5 c   c     c     c         3435  120    0 Kh 4d
+rulle     967508560 10  4 cc  ccc   rc    c         3315  300    0 Qs 8d
+rulle     967508651 10  3 r   bc    kc    kc        3015  160    0 7d Qh
+rulle     967508701 10  2 Bk  bc    kc    kc        2855  140    0 7d Ah
+rulle     967508733 10  1 Bc  kc    kf    -         2715   40    0 
+rulle     967508774 10 10 c   f     -     -         2675   20    0 
+rulle     967508811 10  9 c   k     f     -         2655   20    0 
+rulle     967508843 10  8 rc  c     f     -         2635  100    0 
+rulle     967508876 10  7 c   f     -     -         2535   20    0 
+rulle     967508903 10  6 r   kc    kc    k         2515  100    0 9c 4c
+rulle     967508958 10  5 f   -     -     -         2415    0    0 
+rulle     967508988 10  4 c   kQ    -     -         2415   20    0 
+rulle     967592836 10  9 c   k     c     f         2355   60    0 
+rulle     967592889 10  8 c   b     b     -         2295   80  180 
+rulle     967592976 10  7 c   cc    kc    k         2395  100    0 2h 9h
+rulle     967593032 10  6 cf  -     -     -         2295   20    0 
+rulle     967593083 10  5 rc  cfQ   -     -         2275   80    0 
+rulle     967595138 10  4 KQ  -     -     -         2195    0    0 
+rulle     967595411 10  2 Bc  kf    -     -         2195   40    0 
+rulle     967595450 10  1 Bc  kf    -     -         2155   80    0 
+rulle     967595516  9  9 c   c     c     r         2075  180  590 Jh 8c
+rulle     967595609 10  8 c   b     b     -         2485   80  180 
+rulle     967595654 10  7 c   cf    -     -         2585   80    0 
+rulle     967595705 10  6 rc  f     Q     -         2505   60    0 
+rulle     967597189  7  7 c   k     k     f         2445   20    0 
+rulle     967597227  7  6 r   r     b     bc        2425  200    0 Jc Kh
+rulle     967597263  7  5 r   bc    kc    kc        2225  160  350 Qc Th
+rulle     967597295  7  4 r   c     c     f         2415  100    0 
+rulle     967597317  7  3 rr  b     b     b         2315  180  390 8h 5h
+rulle     967597334  7  2 Br  b     bc    kf        2525  160    0 
+rulle     967597372  7  1 Br  kc    k     bc        2365  140    0 8h 9h
+rulle     967597400  6  6 c   k     f     -         2225   20    0 
+rulle     967597433  6  5 r   -     -     -         2205   40   70 
+rulle     967597437  6  4 rr  b     b     b         2235  180    0 5d Ac
+rulle     967597490  5  3 r   b     k     k         2055   60    0 Ad 8d
+rulle     967597512  5  2 B   -     -     -         1995   20   30 
+rulle     967597517  5  1 Bc  k     kc    k         2005   60  120 Qs 5h
+rulle     967597536  5  5 r   br    c     c         2065  180    0 Ad 8s
+rulle     967597561  4  3 r   -     -     -         1885   40   70 
+rulle     967597573  4  2 Bc  kc    k     kf        1915   60    0 
+rulle     967597602  4  1 Br  b     b     b         1855  140  300 7h Qs
+rulle     967597618  4  4 r   k     f     -         2015   40    0 
+rulle     967597649  4  3 r   k     k     k         1975   40    0 3s 6s
+rulle     967597666  4  2 BQ  -     -     -         1935   20    0 
+rulle     967676452 10  2 Bc  kf    -     -         2125   40    0 
+rulle     967676516 10  1 Bc  kf    -     -         2085   20    0 
+rulle     967676563 10 10 r   cc    f     -         2065  100    0 
+rulle     967676631 10  9 c   c     c     c         1965  120    0 6c Jc
+rulle     967676680 10  8 cc  c     c     rrrr      1845  420 1020 5s 6c
+rulle     967676779 10  7 c   kc    kf    -         2445   40    0 
+rulle     967676822 10  6 c   cc    kc    c         2405  140  610 2d 5d
+rulle     967676876 10  5 cc  kc    k     f         2875   60    0 
+rulle     967676950 10  4 rr  b     bc    kf        2815  180    0 
+rulle     967677011 10  3 rr  kc    kc    kc        2635  180    0 6c Ac
+rulle     967677057 10  2 Br  brc   k     bc        2455  200    0 Ac Ad
+rulle     967677134 10  1 Bc  b     bc    k         2255  140  360 2s 7h
+rulle     967677185 10 10 r   r     br    b         2475  240    0 Ah Ac
+rulle     967677274 10  9 c   f     -     -         2235   20    0 
+rulle     967677335 10  8 c   c     ccc   f         2215  200    0 
+rulle     967677401 10  7 rc  c     f     -         2015  100    0 
+rulle     967677465 10  6 rr  c     c     f         1915  140    0 
+rulle     967677516  9  5 r   bc    kc    kc        1775  160  470 Ts As
+rulle     967677547  9  4 rc  kcc   krr   b         2085  300  690 
+rulle     967677621  9  3 ccc kf    -     -         2475   80    0 
+rulle     967677731  9  2 Bk  kf    -     -         2395   20    0 
+rulle     967677808 10  1 Br  kc    kc    kf        2375  100    0 
+rulle     967677881 10 10 cc  c     c     c         2275  140    0 Ah 9s
+rulle     967677928  9  8 cc  f     -     -         2135   40    0 
+rulle     967677996  9  7 f   -     -     -         2095    0    0 
+rulle     967678026  9  6 f   -     -     -         2095    0    0 
+rulle     967678104 10  5 c   c     f     -         2095   40    0 
+rulle     967678154 10  4 r   f     -     -         2055   40    0 
+rulle     967678199 10  3 c   kc    kf    -         2015   40    0 
+rulle     967678250 10  2 Br  b     bcc   kc        1975  260    0 9c 9d
+rulle     967678315 10  1 Br  b     b     bc        1715  180    0 Th Tc
+rulle     967678373 10 10 c   k     k     k         1535   20    0 Jd 8s
+rulle     967678402 10  9 cc  c     cc    c         1515  260    0 4c 5c
+rulle     967678467 10  8 c   c     c     c         1255  160    0 Qh 8d
+rulle     967678512 10  7 rc  kr    kc    k         1095  140  275 Ad Qh
+rulle     967678560 10  7 c   k     f     -         1230   20    0 
+rulle     967678597 10  5 f   -     -     -         1210    0    0 
+rulle     967678702 10  4 r   brc   b     b         1210  200  560 Th Tc
+rulle     967678757 10  3 cc  b     b     b         1570  140  310 
+rulle     967678798 10  2 Bc  crc   rc    kc        1740  280    0 Qh 6c
+rulle     967678854 10  1 Bc  bc    kf    -         1460   60    0 
+rulle     967678886 10 10 c   rc    c     f         1400  120    0 
+rulle     967678927 10  9 r   Q     -     -         1280   40    0 

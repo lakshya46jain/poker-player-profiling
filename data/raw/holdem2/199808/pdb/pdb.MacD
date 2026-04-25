@@ -1,0 +1,665 @@
+MacD      903265686  2  2 Brr c     c     c         2000  200    0 6h 7h
+MacD      903265724  2  1 Br  b     b     b         1800  140  280 Qc Kh
+MacD      903265745  2  2 Bc  r     b     b         1940  160  320 9s Jd
+MacD      903265768  2  1 Br  b     -     -         2100   60  100 
+MacD      903265775  2  2 Br  k     c     f         2140   80    0 
+MacD      903265795  2  1 Br  br    b     k         2060  140    0 Qd Ts
+MacD      903265808  2  2 Br  b     k     f         1920   80    0 
+MacD      903265824  2  1 Br  b     -     -         1840   60  100 
+MacD      903265830  2  2 Br  b     b     k         1880  100  200 5d 8c
+MacD      903265849  2  1 Br  kf    -     -         1980   40    0 
+MacD      903265858  2  2 Br  b     b     k         1940  120  120 8h Qh
+MacD      903265872  2  1 Brc k     k     k         1940   60    0 5d Th
+MacD      903265898  2  2 Br  b     b     k         1880  120  240 Qs Jc
+MacD      903265926  2  1 Brc kc    kc    k         2000  120  240 5s Kh
+MacD      903265945  2  2 Br  c     c     c         2120  160    0 7d 6h
+MacD      903265961  2  1 Brr kc    krc   k         1960  220    0 8h Td
+MacD      903265987  2  2 Br  b     -     -         1740   60  100 
+MacD      903265999  2  1 Br  b     -     -         1780   60  100 
+MacD      903266004  2  2 Brr c     r     b         1820  240  480 3d Ah
+MacD      903266024  2  1 Brrrc kc    kc    kc        2060  240    0 Td 3h
+MacD      903266046  2  2 Br  b     k     f         1820   80    0 
+MacD      903266064  2  1 Brrr b     k     k         1740  140  140 Jd 4h
+MacD      903266078  2  2 Br  b     -     -         1740   60  100 
+MacD      903266089  2  1 Br  -     -     -         1780   40   60 
+MacD      903266092  2  2 Br  k     k     k         1800   40   40 Qd 3d
+MacD      903266105  2  1 Br  b     b     -         1800  100  160 
+MacD      903266118  2  2 Br  c     f     -         1860   60    0 
+MacD      903266128  2  1 Br  b     -     -         1800   60  100 
+MacD      903266134  2  2 Brr rrc   c     c         1840  280    0 4s Jc
+MacD      903266153  2  1 Brrr b     kf    -         1560  140    0 
+MacD      903266170  2  2 Br  b     -     -         1420   60  100 
+MacD      903266178  2  1 Br  b     -     -         1460   60  100 
+MacD      903266184  2  2 Br  b     b     b         1500  140  240 
+MacD      903266196  2  1 Br  b     -     -         1600   60  100 
+MacD      903266201  2  2 B   -     -     -         1640   20   30 
+MacD      903266205  2  1 Br  b     b     k         1650  100  200 Kc 4c
+MacD      903266217  2  2 Brr c     rc    k         1750  240  480 Kd 4c
+MacD      903266236  2  1 Br  b     kf    -         1990   60    0 
+MacD      903266250  2  2 Brrc c     rrc   k         1930  340  680 Ah 6d
+MacD      903266273  2  1 Brr b     -     -         2270  100  180 
+MacD      903266286  2  2 Br  b     k     k         2350   80  160 3s Jh
+MacD      903266306  2  1 Br  k     k     k         2430   40   80 Tc 5d
+MacD      903266320  2  2 Br  b     k     rc        2470  180    0 7c 6s
+MacD      903266340  2  1 Br  b     -     -         2290   60  100 
+MacD      903266350  2  2 B   -     -     -         2330   20   30 
+MacD      903266352  2  1 Brrrr br    b     b         2340  300  560 
+MacD      903266374  2  2 Brrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr -     -     -         2600 1460   18 Ks 6d
+MacD      903266412  2  1 Brr b     b     b         1158  180  360 7c Th
+MacD      903266445  2  2 Brr rrrr  rf    -         1338  340    0 
+MacD      903266464  2  1 Brr brrc  kc    kc         998  280    0 4h Js
+MacD      903266480  2  2 Brrrrrrrrrrrrrrrr rcA   -     -          718  718    0 9h 5c
+MacD      903436008  2  1 Br  brrrc brc   kc        2162  400    0 Qs Qd
+MacD      903436128  2  2 Br  b     -     -         1762   60  100 
+MacD      903436146  3  1 Brc br    br    b         1802  320    0 9s 4s
+MacD      903436188  3  3 c   rc    c     c         1482  160    0 Qs 2d
+MacD      903436210  3  2 Brc rc    rc    rc        1322  460 1380 Qs 6c
+MacD      903436243  4  1 Br  b     -     -         2242   60  120 
+MacD      903436264  4  4 rc  f     -     -         2302   60    0 
+MacD      903436301  5  4 r   brc   brc   b         2242  320  940 As 7s
+MacD      903436352  5  3 rr  f     -     -         2862   80    0 
+MacD      903436402  5  2 Brc bc    kc    kc        2782  200    0 Qd Kh
+MacD      903436443  5  1 Bcc k     k     b         2582  120    0 3c Jd
+MacD      903436485  3  3 f   -     -     -         2462    0    0 
+MacD      903436504  3  2 Brc kc    kc    kc        2462  180    0 7s 8s
+MacD      903436530  3  1 Brc brr   b     -         2282  200  360 
+MacD      903436552  3  3 rc  rc    rc    c         2442  280  620 Kd 6s
+MacD      903436604  2  1 Bc  kc    kc    krr       2782  260  520 Ad 6d
+MacD      903436645  2  1 Bcc kf    -     -         3042   40    0 
+MacD      903436678  2  2 Brrrc c     c     k         3002  220  440 2h Qh
+MacD      903436699  2  1 Brc kf    -     -         3222   60    0 
+MacD      903436713  2  2 Bf  -     -     -         3162   20    0 
+MacD      903436717  2  1 Brc kc    kf    -         3142   80    0 
+MacD      903436729  2  2 Brrc c     c     c         3062  220  440 Qh 3h
+MacD      903436744  2  1 Brr kc    kc    kc        3282  180    0 Ah 6c
+MacD      903436759  2  2 Brrc c     b     -         3102  180  320 
+MacD      903436775  3  1 Brr kc    kf    -         3242  100    0 
+MacD      903436814  3  3 rr  rc    f     -         3142  140    0 
+MacD      903436842  3  2 Brrrr -     -     -         3002  170  330 Ah 2h
+MacD      903436855  2  1 Brr kc    k     k         3162  100    0 Jc 3c
+MacD      903436879  2  2 Brrc c     k     c         3062  180    0 5h Ac
+MacD      903436896  2  1 Brrr krc   b     b         2882  260  520 Jc Kc
+MacD      903436921  2  2 Br  k     rc    k         3142  160    0 6h Qd
+MacD      903436937  2  1 Br  -     -     -         2982   40   60 
+MacD      903436944  2  2 Brc r     k     c         3002  140    0 Td 4c
+MacD      903436961  2  1 Brrr k     b     b         2862  200  400 Tc 4d
+MacD      903436979  2  2 Brrc c     c     f         3062  180    0 
+MacD      903436996  2  1 Brrrc b     b     b         2882  240  440 
+MacD      903437011  2  2 Brrc r     r     c         3082  280  560 Kd Tc
+MacD      903437026  2  1 Brc kc    kc    k         3362  120    0 4d 9c
+MacD      903437044  2  2 Brc f     -     -         3242   80    0 
+MacD      903437056  2  1 Brc kc    krc   b         3162  240  480 2s Tc
+MacD      903437075  2  2 Brrc c     r     k         3402  220  440 7d 5d
+MacD      903437093  2  1 Bc  k     kf    -         3622   20    0 
+MacD      903437105  2  2 Br  rf    -     -         3602   80    0 
+MacD      903437114  2  1 Brrc b     -     -         3522  120  220 
+MacD      903437126  2  2 Brc rr    b     b         3622  240  480 4c Ks
+MacD      903437144  2  1 Br  -     -     -         3862   40   60 
+MacD      903437149  2  2 Bc  c     r     k         3882  140  280 2s 2c
+MacD      903437162  2  1 Br  -     -     -         4022   40   60 
+MacD      903437167  2  2 B   -     -     -         4042   20   30 
+MacD      903437170  2  1 Br  k     bc    kc        4052  160    0 Td Jd
+MacD      903437184  2  2 B   -     -     -         3892   20   30 
+MacD      903437191  2  1 Bc  k     k     k         3902   20   40 9s 6s
+MacD      903437207  2  2 B   -     -     -         3922   20   30 
+MacD      903437212  2  1 Brc krc   kc    kc        3932  200    0 3d 3s
+MacD      903437229  2  2 Br  b     bc    c         3732  180    0 As 7c
+MacD      903437247  2  1 Br  b     bc    kc        3552  180    0 Td Tc
+MacD      903437262  2  2 B   -     -     -         3372   20   30 
+MacD      903437267  2  1 Br  b     b     -         3382  100  160 
+MacD      903437276  2  2 Brr r     c     c         3442  220    0 9h Js
+MacD      903437290  2  1 Brr krc   b     kf        3222  180    0 
+MacD      903437314  2  2 Br  rc    c     f         3042  140    0 
+MacD      903437330  2  1 Br  -     -     -         2902   40   60 
+MacD      903437333  2  2 Br  b     -     -         2922   60  100 
+MacD      903437343  2  1 Br  -     -     -         2962   40   60 
+MacD      903437349  2  2 Br  b     b     b         2982  140  240 
+MacD      903437365  2  1 Br  -     -     -         3082   40   60 
+MacD      903437368  2  2 Brc f     -     -         3102   80    0 
+MacD      903437378  2  1 Brrc b     br    b         3022  280    0 9h 7d
+MacD      903437398  2  2 Br  b     -     -         2742   60  100 
+MacD      903437409  2  1 Brc kc    kr    b         2782  200  400 Kh 3s
+MacD      903437425  2  2 Brc c     c     c         2982  180    0 8s 6s
+MacD      903437443  2  1 Br  b     b     -         2802  100  160 
+MacD      903437453  2  2 Brc r     r     b         2862  220    0 5s 8d
+MacD      903437471  2  1 Br  brc   kc    kc        2642  200    0 Ac Qh
+MacD      903437488  2  2 Brr b     b     b         2442  200  360 
+MacD      903437508  2  1 Br  k     k     k         2602   40    0 3h 6s
+MacD      903437518  2  2 B   -     -     -         2562   20   30 
+MacD      903437523  2  1 Br  bc    kc    k         2572  120  240 8c 9d
+MacD      903437539  2  2 Br  b     -     -         2692   60  100 
+MacD      903437548  2  1 Brrr b     k     k         2732  140    0 Ks Ah
+MacD      903437563  2  2 Brrrr rr    b     -         2592  300  560 
+MacD      903437583  2  1 Brc kc    k     k         2852   80    0 Ah 4s
+MacD      903437595  2  2 Br  rc    k     c         2772  160    0 7h 7s
+MacD      903437611  2  1 Brrr k     kc    kc        2612  200    0 7h 8s
+MacD      903437633  2  2 Brrrr rc    c     f         2412  280    0 
+MacD      903437655  2  1 Br  -     -     -         2132   40   60 
+MacD      903437658  2  2 Brr b     -     -         2152  100  180 
+MacD      903437667  2  1 Br  -     -     -         2232   40   60 
+MacD      903437671  2  2 B   -     -     -         2252   20   30 
+MacD      903437673  2  1 Brrr b     b     -         2262  180  320 
+MacD      903437687  2  2 B   -     -     -         2402   20   30 
+MacD      903437690  2  1 Br  b     -     -         2412   60  100 
+MacD      903437694  2  2 Brc c     k     k         2452  100    0 5h Jh
+MacD      903437709  2  1 Br  -     -     -         2352   40   60 
+MacD      903437713  2  2 Br  b     -     -         2372   60  100 
+MacD      903437720  2  1 Br  -     -     -         2412   40   60 
+MacD      903437722  2  2 Bk  k     f     -         2432   20    0 
+MacD      903437731  2  1 Br  b     k     k         2412   60  120 4h 7h
+MacD      903437741  2  2 Brrc rrc   c     rc        2472  380    0 Kh 5h
+MacD      903437767  3  1 Br  b     b     b         2092  140  300 Qs Qd
+MacD      903437828  2  2 r   b     k     k         2252   60    0 7h 6s
+MacD      903437843  2  2 Br  k     b     -         2192   80  120 
+MacD      903437857  2  1 Br  brc   kc    k         2232  160  320 6s 8d
+MacD      903437877  3  2 Br  b     -     -         2392   60  110 
+MacD      903437890  3  1 Br  b     b     b         2442  140  320 Qs Jd
+MacD      903437909  2  2 B   -     -     -         2622   20   30 
+MacD      903437914  2  1 Br  b     -     -         2632   60  100 
+MacD      903437926  2  2 Br  r     b     b         2672  180  360 Jc As
+MacD      903437945  2  1 Br  -     -     -         2852   40   60 
+MacD      903437950  2  2 Bk  k     b     -         2872   60   80 
+MacD      903437963  2  1 Br  kf    -     -         2892   40    0 
+MacD      903437971  2  2 B   -     -     -         2852   20   30 
+MacD      903437974  2  1 Br  b     k     b         2862  100  200 Ah Jh
+MacD      903437994  2  2 Bc  f     -     -         2962   40    0 
+MacD      903438006  2  1 Br  br    b     k         2922  140  280 Kd Ks
+MacD      903438024  2  2 Bk  b     b     f         3062   80    0 
+MacD      903438046  2  1 Br  -     -     -         2982   40   60 
+MacD      903438051  2  2 Br  r     k     k         3002   80    0 Qh 8s
+MacD      903438067  2  1 Br  b     b     -         2922  100  160 
+MacD      903438083  2  2 Br  r     r     b         2982  220  440 6s 6c
+MacD      903438101  2  1 Bc  k     k     kr        3202  100  160 
+MacD      903438123  2  2 Br  k     k     k         3262   40    0 Jh Qd
+MacD      903438140  2  1 Br  b     b     -         3222  100  160 
+MacD      903438152  2  2 Br  f     -     -         3282   40    0 
+MacD      903438162  3  1 Bc  kc    kc    kf        3242  100    0 
+MacD      903438188  3  3 r   -     -     -         3142   40   70 
+MacD      903438193  3  2 Br  b     -     -         3172   60  100 
+MacD      903438201  3  1 Br  krc   k     k         3212  120    0 2s Qc
+MacD      903438219  3  3 r   b     k     k         3092   60    0 2c 6c
+MacD      903438235  3  2 Br  b     b     k         3032  100    0 Qd 4d
+MacD      903438254  3  1 Br  bf    -     -         2932   60    0 
+MacD      903438264  3  3 r   b     b     k         2872  100  210 9d 9s
+MacD      903438280  3  2 Br  b     k     k         2982   60  130 7h Qd
+MacD      903438297  3  1 Br  bf    -     -         3052   60    0 
+MacD      903438309  3  3 r   k     k     k         2992   40   90 9h 6c
+MacD      903438323  3  2 B   -     -     -         3042   20   30 
+MacD      903438329  3  1 Br  k     kf    -         3052   60    0 
+MacD      903438345  3  3 r   r     -     -         2992   80  150 
+MacD      903438352  3  2 Br  b     kc    k         3062  100  210 Kd Ad
+MacD      903438376  3  1 Br  bc    kf    -         3172   80    0 
+MacD      903438392  3  3 r   r     c     f         3092  120    0 
+MacD      903438407  3  2 Br  b     b     bf        2972  140    0 
+MacD      903438427  3  1 Br  b     b     b         2832  140  280 Js Kd
+MacD      903438439  3  3 r   k     k     k         2972   40    0 Qc 3d
+MacD      903438455  3  2 Br  k     kf    -         2932   60    0 
+MacD      903438471  3  1 Br  bc    kf    -         2872   80    0 
+MacD      903438486  3  3 r   b     -     -         2792   60  110 
+MacD      903438493  3  2 B   -     -     -         2842   20   30 
+MacD      903438497  3  1 Br  k     b     b         2852  120  240 
+MacD      903438514  3  3 r   c     rc    f         2972  180    0 
+MacD      903438534  3  2 Brc f     -     -         2792   60    0 
+MacD      903438559  3  1 Br  b     b     -         2732  100  180 
+MacD      903438574  3  3 r   b     -     -         2812   60  120 
+MacD      903438589  3  2 Brr r     b     b         2872  220  440 Ks Ad
+MacD      903438605  3  1 Br  -     -     -         3092   40   60 
+MacD      903438611  3  3 r   c     f     -         3112   60    0 
+MacD      903438624  3  2 Br  kf    -     -         3052   40    0 
+MacD      903438639  3  1 Brc kr    b     b         3012  200  420 3s 4c
+MacD      903438654  3  3 r   bf    -     -         3232   60    0 
+MacD      903438667  3  2 Br  b     k     b         3172  100  170 
+MacD      903438680  3  1 Br  -     -     -         3242   40   60 
+MacD      903438686  3  3 rr  k     b     b         3262  160  400 Ah Jh
+MacD      903438707  3  2 B   -     -     -         3502   20   30 
+MacD      903438715  3  1 Br  k     k     bc        3512  120    0 5s 4s
+MacD      903438735  3  3 r   k     b     -         3392   80  140 
+MacD      903438752  3  2 Br  kf    -     -         3452   40    0 
+MacD      903438767  3  1 Br  bc    b     k         3412  120    0 Kh Jc
+MacD      903438786  3  3 r   b     bc    c         3292  180    0 Th Js
+MacD      903438810  3  2 Br  b     b     b         3112  140    0 As 5s
+MacD      903438833  3  1 Brr k     b     b         2972  160  280 
+MacD      903438853  3  3 r   k     c     k         3092   80    0 7d Jc
+MacD      903438866  3  2 B   -     -     -         3012   20   30 
+MacD      903438873  3  1 Br  kc    kf    -         3022   60    0 
+MacD      903438886  3  3 rr  rc    f     -         2962  140    0 
+MacD      903438901  3  2 Br  r     f     -         2822   80    0 
+MacD      903438917  3  1 Br  b     b     -         2742  100  200 
+MacD      903438926  3  3 r   k     k     f         2842   40    0 
+MacD      903438944  3  2 Br  b     b     k         2802  100    0 Th Ad
+MacD      903438961  3  1 Br  b     b     b         2702  140  300 Qh 8h
+MacD      903438978  3  3 r   f     -     -         2862   40    0 
+MacD      903438989  3  2 Brr b     k     f         2822  100    0 
+MacD      903439012  3  1 Brr kf    -     -         2722   80    0 
+MacD      903439023  3  3 r   rf    -     -         2642   80    0 
+MacD      903439036  3  2 Br  br    kr    b         2562  240  490 4c 4s
+MacD      903439059  3  1 Br  -     -     -         2812   40   60 
+MacD      903439065  3  3 r   -     -     -         2832   40   70 
+MacD      903439074  3  2 Bk  k     k     k         2862   20    0 3d 5s
+MacD      903439085  3  1 Br  b     kf    -         2842   60    0 
+MacD      903439100  3  3 r   -     -     -         2782   40   70 
+MacD      903439103  3  2 Brc kf    -     -         2812   80    0 
+MacD      903439114  3  1 Br  b     b     -         2732  100  160 
+MacD      903439123  3  3 r   b     k     k         2792   60  140 Td As
+MacD      903439139  3  2 Bk  kf    -     -         2872   20    0 
+MacD      903439161  3  1 Br  b     b     k         2852  100  200 Js As
+MacD      903439173  3  3 r   f     -     -         2952   40    0 
+MacD      903439184  3  2 Br  f     -     -         2912   40    0 
+MacD      903439192  3  1 Br  -     -     -         2872   40   60 
+MacD      903439195  3  3 r   b     k     k         2892   60    0 Jh Ah
+MacD      903439210  3  2 Brc kc    k     k         2832  100    0 Qd 2h
+MacD      903439231  3  1 Brr bc    k     kc        2732  160    0 2h Jh
+MacD      903439255  3  3 rr  r     rc    r         2572  320  760 3d 4d
+MacD      903439292  3  2 Br  b     b     b         3012  140  290 Jc 8s
+MacD      903439323  3  1 Br  -     -     -         3162   40   60 
+MacD      903439329  3  3 r   bc    c     c         3182  160    0 Ad Kc
+MacD      903439348  3  2 Br  b     b     -         3022  100  170 
+MacD      903439361  3  1 Bf  -     -     -         3092   10    0 
+MacD      903439367  3  3 c   b     k     f         3082   40    0 
+MacD      903439398  3  2 B   -     -     -         3042   20   30 
+MacD      903439404  3  1 Bc  kf    -     -         3052   20    0 
+MacD      903439416  3  3 r   bc    f     -         3032   80    0 
+MacD      903439431  3  2 B   -     -     -         2952   20   30 
+MacD      903439434  3  1 Bc  bc    k     k         2962   60    0 9s 6c
+MacD      903439454  3  3 r   b     k     k         2902   60  140 Th Ac
+MacD      903439471  3  2 Br  b     -     -         2982   60  110 
+MacD      903439481  3  1 Br  b     k     kc        3032  100    0 7d 7h
+MacD      903439496  3  3 r   bc    c     k         2932  120    0 9d 2s
+MacD      903439513  2  2 B   -     -     -         2812   20   30 
+MacD      903439518  2  1 Br  b     -     -         2822   60  100 
+MacD      903439526  2  2 Br  bc    r     -         2862  160  280 
+MacD      903439538  2  1 Br  kc    kf    -         2982   60    0 
+MacD      903439549  2  2 B   -     -     -         2922   20   30 
+MacD      903439552  2  1 Br  b     -     -         2932   60  100 
+MacD      903439567  2  2 Br  b     b     rf        2972  200    0 
+MacD      903439601  2  1 Br  -     -     -         2772   40   60 
+MacD      903439607  2  2 Brc f     -     -         2792   80    0 
+MacD      903439619  2  1 Br  -     -     -         2712   40   60 
+MacD      903439654  2  2 B   -     -     -         2732   20   30 
+MacD      903439656  2  1 Br  br    k     k         2742  100    0 2h Qh
+MacD      903439669  2  2 Br  b     -     -         2642   60  100 
+MacD      903439681  2  1 Br  b     b     -         2682  100  160 
+MacD      903439687  2  2 B   -     -     -         2742   20   30 
+MacD      903439688  3  1 Br  b     b     b         2752  140    0 4c Kh
+MacD      903439743  2  2 r   -     -     -         2612   40   60 
+MacD      903439748  2  2 Br  b     k     f         2632   60    0 
+MacD      903439758  3  1 Br  b     -     -         2572   60  100 
+MacD      903439764  3  3 r   -     -     -         2612   40   70 
+MacD      903439767  3  2 Br  bc    kc    kf        2642  120    0 
+MacD      903439792  3  1 Br  -     -     -         2522   40   60 
+MacD      903439798  3  3 r   b     b     b         2542  140  300 
+MacD      903439818  3  2 Br  k     b     b         2702  120    0 9h Td
+MacD      903439833  3  1 Br  -     -     -         2582   40   60 
+MacD      903439838  3  3 r   r     k     k         2602   80   90 Qc 7s
+MacD      903439853  3  2 Br  b     k     r         2612  140  280 
+MacD      903439874  3  1 Br  b     b     -         2752  100  200 
+MacD      903439900  3  3 f   -     -     -         2852    0    0 
+MacD      903439921  3  2 Br  b     -     -         2852   60  100 
+MacD      903439944  3  1 Bcc b     b     b         2892  140  240 
+MacD      903439965  3  3 r   k     k     b         2992   80  130 
+MacD      903439978  3  2 Br  k     c     k         3042   80    0 Kc Jc
+MacD      903439991  3  1 Br  -     -     -         2962   40   60 
+MacD      903439997  3  3 f   -     -     -         2982    0    0 
+MacD      903440001  3  2 B   -     -     -         2982   20   30 
+MacD      903440003  3  1 Br  b     k     kf        2992   60    0 
+MacD      903440025  2  2 Br  b     -     -         2932   60  100 
+MacD      903440037  2  1 Br  b     k     kf        2972   60    0 
+MacD      903440055  2  2 Br  b     b     -         2912  120  200 
+MacD      903440069  2  1 Br  k     b     b         2992  120  200 
+MacD      903440087  2  2 Br  k     f     -         3072   40    0 
+MacD      903440100  2  1 Bf  -     -     -         3032   10    0 
+MacD      903440103  2  2 Br  f     -     -         3022   60    0 
+MacD      903440111  2  1 Br  br    b     k         2962  140    0 8d 7h
+MacD      903440127  2  2 Br  r     k     k         2822   80  160 4h 9s
+MacD      903440146  2  1 Br  -     -     -         2902   40   60 
+MacD      903440151  2  2 Br  f     -     -         2922   60    0 
+MacD      903440159  2  1 Br  b     b     kc        2862  140    0 8s Qh
+MacD      903440174  2  2 Br  b     -     -         2722   80  140 
+MacD      903440186  2  1 Br  b     k     k         2782   60   60 Kc 2c
+MacD      903440201  2  2 Br  b     -     -         2782   60  100 
+MacD      903440212  2  1 Br  -     -     -         2822   40   60 
+MacD      903440215  2  2 B   -     -     -         2842   20   30 
+MacD      903440218  2  1 Bc  b     b     -         2852   80  120 
+MacD      903440227  2  2 B   -     -     -         2892   20   30 
+MacD      903440230  2  1 Br  b     k     k         2902   60    0 Jd 8s
+MacD      903440247  2  2 Br  r     -     -         2842   80  140 
+MacD      903440260  2  1 Br  bc    kc    kf        2902  120    0 
+MacD      903440277  2  2 B   -     -     -         2782   20   30 
+MacD      903440280  2  1 Br  b     -     -         2792   60  100 
+MacD      903440288  2  2 Bk  b     -     -         2832   40   60 
+MacD      903440299  2  1 Br  kf    -     -         2852   40    0 
+MacD      903440306  2  2 Br  r     k     k         2812  100    0 5h 4c
+MacD      903440321  2  1 Br  -     -     -         2712   40   60 
+MacD      903440327  2  2 Br  b     k     b         2732  100  200 7h Qc
+MacD      903440347  2  1 Br  b     b     b         2832  140  140 Ah 2c
+MacD      903440364  2  2 B   -     -     -         2832   20   30 
+MacD      903440373  2  1 Br  -     -     -         2842   40   60 
+MacD      903440376  2  2 Br  c     k     f         2862   60    0 
+MacD      903440391  2  1 Brr br    b     b         2802  220    0 7h 5h
+MacD      903440410  2  2 Br  b     b     -         2582  100  160 
+MacD      903440427  2  1 Br  -     -     -         2642   40   60 
+MacD      903440431  2  2 Br  k     k     k         2662   40    0 3s 4h
+MacD      903440446  2  1 Br  bc    kr    bc        2622  240    0 7c Ad
+MacD      903440470  2  2 Brrr b     k     f         2382  160    0 
+MacD      903440491  2  1 Brr b     b     k         2222  140  280 3c 6c
+MacD      903440503  2  2 B   -     -     -         2362   20   30 
+MacD      903440508  2  1 Br  b     -     -         2372   60  100 
+MacD      903440516  2  2 Bk  r     b     b         2412  140  280 Ts Js
+MacD      903440532  2  1 Brr kc    kf    -         2552  100    0 
+MacD      903440550  2  2 B   -     -     -         2452   20   30 
+MacD      903440553  2  1 Br  b     brf   -         2462  180    0 
+MacD      903440567  2  2 B   -     -     -         2282   20   30 
+MacD      903440571  2  1 Br  b     -     -         2292   60  100 
+MacD      903440576  2  2 Brr r     b     b         2332  220  400 
+MacD      903440598  2  1 Br  b     b     k         2512  100  200 Kh 8c
+MacD      903440610  2  2 Br  b     b     -         2612  100  160 
+MacD      903440625  2  1 Br  kr    b     b         2672  160  280 
+MacD      903440642  2  2 B   -     -     -         2792   20   30 
+MacD      903440645  2  1 Br  -     -     -         2802   40   60 
+MacD      903440649  2  2 B   -     -     -         2822   20   30 
+MacD      903440651  2  1 Br  -     -     -         2832   40   60 
+MacD      903440654  2  2 B   -     -     -         2852   20   30 
+MacD      903440658  2  1 Br  k     kc    k         2862   80    0 Qc Ts
+MacD      903440676  2  2 Br  k     f     -         2782   40    0 
+MacD      903440689  2  1 Br  k     k     k         2742   40   80 9h 2c
+MacD      903440703  2  2 Br  rc    b     k         2782  140  280 Kd Tc
+MacD      903440726  2  1 Br  -     -     -         2922   40   60 
+MacD      903440731  2  2 Br  k     k     f         2942   40    0 
+MacD      903440748  2  1 Br  -     -     -         2902   40   60 
+MacD      903440752  2  2 Br  r     k     c         2922  120  240 7s 7d
+MacD      903440771  2  1 Br  b     -     -         3042   60  100 
+MacD      903440780  2  2 Bc  c     k     c         3082  100    0 Jc Ad
+MacD      903440799  2  1 Br  b     b     -         2982  100  160 
+MacD      903440810  2  2 B   -     -     -         3042   20   30 
+MacD      903440812  2  1 Bf  -     -     -         3052   10    0 
+MacD      903440817  2  2 B   -     -     -         3042   20   30 
+MacD      903440821  2  1 Brc k     bc    kc        3052  180    0 3s Kh
+MacD      903440839  2  2 B   -     -     -         2872   20   30 
+MacD      903440845  2  1 Br  b     b     bc        2882  180    0 Tc 4d
+MacD      903440863  2  2 B   -     -     -         2702   20   30 
+MacD      903440868  2  1 Br  b     -     -         2712   60  100 
+MacD      903440874  2  2 B   -     -     -         2752   20   30 
+MacD      903440877  2  1 Br  kf    -     -         2762   40    0 
+MacD      903440887  2  2 Br  r     b     b         2722  180  320 
+MacD      903440908  2  1 Br  k     k     k         2862   40   40 2d Jh
+MacD      903440923  2  2 Br  b     b     f         2862  100    0 
+MacD      903440944  2  1 Br  b     b     bc        2762  180    0 5s 3d
+MacD      903440962  3  3 r   -     -     -         2582   40   70 
+MacD      903440968  3  2 B   -     -     -         2612   20   30 
+MacD      903440971  3  1 Brrc br    b     b         2622  240    0 8d Ks
+MacD      903440994  3  3 r   b     -     -         2382   60  120 
+MacD      903441011  3  2 Br  b     b     -         2442  100  160 
+MacD      903441019  3  1 Br  b     b     b         2502  140  280 
+MacD      903441047  3  3 r   k     c     f         2642   80    0 
+MacD      903441064  3  2 Br  b     b     bf        2562  140    0 
+MacD      903441081  4  1 Brr bc    kc    kc        2422  200    0 4c 3s
+MacD      903441113  4  4 r   b     b     k         2222  100  240 3s 7c
+MacD      903441133  4  3 r   k     cc    f         2362  120    0 
+MacD      903441166  4  2 Br  bf    -     -         2242   60    0 
+MacD      903441212  4  1 Br  -     -     -         2182   40   60 
+MacD      903441232  4  4 rr  rr    k     k         2202  180    0 7d 8h
+MacD      903441254  4  3 r   bc    k     k         2022   80    0 5s 8c
+MacD      903441280  4  2 Br  r     k     b         1942  120    0 6c Kh
+MacD      903441316  4  1 Br  b     b     b         1822  140    0 Tc 5h
+MacD      903441332  4  4 r   r     b     k         1682  120    0 Ks 6c
+MacD      903441363  4  3 r   b     kf    -         1562   60    0 
+MacD      903441392  4  2 Br  br    b     b         1502  180  330 
+MacD      903441412  4  1 Br  b     b     -         1652  120  220 
+MacD      903441435  4  4 r   -     -     -         1752   40   70 
+MacD      903441445  4  3 r   b     f     -         1782   60    0 
+MacD      903441466  4  2 Br  r     k     k         1722   80    0 3c Js
+MacD      903441490  4  1 Br  b     kf    -         1642   80    0 
+MacD      903441510  4  4 r   r     r     b         1562  200  410 2d 9c
+MacD      903441524  4  3 r   b     br    b         1772  220    0 Ad Th
+MacD      903441553  4  2 Br  r     b     k         1552  120    0 2c 9s
+MacD      903441578  4  1 Br  b     -     -         1432   60  120 
+MacD      903441598  4  4 r   r     k     k         1492   80  220 5c 5s
+MacD      903441615  4  3 r   -     -     -         1632   40   70 
+MacD      903441626  4  2 Brr kf    -     -         1662   80    0 
+MacD      903441659  4  1 Br  br    b     k         1582  140    0 Kd 6d
+MacD      903441681  4  4 r   b     b     b         1442  140    0 5s 3c
+MacD      903441697  4  3 r   b     b     b         1302  140  390 Qd Jd
+MacD      903441744  4  2 Br  b     k     bf        1552  100    0 
+MacD      903441770  4  1 Br  b     k     k         1452   60    0 6h 8s
+MacD      903441788  4  4 r   b     b     b         1392  140  320 5c 4c
+MacD      903441829  4  3 r   b     b     b         1572  140    0 6s Tc
+MacD      903441866  4  2 Br  brf   -     -         1432  100    0 
+MacD      903441887  4  1 Br  b     b     b         1332  140  300 8h 2c
+MacD      903441909  4  4 r   k     k     k         1492   40    0 3h 9h
+MacD      903441938  5  4 r   rc    c     c         1452  180    0 Kh 6d
+MacD      903441967  5  3 rrrrrrrrrrrrrc kc    b     bc        1272  680    0 4c 9s
+MacD      903442009  5  2 Br  b     b     b          592  140  170 5d 3s
+MacD      903442051  5  1 Br  -     -     -          622   40   60 
+MacD      903442058  5  5 r   b     b     b          642  140  300 Kh 5h
+MacD      903442082  5  4 r   br    k     kc         802  140  310 9d 9h
+MacD      903442109  5  3 r   b     k     kf         972   60    0 
+MacD      903442132  4  2 B   -     -     -          912   20   30 
+MacD      903442136  4  1 Br  b     b     b          922  140    0 9d Ac
+MacD      903442158  4  4 r   b     b     b          782  140    0 6c As
+MacD      903442175  4  3 r   brr   r     b          642  260  530 6c Kh
+MacD      903442206  4  2 B   -     -     -          912   20   30 
+MacD      903442214  4  1 Br  b     br    kc         922  220  520 3s 2s
+MacD      903442237  4  4 r   r     k     k         1222   80   85 Qc 4h
+MacD      903442256  4  3 r   b     k     f         1227   60    0 
+MacD      903442274  4  2 Br  b     b     k         1167  100    0 4c 3h
+MacD      903442285  4  1 Br  b     b     b         1067  140    0 4d 6s
+MacD      903442307  4  4 r   b     b     b          927  140  290 Ks Qs
+MacD      903442329  3  2 Br  b     b     b         1077  140  290 7s Qs
+MacD      903442345  3  1 Br  b     b     b         1227  140  300 6c 4c
+MacD      903442368  3  3 r   k     k     b         1387   80  130 
+MacD      903442389  3  2 Br  b     k     f         1437   60    0 
+MacD      903442425  3  1 Br  br    b     b         1377  180  360 3c 4d
+MacD      903442447  2  2 B   -     -     -         1557   20   30 
+MacD      903442452  2  1 Br  b     br    k         1567  180  360 Ac Js
+MacD      903442467  2  2 Br  b     -     -         1747   60  100 
+MacD      903442475  2  1 Br  -     -     -         1787   40   60 
+MacD      903442477  2  2 B   -     -     -         1807   20   30 
+MacD      903442480  2  1 Br  -     -     -         1817   40   60 
+MacD      903442481  2  2 B   -     -     -         1837   20   30 
+MacD      903442483  2  1 Br  -     -     -         1847   40   60 
+MacD      903442484  2  2 Br  b     b     b         1867  140  280 2s 2h
+MacD      903442494  2  1 Br  b     k     kf        2007   60    0 
+MacD      903442508  2  2 Br  f     -     -         1947   40    0 
+MacD      903442514  2  1 Br  -     -     -         1907   40   60 
+MacD      903442517  2  2 Br  k     f     -         1927   40    0 
+MacD      903442525  2  1 Br  bf    -     -         1887   60    0 
+MacD      903442533  2  2 B   -     -     -         1827   20   30 
+MacD      903442535  2  1 Br  b     b     br        1837  220  220 Td 4s
+MacD      903442546  2  2 Br  bc    f     -         1837   80    0 
+MacD      903442566  2  1 Br  b     b     k         1757  100    0 5h Js
+MacD      903442575  2  2 Br  b     -     -         1657   60  100 
+MacD      903442582  2  1 Br  b     -     -         1697   60  100 
+MacD      903442585  2  2 Br  k     k     b         1737   80    0 3h 5s
+MacD      903442597  2  1 Br  -     -     -         1657   40   60 
+MacD      903442601  2  2 B   -     -     -         1677   20   30 
+MacD      903442603  2  1 Br  -     -     -         1687   40   60 
+MacD      903442606  2  2 Br  b     b     bc        1707  180    0 Qs 7c
+MacD      903442619  2  1 Br  -     -     -         1527   40   60 
+MacD      903442623  2  2 B   -     -     -         1547   20   30 
+MacD      903442626  2  1 Br  b     b     b         1557  140    0 9d 6c
+MacD      903442634  2  2 B   -     -     -         1417   20   30 
+MacD      903442638  2  1 Br  b     b     k         1427  100    0 Qs 2d
+MacD      903442648  2  2 B   -     -     -         1327   20   30 
+MacD      903442652  2  1 Br  b     b     -         1337  100  160 
+MacD      903442658  2  2 B   -     -     -         1397   20   30 
+MacD      903442661  2  1 Br  b     -     -         1407   60  100 
+MacD      903442664  2  2 Br  b     k     k         1447   60    0 4d 8h
+MacD      903442674  2  1 Br  b     bc    kc        1387  180    0 Jc Qd
+MacD      903442688  2  2 B   -     -     -         1207   20   30 
+MacD      903442692  2  1 Br  b     b     b         1217  140    0 9d Jd
+MacD      903442702  2  2 B   -     -     -         1077   20   30 
+MacD      903442706  2  1 Br  -     -     -         1087   40   60 
+MacD      903442726  2  2 BrrrrrrrrrrrrrrrrrrrrrrrrrrrcA -     -     -         1107 1107    0 Ah 7d
+MacD      903521464  3  3 r   c     k     k         2050   60    0 Kd 3s
+MacD      903521505  2  2 B   -     -     -         1990   20   30 
+MacD      903521512  2  1 Br  b     -     -         2000   60  100 
+MacD      903521519  2  2 Bc  f     -     -         2040   40    0 
+MacD      903521530  2  1 Br  -     -     -         2000   40   60 
+MacD      903521533  2  2 Br  b     k     b         2020  100  160 
+MacD      903521550  2  1 Br  -     -     -         2080   40   60 
+MacD      903521554  2  2 B   -     -     -         2100   20   30 
+MacD      903521559  2  1 Bc  k     kf    -         2110   20    0 
+MacD      903521571  2  2 Bc  f     -     -         2090   40    0 
+MacD      903521579  2  1 Br  b     b     b         2050  140  280 7s Kd
+MacD      903521594  2  2 Br  b     k     f         2190   60    0 
+MacD      903521613  2  1 Br  b     -     -         2130   60  100 
+MacD      903521621  2  2 B   -     -     -         2170   20   30 
+MacD      903521624  2  1 Br  k     k     b         2180   80  120 
+MacD      903521641  2  2 Bc  f     -     -         2220   40    0 
+MacD      903521650  2  1 Br  b     k     k         2180   60  120 2c 2h
+MacD      903521664  2  2 B   -     -     -         2240   20   30 
+MacD      903521670  2  1 Br  -     -     -         2250   40   60 
+MacD      903521674  2  2 Br  r     c     f         2270  140    0 
+MacD      903521692  2  1 Br  bf    -     -         2130   60    0 
+MacD      903521702  2  2 Br  b     c     f         2070  100    0 
+MacD      903521720  2  1 Br  -     -     -         1970   40   60 
+MacD      903521726  2  2 Br  b     b     k         1990  100    0 Qc 3c
+MacD      903521745  2  1 Brr b     k     kf        1890  100    0 
+MacD      903521772  2  2 Br  r     b     k         1790  120  240 Ad Jd
+MacD      903521792  2  1 Br  br    k     b         1910  140  240 
+MacD      903521811  2  2 Br  rf    -     -         2010  100    0 
+MacD      903521822  2  1 Br  kr    b     b         1910  160  320 2s 7d
+MacD      903521836  2  2 B   -     -     -         2070   20   30 
+MacD      903521841  2  1 Br  k     b     b         2080  120  240 4h Tc
+MacD      903521856  2  2 B   -     -     -         2200   20   30 
+MacD      903521861  2  1 Bc  k     k     k         2210   20    0 6s Jh
+MacD      903521877  2  2 Br  b     k     c         2190  100    0 Qs As
+MacD      903521897  2  1 Br  -     -     -         2090   40   60 
+MacD      903521903  2  2 Brr b     r     b         2110  240  480 Kd Kh
+MacD      903521924  2  1 Br  k     k     k         2350   40    0 6d 8c
+MacD      903521940  2  2 Br  k     k     k         2310   40    0 7c Qd
+MacD      903521956  2  1 Br  b     k     kf        2270   60    0 
+MacD      903521973  2  2 Br  rc    c     c         2210  180    0 Qd Qs
+MacD      903521992  2  1 Brrr kc    kc    kc        2030  220    0 Qs 9c
+MacD      903522020  2  2 Br  b     -     -         1810   60  100 
+MacD      903522033  2  1 Br  b     b     b         1850  140  280 Jh 5c
+MacD      903522046  2  2 B   -     -     -         1990   20   30 
+MacD      903522051  2  1 Br  -     -     -         2000   40   60 
+MacD      903522055  2  2 Br  r     rc    b         2020  240    0 7s 8d
+MacD      903522080  2  1 Br  b     -     -         1780   60  100 
+MacD      903522088  2  2 B   -     -     -         1820   20   30 
+MacD      903522091  2  1 Br  k     k     k         1830   40   80 Tc 4d
+MacD      903522105  2  2 Br  k     k     k         1870   40    0 9h Qs
+MacD      903522122  3  1 Br  b     b     b         1830  140    0 Ac 3c
+MacD      903522143  3  3 r   -     -     -         1690   40   70 
+MacD      903522152  3  2 Br  rc    r     k         1720  200    0 Ah 4c
+MacD      903522181  3  1 Br  b     -     -         1520   60  100 
+MacD      903522218  2  2 Bk  r     k     rc        1560  180  360 Js 3d
+MacD      903522240  2  1 Br  b     kf    -         1740   60    0 
+MacD      903522252  2  2 Br  b     b     -         1680  120  200 
+MacD      903522265  2  1 Br  b     kc    bc        1760  180  360 Qc Ks
+MacD      903522284  2  2 Br  b     k     k         1940   80  160 6h Kd
+MacD      903522301  2  1 Br  kc    kf    -         2020   60    0 
+MacD      903522315  2  2 Brc f     -     -         1960   80    0 
+MacD      903522322  2  1 Brrc bc    kc    kc        1880  220  440 2h Ad
+MacD      903522337  2  2 Br  k     k     k         2100   60    0 2s Td
+MacD      903522354  2  1 Brc k     k     k         2040   60  120 8c 6d
+MacD      903522366  3  3 r   rc    c     f         2100  140    0 
+MacD      903522397  3  2 Br  rc    c     f         1960  160    0 
+MacD      903522426  3  1 Brr b     b     -         1800  140  320 
+MacD      903522450  3  3 rc  c     c     c         1980  160    0 Ks 4c
+MacD      903522469  3  2 Brc k     k     f         1820   80    0 
+MacD      903522494  3  1 Brc kc    br    b         1740  240  480 2c 3s
+MacD      903522516  3  3 rrc c     c     c         1980  200    0 Jc 9h
+MacD      903522533  3  2 Brrc krc   b     k         1780  220  450 8c 4d
+MacD      903522554  3  1 Brr b     b     b         2010  180  440 6s 7s
+MacD      903522588  3  3 rc  rc    c     k         2270  160  340 Th Kh
+MacD      903522612  3  2 Brf -     -     -         2450   60    0 
+MacD      903522620  3  1 Brrrrc kc    kc    kr        2390  320  640 Ac Tc
+MacD      903522666  3  3 rc  k     b     -         2710  100  220 
+MacD      903522688  3  2 Brc rc    b     b         2830  220    0 2c Jc
+MacD      903522719  3  1 Brc kf    -     -         2610   60    0 
+MacD      903522740  3  3 rc  c     c     f         2550  120    0 
+MacD      903522757  3  2 Brc bc    cc    bc        2430  280    0 Qh Ac
+MacD      903522798  3  1 Brr bf    -     -         2150  100    0 
+MacD      903522827  3  3 rc  c     c     f         2050  120    0 
+MacD      903522840  3  2 Brr b     k     b         1930  160  290 
+MacD      903522857  3  1 Brr b     krc   kf        2060  220    0 
+MacD      903522889  3  3 rr  b     r     k         1840  180    0 6c Ah
+MacD      903522914  3  2 Brrrc kc    kc    bc        1660  300  610 Jd Ks
+MacD      903522938  3  1 Brrrrc kc    kc    kc        1970  280    0 Kc 4s
+MacD      903522977  3  3 rc  f     -     -         1690   60    0 
+MacD      903522994  3  2 Brc kc    kc    kf        1630  140    0 
+MacD      903523034  3  1 Brrrrc kc    kc    kc        1490  280    0 2d Ah
+MacD      903523054  3  3 rr  rc    cc    f         1210  280    0 
+MacD      903523088  3  2 Brc rc    krc   kf         930  280    0 
+MacD      903523131  3  1 Br  k     kr    bf         650  160    0 
+MacD      903523149  3  3 r   b     b     -          490  100  170 
+MacD      903523169  2  2 Bk  f     -     -          560   20    0 
+MacD      903523177  2  1 Brr kc    kc    kf         540  140    0 
+MacD      903523199  2  2 B   -     -     -          400   20   30 
+MacD      903523202  2  1 Br  b     -     -          410   60  100 
+MacD      903523208  2  2 B   -     -     -          450   20   30 
+MacD      903523210  2  1 Br  -     -     -          460   40   60 
+MacD      903523213  2  2 Br  bc    c     c          480  160    0 Tc 7d
+MacD      903523230  2  1 Br  b     kr    b          320  180    0 Jc Ac
+MacD      903523246  2  2 Brr b     bA    -          140  140  280 Jh Kh
+MacD      903523263  2  1 Br  -     -     -          280   40   60 
+MacD      903523268  2  2 Bk  r     k     k          300   60  120 Kc 8s
+MacD      903523285  3  1 Bcc kf    -     -          360   40    0 
+MacD      903523298  3  3 r   b     b     k          320  100  300 3s Td
+MacD      903523316  3  2 Br  krc   krc   kf         520  260    0 
+MacD      903523360  3  1 Br  b     b     bc         260  180    0 Tc Qd
+MacD      903523380  2  2 BrcA -     -     -           80   80  160 3c Ah
+MacD      903523387  2  1 Brr b     b     bA         160  160  320 4h 4d
+MacD      903523401  2  2 Br  b     k     k          320   80    0 Jh Qd
+MacD      903523417  2  1 Brc kc    k     k          240   80  160 3h 2d
+MacD      903523433  2  2 BrrrrrrrcA -     -     -          320  320    0 Ts Th
+MacD      903866129  5  5 rc  c     c     c         2180  200    0 3d 9h
+MacD      903866166  4  3 rr  rc    rc    rf        1980  400    0 
+MacD      903866224  4  3 rr  brc   brc   b         1580  360    0 Kh 9h
+MacD      903866276  4  2 Brc rrr   b     rc        1220  360    0 Qc Qs
+MacD      903866328  3  1 Br  b     b     b          860  140    0 6h Qs
+MacD      903866344  3  3 r   r     rc    c          720  240    0 Kh Jd
+MacD      903866362  4  2 Br  rc    c     c          480  240    0 2d 3h
+MacD      903866398  4  1 Brc brc   bcA   -          240  240    0 Qh 7d
+MacD      903991375 10  6 rr  brc   b     b         2055  240  650 Kc 5c
+MacD      903991423 10  5 cc  kf    -     -         2465   60    0 
+MacD      903991483 10  4 f   -     -     -         2405    0    0 
+MacD      903991542 10  3 rr  b     bc    b         2405  220    0 8c 4c
+MacD      903991582  9  2 Br  bc    krc   k         2185  220  560 9h Jd
+MacD      903991648  8  1 Br  bf    -     -         2525   80    0 
+MacD      903991673  8  8 r   -     -     -         2445   40   70 
+MacD      903991684  8  7 r   r     k     f         2475  100    0 
+MacD      903991729  9  7 rrc brrrc k     k         2375  260  550 6c 3s
+MacD      903991785  8  5 r   r     r     rc        2665  340 1200 3h 3s
+MacD      903991884  8  5 Q   -     -     -         3525    0    0 
+MacD      904341862  2  2 Brrrc rrc   rrc   rrrrrrrrrrrrrrrrrrrrA   2027 2027 4054 9d Ac
+MacD      904341906  2  1 Brrc bc    b     -         4054  180  347 Ac 7s
+MacD      904605361  2  1 Bc  b     b     b         2195  120  240 4s Js
+MacD      904605379  2  2 Bc  c     f     -         2315   60    0 
+MacD      904605392  2  1 Br  kr    k     kf        2255   80    0 
+MacD      904605408  2  2 B   -     -     -         2175   20   30 
+MacD      904605412  2  1 Br  b     -     -         2185   60  100 
+MacD      904605418  2  2 Bk  c     f     -         2225   40    0 
+MacD      904605428  2  1 Br  b     b     bc        2185  180    0 Qs Ts
+MacD      904605444  3  3 r   r     k     f         2005   80    0 
+MacD      904605469  3  2 Br  bc    kf    -         1925  100    0 
+MacD      904605488  3  1 Br  b     kc    bc        1825  180  360 Kc 6s
+MacD      904605508  3  3 r   b     c     f         2005  100    0 
+MacD      904605542  3  2 Br  kf    -     -         1905   40    0 
+MacD      904605563  3  1 Br  b     -     -         1865   60  140 
+MacD      904605574  3  3 r   c     c     b         1945  140  260 
+MacD      904605594  3  2 Bc  c     f     -         2065   60    0 
+MacD      904605612  3  1 Br  k     b     -         2005  100  180 
+MacD      904605636  4  4 r   k     b     k         2085   80  170 8d 9s
+MacD      904605667  4  3 r   b     kc    kf        2175  100    0 
+MacD      904605688  4  2 Br  b     b     kf        2075  100    0 
+MacD      904605717  4  1 Br  b     bc    k         1975  160    0 8d 3d
+MacD      904605742  4  4 r   b     -     -         1815   60  160 
+MacD      904605760  4  3 rc  c     rc    b         1915  240  560 6d 2d
+MacD      904605795  4  2 Br  k     b     -         2235   80  160 
+MacD      904605822  4  1 Bf  -     -     -         2315   10    0 
+MacD      904605840  4  4 r   r     b     b         2305  160  340 7c 6s
+MacD      904605863  5  4 r   k     kf    -         2485   40    0 
+MacD      904605896  5  3 r   -     -     -         2445   40   70 
+MacD      904605909  6  3 f   -     -     -         2475    0    0 
+MacD      904605928  6  2 Bc  b     bf    -         2475  100    0 
+MacD      904605955  7  1 Br  b     b     kc        2375  140  280 Qc Qh
+MacD      904605980  8  8 r   f     -     -         2515   40    0 
+MacD      904606028  8  7 r   b     bc    c         2475  200  510 8s 4s
+MacD      904606085  9  7 c   rc    c     c         2785  180    0 Kc 5d
+MacD      904606121 10  7 f   -     -     -         2605    0    0 
+MacD      904606137 10  6 rr  b     b     b         2605  180  590 
+MacD      904606212 10  5 rc  r     k     b         3015  140  320 
+MacD      904606254 10  4 c   Q     -     -         3195   20    0 

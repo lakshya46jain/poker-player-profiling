@@ -1,0 +1,94 @@
+delta-wye 958288867  2  1 Bc  k     k     k         3810   10    0 8s 5s
+delta-wye 958288901  3  3 c   k     r     b         3800  400  540 
+delta-wye 958288938  5  4 cc  kc    k     b         3940  465  630 
+delta-wye 958288982  5  3 c   k     k     b         4105   50   80 
+delta-wye 958289017  5  2 Bk  k     k     k         4135   10   25 8s 4c
+delta-wye 958289039  5  1 Bc  k     k     k         4150   10    0 9d Tc
+delta-wye 958289064  5  5 c   r     k     f         4140  170    0 
+delta-wye 958289117  5  4 f   -     -     -         3970    0    0 
+delta-wye 958289157  5  3 f   -     -     -         3970    0    0 
+delta-wye 958289186  5  2 Bf  -     -     -         3970   10    0 
+delta-wye 958289210  5  1 Bc  k     k     k         3960   10    0 8h 6d
+delta-wye 958289236  5  5 f   -     -     -         3950    0    0 
+delta-wye 958289246  5  4 c   k     r     b         3950  400  540 
+delta-wye 958289278  5  3 f   -     -     -         4090    0    0 
+delta-wye 958289290  5  2 Bk  k     k     c         4090   40    0 Qh 4h
+delta-wye 958289316  6  1 Bc  kf    -     -         4050   55    0 
+delta-wye 958289348  6  6 c   k     f     -         3995   10    0 
+delta-wye 958289371  6  5 f   -     -     -         3985    0    0 
+delta-wye 958289414  6  4 f   -     -     -         3985    0    0 
+delta-wye 958289420  6  3 f   -     -     -         3985    0    0 
+delta-wye 958289449  7  3 c   f     -     -         3985   10    0 
+delta-wye 958289475  7  2 Bk  k     kf    -         3975   10    0 
+delta-wye 958289506  7  1 Bc  k     kf    -         3965   10    0 
+delta-wye 958289524  7  7 f   -     -     -         3955    0    0 
+delta-wye 958289574  8  7 c   c     c     k         3955  785 1665 Ts Qc
+delta-wye 958289620  9  7 c   f     -     -         4835   35    0 
+delta-wye 958289667  9  6 c   kf    -     -         4800   10    0 
+delta-wye 958289723  8  4 c   k     c     c         4790  250  540 9h Ad
+delta-wye 958289789  8  3 f   -     -     -         5080    0    0 
+delta-wye 958289815  8  2 Bk  k     b     kc        5080  260    0 Qh 6c
+delta-wye 958289860  9  1 Bf  -     -     -         4820    5    0 
+delta-wye 958289884  9  9 r   k     k     b         4815  185  420 5c 5h
+delta-wye 958289925  9  8 r   k     kf    -         5050   55    0 
+delta-wye 958289966  9  7 f   -     -     -         4995    0    0 
+delta-wye 958290000  9  6 cc  f     -     -         4995  825    0 
+delta-wye 958290060 10  6 c   f     -     -         4170   10    0 
+delta-wye 958290115 10  5 c   k     kf    -         4160   10    0 
+delta-wye 958290209 10  4 c   b     k     k         4150   75    0 9h Qh
+delta-wye 958290256 10  3 c   b     kcf   -         4075  310    0 
+delta-wye 958290309 10  2 Bk  kf    -     -         3765   10    0 
+delta-wye 958290340 10  1 Bc  kf    -     -         3755   10    0 
+delta-wye 958290414 10 10 c   f     -     -         3745   10    0 
+delta-wye 958290506 10  9 c   c     c     c         3735  860    0 5d Ks
+delta-wye 958290555 10  8 c   k     b     b         2875  170  360 4s 5h
+delta-wye 958290605 10  7 c   c     k     k         3065   55    0 8c 7c
+delta-wye 958290650 10  6 c   kr    k     b         3010  790 1080 
+delta-wye 958290718 10  5 f   -     -     -         3300    0    0 
+delta-wye 958290776 10  4 f   -     -     -         3300    0    0 
+delta-wye 958290855 10  3 c   k     k     k         3300   10    0 Qh Jc
+delta-wye 958290892 10  2 Bc  kf    -     -         3290   35    0 
+delta-wye 958290914 10  1 Bc  k     k     kf        3255   10    0 
+delta-wye 958291007 10 10 c   c     f     -         3245  500    0 
+delta-wye 958291110 10  9 f   -     -     -         2745    0    0 
+delta-wye 958291185 10  8 c   c     c     f         2745  370    0 
+delta-wye 958291244 10  7 c   f     -     -         2375   10    0 
+delta-wye 958291278 10  6 c   c     c     c         2365  970    0 6c 7h
+delta-wye 958291325 10  5 cc  bf    -     -         1395  285    0 
+delta-wye 958291385 10  4 cc  kc    k     b         1110  955 2160 Jc 4c
+delta-wye 958291435 10  3 c   c     f     -         2315   60    0 
+delta-wye 958291470 10  2 Bk  kr    kr    bA        2255 2255 3270 
+delta-wye 958291520 10  1 Bc  kf    -     -         3270   65    0 
+delta-wye 958291626 10 10 r   b     k     k         3205  150    0 6d Ad
+delta-wye 958291656 10  9 c   r     c     k         3055  660    0 Qd Ah
+delta-wye 958291712 10  8 c   f     -     -         2395   10    0 
+delta-wye 958291764 10  7 c   k     k     k         2385   35    0 6s 7d
+delta-wye 958291817 10  6 r   b     k     b         2350  335  450 
+delta-wye 958291856 10  5 cc  f     -     -         2465   60    0 
+delta-wye 958291919 10  4 cc  k     f     -         2405   65    0 
+delta-wye 958291977 10  3 c   c     c     c         2340  530    0 Qc Qh
+delta-wye 958292011 10  2 Br  kf    -     -         1810   75    0 
+delta-wye 958292131 10  1 Bc  b     bc    kcA       1735 1735 3570 7d Tc
+delta-wye 958292189 10 10 c   c     k     c         3570  570    0 7s Ts
+delta-wye 958292299 10  9 r   k     f     -         3000   45    0 
+delta-wye 958292345 10  8 f   -     -     -         2955    0    0 
+delta-wye 958292379 10  7 f   -     -     -         2955    0    0 
+delta-wye 958292464 10  6 r   b     -     -         2955  290  470 
+delta-wye 958292530 10  6 c   k     k     k         3135   10    0 Js Kd
+delta-wye 958292595 10  4 r   b     -     -         3125  150  230 
+delta-wye 958292623 10  3 cc  c     k     f         3205  430    0 
+delta-wye 958292667 10  2 Bk  k     kc    kr        2775 1165    0 6h 2h
+delta-wye 958292737 10  1 Br  k     kf    -         1610   40    0 
+delta-wye 958292769 10 10 r   f     -     -         1570  200    0 
+delta-wye 958292812 10  9 c   k     f     -         1370   10    0 
+delta-wye 958292864 10  8 r   b     b     k         1360  735    0 5s 4h
+delta-wye 958292924 10  7 c   k     k     k          625   10    0 8d 5h
+delta-wye 958292961 10  6 r   b     b     -          615  335  450 
+delta-wye 958292988 10  5 c   f     -     -          730   35    0 
+delta-wye 958293015 10  4 r   k     b     bA         695  695 2155 5d 5c
+delta-wye 958293060 10  3 c   b     b     b         2155  775 1620 Js 6d
+delta-wye 958293104 10  2 Bk  b     k     kf        3000   55    0 
+delta-wye 958293146 10  1 Bc  kf    -     -         2945   10    0 
+delta-wye 958293184 10 10 c   b     -     -         2935   50   80 
+delta-wye 958293211 10  9 r   bc    rA    -         2965 2965    0 8h 8s
+delta-wye 958935855  5  4 c   k     Q     -         9575   10    0 

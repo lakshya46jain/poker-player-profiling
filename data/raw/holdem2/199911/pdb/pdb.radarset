@@ -1,0 +1,763 @@
+radarset  941583644 10  4 c   k     kf    -         6655   20    0 
+radarset  941583711  9  3 f   -     -     -         6635    0    0 
+radarset  941583747 10  2 Bk  kf    -     -         6635   20    0 
+radarset  941583775 10  1 Bf  -     -     -         6615   10    0 
+radarset  941583804 10 10 c   f     -     -         6605   20    0 
+radarset  941583847 10  9 c   f     -     -         6585   20    0 
+radarset  941583879 10  8 f   -     -     -         6565    0    0 
+radarset  941583914 10  7 f   -     -     -         6565    0    0 
+radarset  941583967 10  6 c   f     -     -         6565   20    0 
+radarset  941584003 10  5 f   -     -     -         6545    0    0 
+radarset  941584043 10  4 f   -     -     -         6545    0    0 
+radarset  941584056 10  3 r   bc    kc    kc        6545  160    0 Ts Td
+radarset  941584096 10  2 Bk  f     -     -         6385   20    0 
+radarset  941584139 10  1 Bc  k     b     -         6365   60  120 
+radarset  941584168 10 10 f   -     -     -         6425    0    0 
+radarset  941584177 10  9 c   f     -     -         6425   20    0 
+radarset  941584214 10  8 cc  k     cc    f         6405  120    0 
+radarset  941584268 10  7 f   -     -     -         6285    0    0 
+radarset  941584332 10  6 f   -     -     -         6285    0    0 
+radarset  941584376  9  4 f   -     -     -         6285    0    0 
+radarset  941584402  9  3 f   -     -     -         6285    0    0 
+radarset  941584443  9  2 Bf  -     -     -         6285   20    0 
+radarset  941584473  9  1 Bc  kc    kc    kc        6265  120  140 9h 2d
+radarset  941584523 10 10 c   c     c     k         6285  100    0 Ts Jd
+radarset  941584557 10  9 f   -     -     -         6185    0    0 
+radarset  941584625 10  8 f   -     -     -         6185    0    0 
+radarset  941584670 10  7 f   -     -     -         6185    0    0 
+radarset  941584726 10  6 f   -     -     -         6185    0    0 
+radarset  941584747 10  5 f   -     -     -         6185    0    0 
+radarset  941584791 10  4 f   -     -     -         6185    0    0 
+radarset  941584815 10  3 cc  k     kf    -         6185   40    0 
+radarset  941584873 10  2 Bk  kc    kf    -         6145   40    0 
+radarset  941584920 10  1 Bc  kf    -     -         6105   40    0 
+radarset  941584971 10 10 f   -     -     -         6065    0    0 
+radarset  941585008 10  9 f   -     -     -         6065    0    0 
+radarset  941585052 10  8 rc  cc    cc    c         6065  240    0 Th Td
+radarset  941585121 10  7 cc  f     -     -         5825   40    0 
+radarset  941585166 10  6 f   -     -     -         5785    0    0 
+radarset  941585209 10  5 c   rc    c     cc        5785  200    0 Qc Kh
+radarset  941585271 10  4 c   kc    kf    -         5585   40    0 
+radarset  941585344 10  3 f   -     -     -         5545    0    0 
+radarset  941585417 10  2 Bc  kr    b     b         5545  160  410 
+radarset  941585451 10  1 Bc  k     kf    -         5795   20    0 
+radarset  941585500 10 10 c   b     b     b         5775  140  390 Td As
+radarset  941585565 10  9 f   -     -     -         6025    0    0 
+radarset  941585613 10  8 c   f     -     -         6025   20    0 
+radarset  941585648 10  7 c   c     f     -         6005   40    0 
+radarset  941585674 10  6 f   -     -     -         5965    0    0 
+radarset  941585713 10  5 f   -     -     -         5965    0    0 
+radarset  941585739 10  4 f   -     -     -         5965    0    0 
+radarset  941585763 10  3 f   -     -     -         5965    0    0 
+radarset  941585812 10  2 Bcc kc    kc    kf        5965  140    0 
+radarset  941585863 10  1 Bc  k     b     b         5825  100    0 Kh 7d
+radarset  941585899 10 10 f   -     -     -         5725    0    0 
+radarset  941585924 10  9 f   -     -     -         5725    0    0 
+radarset  941585973 10  8 c   f     -     -         5725   20    0 
+radarset  941586002 10  7 f   -     -     -         5705    0    0 
+radarset  941586048 10  6 c   c     c     f         5705  100    0 
+radarset  941586086 10  5 f   -     -     -         5605    0    0 
+radarset  941586117 10  4 f   -     -     -         5605    0    0 
+radarset  941586165 10  3 f   -     -     -         5605    0    0 
+radarset  941586190 10  2 Bk  kf    -     -         5605   20    0 
+radarset  941586264 10  1 Bf  -     -     -         5585   10    0 
+radarset  941586310  9  9 r   b     b     -         5575  100  220 
+radarset  941586365 10  9 rf  -     -     -         5695   60    0 
+radarset  941586426 10  8 f   -     -     -         5635    0    0 
+radarset  941586457 10  7 f   -     -     -         5635    0    0 
+radarset  941586498 10  6 c   kf    -     -         5635   20    0 
+radarset  941586567 10  5 cc  f     -     -         5615   40    0 
+radarset  941586600 10  4 c   kc    k     kf        5575   40    0 
+radarset  941586647 10  3 ccc kf    -     -         5535   80    0 
+radarset  941586689 10  2 Bc  kc    kcf   -         5455  160    0 
+radarset  941586753 10  1 Bf  -     -     -         5295   10    0 
+radarset  941586827 10 10 f   -     -     -         5285    0    0 
+radarset  941586845 10  9 c   b     b     -         5285   80  180 
+radarset  941586923 10  8 f   -     -     -         5385    0    0 
+radarset  941586938  9  6 f   -     -     -         5385    0    0 
+radarset  941586963 10  6 f   -     -     -         5385    0    0 
+radarset  941586985 10  5 f   -     -     -         5385    0    0 
+radarset  941587004 10  4 f   -     -     -         5385    0    0 
+radarset  941587033 10  3 f   -     -     -         5385    0    0 
+radarset  941587058 10  2 Bf  -     -     -         5385   20    0 
+radarset  941587079 10  1 Bf  -     -     -         5365   10    0 
+radarset  941587119 10 10 f   -     -     -         5355    0    0 
+radarset  941587167 10  9 f   -     -     -         5355    0    0 
+radarset  941587213 10  8 cc  c     k     c         5355  100  250 Th 9c
+radarset  941587250 10  7 c   k     f     -         5505   20    0 
+radarset  941587295 10  6 f   -     -     -         5485    0    0 
+radarset  941587357 10  5 cc  kf    -     -         5485   40    0 
+radarset  941587411 10  4 f   -     -     -         5445    0    0 
+radarset  941587426 10  3 f   -     -     -         5445    0    0 
+radarset  941587479 10  2 Bc  kc    kc    kf        5445  120    0 
+radarset  941587535 10  1 Bc  kc    kf    -         5325   40    0 
+radarset  941587601  9  9 f   -     -     -         5285    0    0 
+radarset  941587639  9  8 f   -     -     -         5285    0    0 
+radarset  941587664  9  7 c   k     k     f         5285   20    0 
+radarset  941587703  9  6 c   f     -     -         5265   20    0 
+radarset  941587726 10  6 c   kf    -     -         5245   20    0 
+radarset  941587759 10  5 c   c     b     b         5225  120  280 
+radarset  941587811 10  4 f   -     -     -         5385    0    0 
+radarset  941587884 10  3 cc  kf    -     -         5385   40    0 
+radarset  941587913 10  2 Bc  kc    kf    -         5345   60    0 
+radarset  941587950 10  1 Bf  -     -     -         5285   10    0 
+radarset  941587964 10 10 c   f     -     -         5275   20    0 
+radarset  941588037 10  9 f   -     -     -         5255    0    0 
+radarset  941588062 10  8 f   -     -     -         5255    0    0 
+radarset  941588090 10  7 f   -     -     -         5255    0    0 
+radarset  941588124 10  6 f   -     -     -         5255    0    0 
+radarset  941588145 10  5 f   -     -     -         5255    0    0 
+radarset  941588182 10  4 r   bc    kr    b         5255  200  215 Kd Ac
+radarset  941588223 10  3 f   -     -     -         5270    0    0 
+radarset  941588314 10  2 Br  bc    kf    -         5270   80    0 
+radarset  941588365 10  1 Bc  kf    -     -         5190   20    0 
+radarset  941588404 10 10 c   c     c     c         5170  120    0 7d 7c
+radarset  941588446 10  9 f   -     -     -         5050    0    0 
+radarset  941588489 10  8 f   -     -     -         5050    0    0 
+radarset  941588540 10  7 f   -     -     -         5050    0    0 
+radarset  941588585 10  6 f   -     -     -         5050    0    0 
+radarset  941588615 10  5 c   f     -     -         5050   20    0 
+radarset  941588661 10  4 cc  kf    -     -         5030   40    0 
+radarset  941588693 10  3 c   b     bc    kc        4990  160    0 8s 8d
+radarset  941588735 10  2 Br  b     b     -         4830  100  160 
+radarset  941588765 10  1 Bf  -     -     -         4890   10    0 
+radarset  941588802 10 10 c   f     -     -         4880   20    0 
+radarset  941588860 10  9 f   -     -     -         4860    0    0 
+radarset  941588873 10  8 c   c     r     -         4860  120  240 
+radarset  941588917 10  7 c   c     c     c         4980  120  340 Kd Jd
+radarset  941588964 10  6 f   -     -     -         5200    0    0 
+radarset  941589097  7  4 cc  kc    k     k         5200   60  180 6d Ah
+radarset  941589136  9  3 f   -     -     -         5320    0    0 
+radarset  941589239  8  3 f   -     -     -         5320    0    0 
+radarset  941589303  8  2 Bc  k     kc    kc        5320  120  290 3s Ts
+radarset  941589351  8  1 Bc  b     -     -         5490   40   60 
+radarset  941589387  8  8 r   -     -     -         5510   40   70 
+radarset  941589439  7  6 r   b     b     -         5540  100  180 
+radarset  941589465  8  6 c   b     b     b         5620  120  210 
+radarset  941589501  9  6 c   b     b     k         5710   80    0 5c 8c
+radarset  941589552  9  5 KQ  -     -     -         5630    0    0 
+radarset  941929786  9  5 f   -     -     -         5630    0    0 
+radarset  941929813  7  3 f   -     -     -         5630    0    0 
+radarset  941929848  9  3 f   -     -     -         5630    0    0 
+radarset  941929861  9  2 Bc  kc    kf    -         5630   60    0 
+radarset  941929928  9  1 Bf  -     -     -         5570   10    0 
+radarset  941929947  9  9 f   -     -     -         5560    0    0 
+radarset  941929994  9  8 f   -     -     -         5560    0    0 
+radarset  941930004  9  7 c   kf    -     -         5560   20    0 
+radarset  941930088  9  6 f   -     -     -         5540    0    0 
+radarset  941930133 10  6 cc  kc    kc    kc        5540  140  470 Tc 7c
+radarset  941930187 10  5 f   -     -     -         5870    0    0 
+radarset  941930256 10  4 f   -     -     -         5870    0    0 
+radarset  941930287 10  3 f   -     -     -         5870    0    0 
+radarset  941930309 10  2 Bcc kf    -     -         5870   60    0 
+radarset  941930356 10  1 Bf  -     -     -         5810   10    0 
+radarset  941930374 10 10 c   c     c     c         5800  160  530 9s 2s
+radarset  941930420 10  9 r   b     b     b         6170  160  350 As Ac
+radarset  941930456 10  8 f   -     -     -         6360    0    0 
+radarset  941930477 10  7 f   -     -     -         6360    0    0 
+radarset  941930544 10  6 c   bc    kc    k         6360  100    0 2h Kh
+radarset  941930593 10  5 f   -     -     -         6260    0    0 
+radarset  941930617 10  4 f   -     -     -         6260    0    0 
+radarset  941930648 10  3 f   -     -     -         6260    0    0 
+radarset  941930711 10  2 Bk  b     b     b         6260  120  240 
+radarset  941930750 10  1 Bc  b     b     b         6380  120  300 
+radarset  941930802 10 10 c   c     b     -         6560   80  150 
+radarset  941930845 10  9 f   -     -     -         6630    0    0 
+radarset  941930903 10  8 c   b     -     -         6630   40  130 
+radarset  941930930 10  7 cc  kcc   kc    kf        6720  140    0 
+radarset  941930987 10  6 f   -     -     -         6580    0    0 
+radarset  941931044 10  5 f   -     -     -         6580    0    0 
+radarset  941931102 10  4 f   -     -     -         6580    0    0 
+radarset  941931153 10  3 c   b     -     -         6580   40  100 
+radarset  941931215 10  2 Bc  kc    kc    k         6640  100    0 7s 8c
+radarset  941931260 10  1 Bc  k     kf    -         6540   20    0 
+radarset  941931320 10 10 f   -     -     -         6520    0    0 
+radarset  941931353 10  9 c   f     -     -         6520   20    0 
+radarset  941931470 10  8 f   -     -     -         6500    0    0 
+radarset  941931503 10  7 f   -     -     -         6500    0    0 
+radarset  941931552  9  5 c   c     c     c         6500  120    0 Qh Ad
+radarset  941931588  8  4 cc  k     kf    -         6380   40    0 
+radarset  941931621  8  3 f   -     -     -         6340    0    0 
+radarset  941931649  9  2 Bc  kf    -     -         6340   40    0 
+radarset  941931677  9  1 Bc  b     -     -         6300   40  100 
+radarset  941931698 10 10 r   b     -     -         6360   60  130 
+radarset  941931713 10  9 c   k     b     b         6430  140  410 
+radarset  941931748 10  8 f   -     -     -         6700    0    0 
+radarset  941931799 10  7 f   -     -     -         6700    0    0 
+radarset  941931848  8  4 cc  b     b     -         6700  100  220 
+radarset  941931879  8  3 f   -     -     -         6820    0    0 
+radarset  941931925  8  2 B   -     -     -         6820   20   30 
+radarset  941931940  7  1 Bc  b     b     -         6830   80  180 
+radarset  941931968  7  7 f   -     -     -         6930    0    0 
+radarset  941931989  8  6 f   -     -     -         6930    0    0 
+radarset  941932020  7  5 c   c     k     f         6930   60    0 
+radarset  941932071  7  4 f   -     -     -         6870    0    0 
+radarset  941932096  7  3 c   b     -     -         6870   40   90 
+radarset  941932119  8  2 Bc  kf    -     -         6920   40    0 
+radarset  941932145  8  1 Bc  b     b     b         6880  120  260 2c 9c
+radarset  941932176  8  8 f   -     -     -         7020    0    0 
+radarset  941932209  8  7 f   -     -     -         7020    0    0 
+radarset  941932243  8  6 f   -     -     -         7020    0    0 
+radarset  941932287  8  5 ccc k     b     bc        7020  200    0 Jh Ts
+radarset  941932381  9  5 f   -     -     -         6820    0    0 
+radarset  941932436  9  4 cc  kc    kc    kc        6820  140    0 Ac Th
+radarset  941932498  9  3 f   -     -     -         6680    0    0 
+radarset  941932563  9  2 Br  b     b     bc        6680  180    0 Js Jc
+radarset  941932592  9  1 Bc  k     kf    -         6500   40    0 
+radarset  941932641  8  8 f   -     -     -         6460    0    0 
+radarset  941932666  7  6 f   -     -     -         6460    0    0 
+radarset  941932675  7  5 c   b     -     -         6460   40  120 
+radarset  941932714  8  5 f   -     -     -         6540    0    0 
+radarset  941932758  8  4 f   -     -     -         6540    0    0 
+radarset  941932830 10  5 cc  kf    -     -         6540   40    0 
+radarset  941932881 10  4 f   -     -     -         6500    0    0 
+radarset  941932927 10  3 f   -     -     -         6500    0    0 
+radarset  941932965 10  2 Bk  b     -     -         6500   40   90 
+radarset  941932981 10  1 Bc  kf    -     -         6550   20    0 
+radarset  941933020 10 10 f   -     -     -         6530    0    0 
+radarset  941933046 10  9 f   -     -     -         6530    0    0 
+radarset  941933090 10  8 f   -     -     -         6530    0    0 
+radarset  941933126 10  7 c   b     b     b         6530  140  410 Ts Ks
+radarset  941933174 10  6 c   c     f     -         6800   40    0 
+radarset  941933228 10  5 f   -     -     -         6760    0    0 
+radarset  941933300 10  4 f   -     -     -         6760    0    0 
+radarset  941933357  9  3 cc  kf    -     -         6760   40    0 
+radarset  941933443  9  2 Br  b     b     -         6720  100  170 
+radarset  941933484  8  1 Bc  kf    -     -         6790   20    0 
+radarset  941933520  8  8 c   b     b     b         6770  120  420 3h Ad
+radarset  941933604  8  7 cc  c     f     -         7070   60    0 
+radarset  941933648  9  6 f   -     -     -         7010    0    0 
+radarset  941933703 10  5 cc  kf    -     -         7010   40    0 
+radarset  941933771  9  4 f   -     -     -         6970    0    0 
+radarset  941933867  9  3 c   k     kc    k         6970   60    0 Qs 8s
+radarset  941933917 10  2 Bc  kf    -     -         6910   40    0 
+radarset  941933971 10  1 Bc  kf    -     -         6870   20    0 
+radarset  941934034 10 10 c   br    b     -         6850  120  240 
+radarset  941934100 10  9 f   -     -     -         6970    0    0 
+radarset  941934116 10  8 c   c     b     r         6970  180    0 4d 8d
+radarset  941934199  9  7 f   -     -     -         6790    0    0 
+radarset  941934227  9  6 f   -     -     -         6790    0    0 
+radarset  941934270  9  5 c   b     b     b         6790  120    0 6s 7c
+radarset  941934316 10  4 c   b     b     b         6670  120  210 
+radarset  941934377 10  3 f   -     -     -         6760    0    0 
+radarset  941934396 10  2 Bk  kf    -     -         6760   20    0 
+radarset  941934459 10  1 Bc  kc    kc    k         6740   80  200 Kd 8d
+radarset  941934512 10 10 c   k     b     c         6860  120    0 5s 5d
+radarset  941934581 10  9 f   -     -     -         6740    0    0 
+radarset  941934615 10  8 cc  cc    b     b         6740  160    0 2d 2h
+radarset  941934706 10  7 f   -     -     -         6580    0    0 
+radarset  941934737 10  6 f   -     -     -         6580    0    0 
+radarset  941934784 10  5 f   -     -     -         6580    0    0 
+radarset  941934815 10  4 f   -     -     -         6580    0    0 
+radarset  941934887 10  3 c   b     b     b         6580  120  290 Js Qh
+radarset  941934939 10  2 Bf  -     -     -         6750   20    0 
+radarset  941934985 10  1 Bc  kf    -     -         6730   40    0 
+radarset  941935055 10 10 c   cc    f     -         6690   80    0 
+radarset  941935117 10  9 c   f     -     -         6610   20    0 
+radarset  941935160 10  8 c   k     b     -         6590   60  110 
+radarset  941935236 10  7 f   -     -     -         6640    0    0 
+radarset  941935331 10  6 c   c     kc    kc        6640  120  310 8s 7d
+radarset  941935399 10  5 c   c     k     f         6830   60    0 
+radarset  941935446 10  4 f   -     -     -         6770    0    0 
+radarset  941935478 10  3 fQ  -     -     -         6770    0    0 
+radarset  942279002 10  4 KQ  -     -     -         6305    0    0 
+radarset  942279312  9  8 cc  kf    -     -         6305   40    0 
+radarset  942279384 10  8 f   -     -     -         6265    0    0 
+radarset  942279418 10  8 f   -     -     -         6265    0    0 
+radarset  942279489 10  6 f   -     -     -         6265    0    0 
+radarset  942279517 10  5 f   -     -     -         6265    0    0 
+radarset  942279577 10  4 f   -     -     -         6265    0    0 
+radarset  942279606 10  3 f   -     -     -         6265    0    0 
+radarset  942279637 10  2 Bk  k     kf    -         6265   20    0 
+radarset  942279684 10  1 Bc  k     kf    -         6245   20    0 
+radarset  942279751 10 10 r   b     b     b         6225  140  450 Ah Ac
+radarset  942279812 10  9 c   f     -     -         6535   40    0 
+radarset  942279840 10  8 c   f     -     -         6495   40    0 
+radarset  942279858 10  7 c   cr    rc    c         6455  300  595 Ts Jh
+radarset  942279953 10  6 f   -     -     -         6750    0    0 
+radarset  942279990 10  5 f   -     -     -         6750    0    0 
+radarset  942280035 10  4 f   -     -     -         6750    0    0 
+radarset  942280064 10  3 f   -     -     -         6750    0    0 
+radarset  942280119 10  2 Bk  kc    kf    -         6750   40    0 
+radarset  942280181 10  1 Bc  kc    kf    -         6710   40    0 
+radarset  942280255 10 10 f   -     -     -         6670    0    0 
+radarset  942280283 10  9 c   k     c     k         6670  140    0 2h 8h
+radarset  942280332 10  8 f   -     -     -         6530    0    0 
+radarset  942280433 10  7 f   -     -     -         6530    0    0 
+radarset  942280474 10  6 f   -     -     -         6530    0    0 
+radarset  942280493 10  5 f   -     -     -         6530    0    0 
+radarset  942280545 10  4 f   -     -     -         6530    0    0 
+radarset  942280584 10  3 f   -     -     -         6530    0    0 
+radarset  942280606 10  2 Bc  kc    kf    -         6530   60    0 
+radarset  942280649 10  1 Bf  -     -     -         6470   10    0 
+radarset  942280671 10 10 c   k     f     -         6460   40    0 
+radarset  942280691 10  9 c   f     -     -         6420   20    0 
+radarset  942280739 10  8 f   -     -     -         6400    0    0 
+radarset  942280801 10  7 f   -     -     -         6400    0    0 
+radarset  942280840 10  6 f   -     -     -         6400    0    0 
+radarset  942280871 10  5 f   -     -     -         6400    0    0 
+radarset  942280944 10  4 f   -     -     -         6400    0    0 
+radarset  942281039 10  3 f   -     -     -         6400    0    0 
+radarset  942281150 10  2 Bf  -     -     -         6400   20    0 
+radarset  942281204 10  1 Bf  -     -     -         6380   10    0 
+radarset  942281248 10 10 f   -     -     -         6370    0    0 
+radarset  942281264 10  9 c   f     -     -         6370   20    0 
+radarset  942281317 10  8 f   -     -     -         6350    0    0 
+radarset  942281368 10  7 f   -     -     -         6350    0    0 
+radarset  942281435 10  6 cc  kc    k     b         6350  120  370 Kh Qd
+radarset  942281498 10  5 cc  f     -     -         6600   40    0 
+radarset  942281596 10  4 r   b     -     -         6560   60  170 
+radarset  942281665 10  3 f   -     -     -         6670    0    0 
+radarset  942281745  7  1 Bc  kf    -     -         6670   40    0 
+radarset  942281778  7  1 Bf  -     -     -         6630   10    0 
+radarset  942281821  8  8 c   fQ    -     -         6620   20    0 
+radarset  942364642 10  8 r   c     f     -         6600   60    0 
+radarset  942364710 10  7 c   b     -     -         6540   40  120 
+radarset  942364768 10  6 f   -     -     -         6620    0    0 
+radarset  942364809 10  5 f   -     -     -         6620    0    0 
+radarset  942364884 10  4 r   -     -     -         6620   40   70 
+radarset  942364905 10  3 f   -     -     -         6650    0    0 
+radarset  942364932 10  2 Bc  kf    -     -         6650   40    0 
+radarset  942364974 10  1 Bc  b     -     -         6610   40   80 
+radarset  942364996 10 10 c   f     -     -         6650   20    0 
+radarset  942365050 10  9 f   -     -     -         6630    0    0 
+radarset  942365087 10  8 f   -     -     -         6630    0    0 
+radarset  942365135 10  7 c   k     c     c         6630  120    0 Jd Kc
+radarset  942365211 10  6 f   -     -     -         6510    0    0 
+radarset  942365289 10  5 f   -     -     -         6510    0    0 
+radarset  942365349 10  4 f   -     -     -         6510    0    0 
+radarset  942365388 10  3 f   -     -     -         6510    0    0 
+radarset  942365456 10  2 Bc  kc    kr    b         6510  180  430 8c 4c
+radarset  942365515 10  1 Bcc kf    -     -         6760   80    0 
+radarset  942365571 10 10 c   f     -     -         6680   40    0 
+radarset  942365599 10  9 f   -     -     -         6640    0    0 
+radarset  942365620 10  8 f   -     -     -         6640    0    0 
+radarset  942365677 10  7 c   f     -     -         6640   40    0 
+radarset  942365741 10  6 c   rc    c     c         6600  180  420 5s Qs
+radarset  942365806 10  5 f   -     -     -         6840    0    0 
+radarset  942365855 10  4 ccc cc    c     c         6840  220  820 4d Jd
+radarset  942365931 10  3 f   -     -     -         7440    0    0 
+radarset  942365977 10  2 Bf  -     -     -         7440   20    0 
+radarset  942366114 10  1 Bc  b     b     b         7420  140  300 6d 8d
+radarset  942366139 10 10 f   -     -     -         7580    0    0 
+radarset  942366211 10  9 f   -     -     -         7580    0    0 
+radarset  942366284 10  8 f   -     -     -         7580    0    0 
+radarset  942366338 10  7 c   f     -     -         7580   40    0 
+radarset  942366443  9  5 f   -     -     -         7540    0    0 
+radarset  942366473 10  5 f   -     -     -         7540    0    0 
+radarset  942366495 10  4 cc  bc    kc    k         7540  140  450 9c 5c
+radarset  942366546  9  3 f   -     -     -         7850    0    0 
+radarset  942366601  9  2 Bf  -     -     -         7850   20    0 
+radarset  942366651 10  1 Bf  -     -     -         7830   10    0 
+radarset  942366693 10 10 f   -     -     -         7820    0    0 
+radarset  942366739 10  9 f   -     -     -         7820    0    0 
+radarset  942366782 10  8 r   b     bc    c         7820  200    0 Kd Kc
+radarset  942366829 10  7 cc  r     b     c         7620  180    0 Th 8h
+radarset  942366887 10  6 f   -     -     -         7440    0    0 
+radarset  942366928 10  5 c   f     -     -         7440   20    0 
+radarset  942366992 10  4 c   k     kf    -         7420   20    0 
+radarset  942367056 10  3 rc  kc    kc    kf        7400  120    0 
+radarset  942367129 10  2 Br  b     b     b         7280  160  450 Kh Ks
+radarset  942367175 10  1 Bc  kf    -     -         7570   40    0 
+radarset  942881475 10  9 c   b     b     b         9210  120  250 
+radarset  942881542 10  8 f   -     -     -         9340    0    0 
+radarset  942881585  9  6 f   -     -     -         9340    0    0 
+radarset  942881635 10  5 r   b     b     -         9340  100  260 
+radarset  942881687 10  4 f   -     -     -         9500    0    0 
+radarset  942881736 10  3 c   c     b     b         9500  120  220 
+radarset  942881784 10  2 Bc  krc   krr   brr       9600  480    0 6c 4h
+radarset  942881887 10  1 Bc  k     b     b         9120  100    0 9c 2h
+radarset  942881941 10 10 f   -     -     -         9020    0    0 
+radarset  942882002 10  9 c   b     c     c         9020  120    0 Ts Ad
+radarset  942882071 10  8 f   -     -     -         8900    0    0 
+radarset  942882120 10  7 f   -     -     -         8900    0    0 
+radarset  942882165 10  6 f   -     -     -         8900    0    0 
+radarset  942882201 10  5 c   k     f     -         8900   20    0 
+radarset  942882245 10  4 cc  r     b     b         8880  160    0 Td Kc
+radarset  942882290 10  3 f   -     -     -         8720    0    0 
+radarset  942882339  9  2 Bk  k     kf    -         8720   20    0 
+radarset  942882393 10  1 Bc  k     kf    -         8700   20    0 
+radarset  942882436 10 10 f   -     -     -         8680    0    0 
+radarset  942882498 10  9 f   -     -     -         8680    0    0 
+radarset  942882550 10  8 c   c     f     -         8680   40    0 
+radarset  942882630 10  7 Q   -     -     -         8640    0    0 
+radarset  942884604 10  5 f   -     -     -         8640    0    0 
+radarset  942884645 10  4 f   -     -     -         8640    0    0 
+radarset  942884684 10  3 f   -     -     -         8640    0    0 
+radarset  942884719 10  2 Bk  b     -     -         8640   40  110 
+radarset  942884744 10  1 Bc  k     kc    kc        8710  100    0 Jd 8h
+radarset  942884810 10 10 c   c     r     b         8610  160  520 Tc Jc
+radarset  942884866 10  9 c   b     -     -         8970   40   90 
+radarset  942884891  9  7 c   b     b     -         9020   80  180 
+radarset  942884951  9  7 f   -     -     -         9120    0    0 
+radarset  942884978  9  6 f   -     -     -         9120    0    0 
+radarset  942885020  9  5 f   -     -     -         9120    0    0 
+radarset  942885068  9  4 cc  c     f     -         9120   60    0 
+radarset  942885099  8  2 Bk  k     kf    -         9060   20    0 
+radarset  942885130  8  1 Bc  k     k     kf        9040   20    0 
+radarset  942885171  8  8 f   -     -     -         9020    0    0 
+radarset  942885182  8  7 c   f     -     -         9020   40    0 
+radarset  942885209  9  6 cc  bc    kr    b         8980  200  430 7h 8c
+radarset  942885253  9  5 f   -     -     -         9210    0    0 
+radarset  942885284  9  4 r   b     b     b         9210  140  270 
+radarset  942885315  9  3 f   -     -     -         9340    0    0 
+radarset  942885352  9  2 Bc  k     k     kf        9340   40    0 
+radarset  942885422  9  1 Bf  -     -     -         9300   10    0 
+radarset  942885441  9  9 c   k     c     k         9290   60    0 8h 3h
+radarset  942885500  9  8 f   -     -     -         9230    0    0 
+radarset  942885528  9  7 f   -     -     -         9230    0    0 
+radarset  942885550  9  6 f   -     -     -         9230    0    0 
+radarset  942885578  9  5 f   -     -     -         9230    0    0 
+radarset  942885623  9  4 cc  kc    kf    -         9230   80    0 
+radarset  942885715  8  3 f   -     -     -         9150    0    0 
+radarset  942885745  8  2 Bc  kc    kr    kc        9150  180  430 6s Js
+radarset  942885801  7  1 Bf  -     -     -         9400   10    0 
+radarset  942885857  7  7 c   c     c     k         9390  100    0 Jd Th
+radarset  942885888  7  6 f   -     -     -         9290    0    0 
+radarset  942885906  7  5 c   b     -     -         9290   40   70 
+radarset  942885940  9  5 f   -     -     -         9320    0    0 
+radarset  942885967  9  4 r   -     -     -         9320   40   70 
+radarset  942885984  9  3 f   -     -     -         9350    0    0 
+radarset  942886022  9  2 Bk  k     kf    -         9350   20    0 
+radarset  942886058  8  1 BKQ -     -     -         9330   10    0 
+radarset  943313235 10  3 f   -     -     -         9169    0    0 
+radarset  943313284 10  2 Bk  kf    -     -         9169   20    0 
+radarset  943313333 10  1 Bf  -     -     -         9149   10    0 
+radarset  943313385 10 10 c   f     -     -         9139   20    0 
+radarset  943313445 10  9 f   -     -     -         9119    0    0 
+radarset  943313501 10  8 f   -     -     -         9119    0    0 
+radarset  943313556  9  6 f   -     -     -         9119    0    0 
+radarset  943313636 10  6 f   -     -     -         9119    0    0 
+radarset  943313720 10  5 c   r     r     b         9119  180  400 2h 2d
+radarset  943313823  8  4 f   -     -     -         9339    0    0 
+radarset  943313847  8  3 f   -     -     -         9339    0    0 
+radarset  943313897  8  2 Bk  kf    -     -         9339   20    0 
+radarset  943313922  8  1 Bcc kf    -     -         9319   40    0 
+radarset  943313950  8  8 f   -     -     -         9279    0    0 
+radarset  943313956  9  8 c   b     -     -         9279   40  120 
+radarset  943314001  9  7 f   -     -     -         9359    0    0 
+radarset  943314041  8  5 r   b     -     -         9359   60  140 
+radarset  943314075  9  5 cc  c     f     -         9439   60    0 
+radarset  943314123  9  4 f   -     -     -         9379    0    0 
+radarset  943314202  9  3 f   -     -     -         9379    0    0 
+radarset  943314281  8  2 Bk  b     b     bc        9379  160    0 Jh 7c
+radarset  943314317  8  1 Bc  kf    -     -         9219   40    0 
+radarset  943314369  8  8 cc  f     -     -         9179   40    0 
+radarset  943314428  8  7 f   -     -     -         9139    0    0 
+radarset  943314451  8  6 f   -     -     -         9139    0    0 
+radarset  943314484  8  5 f   -     -     -         9139    0    0 
+radarset  943314539  9  4 f   -     -     -         9139    0    0 
+radarset  943314581  9  3 f   -     -     -         9139    0    0 
+radarset  943314605  9  2 Bk  kc    k     k         9139   40    0 6h 7d
+radarset  943314653  9  1 Bc  b     -     -         9099   40   60 
+radarset  943314691  9  9 f   -     -     -         9119    0    0 
+radarset  943314715  9  8 f   -     -     -         9119    0    0 
+radarset  943314746  9  7 r   b     b     b         9119  140  350 9h 9c
+radarset  943314804  9  6 f   -     -     -         9329    0    0 
+radarset  943314825  9  6 c   f     -     -         9329   20    0 
+radarset  943314870  8  4 f   -     -     -         9309    0    0 
+radarset  943314897  8  4 f   -     -     -         9309    0    0 
+radarset  943314927  7  2 Bk  k     kf    -         9309   20    0 
+radarset  943314950  7  1 Bf  -     -     -         9289   10    0 
+radarset  943314972  7  7 c   c     c     f         9279   80    0 
+radarset  943315002  7  6 f   -     -     -         9199    0    0 
+radarset  943315036  7  5 f   -     -     -         9199    0    0 
+radarset  943315069  7  4 f   -     -     -         9199    0    0 
+radarset  943315109  6  4 f   -     -     -         9199    0    0 
+radarset  943315146  5  2 Bk  b     b     k         9199   80    0 4s Tc
+radarset  943315183  5  1 Bf  -     -     -         9119   10    0 
+radarset  943315203  5  5 f   -     -     -         9109    0    0 
+radarset  943315232  5  4 c   b     -     -         9109   40   80 
+radarset  943315251  5  3 f   -     -     -         9149    0    0 
+radarset  943315259  5  2 Bf  -     -     -         9149   20    0 
+radarset  943315268  5  1 Bf  -     -     -         9129   10    0 
+radarset  943315305  4  4 r   -     -     -         9119   40   70 
+radarset  943315313  4  3 cc  r     b     c         9149  160  330 2d 6d
+radarset  943315341  4  2 Bk  k     k     k         9319   20    0 4s 2h
+radarset  943315373  4  1 Bc  kf    -     -         9299   20    0 
+radarset  943315389  5  5 c   r     -     -         9279   60  120 
+radarset  943315408  5  4 c   k     b     b         9339  120  230 
+radarset  943315436  5  3 cc  f     -     -         9449   40    0 
+radarset  943315456  5  2 Bk  b     b     b         9409  120    0 Js Ts
+radarset  943315503  5  1 Bc  kf    -     -         9289   40    0 
+radarset  943315535  5  5 f   -     -     -         9249    0    0 
+radarset  943315543  5  4 r   r     b     b         9249  160  300 
+radarset  943315570  5  3 cc  f     -     -         9389   40    0 
+radarset  943315586  5  2 Bc  kc    kc    k         9349  100  210 4h Ts
+radarset  943315613  6  1 Br  bc    kc    k         9459  140    0 Ah Kh
+radarset  943315651  6  6 c   r     -     -         9319   60  130 
+radarset  943315669  6  5 c   c     c     c         9389  120    0 2d As
+radarset  943315693  6  4 cf  -     -     -         9269   20    0 
+radarset  943315736  6  3 f   -     -     -         9249    0    0 
+radarset  943315759  6  2 Bk  k     k     k         9249   20    0 Ac 4s
+radarset  943315780  6  1 Bc  kc    kc    b         9229  140  260 
+radarset  943315818  6  6 f   -     -     -         9349    0    0 
+radarset  943315845  6  5 cc  c     f     -         9349   60    0 
+radarset  943315877  7  5 f   -     -     -         9289    0    0 
+radarset  943315887  7  4 c   c     f     -         9289   40    0 
+radarset  943315916  7  3 f   -     -     -         9249    0    0 
+radarset  943315927  7  2 Bk  f     -     -         9249   20    0 
+radarset  943315946  7  1 Bc  b     -     -         9229   40   80 
+radarset  943315964  7  7 r   -     -     -         9269   40   70 
+radarset  943315970  7  6 f   -     -     -         9299    0    0 
+radarset  943316031  7  5 f   -     -     -         9299    0    0 
+radarset  943316076  7  4 f   -     -     -         9299    0    0 
+radarset  943316103  8  4 c   cc    f     -         9299   60    0 
+radarset  943316146  9  3 c   f     -     -         9239   20    0 
+radarset  943316174  9  2 Bcc c     r     b         9219  220  840 Tc Td
+radarset  943316209  9  1 Bc  kf    -     -         9839   20    0 
+radarset  943316241  9  9 c   f     -     -         9819   20    0 
+radarset  943316298  9  8 f   -     -     -         9799    0    0 
+radarset  943316320  9  7 f   -     -     -         9799    0    0 
+radarset  943316343  9  6 c   f     -     -         9799   40    0 
+radarset  943316374  9  5 r   b     b     k         9759  100    0 Ts Th
+radarset  943316421  9  4 f   -     -     -         9659    0    0 
+radarset  943316439  9  3 c   b     -     -         9659   40  140 
+radarset  943316478  9  2 Bk  kf    -     -         9759   20    0 
+radarset  943316538  9  1 Bf  -     -     -         9739   10    0 
+radarset  943316575  9  9 f   -     -     -         9729    0    0 
+radarset  943316639  9  8 f   -     -     -         9729    0    0 
+radarset  943316680  9  6 c   b     b     b         9729  120  300 Jc Qd
+radarset  943316729  8  5 r   r     b     k         9909  140  380 Js Jh
+radarset  943316770  9  5 f   -     -     -        10149    0    0 
+radarset  943316808 10  4 f   -     -     -        10149    0    0 
+radarset  943316843 10  3 f   -     -     -        10149    0    0 
+radarset  943316872 10  2 Bc  kc    kc    kc       10149  140  290 4c 3c
+radarset  943316904 10  1 Bc  k     kf    -        10299   20    0 
+radarset  943316952  9  9 f   -     -     -        10279    0    0 
+radarset  943316997  9  8 rc  c     r     b        10279  200  370 
+radarset  943317046  9  7 f   -     -     -        10449    0    0 
+radarset  943317087 10  7 f   -     -     -        10449    0    0 
+radarset  943317135 10  6 f   -     -     -        10449    0    0 
+radarset  943317160 10  5 cc  kc    kf    -        10449   60    0 
+radarset  943317220 10  4 c   k     kf    -        10389   20    0 
+radarset  943317277 10  3 f   -     -     -        10369    0    0 
+radarset  943317344 10  2 Bc  kcc   k     k        10369  100    0 Kd 3c
+radarset  943317383 10  1 Bf  -     -     -        10269   10    0 
+radarset  943317430 10 10 c   c     b     b        10259  160    0 Jd Td
+radarset  943317485 10  9 f   -     -     -        10099    0    0 
+radarset  943317562 10  8 r   b     bc    k        10099  140    0 Qc Qh
+radarset  943317603 10  7 c   f     -     -         9959   20    0 
+radarset  943317647 10  6 cc  c     r     b         9939  200  640 Jc 3c
+radarset  943317703 10  5 c   k     kf    -        10379   20    0 
+radarset  943317736 10  4 f   -     -     -        10359    0    0 
+radarset  943317813 10  3 f   -     -     -        10359    0    0 
+radarset  943317906 10  2 Bk  kf    -     -        10359   20    0 
+radarset  943317937  9  1 Bc  k     kf    -        10339   20    0 
+radarset  943317967  9  9 f   -     -     -        10319    0    0 
+radarset  943318023  9  8 f   -     -     -        10319    0    0 
+radarset  943318067  9  7 c   c     rc    c        10319  200    0 3c Ac
+radarset  943318116 10  7 cc  b     c     c        10119  140  370 9c Tc
+radarset  943318164 10  6 f   -     -     -        10349    0    0 
+radarset  943318176 10  5 f   -     -     -        10349    0    0 
+radarset  943318268 10  4 c   b     bc    kf       10349  120    0 
+radarset  943318340 10  3 f   -     -     -        10229    0    0 
+radarset  943318365 10  2 BQ  -     -     -        10229   20    0 
+radarset  943542431  3  2 Bk  b     -     -        10054   40   80 
+radarset  943542460  3  1 Bc  k     k     b        10094   60   80 
+radarset  943542490  3  3 c   k     f     -        10114   20    0 
+radarset  943542519  3  2 Bc  kf    -     -        10094   40    0 
+radarset  943542544  3  1 Bc  b     b     bc       10054  160    0 7d Kc
+radarset  943542573  3  3 f   -     -     -         9894    0    0 
+radarset  943542593  3  2 B   -     -     -         9894   20   30 
+radarset  943542596  3  1 Bf  -     -     -         9904   10    0 
+radarset  943542602  3  3 f   -     -     -         9894    0    0 
+radarset  943542609  3  2 Bf  -     -     -         9894   20    0 
+radarset  943542615  3  1 Bc  b     -     -         9874   40   80 
+radarset  943542630  3  3 c   b     -     -         9914   40   80 
+radarset  943542644  3  2 B   -     -     -         9954   20   30 
+radarset  943542647  3  1 Bcf -     -     -         9964   20    0 
+radarset  943542655  3  3 c   b     -     -         9944   40   70 
+radarset  943542667  3  2 B   -     -     -         9974   20   30 
+radarset  943542670  3  1 Br  -     -     -         9984   40   60 
+radarset  943542678  3  3 c   k     f     -        10004   20    0 
+radarset  943542702  3  2 Bf  -     -     -         9984   20    0 
+radarset  943542708  3  1 Bc  b     b     b         9964  120  240 Js 6s
+radarset  943542726  3  3 c   c     c     b        10084  120  260 4d Ad
+radarset  943542759  3  2 Bk  b     br    b        10224  200  380 
+radarset  943542800  3  1 Br  -     -     -        10404   40   60 
+radarset  943542821  4  3 r   b     -     -        10424   60  130 
+radarset  943542832  4  2 Bk  b     -     -        10494   40   60 
+radarset  943542849  4  1 Bf  -     -     -        10514   10    0 
+radarset  943542861  4  4 f   -     -     -        10504    0    0 
+radarset  943542867  4  3 r   -     -     -        10504   40   70 
+radarset  943542877  4  2 Bk  f     -     -        10534   20    0 
+radarset  943542889  5  1 Bc  kf    -     -        10514   40    0 
+radarset  943542912  6  6 c   b     b     b        10474  140  300 
+radarset  943542974  6  5 c   b     b     b        10634  140  360 
+radarset  943543036  6  4 f   -     -     -        10854    0    0 
+radarset  943543044  6  3 f   -     -     -        10854    0    0 
+radarset  943543073  6  2 B   -     -     -        10854   20   30 
+radarset  943543081  6  1 Bc  kf    -     -        10864   20    0 
+radarset  943543102  6  6 cc  c     r     c        10844  200  500 Qd Ah
+radarset  943543144  6  5 c   k     kf    -        11144   20    0 
+radarset  943543179  6  4 c   k     f     -        11124   20    0 
+radarset  943543209  4  2 Bk  b     b     b        11104  120  220 
+radarset  943543238  5  1 Bc  b     -     -        11204   40   80 
+radarset  943543262  5  5 f   -     -     -        11244    0    0 
+radarset  943543284  5  4 c   kf    -     -        11244   20    0 
+radarset  943543312  5  3 c   k     kf    -        11224   20    0 
+radarset  943543379  5  2 Bk  kf    -     -        11204   20    0 
+radarset  943543408  5  1 Bcc kc    kr    b        11184  180  320 
+radarset  943543438  5  5 f   -     -     -        11324    0    0 
+radarset  943543457  5  4 c   c     c     c        11324  120  340 9h 8d
+radarset  943543490  5  3 c   brr   b     b        11544  200  420 Ah Ad
+radarset  943543531  5  2 Bc  f     -     -        11764   40    0 
+radarset  943543566  5  1 Bcc kf    -     -        11724   40    0 
+radarset  943543584  5  5 c   b     b     b        11684  120  250 Qh Kd
+radarset  943543604  5  4 f   -     -     -        11814    0    0 
+radarset  943543624  5  3 c   k     f     -        11814   20    0 
+radarset  943543681  5  2 B   -     -     -        11794   20   30 
+radarset  943543698  5  1 Bf  -     -     -        11804   10    0 
+radarset  943543718  5  5 c   b     b     b        11794  120  210 
+radarset  943543748  5  4 c   b     b     b        11884  120    0 Qs 5s
+radarset  943543772  4  2 Bk  f     -     -        11764   20    0 
+radarset  943543808  4  1 Bcf -     -     -        11744   20    0 
+radarset  943543823  4  4 f   -     -     -        11724    0    0 
+radarset  943543846  5  4 c   k     b     k        11724   60    0 7d 3d
+radarset  943543897  6  3 c   kf    -     -        11664   20    0 
+radarset  943543926  6  2 Bk  k     k     k        11644   20    0 9d Td
+radarset  943543948  6  1 Bf  -     -     -        11624   10    0 
+radarset  943544007  6  6 c   c     c     f        11614  120    0 
+radarset  943544063  7  6 r   b     b     b        11494  140    0 Qd Ks
+radarset  943544103  7  5 f   -     -     -        11354    0    0 
+radarset  943544137  7  4 c   k     k     k        11354   20    0 Qh Ad
+radarset  943544168  7  3 f   -     -     -        11334    0    0 
+radarset  943544208  7  2 Bc  kf    -     -        11334   40    0 
+radarset  943544235  7  1 Bc  b     bcc   k        11294  160    0 Qs 8h
+radarset  943544282  7  7 c   k     k     c        11134   60  140 4c Ac
+radarset  943544337  7  6 c   c     f     -        11214   40    0 
+radarset  943544377  7  5 f   -     -     -        11174    0    0 
+radarset  943544400  7  4 r   -     -     -        11174   40   70 
+radarset  943544435  8  3 c   c     k     b        11204   80  170 7h 4h
+radarset  943544473  8  2 Bk  kf    -     -        11294   20    0 
+radarset  943544503  7  1 Bf  -     -     -        11274   10    0 
+radarset  943544544  7  7 f   -     -     -        11264    0    0 
+radarset  943544562  8  6 f   -     -     -        11264    0    0 
+radarset  943544593  8  5 cc  f     -     -        11264   40    0 
+radarset  943544640  8  5 c   b     b     -        11224   80  180 
+radarset  943544729  7  3 c   b     -     -        11324   40   90 
+radarset  943544751  8  2 Bc  kr    -     -        11374   80  230 
+radarset  943544777  8  1 Bc  bc    kccc  kc       11524  300    0 9c Th
+radarset  943544861  6  6 c   f     -     -        11224   20    0 
+radarset  943544891  6  5 f   -     -     -        11204    0    0 
+radarset  943544901  6  4 f   -     -     -        11204    0    0 
+radarset  943544908  6  3 f   -     -     -        11204    0    0 
+radarset  943544935  6  2 Bf  -     -     -        11204   20    0 
+radarset  943544989  6  1 Bc  kc    kc    kc       11184  140    0 9s 2s
+radarset  943545019  6  6 f   -     -     -        11044    0    0 
+radarset  943545056  6  5 c   c     rr    b        11044  240  520 8c 7s
+radarset  943545111  6  4 c   b     c     f        11324   80    0 
+radarset  943545152  6  3 f   -     -     -        11244    0    0 
+radarset  943545157  6  2 Bf  -     -     -        11244   20    0 
+radarset  943545174  6  1 Bc  b     b     b        11224  120  200 
+radarset  943545205  6  6 c   k     k     k        11304   20   50 9d Ac
+radarset  943545243  6  5 cc  k     b     b        11334  120  230 
+radarset  943545271  6  4 c   cc    kc    kf       11444  100    0 
+radarset  943545310  6  3 f   -     -     -        11344    0    0 
+radarset  943545353  7  2 Bk  kf    -     -        11344   20    0 
+radarset  943545409  7  1 Bf  -     -     -        11324   10    0 
+radarset  943545444  7  7 cc  c     f     -        11314   60    0 
+radarset  943545487  7  6 cc  f     -     -        11254   60    0 
+radarset  943545550  7  5 c   b     b     b        11194  120  300 6h Kh
+radarset  943545592  7  4 c   f     -     -        11374   20    0 
+radarset  943545641  7  3 f   -     -     -        11354    0    0 
+radarset  943545706  7  2 Bf  -     -     -        11354   20    0 
+radarset  943545737  8  1 Bf  -     -     -        11334   10    0 
+radarset  943545763  8  8 f   -     -     -        11324    0    0 
+radarset  943545827  9  8 f   -     -     -        11324    0    0 
+radarset  943545881  9  7 f   -     -     -        11324    0    0 
+radarset  943545962 10  7 f   -     -     -        11324    0    0 
+radarset  943546021 10  6 f   -     -     -        11324    0    0 
+radarset  943546068 10  5 cc  r     b     b        11324  160  520 5d 2d
+radarset  943546110 10  4 cc  f     -     -        11684   40    0 
+radarset  943546145 10  3 f   -     -     -        11644    0    0 
+radarset  943546178  9  2 Bk  b     -     -        11644   40   60 
+radarset  943546203  9  1 Bc  bc    kf    -        11664   60    0 
+radarset  943546233 10 10 f   -     -     -        11604    0    0 
+radarset  943546302 10  9 rc  rc    c     c        11604  220  780 Kh Ac
+radarset  943546374 10  8 cc  f     -     -        12164   40    0 
+radarset  943546454 10  7 cc  kc    kc    kc       12124  140    0 Td 8d
+radarset  943546532 10  6 f   -     -     -        11984    0    0 
+radarset  943546574 10  5 cc  f     -     -        11984   40    0 
+radarset  943546618 10  4 f   -     -     -        11944    0    0 
+radarset  943546638 10  3 f   -     -     -        11944    0    0 
+radarset  943546692 10  2 Bk  kf    -     -        11944   20    0 
+radarset  943546740 10  1 Bc  kc    kf    -        11924   80    0 
+radarset  943546804 10 10 f   -     -     -        11844    0    0 
+radarset  943546877 10  9 f   -     -     -        11844    0    0 
+radarset  943546964 10  8 cc  cc    c     f        11844  180    0 
+radarset  943547068 10  7 f   -     -     -        11664    0    0 
+radarset  943547150 10  7 c   k     b     b        11664  100  200 
+radarset  943547203  9  5 f   -     -     -        11764    0    0 
+radarset  943547279 10  5 f   -     -     -        11764    0    0 
+radarset  943547331 10  3 f   -     -     -        11764    0    0 
+radarset  943547376 10  2 Bk  c     k     f        11764   40    0 
+radarset  943547409 10  1 Bc  k     k     k        11724   20    0 5s 4h
+radarset  943547433 10 10 c   c     c     k        11704   80    0 Ts Jc
+radarset  943547490 10  9 c   r     r     c        11624  180  500 Jc 3c
+radarset  943547563 10  8 c   kc    kf    -        11944   40    0 
+radarset  943547629 10  7 cc  kc    kc    kf       11904  100    0 
+radarset  943547694 10  6 c   k     kf    -        11804   20    0 
+radarset  943547753 10  5 f   -     -     -        11784    0    0 
+radarset  943547787 10  4 f   -     Q     -        11784    0    0 
+radarset  943580315  9  5 f   -     -     -        11784    0    0 
+radarset  943580365  9  4 f   -     -     -        11784    0    0 
+radarset  943580407  9  3 f   -     -     -        11784    0    0 
+radarset  943580495  9  2 Bk  k     k     k        11784   20    0 4c Td
+radarset  943580598  9  1 Bc  kf    -     -        11764   20    0 
+radarset  943580645  9  9 f   -     -     -        11744    0    0 
+radarset  943580683  9  8 f   -     -     -        11744    0    0 
+radarset  943580737  8  6 cc  f     -     -        11744   40    0 
+radarset  943580772  9  6 f   -     -     -        11704    0    0 
+radarset  943580825  9  5 f   -     -     -        11704    0    0 
+radarset  943580854  9  4 f   -     -     -        11704    0    0 
+radarset  943580887  9  3 f   -     -     -        11704    0    0 
+radarset  943580943  9  2 Bc  k     k     k        11704   40  210 6c 7s
+radarset  943580991  9  1 Bf  -     -     -        11874   10    0 
+radarset  943581019  9  9 c   c     r     r        11864  220  490 4c Ac
+radarset  943581076  8  7 f   -     -     -        12134    0    0 
+radarset  943581108  8  7 r   b     b     c        12134  140  360 Kc Kh
+radarset  943581152  8  6 f   -     -     -        12354    0    0 
+radarset  943581232  8  5 f   -     -     -        12354    0    0 
+radarset  943581245  7  3 c   b     b     b        12354  120  320 8h 7h
+radarset  943581288  8  2 Bk  kc    kf    -        12554   40    0 
+radarset  943581338  8  1 Bc  k     kf    -        12514   20    0 
+radarset  943581387  8  8 f   -     -     -        12494    0    0 
+radarset  943581433  8  7 c   bc    kc    k        12494  100    0 Ts Ks
+radarset  943581497  8  6 c   f     -     -        12394   40    0 
+radarset  943581536  8  5 c   kc    kr    b        12354  160  410 Kd Th
+radarset  943581598  8  4 c   kf    -     -        12604   20    0 
+radarset  943581630  8  3 f   -     -     -        12584    0    0 
+radarset  943581680  7  2 Bk  b     b     b        12584  120  270 
+radarset  943581714  7  1 Bc  kc    kf    -        12734   40    0 
+radarset  943581778  7  7 c   b     b     b        12694  120    0 4d 2d
+radarset  943581860  9  8 f   -     -     -        12574    0    0 
+radarset  943581909  8  7 f   -     -     -        12574    0    0 
+radarset  943581931  8  6 f   -     -     -        12574    0    0 
+radarset  943581977  8  5 f   -     -     -        12574    0    0 
+radarset  943581998  9  4 c   f     -     -        12574   40    0 
+radarset  943582038  9  3 c   f     -     -        12534   20    0 
+radarset  943582063  9  2 Bf  -     -     -        12514   20    0 
+radarset  943582106 10  1 Bc  kf    -     -        12494   20    0 
+radarset  943582136 10 10 f   -     -     -        12474    0    0 
+radarset  943582164 10  9 f   -     -     -        12474    0    0 
+radarset  943582193 10  8 f   -     -     -        12474    0    0 
+radarset  943582243 10  7 f   -     -     -        12474    0    0 
+radarset  943582297 10  6 f   -     -     -        12474    0    0 
+radarset  943582323 10  5 c   kf    -     -        12474   20    0 
+radarset  943582380 10  4 cc  kf    -     -        12454   40    0 
+radarset  943582406 10  3 f   -     -     -        12414    0    0 
+radarset  943582445  9  2 Bf  -     -     -        12414   20    0 
+radarset  943582489  9  1 Bc  kf    -     -        12394   20    0 
+radarset  943582546  9  9 c   k     k     k        12374   20    0 Qh Js
+radarset  943582611 10  9 f   -     -     -        12354    0    0 
+radarset  943582635 10  8 f   -     -     -        12354    0    0 
+radarset  943582678 10  7 f   -     -     -        12354    0    0 
+radarset  943582712 10  6 f   -     -     -        12354    0    0 
+radarset  943582771 10  5 f   -     -     -        12354    0    0 
+radarset  943582804 10  4 f   -     -     -        12354    0    0 
+radarset  943582854 10  3 f   -     -     -        12354    0    0 
+radarset  943582886 10  2 Bk  kf    -     -        12354   20    0 
+radarset  943582912 10  1 Bf  -     -     -        12334   10    0 
+radarset  943582987 10  3 Q   -     -     -        12324    0    0 

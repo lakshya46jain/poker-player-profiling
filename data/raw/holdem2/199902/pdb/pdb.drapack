@@ -1,0 +1,444 @@
+drapack   919380504  9  5 f   -     -     -         4326    0    0 
+drapack   919380538  9  4 f   -     -     -         4326    0    0 
+drapack   919380579  9  3 f   -     -     -         4326    0    0 
+drapack   919380625  9  2 Bf  -     -     -         4326   20    0 
+drapack   919380661  7  1 Bf  -     -     -         4306   10    0 
+drapack   919380676  6  6 f   -     -     -         4296    0    0 
+drapack   919380689  6  5 f   -     -     -         4296    0    0 
+drapack   919380715  7  5 f   -     -     -         4296    0    0 
+drapack   919380749  7  4 f   -     -     -         4296    0    0 
+drapack   919380807  7  3 f   -     -     -         4296    0    0 
+drapack   919380852  8  2 Bk  k     k     bc        4296  100  120 Ks 2d
+drapack   919380893  8  1 Bc  kf    -     -         4316   40    0 
+drapack   919380954  8  8 f   -     -     -         4276    0    0 
+drapack   919381030  8  7 f   -     -     -         4276    0    0 
+drapack   919381071  7  5 f   -     -     -         4276    0    0 
+drapack   919381091  7  4 f   -     -     -         4276    0    0 
+drapack   919381146  7  3 f   -     -     -         4276    0    0 
+drapack   919381191  7  2 Bc  kc    k     kf        4276   60    0 
+drapack   919381250  7  1 Bf  -     -     -         4216   10    0 
+drapack   919381299  7  7 f   -     -     -         4206    0    0 
+drapack   919381332  7  6 f   -     -     -         4206    0    0 
+drapack   919381381  7  5 f   -     -     -         4206    0    0 
+drapack   919381462  7  4 f   -     -     -         4206    0    0 
+drapack   919381523  7  3 f   -     -     -         4206    0    0 
+drapack   919381562  7  2 Bc  c     c     c         4206  140    0 Qs 6s
+drapack   919381590  7  1 Bc  k     kf    -         4066   20    0 
+drapack   919381638  7  7 c   b     c     c         4046  120    0 Tc Qs
+drapack   919381693  7  6 f   -     -     -         3926    0    0 
+drapack   919381741  6  4 c   c     k     k         3926   40  110 Th 9h
+drapack   919381774  7  4 f   -     -     -         3996    0    0 
+drapack   919381813  7  3 f   -     -     -         3996    0    0 
+drapack   919381859  7  2 Bk  k     k     k         3996   20   70 2c Jh
+drapack   919381899  7  1 Bc  k     b     -         4046   80  200 
+drapack   919381938  7  7 f   -     -     -         4166    0    0 
+drapack   919381991  7  6 c   b     bf    -         4166   80    0 
+drapack   919382044  7  5 f   -     -     -         4086    0    0 
+drapack   919382104  7  4 f   -     -     -         4086    0    0 
+drapack   919382172  9  3 c   b     b     k         4086   80  220 Jd 9d
+drapack   919382231 10  2 Bk  f     -     -         4226   20    0 
+drapack   919382294 10  1 Bc  k     kf    -         4206   20    0 
+drapack   919382345  9  9 f   -     -     -         4186    0    0 
+drapack   919382392 10  9 cc  f     -     -         4186   80    0 
+drapack   919382459 10  8 f   -     -     -         4106    0    0 
+drapack   919382535  9  6 f   -     -     -         4106    0    0 
+drapack   919382581 10  6 f   -     -     -         4106    0    0 
+drapack   919382648 10  5 f   -     -     -         4106    0    0 
+drapack   919382700  9  4 f   -     -     -         4106    0    0 
+drapack   919382761 10  3 f   -     -     -         4106    0    0 
+drapack   919382862 10  2 Bc  c     k     k         4106   60    0 Td Ts
+drapack   919382952  9  1 Br  -     -     -         4046   40   60 
+drapack   919382987  7  7 f   -     -     -         4066    0    0 
+drapack   919383026  7  6 f   -     -     -         4066    0    0 
+drapack   919383042  7  5 f   -     -     -         4066    0    0 
+drapack   919383091  7  4 rc  rc    r     f         4066  240    0 
+drapack   919383143  6  3 f   -     -     -         3826    0    0 
+drapack   919383165  6  2 Bf  -     -     -         3826   20    0 
+drapack   919383183  6  1 Bc  k     b     -         3806   60  100 
+drapack   919383206  5  5 f   -     -     -         3846    0    0 
+drapack   919383223  5  4 f   -     -     -         3846    0    0 
+drapack   919383257  4  2 Br  b     k     k         3846   60  160 8h 8d
+drapack   919383288  3  1 Brc kc    krr   b         3946  300    0 2d 2s
+drapack   919383321  3  3 r   -     -     -         3646   40   70 
+drapack   919383336  2  1 B   -     -     -         3676   20   20 
+drapack   919383341  2  1 Bc  k     k     k         3676   20   40 Ts 2h
+drapack   919383354  2  2 B   -     -     -         3696   20   30 
+drapack   919383361  2  1 Br  -     -     -         3706   40   60 
+drapack   919383365  2  2 B   -     -     -         3726   20   30 
+drapack   919383367  2  1 Br  -     -     -         3736   40   60 
+drapack   919383370  2  2 B   -     -     -         3756   20   30 
+drapack   919383372  2  1 Bf  -     -     -         3766   10    0 
+drapack   919383374  2  2 B   -     -     -         3756   20   30 
+drapack   919383377  2  1 Bc  k     k     k         3766   20   40 4c 6h
+drapack   919383390  2  2 B   -     -     -         3786   20   30 
+drapack   919383397  2  1 Br  -     -     -         3796   40   60 
+drapack   919383400  2  2 Br  bc    r     b         3816  200  400 Ad Kd
+drapack   919383420  2  1 Bc  bc    k     b         4016  100  160 
+drapack   919383458  3  3 rc  c     rc    r         4076  280  570 Kc 8c
+drapack   919383480  3  2 Bc  f     -     -         4366   40    0 
+drapack   919383500  3  1 Bc  b     -     -         4326   40   60 
+drapack   919383510  3  3 r   f     -     -         4346   40    0 
+drapack   919383523  3  2 Bk  c     c     c         4306  120    0 7s 5d
+drapack   919383537  3  1 Br  b     -     -         4186   60  100 
+drapack   919383549  3  3 f   -     -     -         4226    0    0 
+drapack   919383566  3  2 Bk  f     -     -         4226   20    0 
+drapack   919383576  3  1 Br  -     -     -         4206   40   60 
+drapack   919383583  3  3 r   -     -     -         4226   40   70 
+drapack   919383592  3  2 B   -     -     -         4256   20   30 
+drapack   919383595  2  1 Bc  k     b     kf        4266   60    0 
+drapack   919383616  2  2 Bf  -     -     -         4206   20    0 
+drapack   919383627  2  1 Bc  k     k     k         4186   20    0 4d 6s
+drapack   919383641  2  2 B   -     -     -         4166   20   30 
+drapack   919383653  2  1 Bf  -     -     -         4176   10    0 
+drapack   919383654  2  2 Brc c     f     -         4166  100    0 
+drapack   919383672  2  1 Br  b     -     -         4066   60  100 
+drapack   919383681  2  2 B   -     -     -         4106   20   30 
+drapack   919383683  2  1 Br  b     bc    kc        4116  180    0 Ac 6h
+drapack   919383701  2  2 Bk  b     -     -         3936   40   60 
+drapack   919383732  2  1 Bf  -     -     -         3956   10    0 
+drapack   919383735  2  2 B   -     -     -         3946   20   30 
+drapack   919383739  2  1 Br  -     -     -         3956   40   60 
+drapack   919383747  2  2 B   -     -     -         3976   20   30 
+drapack   919383752  2  1 Brc kc    k     kf        3986   80    0 
+drapack   919383773  2  2 Br  b     k     k         3906   60    0 Ks Ac
+drapack   919383803  2  1 Bf  -     -     -         3846   10    0 
+drapack   919383805  2  2 B   -     -     -         3836   20   30 
+drapack   919383810  2  1 Bc  b     -     -         3846   40   60 
+drapack   919383817  2  2 B   -     -     -         3866   20   30 
+drapack   919383819  2  1 Bf  -     -     -         3876   10    0 
+drapack   919383821  2  2 B   -     -     -         3866   20   30 
+drapack   919383823  2  1 Brc k     b     kc        3876  140    0 Jd 7h
+drapack   919383837  2  2 B   -     -     -         3736   20   30 
+drapack   919383844  2  1 Br  -     -     -         3746   40   60 
+drapack   919383849  2  2 Br  b     k     k         3766   80   80 Qd Ac
+drapack   919383866  2  1 Bf  -     -     -         3766   10    0 
+drapack   919383869  2  2 Bk  k     b     -         3756   60   80 
+drapack   919383894  2  1 Br  -     -     -         3776   40   60 
+drapack   919383899  2  2 Bc  b     b     c         3796  140    0 9s 8c
+drapack   919383917  2  1 Br  -     -     -         3656   40   60 
+drapack   919383925  2  2 B   -     -     -         3676   20   30 
+drapack   919383929  2  1 Br  -     -     -         3686   40   60 
+drapack   919383932  2  2 B   -     -     -         3706   20   30 
+drapack   919383933  2  1 Bf  -     -     -         3716   10    0 
+drapack   919383935  2  2 Bc  bf    -     -         3706   60    0 
+drapack   919383946  2  1 Bf  -     -     -         3646   10    0 
+drapack   919383948  2  2 B   -     -     -         3636   20   30 
+drapack   919383950  2  1 Bf  -     -     -         3646   10    0 
+drapack   919383952  2  2 B   -     -     -         3636   20   30 
+drapack   919383955  2  1 Br  -     -     -         3646   40   60 
+drapack   919383958  2  2 B   -     -     -         3666   20   30 
+drapack   919383961  2  1 Br  br    b     kc        3676  180    0 Jh 7h
+drapack   919383980  2  2 Bk  k     c     c         3496  100  200 3d 8c
+drapack   919383999  2  1 Bf  -     -     -         3596   10    0 
+drapack   919384002  2  2 B   -     -     -         3586   20   30 
+drapack   919384007  2  1 Br  -     -     -         3596   40   60 
+drapack   919384014  2  2 B   -     -     -         3616   20   30 
+drapack   919384016  2  1 Br  b     -     -         3626   60  100 
+drapack   919384023  2  2 B   -     -     -         3666   20   30 
+drapack   919384025  2  1 Bf  -     -     -         3676   10    0 
+drapack   919384026  2  2 Br  -     -     -         3666   40   60 
+drapack   919384032  2  1 Br  b     kf    -         3686   60    0 
+drapack   919384051  2  2 B   -     -     -         3626   20   30 
+drapack   919384054  2  1 Br  b     b     k         3636  100  200 Ts Kc
+drapack   919384067  2  2 Bf  -     -     -         3736   20    0 
+drapack   919384081  2  1 Bf  -     -     -         3716   10    0 
+drapack   919384082  2  2 B   -     -     -         3706   20   30 
+drapack   919384093  2  1 Bcc bc    kf    -         3716   80    0 
+drapack   919384122  2  2 B   -     -     -         3636   20   30 
+drapack   919384125  2  1 Bcc k     k     bf        3646   80    0 
+drapack   919384155  2  2 B   -     -     -         3566   20   30 
+drapack   919384165  2  1 Bf  -     -     -         3576   10    0 
+drapack   919384166  2  2 Bk  bc    rc    c         3566  220    0 9h 3d
+drapack   919384204  2  1 Br  -     -     -         3346   40   60 
+drapack   919387482  4  4 f   -     -     -         3366    0    0 
+drapack   919387487  4  3 f   -     -     -         3366    0    0 
+drapack   919387510  4  2 Br  b     bc    c         3366  180    0 Kd 9d
+drapack   919387540  4  1 Bcc k     -     -         3186   40   80 
+drapack   919387597  6  6 f   -     -     -         3226    0    0 
+drapack   919387647  6  6 f   -     -     -         3226    0    0 
+drapack   919387661  6  5 c   k     k     kc        3226   60    0 3s Ks
+drapack   919387699  7  4 f   -     -     -         3166    0    0 
+drapack   919387729  7  3 f   -     -     -         3166    0    0 
+drapack   919387745  7  2 Bk  kf    -     -         3166   20    0 
+drapack   919387780  7  1 Bf  -     -     -         3146   10    0 
+drapack   919387794  7  7 f   -     -     -         3136    0    0 
+drapack   919387814  7  6 f   -     -     -         3136    0    0 
+drapack   919387835  7  5 r   b     b     -         3136  100  170 
+drapack   919387855  7  4 f   -     -     -         3206    0    0 
+drapack   919387860  7  3 f   -     -     -         3206    0    0 
+drapack   919387892  8  2 Bc  f     -     -         3206   40    0 
+drapack   919387929  8  1 Bf  -     -     -         3166   10    0 
+drapack   919387997  8  8 c   f     -     -         3156   20    0 
+drapack   919388047  8  7 r   r     r     b         3136  200  620 Ks Ah
+drapack   919388096  7  6 f   -     -     -         3556    0    0 
+drapack   919388113  8  5 c   f     -     -         3556   20    0 
+drapack   919388156 10  6 f   -     -     -         3536    0    0 
+drapack   919388188 10  5 f   -     -     -         3536    0    0 
+drapack   919388244  8  3 r   b     -     -         3536   60  100 
+drapack   919388270  8  3 cc  kr    b     b         3576  160    0 9c Ac
+drapack   919388327  8  2 Bk  kf    -     -         3416   20    0 
+drapack   919388381  9  1 Bc  kf    -     -         3396   20    0 
+drapack   919388413  9  9 r   b     c     c         3376  140    0 Jh Js
+drapack   919388463  8  7 r   b     -     -         3236   60  110 
+drapack   919388485  9  7 c   c     r     -         3286  120  250 
+drapack   919388530  9  6 f   -     -     -         3416    0    0 
+drapack   919388585  9  5 f   -     -     -         3416    0    0 
+drapack   919388610  9  4 c   f     -     -         3416   20    0 
+drapack   919388692  9  3 f   -     -     -         3396    0    0 
+drapack   919388748  9  2 Bc  kc    kf    -         3396   60    0 
+drapack   919388768  9  1 Bf  -     -     -         3336   10    0 
+drapack   919388823  9  9 r   c     f     -         3326   60    0 
+drapack   919388873  9  8 f   -     -     -         3266    0    0 
+drapack   919388940  9  7 f   -     -     -         3266    0    0 
+drapack   919388999  9  6 f   -     -     -         3266    0    0 
+drapack   919389052  9  5 f   -     -     -         3266    0    0 
+drapack   919389078  9  4 f   -     -     -         3266    0    0 
+drapack   919389118  9  3 f   -     -     -         3266    0    0 
+drapack   919389165 10  2 Bk  k     b     -         3266   60  160 
+drapack   919389210 10  1 Bf  -     -     -         3366   10    0 
+drapack   919389235 10 10 f   -     -     -         3356    0    0 
+drapack   919389274 10  9 r   r     b     b         3356  180  520 Kd Kc
+drapack   919389316 10  8 f   -     -     -         3696    0    0 
+drapack   919389365 10  7 f   -     -     -         3696    0    0 
+drapack   919389407 10  6 f   -     -     -         3696    0    0 
+drapack   919389450 10  5 f   -     -     -         3696    0    0 
+drapack   919389502 10  4 f   -     -     -         3696    0    0 
+drapack   919389544 10  3 c   kc    kf    -         3696   40    0 
+drapack   919389601 10  2 Bk  kc    kf    -         3656   40    0 
+drapack   919389649 10  1 Bc  kr    b     k         3616  120    0 5c 5s
+drapack   919389681  9  9 f   -     -     -         3496    0    0 
+drapack   919389723  9  8 f   -     -     -         3496    0    0 
+drapack   919389746 10  8 f   -     -     -         3496    0    0 
+drapack   919389784  9  6 f   -     -     -         3496    0    0 
+drapack   919389829  9  5 f   -     -     -         3496    0    0 
+drapack   919389862  9  4 c   b     -     -         3496   40  110 
+drapack   919389885  9  3 r   b     b     -         3566  100  200 
+drapack   919389907  9  2 Br  kc    k     b         3666  120  270 
+drapack   919389929  9  1 Bc  kf    -     -         3816   20    0 
+drapack   919389962  9  9 c   b     b     b         3796  120  320 
+drapack   919390017  9  8 f   -     -     -         3996    0    0 
+drapack   919390040  9  7 rc  c     c     c         3996  180    0 Ad Jc
+drapack   919390069  9  6 f   -     -     -         3816    0    0 
+drapack   919390141  9  5 f   -     -     -         3816    0    0 
+drapack   919390165  9  4 f   -     -     -         3816    0    0 
+drapack   919390206 10  4 c   bf    -     -         3816   40    0 
+drapack   919390234 10  3 f   -     -     -         3776    0    0 
+drapack   919390262 10  2 Bk  bc    k     k         3776   60  200 6d 8c
+drapack   919390302 10  1 Bf  -     -     -         3916   10    0 
+drapack   919390333 10 10 f   -     -     -         3906    0    0 
+drapack   919390376 10  9 f   -     -     -         3906    0    0 
+drapack   919390416  8  6 f   -     -     -         3906    0    0 
+drapack   919390449  8  5 f   -     -     -         3906    0    0 
+drapack   919390491  9  4 f   -     -     -         3906    0    0 
+drapack   919390522  9  3 Q   -     -     -         3906    0    0 
+drapack   919824101 10  7 f   -     -     -         3906    0    0 
+drapack   919824155 10  5 rr  rc    c     c         3906  220    0 Th Ah
+drapack   919824286  8  3 c   k     f     -         3686   20    0 
+drapack   919824332  8  3 f   -     -     -         3666    0    0 
+drapack   919824352  8  2 Br  b     -     -         3666   60  150 
+drapack   919824384  7  1 Bc  kc    kc    kf        3756  100    0 
+drapack   919824417  8  8 f   -     -     -         3656    0    0 
+drapack   919824429  8  7 f   -     -     -         3656    0    0 
+drapack   919824467  8  6 f   -     -     -         3656    0    0 
+drapack   919824527  9  6 rr  b     k     kf        3656  100    0 
+drapack   919824611  9  5 f   -     -     -         3556    0    0 
+drapack   919824658  9  5 f   -     -     -         3556    0    0 
+drapack   919824700  8  3 f   -     -     -         3556    0    0 
+drapack   919824755  8  2 Bk  r     b     b         3556  140  320 
+drapack   919824821  7  1 Bc  kc    kc    kf        3736  120    0 
+drapack   919824857  8  8 c   f     -     -         3616   20    0 
+drapack   919824883  9  8 f   -     -     -         3596    0    0 
+drapack   919824922  9  7 c   f     -     -         3596   20    0 
+drapack   919824962  9  6 f   -     -     -         3576    0    0 
+drapack   919825044 10  5 cc  kf    -     -         3576   40    0 
+drapack   919825080 10  4 f   -     -     -         3536    0    0 
+drapack   919825110  9  2 Bc  krc   kr    -         3536  180  510 
+drapack   919825182 10  1 Br  b     bc    kc        3866  200    0 Qc Qh
+drapack   919825218 10 10 r   b     b     k         3666  100  270 Qs Js
+drapack   919825259  9  8 rc  b     b     k         3836  120  360 5c 5s
+drapack   919825309 10  7 f   -     -     -         4076    0    0 
+drapack   919825327 10  6 f   -     -     -         4076    0    0 
+drapack   919825431 10  5 f   -     -     -         4076    0    0 
+drapack   919825455 10  4 f   -     -     -         4076    0    0 
+drapack   919825487 10  3 c   kf    -     -         4076   20    0 
+drapack   919825539 10  2 Bf  -     -     -         4056   20    0 
+drapack   919825577 10  1 Brc kc    kc    kc        4036  220    0 Kd Ad
+drapack   919825619 10 10 f   -     -     -         3816    0    0 
+drapack   919825665 10  9 cc  b     b     k         3816  100    0 8c 7s
+drapack   919825713 10  8 f   -     -     -         3716    0    0 
+drapack   919825760 10  7 f   -     -     -         3716    0    0 
+drapack   919825807 10  6 f   -     -     -         3716    0    0 
+drapack   919825851 10  5 f   -     -     -         3716    0    0 
+drapack   919825885 10  4 f   -     -     -         3716    0    0 
+drapack   919825937 10  3 f   -     -     -         3716    0    0 
+drapack   919825991 10  2 Bk  kf    -     -         3716   20    0 
+drapack   919826046  9  1 Bc  k     kf    -         3696   20    0 
+drapack   919826114  9  9 f   -     -     -         3676    0    0 
+drapack   919826150  9  8 f   -     -     -         3676    0    0 
+drapack   919826205  9  7 c   f     -     -         3676   20    0 
+drapack   919826222  9  6 f   -     -     -         3656    0    0 
+drapack   919826253 10  6 f   -     -     -         3656    0    0 
+drapack   919826311 10  5 f   -     -     -         3656    0    0 
+drapack   919826352 10  4 f   -     -     -         3656    0    0 
+drapack   919826403 10  3 c   kf    -     -         3656   20    0 
+drapack   919826448 10  2 Bk  kc    kf    -         3636   40    0 
+drapack   919826516 10  1 Bc  k     k     k         3596   20    0 Ks Th
+drapack   919826563 10 10 r   cc    f     -         3576  100    0 
+drapack   919826622 10  9 rr  cc    k     f         3476  120    0 
+drapack   919826720 10  8 c   k     kf    -         3356   20    0 
+drapack   919826817  8  5 c   kf    -     -         3336   20    0 
+drapack   919826855  8  4 f   -     -     -         3316    0    0 
+drapack   919826893  9  3 c   b     k     k         3316   40  160 3s 3c
+drapack   919826952  9  2 Bk  kf    -     -         3436   20    0 
+drapack   919827004 10  1 Bf  -     -     -         3416   10    0 
+drapack   919827057 10 10 f   -     -     -         3406    0    0 
+drapack   919827076 10  9 c   k     f     -         3406   20    0 
+drapack   919827136 10  8 f   -     -     -         3386    0    0 
+drapack   919827180 10  7 f   -     -     -         3386    0    0 
+drapack   919827227  9  5 f   -     -     -         3386    0    0 
+drapack   919827250  9  4 f   -     -     -         3386    0    0 
+drapack   919827292  9  3 f   -     -     -         3386    0    0 
+drapack   919827347 10  2 Bk  kf    -     -         3386   20    0 
+drapack   919827384 10  1 Bc  bc    k     b         3366  100    0 5d 7s
+drapack   919827416 10 10 f   -     -     -         3266    0    0 
+drapack   919827455 10  9 f   -     -     -         3266    0    0 
+drapack   919827531 10  8 f   -     -     -         3266    0    0 
+drapack   919827553 10  7 f   -     -     -         3266    0    0 
+drapack   919827591 10  6 f   -     -     -         3266    0    0 
+drapack   919827637 10  5 f   -     -     -         3266    0    0 
+drapack   919827675 10  4 f   -     -     -         3266    0    0 
+drapack   919827727 10  3 f   -     -     -         3266    0    0 
+drapack   919827782 10  2 Bk  bf    -     -         3266   40    0 
+drapack   919827866  9  1 Bc  kc    kc    k         3226   80  260 Kh Td
+drapack   919827929  9  9 f   -     -     -         3406    0    0 
+drapack   919827981  9  8 f   -     -     -         3406    0    0 
+drapack   919828036  9  7 c   f     -     -         3406   20    0 
+drapack   919828072  9  6 f   -     -     -         3386    0    0 
+drapack   919828113  9  5 f   -     -     -         3386    0    0 
+drapack   919828241  8  3 c   b     kc    kr        3386  240  780 8c 7c
+drapack   919828313  8  2 Bk  kf    -     -         3926   20    0 
+drapack   919828371  8  1 Bf  -     -     -         3906   10    0 
+drapack   919828435  8  8 c   k     k     f         3896   20    0 
+drapack   919828492  8  7 r   bc    c     c         3876  160    0 Qs Ts
+drapack   919828537  8  7 f   -     -     -         3716    0    0 
+drapack   919828626  7  5 r   kc    kf    -         3716   60    0 
+drapack   919828675  7  4 f   -     -     -         3656    0    0 
+drapack   919828797  6  3 f   -     -     -         3656    0    0 
+drapack   919828854  7  2 Bk  kc    kc    brc       3656  240    0 Js Qh
+drapack   919828902  7  1 Bf  -     -     -         3416   10    0 
+drapack   919828954  7  7 f   -     -     -         3406    0    0 
+drapack   919829059  6  5 f   -     -     -         3406    0    0 
+drapack   919829120  6  4 f   -     -     -         3406    0    0 
+drapack   919829153  7  4 c   c     c     r         3406  160  360 Ah 5h
+drapack   919829198  7  3 f   -     -     -         3606    0    0 
+drapack   919829265  8  2 Bk  k     k     k         3606   20   35 7d Ad
+drapack   919829310  7  1 Bc  kf    -     -         3621   20    0 
+drapack   919829372  7  7 c   f     -     -         3601   20    0 
+drapack   919829429  7  6 f   -     -     -         3581    0    0 
+drapack   919829500  7  5 f   -     -     -         3581    0    0 
+drapack   919829566  6  3 r   b     b     r         3581  180  360 Ad Ac
+drapack   919829618  6  3 f   -     -     -         3761    0    0 
+drapack   919829642  7  2 Bf  -     -     -         3761   20    0 
+drapack   919829672  7  1 Bc  kc    kf    -         3741   40    0 
+drapack   919829738  7  7 r   c     r     b         3701  180  410 8s 8h
+drapack   919829790  7  6 r   b     b     -         3931  100  190 
+drapack   919829822  7  5 c   b     b     f         4021   80    0 
+drapack   919829865  6  4 c   f     -     -         3941   20    0 
+drapack   919829904  5  2 c   b     -     -         3921   40   60 
+drapack   919829931  5  2 Bc  kf    -     -         3941   40    0 
+drapack   919829955  5  1 Bc  k     b     k         3901   60    0 4c 5d
+drapack   919829971  5  5 f   -     -     -         3841    0    0 
+drapack   919830018  5  4 f   -     -     -         3841    0    0 
+drapack   919830058  5  3 c   bc    k     kf        3841   60    0 
+drapack   919830114  5  2 Bc  bc    kc    kc        3781  160    0 6s 3s
+drapack   919830149  5  1 Bc  k     k     k         3621   20   40 Th 2h
+drapack   919830177  5  5 r   b     k     b         3641  100  220 
+drapack   919830220  4  3 f   -     -     -         3761    0    0 
+drapack   919830251  4  2 Bk  k     b     -         3761   60   80 
+drapack   919830277  4  1 Bc  b     k     b         3781   80    0 8d 7c
+drapack   919830292  4  4 r   -     -     -         3701   40   70 
+drapack   919830304  4  3 r   b     c     c         3731  140  290 2s Ah
+drapack   919830333  5  2 Bc  k     f     -         3881   40    0 
+drapack   919830359  5  1 Bc  kc    kf    -         3841   60    0 
+drapack   919830397  5  5 f   -     -     -         3781    0    0 
+drapack   919830424  5  4 r   b     k     k         3781   60    0 Qc Ks
+drapack   919830463  6  4 f   -     -     -         3721    0    0 
+drapack   919830499  6  3 rc  c     c     f         3721  120    0 
+drapack   919830527  6  2 Bf  -     -     -         3601   20    0 
+drapack   919830556  6  1 Bc  k     kf    -         3581   20    0 
+drapack   919830591  6  6 c   c     c     k         3561  100    0 Qc Tc
+drapack   919830628  6  5 f   -     -     -         3461    0    0 
+drapack   919830641  5  3 f   -     -     -         3461    0    0 
+drapack   919830670  5  3 f   -     -     -         3461    0    0 
+drapack   919830720  5  2 Bk  kc    kr    b         3461  160  420 2h Ad
+drapack   919830769  5  1 Bf  -     -     -         3721   10    0 
+drapack   919830806  4  4 cc  k     f     -         3711   40    0 
+drapack   919830840  3  3 r   f     -     -         3671   40    0 
+drapack   919830863  3  2 B   -     -     -         3631   20   30 
+drapack   919830867  2  1 Bc  k     b     -         3641   60   80 
+drapack   919830883  2  2 B   -     -     -         3661   20   30 
+drapack   920261343 10  5 f   -     -     -         3671    0    0 
+drapack   920261385 10  4 f   -     -     -         3671    0    0 
+drapack   920261433 10  3 cc  kc    kf    -         3671   60    0 
+drapack   920261482 10  2 Bk  kf    -     -         3611   20    0 
+drapack   920261543 10  1 Bc  kf    -     -         3591   20    0 
+drapack   920261602 10 10 r   r     b     b         3571  160  570 As Ac
+drapack   920261668 10  9 f   -     -     -         3981    0    0 
+drapack   920261745 10  8 rc  rc    c     c         3981  240    0 Th Td
+drapack   920261827 10  7 r   r     k     r         3741  160  480 Th Jh
+drapack   920261928 10  6 f   -     -     -         4061    0    0 
+drapack   920261969 10  5 f   -     -     -         4061    0    0 
+drapack   920262014 10  4 c   k     bf    -         4061   60    0 
+drapack   920262052 10  3 f   -     -     -         4001    0    0 
+drapack   920262141  9  2 Bf  -     -     -         4001   20    0 
+drapack   920262196  9  1 Bcc kcc   kc    kf        3981  160    0 
+drapack   920262258  9  9 c   k     f     -         3821   20    0 
+drapack   920262317  8  7 f   -     -     -         3801    0    0 
+drapack   920262373  8  6 f   -     -     -         3801    0    0 
+drapack   920262402  8  5 f   -     -     -         3801    0    0 
+drapack   920262454  8  4 f   -     -     -         3801    0    0 
+drapack   920262490  9  3 f   -     -     -         3801    0    0 
+drapack   920262539 10  2 Bc  kc    kf    -         3801   60    0 
+drapack   920262584 10  1 Bf  -     -     -         3741   10    0 
+drapack   920262642 10 10 r   c     f     -         3731   60    0 
+drapack   920262698 10  9 r   b     c     c         3671  140  340 7c 7s
+drapack   920262740  9  7 f   -     -     -         3871    0    0 
+drapack   920262780  9  6 f   -     -     -         3871    0    0 
+drapack   920262819  9  5 f   -     -     -         3871    0    0 
+drapack   920262916  7  3 f   -     -     -         3871    0    0 
+drapack   920263005  7  3 f   -     -     -         3871    0    0 
+drapack   920263034  7  2 Bc  kc    kf    -         3871   60    0 
+drapack   920263087  7  1 Bf  -     -     -         3811   10    0 
+drapack   920263105  7  7 r   b     k     k         3801   60    0 Qd Ac
+drapack   920263168  7  6 f   -     -     -         3741    0    0 
+drapack   920263213  7  5 r   k     b     -         3741   80  210 
+drapack   920263254  7  4 f   -     -     -         3871    0    0 
+drapack   920263329  6  2 Bk  k     kf    -         3871   20    0 
+drapack   920263368  6  1 Bf  -     -     -         3851   10    0 
+drapack   920263403  6  6 cc  f     -     -         3841   40    0 
+drapack   920263434  7  6 c   f     -     -         3801   20    0 
+drapack   920263486  7  5 f   -     -     -         3781    0    0 
+drapack   920263550  7  4 r   b     b     kr        3781  180    0 Kc Jc
+drapack   920263600  7  3 c   kf    -     -         3601   20    0 
+drapack   920263668  7  2 Bk  kf    -     -         3581   20    0 
+drapack   920263695  5  1 Bf  -     -     -         3561   10    0 
+drapack   920263708  5  5 r   c     rc    c         3551  220    0 Qd Ac
+drapack   920263727  6  5 f   -     -     -         3331    0    0 
+drapack   920263759  7  5 r   b     k     b         3331  100    0 Qc Tc
+drapack   920263810  7  4 f   -     -     -         3231    0    0 
+drapack   920263819  7  3 f   -     -     -         3231    0    0 
+drapack   920263851  7  2 Bk  b     b     -         3231   80  130 
+drapack   920263863  7  1 Bf  -     -     -         3281   10    0 
+drapack   920263891  7  7 f   -     -     -         3271    0    0 
+drapack   920263931  7  6 f   -     -     -         3271    0    0 
+drapack   920263965  7  5 f   -     -     -         3271    0    0 
+drapack   920263993  7  4 f   -     -     -         3271    0    0 
+drapack   920264034  7  3 f   -     -     -         3271    0    0 
+drapack   920264091  7  2 Bf  -     -     -         3271   20    0 
+drapack   920264136  7  1 Bc  kf    -     -         3251   40    0 
+drapack   920264189  7  7 f   -     -     -         3211    0    0 
+drapack   920264213  7  6 c   k     k     k         3211   20    0 3s Js
+drapack   920264242  7  5 f   -     -     -         3191    0    0 
+drapack   920264273  8  5 c   cc    kc    b         3191  140  340 
+drapack   920264315  8  4 f   -     -     -         3391    0    0 
+drapack   920264362  8  3 c   k     b     k         3391   60    0 3s 3c

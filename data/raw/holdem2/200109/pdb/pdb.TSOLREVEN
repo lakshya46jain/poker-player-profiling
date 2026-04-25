@@ -1,0 +1,597 @@
+TSOLREVEN 999495799  3  2 Bk  k     k     kf        3350   20    0 
+TSOLREVEN 999495819  3  1 Bc  k     kc    kc        3330  100  200 3h Qh
+TSOLREVEN 999495844  3  3 c   c     c     c         3430  120    0 Kc 6c
+TSOLREVEN 999495871  3  2 B   -     -     -         3310   20   30 
+TSOLREVEN 999495877  3  1 Bf  -     -     -         3320   10    0 
+TSOLREVEN 999495888  3  3 f   -     -     -         3310    0    0 
+TSOLREVEN 999495899  3  2 Bk  k     k     k         3310   20    0 Js 3s
+TSOLREVEN 999495920  3  1 Bc  b     k     k         3290   40    0 Th 7c
+TSOLREVEN 999495943  3  3 f   -     -     -         3250    0    0 
+TSOLREVEN 999495965  3  2 Bc  kf    -     -         3250   40    0 
+TSOLREVEN 999495978  3  1 Bf  -     -     -         3210   10    0 
+TSOLREVEN 999495989  3  3 f   -     -     -         3200    0    0 
+TSOLREVEN 999495998  3  2 B   -     -     -         3200   20   30 
+TSOLREVEN 999496002  3  1 Bc  k     k     k         3210   20   40 3s 2c
+TSOLREVEN 999496019  3  3 c   b     -     -         3230   40   80 
+TSOLREVEN 999496044  3  2 B   -     -     -         3270   20   30 
+TSOLREVEN 999496047  3  1 Bc  k     k     b         3280   60   80 
+TSOLREVEN 999496062  3  3 f   -     -     -         3300    0    0 
+TSOLREVEN 999496079  3  2 Bc  k     k     k         3300   40    0 Td 5d
+TSOLREVEN 999496107  3  1 Bc  b     -     -         3260   40   60 
+TSOLREVEN 999496123  3  3 r   bc    c     k         3280  120  250 7c Ac
+TSOLREVEN 999496150  3  2 Bk  k     k     kf        3410   20    0 
+TSOLREVEN 999496183  3  1 Bc  kc    kf    -         3390   40    0 
+TSOLREVEN 999496202  3  3 f   -     -     -         3350    0    0 
+TSOLREVEN 999496234  3  2 Bk  b     kf    -         3350   40    0 
+TSOLREVEN 999496259  3  1 Bc  k     k     k         3310   20   40 8c 7s
+TSOLREVEN 999496279  3  3 f   -     -     -         3330    0    0 
+TSOLREVEN 999496292  3  2 Bk  kf    -     -         3330   20    0 
+TSOLREVEN 999496304  3  1 Br  k     k     k         3310   40    0 Qc Jc
+TSOLREVEN 999496323  3  3 c   k     k     k         3270   20    0 As 3h
+TSOLREVEN 999496348  3  2 Bk  b     b     k         3250   80  170 Kh 7s
+TSOLREVEN 999496369  3  1 Bc  k     k     k         3340   20   40 4d Ks
+TSOLREVEN 999496384  3  3 f   -     -     -         3360    0    0 
+TSOLREVEN 999496407  3  2 Bk  k     k     kf        3360   20    0 
+TSOLREVEN 999496427  3  1 Bc  k     k     b         3340   60   80 
+TSOLREVEN 999496443  3  3 c   f     -     -         3360   20    0 
+TSOLREVEN 999496453  3  2 Br  b     bc    c         3340  180    0 8s 8h
+TSOLREVEN 999496474  3  1 Bf  -     -     -         3160   10    0 
+TSOLREVEN 999496492  3  3 c   -     -     -         3150   20   50 
+TSOLREVEN 999496497  2  1 B   -     -     -         3180   20   20 
+TSOLREVEN 999496503  2  1 Bc  b     k     k         3180   40    0 7c Kd
+TSOLREVEN 999496519  2  2 Bk  k     k     c         3140   60    0 5c 7s
+TSOLREVEN 999496534  2  1 Bf  -     -     -         3080   10    0 
+TSOLREVEN 999496541  2  2 Br  b     b     b         3070  140  280 Kd Th
+TSOLREVEN 999496559  2  1 Bf  -     -     -         3210   10    0 
+TSOLREVEN 999496567  2  2 Bk  b     b     b         3200  120  240 5s 7s
+TSOLREVEN 999496582  2  1 Bcc kf    -     -         3320   40    0 
+TSOLREVEN 999496595  2  2 Bk  b     -     -         3280   40   60 
+TSOLREVEN 999496605  2  1 Br  b     b     b         3300  140  280 Jd Jh
+TSOLREVEN 999496616  2  2 Bk  rc    c     c         3440  160    0 Jd Kc
+TSOLREVEN 999496633  2  1 Bc  kf    -     -         3280   20    0 
+TSOLREVEN 999496646  2  2 Bk  k     k     f         3260   20    0 
+TSOLREVEN 999496659  2  1 Bf  -     -     -         3240   10    0 
+TSOLREVEN 999496662  2  2 Bk  k     f     -         3230   20    0 
+TSOLREVEN 999496673  2  1 Bf  -     -     -         3210   10    0 
+TSOLREVEN 999496675  2  2 Bk  b     b     b         3200  120  200 
+TSOLREVEN 999496690  2  1 Bf  -     -     -         3280   10    0 
+TSOLREVEN 999496695  2  2 Bk  b     -     -         3270   40   60 
+TSOLREVEN 999496703  2  1 Bf  -     -     -         3290   10    0 
+TSOLREVEN 999496706  2  2 Bk  k     f     -         3280   20    0 
+TSOLREVEN 999496719  2  1 Br  -     -     -         3260   40   60 
+TSOLREVEN 999496722  2  2 Br  b     k     c         3280  100  200 Qh Ah
+TSOLREVEN 999496738  2  1 Bf  -     -     -         3380   10    0 
+TSOLREVEN 999496745  2  2 Br  b     -     -         3370   60  100 
+TSOLREVEN 999496754  2  1 Bc  b     -     -         3410   40   60 
+TSOLREVEN 999496763  2  2 Bk  c     c     c         3430  120  240 As 3d
+TSOLREVEN 999496776  2  1 Bc  k     k     b         3550   60   80 
+TSOLREVEN 999496791  2  2 Bk  c     c     c         3570  120    0 9h 4d
+TSOLREVEN 999496806  2  1 Bc  b     b     b         3450  120  200 
+TSOLREVEN 999496823  2  2 B   -     -     -         3530   20   30 
+TSOLREVEN 999496824  2  1 Bc  k     k     k         3540   20   40 4h Qd
+TSOLREVEN 999496835  2  2 Bk  k     k     k         3560   20   40 6s Qs
+TSOLREVEN 999496850  2  1 Bc  kc    kf    -         3580   40    0 
+TSOLREVEN 999496877  2  2 Bk  k     k     k         3540   20   40 Kd 3c
+TSOLREVEN 999496891  2  1 Bf  -     -     -         3560   10    0 
+TSOLREVEN 999496896  2  2 B   -     -     -         3550   20   30 
+TSOLREVEN 999496898  2  1 Bf  -     -     -         3560   10    0 
+TSOLREVEN 999496901  2  2 Bk  f     -     -         3550   20    0 
+TSOLREVEN 999496910  2  1 Bf  -     -     -         3530   10    0 
+TSOLREVEN 999496915  2  2 Bf  -     -     -         3520   20    0 
+TSOLREVEN 999496919  2  1 Bc  k     k     b         3500   60    0 Ad 8d
+TSOLREVEN 999496939  2  2 Brc c     c     c         3440  180  360 Ah 5h
+TSOLREVEN 999496956  2  1 Bc  b     -     -         3620   40   60 
+TSOLREVEN 999496967  2  2 Bc  c     c     c         3640  140  140 Ks 8h
+TSOLREVEN 999496979  2  1 Bf  -     -     -         3640   10    0 
+TSOLREVEN 999496985  3  3 f   -     -     -         3630    0    0 
+TSOLREVEN 999496991  3  2 Bk  k     k     b         3630   60  100 
+TSOLREVEN 999497023  3  1 Bf  -     -     -         3670   10    0 
+TSOLREVEN 999497028  3  3 c   k     f     -         3660   20    0 
+TSOLREVEN 999497046  3  2 Bk  k     f     -         3640   20    0 
+TSOLREVEN 999497059  3  1 Bf  -     -     -         3620   10    0 
+TSOLREVEN 999497073  3  3 cc  k     k     c         3610   80    0 7h Js
+TSOLREVEN 999497103  3  2 Bk  k     b     b         3530  100  210 Kh Ad
+TSOLREVEN 999497120  3  1 Bf  -     -     -         3640   10    0 
+TSOLREVEN 999497131  3  3 c   c     c     k         3630  120  180 Ts Kh
+TSOLREVEN 999497156  3  2 Bk  b     -     -         3690   40   70 
+TSOLREVEN 999497171  3  1 Bf  -     -     -         3720   10    0 
+TSOLREVEN 999497190  3  3 f   -     -     -         3710    0    0 
+TSOLREVEN 999497201  3  2 Bk  k     k     k         3710   20    0 9d Jh
+TSOLREVEN 999497218  3  1 Bc  b     -     -         3690   40   80 
+TSOLREVEN 999497228  3  3 rc  c     c     c         3730  160    0 8c 8s
+TSOLREVEN 999497245  3  2 Bc  c     k     k         3570   60    0 8c 3c
+TSOLREVEN 999497261  3  1 Bc  k     kf    -         3510   20    0 
+TSOLREVEN 999497278  3  3 c   k     k     k         3490   20   50 8h 2h
+TSOLREVEN 999497293  3  2 Bc  kf    -     -         3520   40    0 
+TSOLREVEN 999497318  3  1 Bcc kc    kc    k         3480  100  200 Qs 5s
+TSOLREVEN 999497338  3  3 f   -     -     -         3580    0    0 
+TSOLREVEN 999497358  3  2 Bf  -     -     -         3580   20    0 
+TSOLREVEN 999497366  3  1 Bc  kf    -     -         3560   40    0 
+TSOLREVEN 999497387  3  3 c   k     k     k         3520   20   60 Jh 9c
+TSOLREVEN 999497406  3  2 Bc  c     k     k         3560   60    0 Jd 9s
+TSOLREVEN 999497424  3  1 Bf  -     -     -         3500   10    0 
+TSOLREVEN 999497440  3  3 cc  c     c     k         3490  100  210 4h As
+TSOLREVEN 999497454  3  2 Bk  c     k     b         3600   80  120 
+TSOLREVEN 999497473  3  1 Bf  -     -     -         3640   10    0 
+TSOLREVEN 999497478  3  3 cc  c     f     -         3630   60    0 
+TSOLREVEN 999497492  3  2 Bc  c     c     f         3570  100    0 
+TSOLREVEN 999497508  3  1 Bcc b     b     -         3470  100  160 
+TSOLREVEN 999497525  3  3 f   -     -     -         3530    0    0 
+TSOLREVEN 999497530  3  2 Bc  f     -     -         3530   40    0 
+TSOLREVEN 999497569  3  1 Bf  -     -     -         3490   10    0 
+TSOLREVEN 999497585  3  3 cc  c     f     -         3480   60    0 
+TSOLREVEN 999497606  3  2 Bk  b     k     b         3420   80  200 Ks 7d
+TSOLREVEN 999497629  3  1 Bf  -     -     -         3540   10    0 
+TSOLREVEN 999497645  3  3 f   -     -     -         3530    0    0 
+TSOLREVEN 999497686  3  2 Bc  f     -     -         3530   40    0 
+TSOLREVEN 999497704  3  1 Bf  -     -     -         3490   10    0 
+TSOLREVEN 999497715  3  3 cc  c     c     r         3480  180  360 
+TSOLREVEN 999497742  3  2 Bc  c     c     f         3660  100    0 
+TSOLREVEN 999497758  3  1 Bc  kf    -     -         3560   20    0 
+TSOLREVEN 999497778  3  3 f   -     -     -         3540    0    0 
+TSOLREVEN 999497824  3  2 Bc  kc    kc    kc        3540  140  320 8s 8d
+TSOLREVEN 999497847  4  1 Bcf -     -     -         3720   40    0 
+TSOLREVEN 999497924  3  3 c   k     k     b         3680   60   80 
+TSOLREVEN 999497966  3  3 f   -     -     -         3700    0    0 
+TSOLREVEN 999497997  3  2 Br  b     bc    k         3700  140    0 Ks 2s
+TSOLREVEN 999498028  3  1 Bcc bc    kc    k         3560  120  280 Jc Qh
+TSOLREVEN 999498079  3  3 f   -     -     -         3720    0    0 
+TSOLREVEN 999498133  4  2 Bk  bc    k     k         3720   60    0 Ks Ah
+TSOLREVEN 999498178  4  1 Bc  kc    kf    -         3660   60    0 
+TSOLREVEN 999498208  4  4 cc  c     b     b         3600  140  280 
+TSOLREVEN 999498246  4  3 cc  f     -     -         3740   40    0 
+TSOLREVEN 999498283  4  2 Bk  kf    -     -         3700   20    0 
+TSOLREVEN 999498307  4  1 Br  k     b     -         3680   80  160 
+TSOLREVEN 999498339  4  4 f   -     -     -         3760    0    0 
+TSOLREVEN 999498365  4  3 cc  f     -     -         3760   40    0 
+TSOLREVEN 999498398  4  2 Bc  k     kf    -         3720   40    0 
+TSOLREVEN 999498431  4  1 Bc  k     k     k         3680   20    0 8h 4h
+TSOLREVEN 999498459  4  4 cc  k     k     k         3660   40  120 8c 9s
+TSOLREVEN 999498494  4  3 rc  rr    b     b         3740  220  560 7c 7h
+TSOLREVEN 999498542  4  2 Bk  k     k     k         4080   20    0 7d Ks
+TSOLREVEN 999498584  4  1 Bc  kf    -     -         4060   40    0 
+TSOLREVEN 999498608  4  4 cc  c     r     b         4020  180  480 
+TSOLREVEN 999498658  3  2 Brr b     k     k         4320  100    0 Tc Ts
+TSOLREVEN 999498683  3  1 Bc  kc    kc    b         4220  140  280 
+TSOLREVEN 999498704  3  3 cc  f     -     -         4360   40    0 
+TSOLREVEN 999498723  3  2 Bc  c     kf    -         4320   60    0 
+TSOLREVEN 999498744  3  1 Bc  k     k     b         4260   60  100 
+TSOLREVEN 999498762  3  3 f   -     -     -         4300    0    0 
+TSOLREVEN 999498844  3  2 Bc  k     k     k         4300   40    0 7c Ac
+TSOLREVEN 999498865  3  1 Bf  -     -     -         4260   10    0 
+TSOLREVEN 999498881  3  3 cc  c     k     c         4250  100  120 As Kc
+TSOLREVEN 999498906  3  2 Bc  f     -     -         4270   40    0 
+TSOLREVEN 999498928  3  1 Bc  kf    -     -         4230   40    0 
+TSOLREVEN 999498949  3  3 f   -     -     -         4190    0    0 
+TSOLREVEN 999498971  3  2 Bc  c     k     k         4190   60    0 5d Kc
+TSOLREVEN 999498996  3  1 Bc  kcc   kc    kf        4130  140    0 
+TSOLREVEN 999499026  3  3 r   k     k     k         3990   40    0 3h Ah
+TSOLREVEN 999499055  3  2 Bf  -     -     -         3950   20    0 
+TSOLREVEN 999499088  3  1 Bc  k     kf    -         3930   40    0 
+TSOLREVEN 999499110  3  3 f   -     -     -         3890    0    0 
+TSOLREVEN 999499132  3  2 Bc  c     k     k         3890   60  180 Kh Ts
+TSOLREVEN 999499151  3  1 Bf  -     -     -         4010   10    0 
+TSOLREVEN 999499166  3  3 f   -     -     -         4000    0    0 
+TSOLREVEN 999499201  3  2 Bc  rr    b     b         4000  200  520 5h 8d
+TSOLREVEN 999499231  3  1 Bf  -     -     -         4320   10    0 
+TSOLREVEN 999499261  3  3 f   -     -     -         4310    0    0 
+TSOLREVEN 999499278  3  2 Bc  f     -     -         4310   40    0 
+TSOLREVEN 999499309  3  1 Bf  -     -     -         4270   10    0 
+TSOLREVEN 999499327  3  3 cc  c     k     k         4260   80    0 Ks Qh
+TSOLREVEN 999499346  3  2 Bc  c     b     b         4180  140  340 
+TSOLREVEN 999499370  3  1 Bf  -     -     -         4380   10    0 
+TSOLREVEN 999499377  3  3 cc  k     f     -         4370   40    0 
+TSOLREVEN 999499414  3  2 Bc  f     -     -         4330   40    0 
+TSOLREVEN 999499425  3  1 Bc  kf    -     -         4290   20    0 
+TSOLREVEN 999499450  3  3 c   c     f     -         4270   40    0 
+TSOLREVEN 999499465  3  2 Bc  c     k     k         4230   60  160 Jc As
+TSOLREVEN 999499480  3  1 Bf  -     -     -         4330   10    0 
+TSOLREVEN 999499492  3  3 f   -     -     -         4320    0    0 
+TSOLREVEN 999499506  3  2 Bc  c     k     k         4320   60  180 Qc Tc
+TSOLREVEN 999499525  3  1 Bc  k     k     b         4440   60   80 
+TSOLREVEN 999499555  3  3 c   k     k     k         4460   20    0 9s 4s
+TSOLREVEN 999499594  3  2 B   -     -     -         4440   20   30 
+TSOLREVEN 999499616  2  1 Bf  -     -     -         4450   10    0 
+TSOLREVEN 999499620  2  2 Bc  c     k     b         4440  100  160 
+TSOLREVEN 999499634  2  1 Bf  -     -     -         4500   10    0 
+TSOLREVEN 999499638  2  2 Br  b     -     -         4490   80  140 
+TSOLREVEN 999499647  2  1 Bf  -     -     -         4550   10    0 
+TSOLREVEN 999499651  2  2 Bc  c     c     c         4540  140    0 Ts 9s
+TSOLREVEN 999499667  2  1 Bf  -     -     -         4400   10    0 
+TSOLREVEN 999499674  2  2 Bc  f     -     -         4390   40    0 
+TSOLREVEN 999499680  2  1 Brr b     k     b         4350  140  240 
+TSOLREVEN 999499716  2  2 Bc  f     -     -         4450   40    0 
+TSOLREVEN 999499725  2  1 Bcc kr    b     -         4410  120  200 
+TSOLREVEN 999499741  2  2 Bc  c     c     k         4490  100  200 7c 9c
+TSOLREVEN 999499754  2  1 Bcc kc    kf    -         4590   60    0 
+TSOLREVEN 999499776  2  2 Bc  c     k     k         4530   60  120 2s 7s
+TSOLREVEN 999499789  2  1 Bcc kc    kc    k         4590  100  200 Qc 3c
+TSOLREVEN 999499810  2  2 Bc  c     k     k         4690   60  120 7s Ts
+TSOLREVEN 999499825  2  1 Bcc kf    -     -         4750   40    0 
+TSOLREVEN 999499836  2  2 Bc  c     c     k         4710  100    0 9s Js
+TSOLREVEN 999499855  2  1 Bcc kc    kc    k         4610  100  200 7c 9c
+TSOLREVEN 999499871  2  2 Bf  -     -     -         4710   20    0 
+TSOLREVEN 999499877  2  1 Bcc kf    -     -         4690   40    0 
+TSOLREVEN 999499887  2  2 Bc  c     k     f         4650   60    0 
+TSOLREVEN 999499900  2  1 Bf  -     -     -         4590   10    0 
+TSOLREVEN 999499902  2  2 Bc  c     b     -         4580  100  160 
+TSOLREVEN 999499912  2  1 Brr k     k     b         4640  120  240 Ah Jh
+TSOLREVEN 999499941  2  2 Bf  -     -     -         4760   20    0 
+TSOLREVEN 999499962  2  1 Bcc k     b     -         4740   80  120 
+TSOLREVEN 999499972  2  2 Bc  c     k     k         4780   60   60 5c Qd
+TSOLREVEN 999499983  2  1 Bcc kc    kc    k         4780  100    0 Qc Th
+TSOLREVEN 999500009  2  2 Bc  c     r     b         4680  180  320 
+TSOLREVEN 999500026  2  1 Bcc br    -     -         4820  100  180 
+TSOLREVEN 999500037  2  2 Bc  c     f     -         4900   60    0 
+TSOLREVEN 999500045  2  1 Bcc b     b     b         4840  140  280 9d Th
+TSOLREVEN 999500068  2  2 Bc  c     c     c         4980  140    0 Td Ks
+TSOLREVEN 999500082  2  1 Bcc b     -     -         4840   60  100 
+TSOLREVEN 999500092  2  2 Brr b     b     -         4880  160  280 
+TSOLREVEN 999500105  2  1 Brrrrc kr    b     b         5000  300  560 
+TSOLREVEN 999500129  2  2 Bc  rr    b     k         5260  160  320 Ks Qd
+TSOLREVEN 999500147  2  1 Bf  -     -     -         5420   10    0 
+TSOLREVEN 999500152  2  2 Bc  c     k     k         5410   60    0 Js 8s
+TSOLREVEN 999500163  2  1 Bf  -     -     -         5350   10    0 
+TSOLREVEN 999500169  2  2 Bc  f     -     -         5340   40    0 
+TSOLREVEN 999500175  2  1 Bf  -     -     -         5300   10    0 
+TSOLREVEN 999500178  2  2 Bc  c     k     k         5290   60  120 Ts 8c
+TSOLREVEN 999500188  2  1 Brr b     b     b         5350  180  360 As Td
+TSOLREVEN 999500213  2  2 Bc  c     k     k         5530   60    0 7d 8d
+TSOLREVEN 999500227  2  1 Brrc kc    kc    kc        5470  200    0 As 4s
+TSOLREVEN 999500252  2  2 Bf  -     -     -         5270   20    0 
+TSOLREVEN 999500258  2  1 Bcc k     k     b         5250   80  120 
+TSOLREVEN 999500275  2  2 Bc  r     -     -         5290   80  140 
+TSOLREVEN 999500282  2  1 Brc bc    kf    -         5350  100    0 
+TSOLREVEN 999500300  2  2 Bc  b     -     -         5250   60  100 
+TSOLREVEN 999500308  2  1 Brrrr br    kc    kr        5290  340  680 As Kd
+TSOLREVEN 999500336  2  2 Bf  -     -     -         5630   20    0 
+TSOLREVEN 999500344  2  1 Bcc kc    kf    -         5610   60    0 
+TSOLREVEN 999500357  2  2 Bc  c     f     -         5550   60    0 
+TSOLREVEN 999500368  2  1 Bcc kc    k     k         5490   60  120 4s Ks
+TSOLREVEN 999500385  2  2 Bc  f     -     -         5550   40    0 
+TSOLREVEN 999500394  2  1 Bcc k     b     -         5510   80  120 
+TSOLREVEN 999500404  2  2 Bc  f     -     -         5550   40    0 
+TSOLREVEN 999500428  2  1 Bcc br    b     b         5510  180  360 Qd 8s
+TSOLREVEN 999500443  2  2 Bf  -     -     -         5690   20    0 
+TSOLREVEN 999500448  2  1 Brrrrrrrrrrrc bc    k     k         5670  500 1000 Ts Tc
+TSOLREVEN 999500479  2  2 Brrrrrrrrrrrc c     c     c         6170  580    0 Jh Js
+TSOLREVEN 999500509  2  1 Bc  k     k     k         5590   20   40 Ks 3s
+TSOLREVEN 999500548  2  2 Bc  c     f     -         5610   60    0 
+TSOLREVEN 999500558  2  1 Bc  b     -     -         5550   40   60 
+TSOLREVEN 999500567  2  2 Brr b     b     k         5570  160  320 Th Tc
+TSOLREVEN 999500584  2  1 Bcc kc    kc    kc        5730  140    0 Th Jc
+TSOLREVEN 999500601  2  2 Bf  -     -     -         5590   20    0 
+TSOLREVEN 999500607  2  1 Bf  -     -     -         5570   10    0 
+TSOLREVEN 999500611  2  2 Bc  c     c     k         5560  100  200 6c 3d
+TSOLREVEN 999500624  2  1 Bf  -     -     -         5660   10    0 
+TSOLREVEN 999500630  2  2 Bc  c     k     k         5650   60    0 3h 8h
+TSOLREVEN 999500641  2  1 Bf  -     -     -         5590   10    0 
+TSOLREVEN 999500647  2  2 Bc  k     c     c         5580  120  240 Qs Ad
+TSOLREVEN 999500657  2  1 Bcc kc    k     k         5700   60  120 Th 9c
+TSOLREVEN 999500674  2  2 Bc  rr    b     -         5760  160  280 
+TSOLREVEN 999500689  2  1 Bf  -     -     -         5880   10    0 
+TSOLREVEN 999500693  2  2 Bf  -     -     -         5870   20    0 
+TSOLREVEN 999500696  2  1 Bcc kc    k     k         5850   60  120 3c 4c
+TSOLREVEN 999500713  2  2 Bf  -     -     -         5910   20    0 
+TSOLREVEN 999500718  2  1 Bcc kc    kc    k         5890  100  200 5s Kc
+TSOLREVEN 999500736  2  2 Bc  f     -     -         5990   40    0 
+TSOLREVEN 999500745  2  1 Bcc b     b     b         5950  140  280 Ah Qs
+TSOLREVEN 999500762  2  2 Bc  c     k     k         6090   60  120 2h Qd
+TSOLREVEN 999500773  2  1 Bcc kc    k     b         6150  100    0 Jh 7h
+TSOLREVEN 999500790  2  2 Bc  c     f     -         6050   60    0 
+TSOLREVEN 999500800  2  1 Bf  -     -     -         5990   10    0 
+TSOLREVEN 999500803  2  2 Bc  k     k     k         5980   40   40 8d 6c
+TSOLREVEN 999500813  2  1 Bcc kc    k     k         5980   60    0 7c Tc
+TSOLREVEN 999500830  2  2 Bc  f     -     -         5920   40    0 
+TSOLREVEN 999500839  2  1 Bf  -     -     -         5880   10    0 
+TSOLREVEN 999500841  2  2 Bc  b     b     -         5870  100  160 
+TSOLREVEN 999500853  2  1 Bf  -     -     -         5930   10    0 
+TSOLREVEN 999500859  3  2 Bc  c     k     b         5920  100  160 
+TSOLREVEN 999500876  3  1 Bf  -     -     -         5980   10    0 
+TSOLREVEN 999500892  3  3 cc  k     k     k         5970   40   90 Jh 3c
+TSOLREVEN 999500918  3  2 Bc  c     b     -         6020  100  160 
+TSOLREVEN 999500931  3  1 Bf  -     -     -         6080   10    0 
+TSOLREVEN 999500941  3  3 cc  r     b     -         6070  120  210 
+TSOLREVEN 999500961  3  2 Bk  r     bc    f         6160  140    0 
+TSOLREVEN 999500980  3  1 Bc  kc    kc    k         6020  100    0 8s 7s
+TSOLREVEN 999501003  3  3 f   -     -     -         5920    0    0 
+TSOLREVEN 999501023  3  2 Bc  c     c     c         5920  140  280 8c Qh
+TSOLREVEN 999501041  3  1 Bc  kc    k     kf        6060   60    0 
+TSOLREVEN 999501065  3  3 cc  c     b     b         6000  140  300 
+TSOLREVEN 999501090  3  2 Bc  r     -     -         6160   80  140 
+TSOLREVEN 999501104  3  1 Bc  kc    bc    kc        6220  180    0 9h Tc
+TSOLREVEN 999501135  3  3 r   rc    c     k         6040  140  420 As 8s
+TSOLREVEN 999501169  4  3 rc  rc    k     k         6320  120  320 9s Jc
+TSOLREVEN 999501200  4  2 Brrc kc    k     k         6520  140  290 9d 9s
+TSOLREVEN 999501227  4  1 Bc  kc    kc    k         6670  100  220 2c Ad
+TSOLREVEN 999501246  4  4 cc  f     -     -         6790   40    0 
+TSOLREVEN 999501264  4  3 cc  c     c     k         6750  100    0 Js 9h
+TSOLREVEN 999501282  4  2 Bc  br    b     k         6650  140    0 Qs 7h
+TSOLREVEN 999501305  4  1 Bc  k     k     k         6510   40  100 As 6h
+TSOLREVEN 999501325  4  4 cc  c     c     f         6570  160    0 
+TSOLREVEN 999501361  4  3 f   -     -     -         6410    0    0 
+TSOLREVEN 999501372  4  2 Bc  br    b     k         6410  140    0 Jh 8d
+TSOLREVEN 999501395  4  1 Bf  -     -     -         6270   10    0 
+TSOLREVEN 999501413  4  4 cc  f     -     -         6260   40    0 
+TSOLREVEN 999501445  4  3 f   -     -     -         6220    0    0 
+TSOLREVEN 999501464  3  2 Bc  k     k     k         6220   40   90 3c 2d
+TSOLREVEN 999501481  3  1 Bc  k     k     k         6270   20   20 3h 2d
+TSOLREVEN 999501497  3  3 f   -     -     -         6270    0    0 
+TSOLREVEN 999501511  3  2 Bk  k     kf    -         6270   20    0 
+TSOLREVEN 999501524  3  1 Br  b     -     -         6250   60  100 
+TSOLREVEN 999501532  3  3 cc  c     c     c         6290  140    0 Ad 7c
+TSOLREVEN 999501549  3  2 Bk  k     k     b         6150   60   60 7h Ac
+TSOLREVEN 999501591  3  1 Bc  kf    -     -         6150   40    0 
+TSOLREVEN 999501608  3  3 c   k     k     k         6110   20   50 7d Kd
+TSOLREVEN 999501623  3  2 Bc  kf    -     -         6140   40    0 
+TSOLREVEN 999501636  3  1 Br  b     brc   kc        6100  260    0 Qc Qs
+TSOLREVEN 999501659  3  3 cc  c     c     k         5840  100    0 Qh 2h
+TSOLREVEN 999501685  3  2 Bc  k     b     -         5740   80  130 
+TSOLREVEN 999501700  3  1 Bf  -     -     -         5790   10    0 
+TSOLREVEN 999501704  3  3 r   -     -     -         5780   40   70 
+TSOLREVEN 999501707  3  2 B   -     -     -         5810   20   30 
+TSOLREVEN 999501710  3  1 Bc  k     kc    kc        5820  100    0 4c 8c
+TSOLREVEN 999501731  3  3 r   b     -     -         5720   60  110 
+TSOLREVEN 999501744  3  2 Bc  f     -     -         5770   40    0 
+TSOLREVEN 999501754  3  1 Bc  kc    k     k         5730   40    0 Ad Th
+TSOLREVEN 999501772  3  3 f   -     -     -         5690    0    0 
+TSOLREVEN 999501778  3  2 Bc  kc    kc    b         5690  140  290 Ac 6s
+TSOLREVEN 999501799  3  1 Bc  k     k     k         5840   20   40 3d 8d
+TSOLREVEN 999501815  3  3 c   r     k     k         5860   60    0 Ts 6s
+TSOLREVEN 999501837  3  2 Bf  -     -     -         5800   20    0 
+TSOLREVEN 999501866  3  1 Bc  k     k     k         5780   20    0 Jh 2s
+TSOLREVEN 999501884  2  2 B   -     -     -         5760   20   30 
+TSOLREVEN 999501890  2  1 Bf  -     -     -         5770   10    0 
+TSOLREVEN 999501892  2  2 B   -     -     -         5760   20   30 
+TSOLREVEN 999501895  2  1 Bf  -     -     -         5770   10    0 
+TSOLREVEN 999501896  2  2 B   -     -     -         5760   20   30 
+TSOLREVEN 999501899  2  1 Bc  kc    b     b         5770  120    0 4d 5d
+TSOLREVEN 999501920  2  2 Bc  c     c     k         5650  100    0 6d Jh
+TSOLREVEN 999501936  2  1 Bf  -     -     -         5550   10    0 
+TSOLREVEN 999501942  2  2 B   -     -     -         5540   20   30 
+TSOLREVEN 999501944  2  1 Bf  -     -     -         5550   10    0 
+TSOLREVEN 999501946  2  2 Bc  k     k     k         5540   40    0 6s 5h
+TSOLREVEN 999501962  2  1 Bc  kf    -     -         5500   20    0 
+TSOLREVEN 999501975  2  2 Br  r     b     k         5480  120  240 Ah 6c
+TSOLREVEN 999501992  2  1 Bc  b     -     -         5600   40   60 
+TSOLREVEN 999502004  2  2 Bc  k     k     f         5620   40    0 
+TSOLREVEN 999502017  2  1 Bc  k     k     b         5580   60   80 
+TSOLREVEN 999502032  2  2 Bk  f     -     -         5600   20    0 
+TSOLREVEN 999502040  2  1 Br  b     bc    kc        5580  180    0 7s 7d
+TSOLREVEN 999502059  2  2 B   -     -     -         5400   20   30 
+TSOLREVEN 999502064  2  1 Bf  -     -     -         5410   10    0 
+TSOLREVEN 999502067  2  2 B   -     -     -         5400   20   30 
+TSOLREVEN 999502069  2  1 Bc  bc    k     k         5410   60    0 Kh Jh
+TSOLREVEN 999502088  2  2 Bc  f     -     -         5350   40    0 
+TSOLREVEN 999502097  2  1 Bf  -     -     -         5310   10    0 
+TSOLREVEN 999502100  2  2 B   -     -     -         5300   20   30 
+TSOLREVEN 999502102  2  1 Bc  b     -     -         5310   40   60 
+TSOLREVEN 999502111  2  2 Bk  rr    b     b         5330  180  180 Th 4s
+TSOLREVEN 999502131  2  1 Bc  k     k     k         5330   20   40 8s Td
+TSOLREVEN 999502148  2  2 Bc  rrrc  c     k         5350  220    0 Jc 4c
+TSOLREVEN 999502169  2  1 Bc  k     k     k         5130   20   40 8c Kd
+TSOLREVEN 999502188  2  2 B   -     -     -         5150   20   30 
+TSOLREVEN 999502192  2  1 Bc  b     -     -         5160   40   60 
+TSOLREVEN 999502198  2  2 Bc  b     -     -         5180   60  100 
+TSOLREVEN 999502207  2  1 Bf  -     -     -         5220   10    0 
+TSOLREVEN 999502211  2  2 Br  b     b     b         5210  140  280 Th Tc
+TSOLREVEN 999502229  2  1 Bf  -     -     -         5350   10    0 
+TSOLREVEN 999502239  2  2 B   -     -     -         5340   20   30 
+TSOLREVEN 999502241  2  1 Bcc kc    kc    kf        5350  100    0 
+TSOLREVEN 999502261  2  2 Bk  k     k     b         5250   60   80 
+TSOLREVEN 999502276  2  1 Bc  k     k     kc        5270   60    0 2s 9h
+TSOLREVEN 999502291  2  2 Bk  k     f     -         5210   20    0 
+TSOLREVEN 999502304  2  1 Br  -     -     -         5190   40   60 
+TSOLREVEN 999502309  2  2 Bk  b     b     -         5210   80  120 
+TSOLREVEN 999502322  2  1 Bf  -     -     -         5250   10    0 
+TSOLREVEN 999502325  2  2 B   -     -     -         5240   20   30 
+TSOLREVEN 999502327  2  1 Bf  -     -     -         5250   10    0 
+TSOLREVEN 999502330  2  2 Bc  k     k     k         5240   40   80 3d Ad
+TSOLREVEN 999502345  2  1 Bcc k     k     k         5280   40   80 Jc Ks
+TSOLREVEN 999502363  2  2 Bk  k     k     k         5320   20   40 6s 4d
+TSOLREVEN 999502378  2  1 Bf  -     -     -         5340   10    0 
+TSOLREVEN 999502401  2  2 Bc  f     -     -         5330   40    0 
+TSOLREVEN 999502409  2  1 Bf  -     -     -         5290   10    0 
+TSOLREVEN 999502412  2  2 Bk  k     k     k         5280   20    0 7d 3s
+TSOLREVEN 999502425  2  1 Bf  -     -     -         5260   10    0 
+TSOLREVEN 999502431  2  2 B   -     -     -         5250   20   30 
+TSOLREVEN 999502434  2  1 Bf  -     -     -         5260   10    0 
+TSOLREVEN 999502436  2  2 Br  b     -     -         5250   60  100 
+TSOLREVEN 999502446  2  1 Bc  k     k     k         5290   20   40 6s Ks
+TSOLREVEN 999502458  2  2 B   -     -     -         5310   20   30 
+TSOLREVEN 999502463  2  1 Bf  -     -     -         5320   10    0 
+TSOLREVEN 999502465  2  2 Bc  c     c     c         5310  140    0 Qd 6h
+TSOLREVEN 999502481  2  1 Bc  b     -     -         5170   40   60 
+TSOLREVEN 999502493  2  2 B   -     -     -         5190   20   30 
+TSOLREVEN 999502494  2  1 Br  b     b     b         5200  140  240 
+TSOLREVEN 999502509  2  2 B   -     -     -         5300   20   30 
+TSOLREVEN 999502511  2  1 Bf  -     -     -         5310   10    0 
+TSOLREVEN 999502515  2  2 Bk  k     b     -         5300   60   80 
+TSOLREVEN 999502526  2  1 Bc  k     k     k         5320   20   40 8h Kd
+TSOLREVEN 999502539  2  2 B   -     -     -         5340   20   30 
+TSOLREVEN 999502544  2  1 Bf  -     -     -         5350   10    0 
+TSOLREVEN 999502547  2  2 Bk  f     -     -         5340   20    0 
+TSOLREVEN 999502555  2  1 Bc  b     -     -         5320   40   60 
+TSOLREVEN 999502562  2  2 Bk  k     k     k         5340   20    0 7c 3d
+TSOLREVEN 999502576  2  1 Bf  -     -     -         5320   10    0 
+TSOLREVEN 999502583  2  2 B   -     -     -         5310   20   30 
+TSOLREVEN 999502585  2  1 Bcc b     b     b         5320  140  240 
+TSOLREVEN 999502605  2  2 B   -     -     -         5420   20   30 
+TSOLREVEN 999502608  2  1 Br  -     -     -         5430   40   60 
+TSOLREVEN 999502611  2  2 B   -     -     -         5450   20   30 
+TSOLREVEN 999502613  2  1 Bc  k     k     k         5460   20   40 2c Qs
+TSOLREVEN 999502629  2  2 Bk  k     k     k         5480   20    0 2c 5d
+TSOLREVEN 999502645  2  1 Bc  b     -     -         5460   40   60 
+TSOLREVEN 999502654  2  2 B   -     -     -         5480   20   30 
+TSOLREVEN 999502657  2  1 Bf  -     -     -         5490   10    0 
+TSOLREVEN 999502660  2  2 Bc  f     -     -         5480   40    0 
+TSOLREVEN 999502668  2  1 Bc  kf    -     -         5440   20    0 
+TSOLREVEN 999502678  2  2 Bc  c     k     k         5420   60    0 Jh 6d
+TSOLREVEN 999502692  2  1 Br  -     -     -         5360   40   60 
+TSOLREVEN 999502700  2  2 Bk  b     b     k         5380   80  160 7h 3h
+TSOLREVEN 999502719  2  1 Bc  kf    -     -         5460   20    0 
+TSOLREVEN 999502735  3  3 f   -     -     -         5440    0    0 
+TSOLREVEN 999502757  3  2 Bc  b     b     -         5440  100  160 
+TSOLREVEN 999502793  2  1 Bc  k     k     k         5500   20   40 Jc 9c
+TSOLREVEN 999502808  2  2 B   -     -     -         5520   20   30 
+TSOLREVEN 999502815  2  1 Bc  b     brc   kc        5530  240  480 5c 2c
+TSOLREVEN 999502837  2  2 Bc  c     c     c         5770  140    0 Qc 4s
+TSOLREVEN 999502855  2  1 Bf  -     -     -         5630   10    0 
+TSOLREVEN 999502863  2  2 Bf  -     -     -         5620   20    0 
+TSOLREVEN 999502867  2  1 Bf  -     -     -         5600   10    0 
+TSOLREVEN 999502870  2  2 B   -     -     -         5590   20   30 
+TSOLREVEN 999502878  2  1 Bc  b     -     -         5600   40   60 
+TSOLREVEN 999502890  2  2 Bc  b     b     b         5620  140  280 3h Th
+TSOLREVEN 999502920  2  1 Bf  -     -     -         5760   10    0 
+TSOLREVEN 999502926  2  2 Bc  c     c     c         5750  140  280 Qs 5h
+TSOLREVEN 999502943  2  1 Bc  b     -     -         5890   40   60 
+TSOLREVEN 999502953  2  2 Brr c     c     c         5910  200    0 Qs Ac
+TSOLREVEN 999502975  2  1 Bc  kf    -     -         5710   20    0 
+TSOLREVEN 999502989  3  2 Bc  kc    bc    b         5690  180    0 Ad 9s
+TSOLREVEN 999503012  3  1 Bf  -     -     -         5510   10    0 
+TSOLREVEN 999503038  3  3 cc  c     c     k         5500  100  220 Qs 4d
+TSOLREVEN 999503071  3  2 Bcc c     b     b         5620  180  460 
+TSOLREVEN 999503105  3  1 Bcc kc    kf    -         5900   60    0 
+TSOLREVEN 999503126  3  3 f   -     -     -         5840    0    0 
+TSOLREVEN 999503142  3  2 Bf  -     -     -         5840   20    0 
+TSOLREVEN 999503178  3  1 Bc  kc    kc    kc        5820  140    0 2s Ts
+TSOLREVEN 999503196  3  3 r   rrrr  b     b         5680  280  600 Jh Js
+TSOLREVEN 999503227  3  2 Bc  k     k     k         6000   40    0 Tc Jd
+TSOLREVEN 999503249  3  1 Bcc kf    -     -         5960   80    0 
+TSOLREVEN 999503298  3  3 c   b     -     -         5880   40   80 
+TSOLREVEN 999503334  3  2 Bc  br    b     b         5920  180    0 6h Qd
+TSOLREVEN 999503353  3  1 Bf  -     -     -         5740   10    0 
+TSOLREVEN 999503364  3  3 c   k     k     k         5730   20    0 6c 7c
+TSOLREVEN 999503378  3  2 Bf  -     -     -         5710   20    0 
+TSOLREVEN 999503402  3  1 Br  b     -     -         5690   60  100 
+TSOLREVEN 999503416  3  3 cc  c     c     c         5730  140    0 5c 7c
+TSOLREVEN 999503439  3  2 Bc  b     -     -         5590   60  110 
+TSOLREVEN 999503453  3  1 Bf  -     -     -         5640   10    0 
+TSOLREVEN 999503471  3  3 c   r     b     b         5630  160  380 Ts Kh
+TSOLREVEN 999503495  3  2 Bf  -     -     -         5850   20    0 
+TSOLREVEN 999503517  3  1 Bcc br    -     -         5830  100  180 
+TSOLREVEN 999503528  4  4 f   -     -     -         5910    0    0 
+TSOLREVEN 999503534  4  3 rrrc kc    kc    k         5910  200  430 2h Ac
+TSOLREVEN 999503568  4  2 Bc  kc    k     k         6140   60    0 7c Td
+TSOLREVEN 999503597  4  1 Bcc bc    kc    k         6080  120  280 2d 6c
+TSOLREVEN 999503623  4  4 cc  k     c     f         6240   80    0 
+TSOLREVEN 999503679  4  3 cc  b     b     k         6160  100  260 Kh Tc
+TSOLREVEN 999503707  4  2 Br  b     kc    kf        6320  120    0 
+TSOLREVEN 999503736  4  1 Brc b     b     b         6200  180  440 Kc Ks
+TSOLREVEN 999503772  4  4 fQ  -     -     -         6460    0    0 
+TSOLREVEN 999504074  4  3 f   -     -     -         6460    0    0 
+TSOLREVEN 999504092  4  2 Bc  kc    kf    -         6460   60    0 
+TSOLREVEN 999504124  4  1 Bf  -     -     -         6400   10    0 
+TSOLREVEN 999504131  4  4 f   -     -     -         6390    0    0 
+TSOLREVEN 999504138  4  3 c   kc    b     b         6390  120    0 Kd Qs
+TSOLREVEN 999504182  4  2 Bf  -     -     -         6270   20    0 
+TSOLREVEN 999504206  4  1 Bcc br    b     b         6250  180  400 Js Kd
+TSOLREVEN 999504236  4  4 f   -     -     -         6470    0    0 
+TSOLREVEN 999504264  4  3 cc  kc    ccc   kc        6470  300    0 Kd 8h
+TSOLREVEN 999504325  4  2 Bf  -     -     -         6170   20    0 
+TSOLREVEN 999504337  4  1 Bc  k     b     b         6150  100  160 
+TSOLREVEN 999504360  4  4 cc  f     -     -         6210   40    0 
+TSOLREVEN 999504389  4  3 rc  br    b     k         6170  180  460 7s Ks
+TSOLREVEN 999504419  4  2 Bc  kc    kc    k         6450  100  210 Jh 9s
+TSOLREVEN 999504439  4  1 Bccc kc    kf    -         6560  100    0 
+TSOLREVEN 999504479  4  4 f   -     -     -         6460    0    0 
+TSOLREVEN 999504489  4  3 cc  kc    k     k         6460   60  150 3h Ac
+TSOLREVEN 999504515  4  2 Bcc kc    brc   b         6550  320  930 Kd Qs
+TSOLREVEN 999504565  4  1 Bcc kc    b     b         7160  140  240 
+TSOLREVEN 999504593  4  4 f   -     -     -         7260    0    0 
+TSOLREVEN 999504619  4  3 ccc kf    -     -         7260   80    0 
+TSOLREVEN 999504677  4  2 Bcc kc    br    b         7180  260  710 6c Qh
+TSOLREVEN 999504724  4  1 Bccc kc    kc    k         7630  140  380 3h 4c
+TSOLREVEN 999504774  4  4 f   -     -     -         7870    0    0 
+TSOLREVEN 999504803  4  3 cc  kc    br    b         7870  220  470 
+TSOLREVEN 999504859  4  2 Bf  -     -     -         8120   20    0 
+TSOLREVEN 999504889  4  1 Bcc kc    kf    -         8100  120    0 
+TSOLREVEN 999504962  4  4 cc  c     c     k         7980  100  220 9s 6s
+TSOLREVEN 999504980  4  3 ccc kc    kc    r         8100  220    0 Js Qc
+TSOLREVEN 999505018  4  2 Bf  -     -     -         7880   20    0 
+TSOLREVEN 999505032  4  1 Bcc kc    b     -         7860  100  160 
+TSOLREVEN 999505046  4  4 rc  r     r     b         7920  260  720 Jh 9d
+TSOLREVEN 999505091  4  3 ccc rc    cc    c         8380  320 1000 Kh 8h
+TSOLREVEN 999505177  4  2 Bcc kf    -     -         9060   80    0 
+TSOLREVEN 999505226  3  1 Brrrrrc brc   kc    k         8980  340  680 5h Ah
+TSOLREVEN 999505259  3  3 cc  r     brr   b         9320  320  620 
+TSOLREVEN 999505293  3  2 Bc  kc    kf    -         9620   60    0 
+TSOLREVEN 999505318  3  1 Bf  -     -     -         9560   10    0 
+TSOLREVEN 999505349  3  3 cc  rrr   r     b         9550  280  580 8h 6d
+TSOLREVEN 999505424  2  1 Bc  kc    b     -         9850  100  160 
+TSOLREVEN 999505437  3  1 Bcc b     b     b         9910  180  440 Ks Js
+TSOLREVEN 999505469  3  3 cc  c     c     c        10170  140    0 Ad 3h
+TSOLREVEN 999505493  3  2 Bc  b     b     -        10030  100  170 
+TSOLREVEN 999505505  3  1 Bcc bc    kc    kf       10100  120    0 
+TSOLREVEN 999505556  3  3 cc  c     rr    b         9980  260  500 
+TSOLREVEN 999505593  3  2 Bc  krc   brrc  kc       10220  380    0 3s 7d
+TSOLREVEN 999505620  3  1 Bf  -     -     -         9840   10    0 
+TSOLREVEN 999505626  3  3 rrrc rrc   c     b         9830  320  660 Ac 6c
+TSOLREVEN 999505650  3  2 Bcc b     bc    k        10170  180  460 7d Th
+TSOLREVEN 999505683  4  1 Bcc k     k     k        10450   40   80 As 5h
+TSOLREVEN 999505706  4  4 cc  c     c     b        10490  180    0 5d Kd
+TSOLREVEN 999505736  4  3 cc  b     -     -        10310   60  130 
+TSOLREVEN 999505765  4  2 Brc br    b     k        10380  180    0 As Ts
+TSOLREVEN 999505798  4  1 Bf  -     -     -        10200   10    0 
+TSOLREVEN 999505806  4  4 f   -     -     -        10190    0    0 
+TSOLREVEN 999505810  4  3 c   bc    kc    kr       10190  180  390 7d 6d
+TSOLREVEN 999505841  4  2 Bc  kc    krr   b        10400  260  630 4h 7c
+TSOLREVEN 999505874  4  1 Brr br    b     b        10770  240  720 Tc Td
+TSOLREVEN 999505903  4  4 cc  c     k     b        11250  120  300 
+TSOLREVEN 999505956  4  3 f   -     -     -        11430    0    0 
+TSOLREVEN 999505987  4  2 Brc b     r     k        11430  180  520 Jc Kc
+TSOLREVEN 999506026  4  1 Bcc kr    brr   b        11770  340  370 2d Kc
+TSOLREVEN 999506061  4  4 rc  r     brrc  c        11800  400    0 Kh Ks
+TSOLREVEN 999506103  4  3 f   -     -     -        11400    0    0 
+TSOLREVEN 999506128  4  2 Bf  -     -     -        11400   20    0 
+TSOLREVEN 999506164  4  1 Bcc brc   b     b        11380  220    0 Kh Jd
+TSOLREVEN 999506206  3  3 rr  rc    c     c        11160  260    0 9c 9s
+TSOLREVEN 999506247  3  2 Bc  kc    kc    k        10900  100    0 5c 7d
+TSOLREVEN 999506268  3  1 Bcc kc    kc    kr       10800  180  320 
+TSOLREVEN 999506289  3  3 cc  c     c     c        10940  140    0 5h 6c
+TSOLREVEN 999506303  3  2 Bc  br    b     bc       10800  220    0 Jh 6s
+TSOLREVEN 999506319  3  1 Bcc krr   b     b        10580  200  400 Js 6s
+TSOLREVEN 999506340  3  3 f   -     -     -        10780    0    0 
+TSOLREVEN 999506358  3  2 Bc  bc    kc    kc       10780  160    0 7c Js
+TSOLREVEN 999506385  3  1 Bcc kc    k     kc       10620  100    0 4h 3h
+TSOLREVEN 999506404  3  3 rrr b     b     -        10520  180  340 
+TSOLREVEN 999506422  3  2 Brrrrrr bc    kc    kc       10680  380    0 7d 7h
+TSOLREVEN 999506454  3  1 Bcc br    b     b        10300  180  360 Tc Kd
+TSOLREVEN 999506470  3  3 cc  c     c     r        10480  180  380 5c 6c
+TSOLREVEN 999506493  3  2 Bcc cc    kc    kf       10680  160    0 
+TSOLREVEN 999506532  3  1 Bcc br    br    br       10520  340  680 Qh Jh
+TSOLREVEN 999506561  3  3 cc  c     c     k        10860  100  220 5d Kh
+TSOLREVEN 999506577  3  2 Bc  k     f     -        10980   60    0 
+TSOLREVEN 999506601  3  1 Bcc br    b     b        10920  180  360 Qs Td
+TSOLREVEN 999506623  3  3 f   -     -     -        11100    0    0 
+TSOLREVEN 999506649  3  2 Bc  k     b     b        11100  120  210 
+TSOLREVEN 999506663  3  1 Bcc kc    kc    k        11190  100    0 6d 4h
+TSOLREVEN 999506683  3  3 cc  rr    b     k        11090  160    0 Js 5s
+TSOLREVEN 999506707  3  2 Bcc r     b     -        10930  160  400 
+TSOLREVEN 999506739  3  1 Bcc kc    br    b        11170  240    0 6c Ad
+TSOLREVEN 999506768  3  3 cc  c     c     f        10930  120    0 
+TSOLREVEN 999506802  3  2 Brrrc br    k     bc       10810  300    0 4d 4h
+TSOLREVEN 999506837  3  1 Bcc brr   b     b        10510  240    0 6c 4c
+TSOLREVEN 999506868  3  3 cc  r     rc    c        10270  240    0 Td 7d
+TSOLREVEN 999506898  3  2 Brc kc    kc    k        10030  140  290 As 4s
+TSOLREVEN 999506919  3  1 Bcc kc    kc    bc       10180  180    0 9d 6d
+TSOLREVEN 999506945  3  3 f   -     -     -        10000    0    0 
+TSOLREVEN 999506953  3  2 Br  b     b     b        10000  160  330 Ad As
+TSOLREVEN 999506968  3  1 Brr b     b     b        10170  180  360 Kc Ad
+TSOLREVEN 999506987  3  3 f   -     -     -        10350    0    0 
+TSOLREVEN 999506993  3  2 Bf  -     -     -        10350   20    0 
+TSOLREVEN 999507015  3  1 Bf  -     -     -        10330   10    0 
+TSOLREVEN 999507025  3  3 cc  c     c     r        10320  180    0 2s Kh
+TSOLREVEN 999507046  3  2 Bf  -     -     -        10140   20    0 
+TSOLREVEN 999507069  3  1 Bcc k     b     b        10120  120  200 
+TSOLREVEN 999507096  3  3 f   -     -     -        10200    0    0 
+TSOLREVEN 999507112  3  2 Bc  c     c     f        10200  120    0 
+TSOLREVEN 999507136  3  1 Bcc k     br    b        10080  200  400 Qs Jd
+TSOLREVEN 999507159  3  3 f   -     -     -        10280    0    0 
+TSOLREVEN 999507167  3  2 Bc  kc    k     b        10280  100  170 
+TSOLREVEN 999507183  3  1 Bcc b     -     -        10350   60  100 
+TSOLREVEN 999507199  3  3 cc  c     c     f        10390  100    0 
+TSOLREVEN 999507231  3  2 Bf  -     -     -        10290   20    0 
+TSOLREVEN 999507262  3  1 Brc b     b     -        10270  140  340 
+TSOLREVEN 999507282  3  3 f   -     -     -        10470    0    0 
+TSOLREVEN 999507298  3  2 Bc  k     b     -        10470   80  130 
