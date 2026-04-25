@@ -1,0 +1,10 @@
+jcc       797230151  6  5  f    -      -      -        -         1000    0    0 Jc
+jcc       797230206  6  5  f    -      -      -        -         1000    0    0 Kd
+jcc       797230280  7  5  f    -      -      -        -         1000    0    0 Ks
+jcc       797230384  7  1 +Bf   -      -      -        -         1000   10    0 2c
+jcc       797230479  7  5  c    c      f      -        -          990   20    0 Qd 7h 8h
+jcc       797230582  7  7  c    k     +kc    +kf       -          970   30    0 Js 8c Ad 3c
+jcc       797230700  7  2  f    -      -      -        -          940    0    0 9s
+jcc       797230796  6  2  cc  +kc    +k      c        k          940   50  110 Ah Qs Ks 6c  Td Ts 6d
+jcc       797230865  6  3  r    b      c      c        k         1000   70    0 Jd Tc 5c 3c  Td 7d Kc
+jcc       797230936  6  1 +Brc  cc     cc     cc       fQ         930  170    0 2d 5d Qh Kh

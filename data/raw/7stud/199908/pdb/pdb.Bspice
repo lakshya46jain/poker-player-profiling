@@ -1,0 +1,4 @@
+Bspice    935099119  6  6  cc  +kf     -      -        -         1000   40    0 Kh Kc
+Bspice    935099212  6  6  f    -      -      -        -          960    0    0 Js
+Bspice    935099295  6  6  cc  +kc    +kc     cc       c          960  150    0 4h As 6s 5c  Ts 4s 9d
+Bspice    935099394  7  2  Q    -      -      -        -          810    0    0 9c

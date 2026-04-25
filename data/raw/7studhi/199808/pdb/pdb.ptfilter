@@ -1,0 +1,61 @@
+ptfilter  902453247  2  1 +Bk  +b      -      -        -         1000   20   30 8c Ah
+ptfilter  902453306  2  2  c    -      -      -        -         1010   10   20 As
+ptfilter  902454439  2  2  c   +kc     f      -        -         1020   20    0 Qc Ts 7c
+ptfilter  902454537  2  1 +Bc  +br     c     +b        -         1000   90  160 Tc Qh Js Ah
+ptfilter  902454627  2  1 +B    -      -      -        -         1070   10   10 5s
+ptfilter  902454630  2  2  c    k     +kr     -        -         1070   50   80 5h 3h 5c
+ptfilter  902454700  2  2  c   +kc    +bc    +kc      +br        1100  140  260 As 4d 3h 5c
+ptfilter  902454807  2  2  cc  +bc     rc     c        c         1220  140    0 Ac 3s 5s 7h  Jh Kh As
+ptfilter  902454893  2  2  c    k      r      -        -         1080   50   80 5c 4h Qh
+ptfilter  902454946  2  1 +B    -      -      -        -         1110   10   10 8c
+ptfilter  902454948  2  1 +Bc   c      c      b        rr        1110  150    0 2h 7c 9s Ac  Js Ad 2s
+ptfilter  902455019  2  1 +Bc  +kc    +k     +kc      +b          960   70  120 Td Qd 7d 3c
+ptfilter  902455085  2  1 +Bc   c      f      -        -         1010   30    0 6c Jh 9d
+ptfilter  902455123  2  1 +B    -      -      -        -          980   10   10 3h
+ptfilter  902455125  2  1 +Bc   c      c      f        -          980   50    0 5s 6s Qh 5h
+ptfilter  902455161  2  2  c   +kc    +kc    +kc      +kc         930   80  160 6s Th Jd 8c  As 2h 8d
+ptfilter  902455253  2  1 +Bc   c      c      f        -         1010   50    0 4s Jc 9h Ac
+ptfilter  902455307  2  1 +B    -      -      -        -          960   10   10 5d
+ptfilter  902455311  2  2  cc  +kc     k      f        -          960   30    0 Qh 5d 7c 3c
+ptfilter  902455361  2  2  cc   c      c     +kc      +b          930   90  180 Qd 7h Th Ts  8h 7s Jh
+ptfilter  902455406  2  1 +B    -      -      -        -         1020   10   10 2d
+ptfilter  902455411  2  2  c   +k     +kc     c        k         1020   50    0 Qs 4c 7h 6d  3d 3s Kd
+ptfilter  902455453  2  2  cc  +kc     c      c        k          970   70  140 Ts Qh 3d 5h  Tc Jd 6h
+ptfilter  902455508  2  1 +B    -      -      -        -         1040   10   10 Ts
+ptfilter  902455513  2  1 +B    -      -      -        -         1040   10   10 Qh
+ptfilter  902455516  2  1 +B    -      -      -        -         1040   10   10 3d
+ptfilter  902455520  2  1 +Bc   c      c     +kc      +k         1040   70  140 Jd 7c 5h As  3c Jh Ts
+ptfilter  902455578  2  2  c    k     +kc    +kc      +kc        1110   70  140 3h 5h As Jc  9d 4d 2s
+ptfilter  902455636  2  1 +B    -      -      -        -         1180   10   10 3d
+ptfilter  902455640  2  1 +B    -      -      -        -         1180   10   10 8c
+ptfilter  902455643  2  1 +B    -      -      -        -         1180   10   10 5c
+ptfilter  902455645  2  1 +B    -      -      -        -         1180   10   10 2s
+ptfilter  902455648  2  1 +Bk  +kc    +b      -        -         1180   40   60 4s 4c 4h
+ptfilter  902455686  2  1 +Bk   k     +k      k        f         1200   10    0 9h 2s Qd 6c
+ptfilter  902455733  2  1 +Bc   c     +kc    +kc      +kc        1190   90  180 5h 4d 5c Ts  As 6s 2c
+ptfilter  902455806  3  3  c   +f      -      -        -         1280   10    0 Ah Ac
+ptfilter  902455831  5  1 +Bk  +k     +k      k        k         1270   10    0 2c As 3c 5c  Td 8c 7d
+ptfilter  902455904  4  1 +B    -      -      -        -         1260   10   10 6d
+ptfilter  902455917  4  3  cf   -      -      -        -         1260   10    0 3h
+ptfilter  902455943  4  4  c   +b     +k     +b       +kc        1250   70    0 Qs 3c Jd 4h  6s Qd 8d
+ptfilter  902456085  5  5  c    k      c      c        c         1180   80    0 Ts 6d 8d 9c  Jd Kh Ks
+ptfilter  902456196  5  4  f    -      -      -        -         1100    0    0 Ah
+ptfilter  902456251  5  3  c    br     k      k        f         1100   40    0 7s 4s 3c 8h
+ptfilter  902456329  4  3  c   +k     +kc     c        k         1060   50    0 Ah 5s Tc 3s  3d 6s 9c
+ptfilter  902456405  4  3  cf   -      -      -        -         1010   10    0 9c
+ptfilter  902456427  4  2  c    f      -      -        -         1000   10    0 Qh 6c
+ptfilter  902456481  4  3  c    c      c      k        f          990   40    0 4s 3d 5s 9d
+ptfilter  902456541  4  2  cc  +kc    +kc     c        k          950   70    0 As 9s 4c Kd  Js Ad Qc
+ptfilter  902456596  4  4  c    k      c      c        f          880   50    0 Kh 5c 6s Ts
+ptfilter  902456681  4  1 +Bk  +k      c      c        b          830   70  200 9c Ah 2d 8d  9s Jh 8c
+ptfilter  902456761  4  1 +Bc   f      -      -        -          960   30    0 2h 9d
+ptfilter  902456825  4  1 +Bc   c      c      f        -          930   60    0 2s Jc Ts Qh
+ptfilter  902456875  4  3  c   +f      -      -        -          870   10    0 Kd 4d
+ptfilter  902456934  4  1 +Bc   b      k      c        c          860   70  140 5s 6c Jh Ac  8d 4c As
+ptfilter  902457005  4  3  c   +k     +k     +k       +f          930   10    0 Ac 7h 2d 5c
+ptfilter  902457062  3  2  c    k      c      c        b          920   70  140 4d 3c 8h 6c  9s 6d 8c
+ptfilter  902457121  3  3  cc  +k     +b      -        -          990   50  100 Jd Kd As
+ptfilter  902457181  3  1 +Bc   c      c      c        f         1040   70    0 3s 8d 5c 8h
+ptfilter  902457229  3  2  c   +kc     f      -        -          970   20    0 Th Kc 4c
+ptfilter  902457284  3  3  c    k      c     +k       +b          950   50   80 Jc 4d Ks Jh
+ptfilter  902457337  3  3  c   +k     +k     +k       +b          980   30   40 Ah 2s 3d 9c

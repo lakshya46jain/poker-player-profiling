@@ -1,0 +1,7 @@
+Bspice    934595628  3  1 +Bc   c      c      f        -         1000   50    0 5s Ts 2c Qs
+Bspice    934595657  3  3  c   +kf     -      -        -          950   20    0 5c As
+Bspice    934595688  3  2  c    k     +kc     k        k          930   30   60 9h 4s Kc Jc  Td Kd Js
+Bspice    934595729  3  1 +Bk   f      -      -        -          960   10    0 3c 4h
+Bspice    934595750  3  2  c    c      c      r        b          950  100  220 As Kd 6d Td  Kh 7s 7d
+Bspice    934595782  3  3  c   +k     +kc    +kc      +kc        1070   80    0 6c Jd Ah 2c  As Qh 6s
+Bspice    934595827  3  2  Q    -      -      -        -          990    0    0 Kc
