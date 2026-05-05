@@ -1,0 +1,1148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Poker Player Profiling | Virginia Tech</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Merriweather:wght@700;900&display=swap" rel="stylesheet" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+  <script src="data.js"></script>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      /* VT Primary */
+      --maroon:       #861F41;
+      --maroon-dark:  #5e1630;
+      --maroon-light: #a82850;
+      --orange:       #E5751F;
+      --impact:       #CA4F00;
+      --stone:        #75787B;
+      --stone-light:  #A0A3A6;
+      /* VT Secondary */
+      --teal:         #508590;
+      --purple:       #642667;
+      /* Neutrals */
+      --bg:           #F5F4F2;
+      --surface:      #FFFFFF;
+      --border:       #E0DCDA;
+      --border-strong:#C4BEBB;
+      --text:         #1A1514;
+      --muted:        #75787B;
+      --muted-light:  #A0A3A6;
+    }
+
+    html { scroll-behavior: smooth; }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Inter', sans-serif;
+      font-size: 14px;
+      line-height: 1.6;
+    }
+
+    /* ── Nav ── */
+    nav {
+      position: sticky; top: 0; z-index: 100;
+      background: var(--maroon);
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 0 32px;
+      height: 56px;
+      box-shadow: 0 1px 0 rgba(0,0,0,.2);
+    }
+    .nav-logo {
+      font-family: 'Merriweather', serif;
+      font-size: 14px; font-weight: 700;
+      color: #FFFFFF;
+      letter-spacing: .01em;
+      display: flex; align-items: center; gap: 10px;
+    }
+    .nav-logo-vt {
+      background: var(--orange);
+      color: #fff;
+      font-size: 11px; font-weight: 700;
+      padding: 2px 7px;
+      border-radius: 3px;
+      letter-spacing: .06em;
+    }
+    .nav-links { display: flex; gap: 6px; }
+    .btn {
+      display: inline-flex; align-items: center; gap: 6px;
+      padding: 6px 16px;
+      border-radius: 4px;
+      font-size: 12px; font-weight: 600;
+      text-decoration: none;
+      transition: all .15s;
+      cursor: pointer; border: none;
+      font-family: 'Inter', sans-serif;
+    }
+    .btn-nav {
+      background: rgba(255,255,255,.12);
+      color: #fff;
+      border: 1px solid rgba(255,255,255,.25);
+    }
+    .btn-nav:hover { background: rgba(255,255,255,.22); border-color: rgba(255,255,255,.5); }
+    .btn-orange {
+      background: var(--orange);
+      color: #fff;
+    }
+    .btn-orange:hover { background: #d46818; }
+    .btn-outline {
+      background: transparent;
+      border: 1px solid var(--border-strong);
+      color: var(--muted);
+    }
+    .btn-outline:hover { border-color: var(--maroon); color: var(--maroon); }
+    .btn-sm { padding: 4px 12px; font-size: 11px; }
+
+    /* ── Hero ── */
+    .hero {
+      background: var(--maroon);
+      padding: 56px 32px 52px;
+      text-align: center;
+      position: relative;
+      overflow: hidden;
+    }
+    .hero::after {
+      content: '';
+      position: absolute; bottom: 0; left: 0; right: 0;
+      height: 4px;
+      background: var(--orange);
+    }
+    .hero-eyebrow {
+      display: flex; justify-content: center; gap: 8px; flex-wrap: wrap;
+      margin-bottom: 18px;
+    }
+    .tag {
+      display: inline-block;
+      padding: 3px 11px;
+      border-radius: 3px;
+      font-size: 11px; font-weight: 600;
+      letter-spacing: .05em;
+      text-transform: uppercase;
+    }
+    .tag-course { background: rgba(229,117,31,.25); color: #f4a96a; border: 1px solid rgba(229,117,31,.3); }
+    .tag-data   { background: rgba(255,255,255,.12); color: rgba(255,255,255,.75); border: 1px solid rgba(255,255,255,.2); }
+    .tag-year   { background: rgba(255,255,255,.12); color: rgba(255,255,255,.75); border: 1px solid rgba(255,255,255,.2); }
+    h1 {
+      font-family: 'Merriweather', serif;
+      font-size: clamp(26px, 4.5vw, 46px);
+      font-weight: 900;
+      color: #FFFFFF;
+      line-height: 1.15;
+      letter-spacing: -.01em;
+      margin-bottom: 14px;
+    }
+    h1 span { color: var(--orange); }
+    .hero-sub {
+      font-size: clamp(13px, 1.8vw, 15px);
+      color: rgba(255,255,255,.65);
+      max-width: 560px;
+      margin: 0 auto 32px;
+    }
+    .hero-actions { display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; }
+
+    /* ── Stats bar ── */
+    .stats-bar {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+    }
+    .stat {
+      padding: 22px 20px;
+      text-align: center;
+      border-right: 1px solid var(--border);
+    }
+    .stat:last-child { border-right: none; }
+    .stat-val {
+      font-family: 'Merriweather', serif;
+      font-size: clamp(20px, 2.5vw, 28px);
+      font-weight: 900;
+      color: var(--maroon);
+      line-height: 1;
+      margin-bottom: 5px;
+    }
+    .stat-val.orange { color: var(--impact); }
+    .stat-lbl { font-size: 11px; color: var(--stone); letter-spacing: .04em; text-transform: uppercase; font-weight: 500; }
+
+    /* ── Layout ── */
+    .container { max-width: 1280px; margin: 0 auto; padding: 0 28px; }
+    section { padding: 48px 0; }
+    section + section { border-top: 1px solid var(--border); }
+
+    .section-label {
+      font-size: 11px; font-weight: 700;
+      letter-spacing: .1em; text-transform: uppercase;
+      color: var(--maroon);
+      margin-bottom: 24px;
+      display: flex; align-items: center; gap: 10px;
+    }
+    .section-label::after {
+      content: '';
+      flex: 1;
+      height: 1px;
+      background: var(--border);
+    }
+
+    /* ── Cards ── */
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 24px;
+    }
+    .card-title {
+      font-size: 12px; font-weight: 700;
+      letter-spacing: .06em; text-transform: uppercase;
+      color: var(--maroon);
+      margin-bottom: 14px;
+    }
+
+    /* ── About ── */
+    .about-grid { display: grid; grid-template-columns: 1.15fr 0.85fr; gap: 20px; }
+    .about-text { color: var(--muted); line-height: 1.75; font-size: 13.5px; }
+    .about-text strong { color: var(--text); font-weight: 600; }
+    .about-text p + p { margin-top: 12px; }
+
+    .pipeline {
+      display: flex;
+      margin-top: 20px;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      overflow: hidden;
+    }
+    .pipe-step {
+      flex: 1;
+      padding: 10px 10px 10px 14px;
+      font-size: 11px;
+      color: var(--muted);
+      background: var(--surface);
+      position: relative;
+      text-align: center;
+    }
+    .pipe-step + .pipe-step { border-left: 1px solid var(--border); }
+    .pipe-step strong { display: block; color: var(--text); font-size: 12px; margin-bottom: 2px; font-weight: 600; }
+    .pipe-step.active { background: #fdf1ec; }
+    .pipe-step.active strong { color: var(--impact); }
+
+    .data-table { width: 100%; border-collapse: collapse; font-size: 12.5px; }
+    .data-table th { text-align: left; padding: 7px 10px; color: var(--stone); font-size: 11px; letter-spacing: .04em; border-bottom: 2px solid var(--border); font-weight: 600; }
+    .data-table td { padding: 8px 10px; border-bottom: 1px solid var(--border); }
+    .data-table tr:last-child td { border-bottom: none; }
+    .data-table td.val { font-weight: 700; color: var(--maroon); text-align: right; }
+
+    .tech-badges { display: flex; flex-wrap: wrap; gap: 8px; }
+    .tech-badge {
+      padding: 5px 12px;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      font-size: 12px; font-weight: 600;
+      color: var(--text);
+    }
+
+    /* ── Charts ── */
+    .charts-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+    .chart-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 20px 24px 16px;
+    }
+    .chart-card.full { grid-column: 1 / -1; }
+    .chart-header {
+      display: flex; align-items: flex-start; justify-content: space-between;
+      margin-bottom: 16px; gap: 12px; flex-wrap: wrap;
+    }
+    .chart-title { font-size: 13px; font-weight: 700; color: var(--text); }
+    .chart-sub { font-size: 11px; color: var(--stone); margin-top: 2px; }
+    .chart-wrap { position: relative; height: 300px; }
+    .chart-wrap.tall { height: 380px; }
+
+    .toggle-group { display: flex; gap: 4px; flex-shrink: 0; }
+    .toggle-btn {
+      padding: 4px 11px;
+      border-radius: 4px;
+      font-size: 11px; font-weight: 600;
+      border: 1px solid var(--border);
+      background: var(--bg);
+      color: var(--muted);
+      cursor: pointer;
+      transition: all .15s;
+      font-family: 'Inter', sans-serif;
+    }
+    .toggle-btn.active {
+      background: var(--maroon);
+      border-color: var(--maroon);
+      color: #fff;
+    }
+
+    .scatter-legend {
+      display: flex; gap: 14px; flex-wrap: wrap;
+      margin-top: 12px;
+      padding-top: 12px;
+      border-top: 1px solid var(--border);
+    }
+    .legend-item {
+      display: flex; align-items: center; gap: 6px;
+      font-size: 11px; color: var(--muted);
+    }
+    .legend-dot {
+      width: 10px; height: 10px;
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+
+    /* ── Cluster Cards ── */
+    .clusters-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
+    .cluster-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 20px;
+      border-top: 3px solid;
+    }
+    .cluster-card.c0 { border-top-color: #2CD5C4; }
+    .cluster-card.c1 { border-top-color: #CE0058; }
+    .cluster-card.c2 { border-top-color: #E5751F; }
+    .cluster-card.c3 { border-top-color: #642667; }
+    .cluster-badge {
+      font-size: 10px; font-weight: 700;
+      letter-spacing: .08em; text-transform: uppercase;
+      margin-bottom: 4px;
+    }
+    .c0 .cluster-badge { color: #1aada3; }
+    .c1 .cluster-badge { color: #CE0058; }
+    .c2 .cluster-badge { color: var(--impact); }
+    .c3 .cluster-badge { color: var(--purple); }
+    .cluster-name {
+      font-size: 15px; font-weight: 700;
+      margin-bottom: 14px;
+      line-height: 1.2;
+    }
+    .cluster-row {
+      display: flex; justify-content: space-between; align-items: center;
+      padding: 6px 0;
+      border-bottom: 1px solid var(--border);
+      font-size: 12px;
+    }
+    .cluster-row:last-child { border-bottom: none; }
+    .cluster-row .lbl { color: var(--stone); }
+    .cluster-row .val { font-weight: 700; }
+
+    /* ── Findings ── */
+    .findings-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
+    .finding-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-left: 3px solid var(--maroon);
+      border-radius: 0 8px 8px 0;
+      padding: 20px 22px;
+      display: flex; gap: 16px;
+    }
+    .finding-num {
+      font-family: 'Merriweather', serif;
+      font-size: 28px; font-weight: 900;
+      color: var(--orange);
+      flex-shrink: 0;
+      line-height: 1;
+      margin-top: 2px;
+      opacity: .7;
+    }
+    .finding-title { font-size: 13.5px; font-weight: 700; margin-bottom: 6px; }
+    .finding-body { font-size: 12.5px; color: var(--muted); line-height: 1.65; }
+    .finding-body strong { color: var(--text); font-weight: 600; }
+
+    /* ── Team ── */
+    .team-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
+    .team-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 22px 18px;
+      text-align: center;
+    }
+    .team-avatar {
+      width: 52px; height: 52px;
+      border-radius: 50%;
+      background: var(--maroon);
+      display: flex; align-items: center; justify-content: center;
+      font-family: 'Merriweather', serif;
+      font-size: 16px; font-weight: 700;
+      color: #fff;
+      margin: 0 auto 12px;
+    }
+    .team-name { font-size: 14px; font-weight: 700; margin-bottom: 3px; }
+    .team-school { font-size: 11px; font-weight: 700; color: var(--maroon); margin-bottom: 3px; letter-spacing: .03em; text-transform: uppercase; }
+    .team-email { font-size: 11px; color: var(--stone); margin-bottom: 14px; }
+    .team-links { display: flex; gap: 6px; justify-content: center; }
+
+    /* ── Footer ── */
+    footer {
+      background: var(--maroon);
+      border-top: 3px solid var(--orange);
+      padding: 24px 32px;
+      display: flex; align-items: center; justify-content: space-between;
+      color: rgba(255,255,255,.6); font-size: 12px;
+      flex-wrap: wrap; gap: 10px;
+    }
+    .footer-left { color: rgba(255,255,255,.9); font-weight: 600; }
+
+    /* ── Responsive ── */
+    @media (max-width: 960px) {
+      .stats-bar { grid-template-columns: repeat(3, 1fr); }
+      .about-grid { grid-template-columns: 1fr; }
+      .charts-grid { grid-template-columns: 1fr; }
+      .chart-card.full { grid-column: 1; }
+      .clusters-grid { grid-template-columns: repeat(2, 1fr); }
+      .findings-grid { grid-template-columns: 1fr; }
+      .team-grid { grid-template-columns: repeat(2, 1fr); }
+    }
+    @media (max-width: 560px) {
+      nav { padding: 0 16px; }
+      .hero { padding: 40px 16px 40px; }
+      .stats-bar { grid-template-columns: repeat(2, 1fr); }
+      .clusters-grid { grid-template-columns: 1fr; }
+      .team-grid { grid-template-columns: 1fr; }
+      .container { padding: 0 16px; }
+      .pipeline { flex-direction: column; }
+      .pipe-step + .pipe-step { border-left: none; border-top: 1px solid var(--border); }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ══ NAV ══════════════════════════════════════════════════ -->
+<nav>
+  <div class="nav-logo">
+    <span class="nav-logo-vt">VT</span>
+    Poker Player Profiling
+  </div>
+  <div class="nav-links">
+    <a class="btn btn-nav" href="https://www.github.com/lakshya46jain/poker-player-profiling/" target="_blank">
+      <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0 0 24 12c0-6.63-5.37-12-12-12z"/></svg>
+      GitHub
+    </a>
+    <!-- TODO: Replace # with actual final report PDF URL -->
+    <a class="btn btn-nav" href="#" target="_blank">
+      <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg>
+      Report
+    </a>
+    <!-- TODO: Replace # with actual presentation slides URL -->
+    <a class="btn btn-orange" href="#" target="_blank">
+      <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><rect x="2" y="3" width="20" height="14" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg>
+      Slides
+    </a>
+  </div>
+</nav>
+
+<!-- ══ HERO ══════════════════════════════════════════════════ -->
+<div class="hero">
+  <div class="hero-eyebrow">
+    <span class="tag tag-course">CS 4824 Machine Learning</span>
+    <span class="tag tag-data">IRC Poker Database · 19.5M Hands</span>
+    <span class="tag tag-year">Spring 2026</span>
+  </div>
+  <h1>Poker Player <span>Profiling</span></h1>
+  <p class="hero-sub">
+    Do fixed heuristic thresholds or K-Means clustering better capture behavioral
+    structure in online poker players? We analyzed 16,439 players to find out.
+  </p>
+  <div class="hero-actions">
+    <a class="btn btn-orange" href="#charts">Explore the Data</a>
+    <a class="btn btn-nav" href="#findings">Key Findings</a>
+    <a class="btn btn-nav" href="#team">Team</a>
+  </div>
+</div>
+
+<!-- ══ STATS BAR ══════════════════════════════════════════════ -->
+<div class="stats-bar">
+  <div class="stat">
+    <div class="stat-val">19.5M</div>
+    <div class="stat-lbl">Hand Records</div>
+  </div>
+  <div class="stat">
+    <div class="stat-val">16,439</div>
+    <div class="stat-lbl">Players Analyzed</div>
+  </div>
+  <div class="stat">
+    <div class="stat-val orange">0.4420</div>
+    <div class="stat-lbl">K-Means Silhouette (K=4)</div>
+  </div>
+  <div class="stat">
+    <div class="stat-val orange">3.3x</div>
+    <div class="stat-lbl">vs. Heuristic Baseline</div>
+  </div>
+  <div class="stat">
+    <div class="stat-val">K = 4</div>
+    <div class="stat-lbl">Final Model</div>
+  </div>
+</div>
+
+<!-- ══ ABOUT ══════════════════════════════════════════════════ -->
+<section id="about">
+  <div class="container">
+    <div class="section-label">About the Project</div>
+    <div class="about-grid">
+
+      <div class="card">
+        <div class="card-title">Overview</div>
+        <div class="about-text">
+          <p>
+            Online poker players are traditionally categorized using <strong>fixed threshold rules</strong>
+            on two pre-flop statistics: VPIP (Voluntarily Put Money in Pot) and PFR (Pre-Flop Raise),
+            into four archetypes: TAG, LAG, Fish, and Rock.
+          </p>
+          <p>
+            We tested whether <strong>K-Means clustering</strong> produces more compact and better-separated
+            player groupings than these hand-crafted rules. Using 19.5 million hand records from the
+            IRC Poker Database (1995–2001), we built player profiles and compared both approaches
+            using <strong>silhouette scores</strong> as the primary evaluation metric.
+          </p>
+          <p>
+            K-Means with K=4 achieved a silhouette score of <strong>0.4420</strong>, over three times
+            higher than the heuristic baseline of <strong>0.1347</strong>, demonstrating that behavioral
+            structure in player data is not fully captured by fixed-threshold heuristic rules.
+          </p>
+        </div>
+        <div class="pipeline">
+          <div class="pipe-step"><strong>Parse</strong>19.5M hands</div>
+          <div class="pipe-step"><strong>Filter</strong>≥30 hands</div>
+          <div class="pipe-step"><strong>Compute</strong>VPIP &amp; PFR</div>
+          <div class="pipe-step active"><strong>K-Means</strong>K=2 to 8</div>
+          <div class="pipe-step active"><strong>Evaluate</strong>Silhouette</div>
+        </div>
+      </div>
+
+      <div style="display:flex; flex-direction:column; gap:16px;">
+        <div class="card">
+          <div class="card-title">Dataset</div>
+          <table class="data-table">
+            <thead><tr><th>Attribute</th><th>Value</th></tr></thead>
+            <tbody>
+              <tr><td>Source</td><td class="val">IRC Poker, U of Alberta</td></tr>
+              <tr><td>Time period</td><td class="val">1995 – 2001</td></tr>
+              <tr><td>Raw hand records</td><td class="val">19.5M</td></tr>
+              <tr><td>Players (≥30 hands)</td><td class="val">16,439</td></tr>
+              <tr><td>Features</td><td class="val">VPIP, PFR</td></tr>
+              <tr><td>Mean VPIP / PFR</td><td class="val">51.1% / 15.0%</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="card">
+          <div class="card-title">Course &amp; Instructor</div>
+          <table class="data-table">
+            <tbody>
+              <tr><td>Course</td><td class="val">CS 4824 Machine Learning</td></tr>
+              <tr><td>Institution</td><td class="val">Virginia Tech</td></tr>
+              <tr><td>Instructor</td><td class="val"><a href="https://people.cs.vt.edu/hdardiry/" target="_blank" style="color:var(--maroon);font-weight:700;text-decoration:none;">Prof. Hoda Eldardiry</a></td></tr>
+              <tr><td>Semester</td><td class="val">Spring 2026</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="card">
+          <div class="card-title">Tech Stack</div>
+          <div class="tech-badges">
+            <span class="tech-badge">Python 3</span>
+            <span class="tech-badge">scikit-learn</span>
+            <span class="tech-badge">pandas</span>
+            <span class="tech-badge">numpy</span>
+            <span class="tech-badge">matplotlib</span>
+            <span class="tech-badge">seaborn</span>
+            <span class="tech-badge">Jupyter</span>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ══ CHARTS ══════════════════════════════════════════════════ -->
+<section id="charts">
+  <div class="container">
+    <div class="section-label">Interactive Analysis | Full Dataset (n = 16,439)</div>
+    <div class="charts-grid">
+
+      <!-- Scatter -->
+      <div class="chart-card full">
+        <div class="chart-header">
+          <div>
+            <div class="chart-title">VPIP vs. PFR: Player Space</div>
+            <div class="chart-sub">All 16,439 players · Notebook 4 output · hover for player statistics · dashed lines show heuristic thresholds (VPIP=25%, PFR=15%)</div>
+          </div>
+          <div class="toggle-group">
+            <button class="toggle-btn active" id="btnCluster" onclick="setScatterMode('cluster')">K-Means Clusters</button>
+            <button class="toggle-btn" id="btnHeuristic" onclick="setScatterMode('heuristic')">Heuristic Labels</button>
+          </div>
+        </div>
+        <div class="chart-wrap tall">
+          <canvas id="scatterChart"></canvas>
+        </div>
+        <div class="scatter-legend" id="scatterLegend"></div>
+      </div>
+
+      <!-- Model Selection -->
+      <div class="chart-card">
+        <div class="chart-header">
+          <div>
+            <div class="chart-title">K-Means Model Selection</div>
+            <div class="chart-sub">Elbow method &amp; silhouette scores · K=2–8 · full dataset</div>
+          </div>
+        </div>
+        <div class="chart-wrap"><canvas id="modelChart"></canvas></div>
+      </div>
+
+      <!-- Silhouette Comparison -->
+      <div class="chart-card">
+        <div class="chart-header">
+          <div>
+            <div class="chart-title">Silhouette Score Comparison</div>
+            <div class="chart-sub">Heuristic baseline vs. K-Means K=4 · sampled &amp; full dataset</div>
+          </div>
+        </div>
+        <div class="chart-wrap"><canvas id="silhouetteChart"></canvas></div>
+      </div>
+
+      <!-- Distribution Donut -->
+      <div class="chart-card">
+        <div class="chart-header">
+          <div>
+            <div class="chart-title">Player Distribution</div>
+            <div class="chart-sub">16,439 players · full dataset</div>
+          </div>
+          <div class="toggle-group">
+            <button class="toggle-btn active" id="btnDistCluster" onclick="setDistMode('cluster')">Clusters</button>
+            <button class="toggle-btn" id="btnDistHeuristic" onclick="setDistMode('heuristic')">Heuristic</button>
+          </div>
+        </div>
+        <div class="chart-wrap"><canvas id="distChart"></canvas></div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ══ CLUSTER PROFILES ════════════════════════════════════════ -->
+<section id="clusters">
+  <div class="container">
+    <div class="section-label">K-Means Cluster Profiles (K=4, Full Dataset)</div>
+    <div class="clusters-grid">
+
+      <div class="cluster-card c0">
+        <div class="cluster-badge">Cluster 0 &nbsp;·&nbsp; 52.0%</div>
+        <div class="cluster-name">Tight-Passive</div>
+        <div class="cluster-row"><span class="lbl">Players</span><span class="val">8,542</span></div>
+        <div class="cluster-row"><span class="lbl">Avg. VPIP</span><span class="val">36.1%</span></div>
+        <div class="cluster-row"><span class="lbl">Avg. PFR</span><span class="val">8.9%</span></div>
+        <div class="cluster-row"><span class="lbl">VPIP – PFR gap</span><span class="val">27.2 pts</span></div>
+        <div class="cluster-row"><span class="lbl">Closest heuristic</span><span class="val">Fish</span></div>
+      </div>
+
+      <div class="cluster-card c1">
+        <div class="cluster-badge">Cluster 1 &nbsp;·&nbsp; 4.4%</div>
+        <div class="cluster-name">Hyper-Aggressive</div>
+        <div class="cluster-row"><span class="lbl">Players</span><span class="val">722</span></div>
+        <div class="cluster-row"><span class="lbl">Avg. VPIP</span><span class="val">84.4%</span></div>
+        <div class="cluster-row"><span class="lbl">Avg. PFR</span><span class="val">74.9%</span></div>
+        <div class="cluster-row"><span class="lbl">VPIP – PFR gap</span><span class="val">9.5 pts</span></div>
+        <div class="cluster-row"><span class="lbl">Closest heuristic</span><span class="val">LAG (extreme)</span></div>
+      </div>
+
+      <div class="cluster-card c2">
+        <div class="cluster-badge">Cluster 2 &nbsp;·&nbsp; 29.4%</div>
+        <div class="cluster-name">Loose-Passive</div>
+        <div class="cluster-row"><span class="lbl">Players</span><span class="val">4,838</span></div>
+        <div class="cluster-row"><span class="lbl">Avg. VPIP</span><span class="val">65.7%</span></div>
+        <div class="cluster-row"><span class="lbl">Avg. PFR</span><span class="val">8.7%</span></div>
+        <div class="cluster-row"><span class="lbl">VPIP – PFR gap</span><span class="val">57.0 pts</span></div>
+        <div class="cluster-row"><span class="lbl">Closest heuristic</span><span class="val">Fish</span></div>
+      </div>
+
+      <div class="cluster-card c3">
+        <div class="cluster-badge">Cluster 3 &nbsp;·&nbsp; 14.2%</div>
+        <div class="cluster-name">Mod. Aggressive</div>
+        <div class="cluster-row"><span class="lbl">Players</span><span class="val">2,337</span></div>
+        <div class="cluster-row"><span class="lbl">Avg. VPIP</span><span class="val">65.6%</span></div>
+        <div class="cluster-row"><span class="lbl">Avg. PFR</span><span class="val">32.0%</span></div>
+        <div class="cluster-row"><span class="lbl">VPIP – PFR gap</span><span class="val">33.6 pts</span></div>
+        <div class="cluster-row"><span class="lbl">Closest heuristic</span><span class="val">LAG</span></div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ══ KEY FINDINGS ════════════════════════════════════════════ -->
+<section id="findings">
+  <div class="container">
+    <div class="section-label">Key Findings</div>
+    <div class="findings-grid">
+
+      <div class="finding-card">
+        <div class="finding-num">01</div>
+        <div>
+          <div class="finding-title">K-Means Achieves a 3.3x Higher Silhouette Score</div>
+          <p class="finding-body">K-Means K=4 achieves a silhouette score of <strong>0.4420</strong> vs. <strong>0.1347</strong> for the heuristic baseline on the full dataset of 16,439 players: a 3.3x improvement indicating far more compact and better-separated behavioral groupings.</p>
+        </div>
+      </div>
+
+      <div class="finding-card">
+        <div class="finding-num">02</div>
+        <div>
+          <div class="finding-title">Heuristic LAG Splits Across Multiple K-Means Clusters</div>
+          <p class="finding-body">All 5,225 LAG-labeled players split across every K-Means cluster. Clusters 1 and 3 are <strong>100% LAG</strong> but have completely different aggression profiles: cluster 1 avg PFR <strong>74.9%</strong> (hyper-aggressive) vs. cluster 3 avg PFR <strong>32.0%</strong> (moderately aggressive). The remaining 2,166 LAG players fall into clusters 0 and 2, where avg PFR is below 9%.</p>
+        </div>
+      </div>
+
+      <div class="finding-card">
+        <div class="finding-num">03</div>
+        <div>
+          <div class="finding-title">Tight vs. Loose is the Strongest Natural Split</div>
+          <p class="finding-body">The best silhouette score occurs at <strong>K=2</strong> (0.4917), cleanly separating tight from loose players. Aggression level emerges as the secondary axis of variation within the loose group, driving the further splits at K=3 and K=4.</p>
+        </div>
+      </div>
+
+      <div class="finding-card">
+        <div class="finding-num">04</div>
+        <div>
+          <div class="finding-title">Hyper-Aggressive Players Are an Outlier Class</div>
+          <p class="finding-body">Cluster 1 holds just <strong>722 players (4.4%)</strong> with avg VPIP 84.4% and avg PFR 74.9%. This extreme style is invisible to heuristics: every one of these 722 players carries a LAG label, yet no fixed PFR threshold in the traditional system captures how far they push pre-flop aggression.</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ══ TEAM ════════════════════════════════════════════════════ -->
+<section id="team">
+  <div class="container">
+    <div class="section-label">Team | CS 4824 Machine Learning | Virginia Tech</div>
+    <div class="team-grid">
+
+      <div class="team-card">
+        <div class="team-avatar">LJ</div>
+        <div class="team-name">Lakshya Jain</div>
+        <div class="team-school">Virginia Tech</div>
+        <div class="team-email">lakshyajain@vt.edu</div>
+        <div class="team-links">
+          <a class="btn btn-outline btn-sm" href="https://www.github.com/lakshya46jain/" target="_blank">GitHub</a>
+          <a class="btn btn-outline btn-sm" href="https://www.linkedin.com/in/lakshya46jain/" target="_blank">LinkedIn</a>
+        </div>
+      </div>
+
+      <div class="team-card">
+        <div class="team-avatar">AS</div>
+        <div class="team-name">Aryan M. Shah</div>
+        <div class="team-school">Virginia Tech</div>
+        <div class="team-email">aryanmshah99@vt.edu</div>
+        <div class="team-links">
+          <!-- TODO: Add Aryan's GitHub URL -->
+          <a class="btn btn-outline btn-sm" href="#" target="_blank">GitHub</a>
+          <!-- TODO: Add Aryan's LinkedIn URL -->
+          <a class="btn btn-outline btn-sm" href="#" target="_blank">LinkedIn</a>
+        </div>
+      </div>
+
+      <div class="team-card">
+        <div class="team-avatar">SA</div>
+        <div class="team-name">Shreya Aravindan</div>
+        <div class="team-school">Virginia Tech</div>
+        <div class="team-email">saravindan@vt.edu</div>
+        <div class="team-links">
+          <!-- TODO: Add Shreya's GitHub URL -->
+          <a class="btn btn-outline btn-sm" href="#" target="_blank">GitHub</a>
+          <!-- TODO: Add Shreya's LinkedIn URL -->
+          <a class="btn btn-outline btn-sm" href="#" target="_blank">LinkedIn</a>
+        </div>
+      </div>
+
+      <div class="team-card">
+        <div class="team-avatar">CS</div>
+        <div class="team-name">Claire Shin</div>
+        <div class="team-school">Virginia Tech</div>
+        <div class="team-email">cshinh@vt.edu</div>
+        <div class="team-links">
+          <!-- TODO: Add Claire's GitHub URL -->
+          <a class="btn btn-outline btn-sm" href="#" target="_blank">GitHub</a>
+          <!-- TODO: Add Claire's LinkedIn URL -->
+          <a class="btn btn-outline btn-sm" href="#" target="_blank">LinkedIn</a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ══ FOOTER ══════════════════════════════════════════════════ -->
+<footer>
+  <span class="footer-left">Poker Player Profiling &nbsp;·&nbsp; Virginia Tech &nbsp;·&nbsp; Spring 2026</span>
+  <span>CS 4824 Machine Learning &nbsp;·&nbsp; <a href="https://people.cs.vt.edu/hdardiry/" target="_blank" style="color:rgba(255,255,255,.75);text-decoration:none;">Prof. Hoda Eldardiry</a> &nbsp;·&nbsp; IRC Poker Database, University of Alberta</span>
+</footer>
+
+<!-- ══ JAVASCRIPT ═══════════════════════════════════════════════ -->
+<script>
+'use strict';
+
+// ── VT Color palette for charts ────────────────────────────
+const VT = {
+  maroon:  '#861F41',
+  orange:  '#E5751F',
+  impact:  '#CA4F00',
+  stone:   '#75787B',
+  teal:    '#508590',
+  purple:  '#642667',
+  border:  '#E0DCDA',
+  muted:   '#A0A3A6',
+};
+
+// ── Chart.js global defaults (light theme) ────────────────
+Chart.defaults.color       = VT.stone;
+Chart.defaults.borderColor = VT.border;
+Chart.defaults.font.family = "'Inter', sans-serif";
+Chart.defaults.font.size   = 11;
+
+// ── Cluster & heuristic color maps ────────────────────────
+// Colors chosen for maximum visual distinction at small point sizes on a white background.
+// Cluster 0 (bottom-left) and Cluster 2/3 (top region) overlap, so they need
+// the most contrast between them.
+const C_COLORS = [
+  { bg: 'rgba(44,213,196,.65)',  border: '#2CD5C4', name: 'Tight-Passive'    },  // VT Vibrant Turquoise
+  { bg: 'rgba(206,0,88,.70)',    border: '#CE0058', name: 'Hyper-Aggressive' },  // VT Boundless Pink
+  { bg: 'rgba(229,117,31,.70)',  border: '#E5751F', name: 'Loose-Passive'    },  // VT Burnt Orange
+  { bg: 'rgba(100,38,103,.70)',  border: '#642667', name: 'Mod. Aggressive'  },  // VT Pylon Purple
+];
+const H_COLORS = {
+  F: { bg: 'rgba(44,213,196,.65)',  border: '#2CD5C4', name: 'Fish (Loose-Passive)'   },
+  L: { bg: 'rgba(206,0,88,.70)',    border: '#CE0058', name: 'LAG (Loose-Aggressive)'  },
+  R: { bg: 'rgba(100,38,103,.70)', border: '#642667', name: 'Rock (Tight-Passive)'    },
+  T: { bg: 'rgba(229,117,31,.70)', border: '#E5751F', name: 'TAG (Tight-Aggressive)'  },
+};
+
+// ── Convert compact RAW_DATA to Chart.js datasets ─────────
+function toClusterDatasets() {
+  return Object.entries(RAW_DATA).map(([k, pts]) => {
+    const c = C_COLORS[+k];
+    return {
+      label: `Cluster ${k}: ${c.name}`,
+      data:  pts.map(([x, y]) => ({ x, y })),
+      backgroundColor: c.bg,
+      borderColor:     c.border,
+      borderWidth: 0,
+      pointRadius: 2.5,
+      pointHoverRadius: 6,
+    };
+  });
+}
+
+function toHeuristicDatasets() {
+  const groups = { F: [], L: [], R: [], T: [] };
+  Object.values(RAW_DATA).flat().forEach(([x, y, h]) => { groups[h].push({ x, y }); });
+  return Object.entries(groups).map(([h, pts]) => {
+    const c = H_COLORS[h];
+    return {
+      label: c.name,
+      data:  pts,
+      backgroundColor: c.bg,
+      borderColor:     c.border,
+      borderWidth: 0,
+      pointRadius: 2.5,
+      pointHoverRadius: 6,
+    };
+  });
+}
+
+function centroidDataset() {
+  return {
+    label: 'Centroids',
+    data:  CENTROIDS.map(c => ({ x: c.x, y: c.y })),
+    backgroundColor: VT.orange,
+    borderColor:     '#fff',
+    borderWidth: 1.5,
+    pointRadius: 10,
+    pointStyle: 'triangle',
+    pointHoverRadius: 13,
+  };
+}
+
+// ── Threshold lines plugin ────────────────────────────────
+Chart.register({
+  id: 'thresholdLines',
+  afterDraw(chart) {
+    if (chart.canvas.id !== 'scatterChart') return;
+    const { ctx, scales: { x, y } } = chart;
+    const x25 = x.getPixelForValue(25);
+    const y15 = y.getPixelForValue(15);
+    ctx.save();
+    ctx.strokeStyle = 'rgba(134,31,65,.3)';
+    ctx.lineWidth = 1;
+    ctx.setLineDash([6, 4]);
+    ctx.beginPath(); ctx.moveTo(x25, y.top);  ctx.lineTo(x25, y.bottom); ctx.stroke();
+    ctx.beginPath(); ctx.moveTo(x.left, y15); ctx.lineTo(x.right, y15); ctx.stroke();
+    ctx.setLineDash([]);
+    ctx.fillStyle = 'rgba(134,31,65,.55)';
+    ctx.font = 'bold 10px Inter';
+    ctx.fillText('VPIP = 25%', x25 + 4, y.top + 13);
+    ctx.fillText('PFR = 15%', x.left + 5, y15 - 5);
+    ctx.restore();
+  }
+});
+
+// ── Scatter Chart ─────────────────────────────────────────
+let scatterChart, scatterMode = 'cluster';
+
+function renderLegend(mode) {
+  const el = document.getElementById('scatterLegend');
+  const items = mode === 'cluster'
+    ? C_COLORS.map((c, i) => ({ color: c.border, label: `Cluster ${i}: ${c.name}` }))
+    : Object.entries(H_COLORS).map(([, c]) => ({ color: c.border, label: c.name }));
+  items.push({ color: VT.orange, label: 'Centroid (▲)' });
+  el.innerHTML = items.map(i =>
+    `<div class="legend-item">
+       <div class="legend-dot" style="background:${i.color}"></div>
+       ${i.label}
+     </div>`
+  ).join('');
+}
+
+function initScatter() {
+  const ctx = document.getElementById('scatterChart').getContext('2d');
+  scatterChart = new Chart(ctx, {
+    type: 'scatter',
+    data: { datasets: [...toClusterDatasets(), centroidDataset()] },
+    options: {
+      animation: false,
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        legend: { display: false },
+        tooltip: {
+          callbacks: {
+            title: () => '',
+            label(item) {
+              const d = item.raw;
+              if (item.dataset.label === 'Centroids') {
+                const c = CENTROIDS[item.dataIndex];
+                return ` Centroid: ${c.label}  (${c.pct}, n=${c.n.toLocaleString()})`;
+              }
+              return ` VPIP: ${d.x}%   PFR: ${d.y}%`;
+            }
+          }
+        },
+      },
+      scales: {
+        x: {
+          title: { display: true, text: 'VPIP (%)' },
+          min: 0, max: 100,
+          grid: { color: 'rgba(0,0,0,.06)' },
+          ticks: { color: VT.stone },
+        },
+        y: {
+          title: { display: true, text: 'PFR (%)' },
+          min: 0, max: 100,
+          grid: { color: 'rgba(0,0,0,.06)' },
+          ticks: { color: VT.stone },
+        },
+      },
+    },
+  });
+  renderLegend('cluster');
+}
+
+function setScatterMode(mode) {
+  scatterMode = mode;
+  scatterChart.data.datasets = mode === 'cluster'
+    ? [...toClusterDatasets(), centroidDataset()]
+    : [...toHeuristicDatasets(), centroidDataset()];
+  scatterChart.update('none');
+  renderLegend(mode);
+  document.getElementById('btnCluster').classList.toggle('active', mode === 'cluster');
+  document.getElementById('btnHeuristic').classList.toggle('active', mode === 'heuristic');
+}
+
+// ── Model Selection Chart ─────────────────────────────────
+function initModelChart() {
+  const ctx = document.getElementById('modelChart').getContext('2d');
+  new Chart(ctx, {
+    type: 'line',
+    data: {
+      labels: MODEL_SELECTION.k,
+      datasets: [
+        {
+          label: 'Inertia (WCSS)',
+          data: MODEL_SELECTION.inertia,
+          borderColor: VT.stone,
+          backgroundColor: 'rgba(117,120,123,.08)',
+          tension: .3,
+          yAxisID: 'y',
+          pointBackgroundColor: VT.stone,
+          pointRadius: 4,
+          borderWidth: 2,
+        },
+        {
+          label: 'Silhouette Score',
+          data: MODEL_SELECTION.silhouette,
+          borderColor: VT.maroon,
+          backgroundColor: 'rgba(134,31,65,.08)',
+          tension: .3,
+          yAxisID: 'y1',
+          pointBackgroundColor: MODEL_SELECTION.k.map(k => k === 4 ? VT.orange : VT.maroon),
+          pointRadius:          MODEL_SELECTION.k.map(k => k === 4 ? 8 : 4),
+          borderWidth: 2,
+        },
+      ],
+    },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      plugins: {
+        legend: { position: 'bottom', labels: { boxWidth: 10, padding: 14, usePointStyle: true } },
+        tooltip: { mode: 'index', intersect: false },
+      },
+      scales: {
+        x: {
+          title: { display: true, text: 'Number of Clusters (K)' },
+          grid: { color: 'rgba(0,0,0,.06)' },
+        },
+        y: {
+          title: { display: true, text: 'Inertia' },
+          position: 'left',
+          grid: { color: 'rgba(0,0,0,.06)' },
+        },
+        y1: {
+          title: { display: true, text: 'Silhouette Score' },
+          position: 'right',
+          grid: { display: false },
+          min: 0.3, max: 0.55,
+        },
+      },
+    },
+  });
+}
+
+// ── Silhouette Comparison Chart ───────────────────────────
+function initSilhouetteChart() {
+  const ctx = document.getElementById('silhouetteChart').getContext('2d');
+  new Chart(ctx, {
+    type: 'bar',
+    data: {
+      labels: SILHOUETTE_CMP.labels,
+      datasets: [
+        {
+          label: 'Heuristic Baseline',
+          data: SILHOUETTE_CMP.heuristic,
+          backgroundColor: 'rgba(117,120,123,.55)',
+          borderColor: VT.stone,
+          borderWidth: 1,
+          borderRadius: 3,
+        },
+        {
+          label: 'K-Means K=4',
+          data: SILHOUETTE_CMP.kmeans,
+          backgroundColor: 'rgba(134,31,65,.75)',
+          borderColor: VT.maroon,
+          borderWidth: 1,
+          borderRadius: 3,
+        },
+      ],
+    },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      plugins: {
+        legend: { position: 'bottom', labels: { boxWidth: 10, padding: 14, usePointStyle: true } },
+        tooltip: {
+          callbacks: {
+            label(ctx) { return ` ${ctx.dataset.label}: ${ctx.raw.toFixed(4)}`; }
+          }
+        },
+      },
+      scales: {
+        x: { grid: { display: false } },
+        y: {
+          min: 0, max: 0.55,
+          title: { display: true, text: 'Silhouette Score' },
+          grid: { color: 'rgba(0,0,0,.06)' },
+        },
+      },
+    },
+  });
+}
+
+// ── Distribution Donut ────────────────────────────────────
+let distChart, distMode = 'cluster';
+
+function distDatasets(mode) {
+  if (mode === 'cluster') {
+    return {
+      labels: CLUSTER_DIST.labels,
+      data:   CLUSTER_DIST.values,
+      colors: [VT.teal, VT.maroon, VT.impact, VT.purple],
+    };
+  }
+  return {
+    labels: HEURISTIC_DIST.labels,
+    data:   HEURISTIC_DIST.values,
+    colors: [VT.teal, VT.maroon, VT.purple, VT.impact],
+  };
+}
+
+function initDistChart() {
+  const ctx = document.getElementById('distChart').getContext('2d');
+  const d = distDatasets('cluster');
+  distChart = new Chart(ctx, {
+    type: 'doughnut',
+    data: {
+      labels: d.labels,
+      datasets: [{
+        data: d.data,
+        backgroundColor: d.colors.map(c => c + 'cc'),
+        borderColor: d.colors,
+        borderWidth: 2,
+        hoverOffset: 6,
+      }],
+    },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      cutout: '60%',
+      plugins: {
+        legend: {
+          position: 'bottom',
+          labels: { boxWidth: 10, padding: 10, font: { size: 10 }, usePointStyle: true },
+        },
+        tooltip: {
+          callbacks: {
+            label(ctx) {
+              const total = ctx.dataset.data.reduce((a, b) => a + b, 0);
+              return ` ${ctx.raw.toLocaleString()} players  (${(ctx.raw / total * 100).toFixed(1)}%)`;
+            }
+          }
+        },
+      },
+    },
+  });
+}
+
+function setDistMode(mode) {
+  distMode = mode;
+  const d = distDatasets(mode);
+  distChart.data.labels = d.labels;
+  distChart.data.datasets[0].data            = d.data;
+  distChart.data.datasets[0].backgroundColor = d.colors.map(c => c + 'cc');
+  distChart.data.datasets[0].borderColor     = d.colors;
+  distChart.update();
+  document.getElementById('btnDistCluster').classList.toggle('active', mode === 'cluster');
+  document.getElementById('btnDistHeuristic').classList.toggle('active', mode === 'heuristic');
+}
+
+// ── Init ──────────────────────────────────────────────────
+window.addEventListener('DOMContentLoaded', () => {
+  initScatter();
+  initModelChart();
+  initSilhouetteChart();
+  initDistChart();
+});
+</script>
+</body>
+</html>
